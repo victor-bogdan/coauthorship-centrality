@@ -1,6 +1,7 @@
 
 CENTRALITY_MEASURES = ["betweenness", "closeness", "degree", "pagerank"]
 ANALYSIS_TYPES = ["author", "collaborator_group"]
+YEAR_PERIOD_TYPES = ["yearly", "yearly_accumulative"]
 
 
 class CoauthorshipCentralityAnalyzer:

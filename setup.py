@@ -4,6 +4,7 @@ setup(
     name='coauthorship-centrality',
     version='0.1.0',
     packages=find_packages(),
+    include_package_data=True,
     url='',
     license='Apache 2.0',
     author='Victor',

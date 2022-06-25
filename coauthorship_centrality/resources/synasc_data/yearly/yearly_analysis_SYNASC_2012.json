@@ -99,10 +99,10 @@
             "author_total_citations": 21,
             "author_total_papers": 3,
             "author_total_collaborators": [
+                "Andrei Alexandru",
                 "Eneia Nicolae Todoran",
                 "G. Michele Pinna",
-                "Bogdan Aman",
-                "Andrei Alexandru"
+                "Bogdan Aman"
             ],
             "author_closeness_centrality": 0.024844720496894408,
             "author_betweenness_centrality": 0.0003881987577639752,
@@ -135,8 +135,8 @@
             "author_total_citations": 2,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Gabriel Ciobanu",
-                "G. Michele Pinna"
+                "G. Michele Pinna",
+                "Gabriel Ciobanu"
             ],
             "author_closeness_centrality": 0.016563146997929604,
             "author_betweenness_centrality": 0.0,
@@ -147,8 +147,8 @@
             "author_total_citations": 2,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Bogdan Aman",
-                "Gabriel Ciobanu"
+                "Gabriel Ciobanu",
+                "Bogdan Aman"
             ],
             "author_closeness_centrality": 0.016563146997929604,
             "author_betweenness_centrality": 0.0,
@@ -159,9 +159,9 @@
             "author_total_citations": 3,
             "author_total_papers": 1,
             "author_total_collaborators": [
+                "Vlad Radulescu",
                 "Timothy H. McNicholl",
-                "Albert M. K. Cheng",
-                "Vlad Radulescu"
+                "Albert M. K. Cheng"
             ],
             "author_closeness_centrality": 0.018633540372670808,
             "author_betweenness_centrality": 0.0,
@@ -172,9 +172,9 @@
             "author_total_citations": 3,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Stefan Andrei",
+                "Vlad Radulescu",
                 "Timothy H. McNicholl",
-                "Vlad Radulescu"
+                "Stefan Andrei"
             ],
             "author_closeness_centrality": 0.018633540372670808,
             "author_betweenness_centrality": 0.0,
@@ -185,9 +185,9 @@
             "author_total_citations": 3,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Stefan Andrei",
                 "Timothy H. McNicholl",
-                "Albert M. K. Cheng"
+                "Albert M. K. Cheng",
+                "Stefan Andrei"
             ],
             "author_closeness_centrality": 0.018633540372670808,
             "author_betweenness_centrality": 0.0,
@@ -198,9 +198,9 @@
             "author_total_citations": 3,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Stefan Andrei",
+                "Vlad Radulescu",
                 "Albert M. K. Cheng",
-                "Vlad Radulescu"
+                "Stefan Andrei"
             ],
             "author_closeness_centrality": 0.018633540372670808,
             "author_betweenness_centrality": 0.0,
@@ -233,11 +233,11 @@
             "author_total_citations": 19,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Adina Magda Florea",
-                "Stefan Trausan-Matu",
-                "Monica Dagadita",
                 "Mihai Dascalu",
-                "Ciprian Dobre"
+                "Adina Magda Florea",
+                "Ciprian Dobre",
+                "Stefan Trausan-Matu",
+                "Monica Dagadita"
             ],
             "author_closeness_centrality": 0.033816425120772944,
             "author_betweenness_centrality": 0.0,
@@ -248,11 +248,11 @@
             "author_total_citations": 19,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Adina Magda Florea",
-                "Stefan Trausan-Matu",
-                "Cristian Bancu",
                 "Mihai Dascalu",
-                "Ciprian Dobre"
+                "Adina Magda Florea",
+                "Ciprian Dobre",
+                "Cristian Bancu",
+                "Stefan Trausan-Matu"
             ],
             "author_closeness_centrality": 0.033816425120772944,
             "author_betweenness_centrality": 0.0,
@@ -263,13 +263,13 @@
             "author_total_citations": 20,
             "author_total_papers": 2,
             "author_total_collaborators": [
+                "Mihnea Donciu",
                 "Adina Magda Florea",
-                "Monica Dagadita",
+                "Stefan Trausan-Matu",
                 "Madalina Ionita",
                 "Ciprian Dobre",
-                "Cristian Bancu",
-                "Stefan Trausan-Matu",
-                "Mihnea Donciu"
+                "Monica Dagadita",
+                "Cristian Bancu"
             ],
             "author_closeness_centrality": 0.043478260869565216,
             "author_betweenness_centrality": 0.00031055900621118014,
@@ -280,11 +280,11 @@
             "author_total_citations": 19,
             "author_total_papers": 1,
             "author_total_collaborators": [
+                "Mihai Dascalu",
                 "Adina Magda Florea",
-                "Stefan Trausan-Matu",
                 "Cristian Bancu",
-                "Monica Dagadita",
-                "Mihai Dascalu"
+                "Stefan Trausan-Matu",
+                "Monica Dagadita"
             ],
             "author_closeness_centrality": 0.033816425120772944,
             "author_betweenness_centrality": 0.0,
@@ -295,13 +295,13 @@
             "author_total_citations": 20,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Adina Magda Florea",
-                "Monica Dagadita",
-                "Ciprian Dobre",
-                "Madalina Ionita",
+                "Mihnea Donciu",
                 "Mihai Dascalu",
-                "Cristian Bancu",
-                "Mihnea Donciu"
+                "Adina Magda Florea",
+                "Madalina Ionita",
+                "Ciprian Dobre",
+                "Monica Dagadita",
+                "Cristian Bancu"
             ],
             "author_closeness_centrality": 0.043478260869565216,
             "author_betweenness_centrality": 0.00031055900621118014,
@@ -312,11 +312,11 @@
             "author_total_citations": 19,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Stefan Trausan-Matu",
-                "Cristian Bancu",
-                "Monica Dagadita",
                 "Mihai Dascalu",
-                "Ciprian Dobre"
+                "Ciprian Dobre",
+                "Cristian Bancu",
+                "Stefan Trausan-Matu",
+                "Monica Dagadita"
             ],
             "author_closeness_centrality": 0.033816425120772944,
             "author_betweenness_centrality": 0.0,
@@ -328,8 +328,8 @@
             "author_total_papers": 1,
             "author_total_collaborators": [
                 "Matteo Camilli",
-                "Mattia Monga",
-                "Lorenzo Capra"
+                "Lorenzo Capra",
+                "Mattia Monga"
             ],
             "author_closeness_centrality": 0.018633540372670808,
             "author_betweenness_centrality": 0.0,
@@ -340,9 +340,9 @@
             "author_total_citations": 14,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Carlo Bellettini",
+                "Lorenzo Capra",
                 "Mattia Monga",
-                "Lorenzo Capra"
+                "Carlo Bellettini"
             ],
             "author_closeness_centrality": 0.018633540372670808,
             "author_betweenness_centrality": 0.0,
@@ -353,9 +353,9 @@
             "author_total_citations": 14,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Carlo Bellettini",
                 "Matteo Camilli",
-                "Mattia Monga"
+                "Mattia Monga",
+                "Carlo Bellettini"
             ],
             "author_closeness_centrality": 0.018633540372670808,
             "author_betweenness_centrality": 0.0,
@@ -366,9 +366,9 @@
             "author_total_citations": 14,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Carlo Bellettini",
                 "Matteo Camilli",
-                "Lorenzo Capra"
+                "Lorenzo Capra",
+                "Carlo Bellettini"
             ],
             "author_closeness_centrality": 0.018633540372670808,
             "author_betweenness_centrality": 0.0,
@@ -379,12 +379,12 @@
             "author_total_citations": 8,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Danilo Ardagna",
+                "Ricardo Gonzalez Gomarasca",
                 "Eros Lever",
                 "Eva Gjeci",
-                "Santo Lombardo",
                 "Elisabetta Di Nitto",
-                "Ricardo Gonzalez Gomarasca"
+                "Danilo Ardagna",
+                "Santo Lombardo"
             ],
             "author_closeness_centrality": 0.046972049689441,
             "author_betweenness_centrality": 0.0,
@@ -395,12 +395,12 @@
             "author_total_citations": 8,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Danilo Ardagna",
-                "Simone Benefico",
+                "Ricardo Gonzalez Gomarasca",
                 "Eros Lever",
-                "Santo Lombardo",
                 "Elisabetta Di Nitto",
-                "Ricardo Gonzalez Gomarasca"
+                "Simone Benefico",
+                "Danilo Ardagna",
+                "Santo Lombardo"
             ],
             "author_closeness_centrality": 0.046972049689441,
             "author_betweenness_centrality": 0.0,
@@ -411,12 +411,12 @@
             "author_total_citations": 8,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Danilo Ardagna",
-                "Simone Benefico",
                 "Eros Lever",
                 "Eva Gjeci",
-                "Santo Lombardo",
-                "Elisabetta Di Nitto"
+                "Elisabetta Di Nitto",
+                "Simone Benefico",
+                "Danilo Ardagna",
+                "Santo Lombardo"
             ],
             "author_closeness_centrality": 0.046972049689441,
             "author_betweenness_centrality": 0.0,
@@ -427,12 +427,12 @@
             "author_total_citations": 8,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Danilo Ardagna",
-                "Simone Benefico",
+                "Ricardo Gonzalez Gomarasca",
                 "Eva Gjeci",
-                "Santo Lombardo",
                 "Elisabetta Di Nitto",
-                "Ricardo Gonzalez Gomarasca"
+                "Simone Benefico",
+                "Danilo Ardagna",
+                "Santo Lombardo"
             ],
             "author_closeness_centrality": 0.046972049689441,
             "author_betweenness_centrality": 0.0,
@@ -443,12 +443,12 @@
             "author_total_citations": 46,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Simone Benefico",
-                "Danilo Ardagna",
-                "Eros Lever",
                 "Eva Gjeci",
                 "Elisabetta Di Nitto",
-                "Ricardo Gonzalez Gomarasca"
+                "Ricardo Gonzalez Gomarasca",
+                "Eros Lever",
+                "Simone Benefico",
+                "Danilo Ardagna"
             ],
             "author_closeness_centrality": 0.046972049689441,
             "author_betweenness_centrality": 0.0,
@@ -459,17 +459,17 @@
             "author_total_citations": 79,
             "author_total_papers": 3,
             "author_total_collaborators": [
+                "Ricardo Gonzalez Gomarasca",
+                "Eros Lever",
+                "Simone Benefico",
+                "Mario Pio Gioiosa",
+                "Eva Gjeci",
+                "Tabassum Sharif",
+                "Elisabetta Di Nitto",
+                "Filippo Lorenzo Ferraris",
                 "Davide Franceschelli",
                 "Donato Lucia",
-                "Filippo Lorenzo Ferraris",
-                "Tabassum Sharif",
-                "Simone Benefico",
-                "Eros Lever",
-                "Eva Gjeci",
-                "Santo Lombardo",
-                "Elisabetta Di Nitto",
-                "Mario Pio Gioiosa",
-                "Ricardo Gonzalez Gomarasca"
+                "Santo Lombardo"
             ],
             "author_closeness_centrality": 0.06832298136645963,
             "author_betweenness_centrality": 0.0009704968944099379,
@@ -480,17 +480,17 @@
             "author_total_citations": 79,
             "author_total_papers": 3,
             "author_total_collaborators": [
-                "Danilo Ardagna",
-                "Davide Franceschelli",
-                "Donato Lucia",
-                "Filippo Lorenzo Ferraris",
-                "Tabassum Sharif",
-                "Simone Benefico",
+                "Ricardo Gonzalez Gomarasca",
                 "Eros Lever",
-                "Eva Gjeci",
-                "Santo Lombardo",
+                "Simone Benefico",
                 "Mario Pio Gioiosa",
-                "Ricardo Gonzalez Gomarasca"
+                "Eva Gjeci",
+                "Tabassum Sharif",
+                "Filippo Lorenzo Ferraris",
+                "Davide Franceschelli",
+                "Danilo Ardagna",
+                "Donato Lucia",
+                "Santo Lombardo"
             ],
             "author_closeness_centrality": 0.06832298136645963,
             "author_betweenness_centrality": 0.0009704968944099379,
@@ -522,8 +522,8 @@
             "author_total_citations": 2,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Mihaela Elena Breaban",
-                "Dan A. Simovici"
+                "Dan A. Simovici",
+                "Mihaela Elena Breaban"
             ],
             "author_closeness_centrality": 0.012422360248447204,
             "author_betweenness_centrality": 0.0,
@@ -534,8 +534,8 @@
             "author_total_citations": 2,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Mihaela Elena Breaban",
-                "Henri Luchian"
+                "Henri Luchian",
+                "Mihaela Elena Breaban"
             ],
             "author_closeness_centrality": 0.012422360248447204,
             "author_betweenness_centrality": 0.0,
@@ -557,8 +557,8 @@
             "author_total_citations": 0,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Iosif Ignat",
                 "Ioan Stan",
+                "Iosif Ignat",
                 "Ciprian Oprisa"
             ],
             "author_closeness_centrality": 0.018633540372670808,
@@ -581,9 +581,9 @@
             "author_total_citations": 44,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Jesus Gorronogoitia Cruz",
-                "Stefano Bocconi",
                 "Dimitris Zeginis",
+                "Stefano Bocconi",
+                "Jesus Gorronogoitia Cruz",
                 "James Ahtes"
             ],
             "author_closeness_centrality": 0.024844720496894408,
@@ -595,10 +595,10 @@
             "author_total_citations": 44,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Jesus Gorronogoitia Cruz",
                 "Dimitris Zeginis",
-                "James Ahtes",
-                "Francesco D&apos;Andria"
+                "Jesus Gorronogoitia Cruz",
+                "Francesco D&apos;Andria",
+                "James Ahtes"
             ],
             "author_closeness_centrality": 0.024844720496894408,
             "author_betweenness_centrality": 0.0,
@@ -609,10 +609,10 @@
             "author_total_citations": 44,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Stefano Bocconi",
                 "Dimitris Zeginis",
-                "James Ahtes",
-                "Francesco D&apos;Andria"
+                "Stefano Bocconi",
+                "Francesco D&apos;Andria",
+                "James Ahtes"
             ],
             "author_closeness_centrality": 0.024844720496894408,
             "author_betweenness_centrality": 0.0,
@@ -623,9 +623,9 @@
             "author_total_citations": 44,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Jesus Gorronogoitia Cruz",
-                "Stefano Bocconi",
                 "Dimitris Zeginis",
+                "Stefano Bocconi",
+                "Jesus Gorronogoitia Cruz",
                 "Francesco D&apos;Andria"
             ],
             "author_closeness_centrality": 0.024844720496894408,
@@ -637,10 +637,10 @@
             "author_total_citations": 44,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Jesus Gorronogoitia Cruz",
                 "Stefano Bocconi",
-                "James Ahtes",
-                "Francesco D&apos;Andria"
+                "Jesus Gorronogoitia Cruz",
+                "Francesco D&apos;Andria",
+                "James Ahtes"
             ],
             "author_closeness_centrality": 0.024844720496894408,
             "author_betweenness_centrality": 0.0,
@@ -687,8 +687,8 @@
             "author_total_citations": 35,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Russell J. Bradford",
                 "Matthew England",
+                "Russell J. Bradford",
                 "David J. Wilson"
             ],
             "author_closeness_centrality": 0.018633540372670808,
@@ -727,8 +727,8 @@
             "author_total_papers": 1,
             "author_total_collaborators": [
                 "James H. Davenport",
-                "Russell J. Bradford",
-                "Matthew England"
+                "Matthew England",
+                "Russell J. Bradford"
             ],
             "author_closeness_centrality": 0.018633540372670808,
             "author_betweenness_centrality": 0.0,
@@ -761,9 +761,9 @@
             "author_total_citations": 5,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Renate A. Schmidt",
+                "Boris Konev",
                 "Dmitry Tishkovsky",
-                "Boris Konev"
+                "Renate A. Schmidt"
             ],
             "author_closeness_centrality": 0.018633540372670808,
             "author_betweenness_centrality": 0.0,
@@ -775,8 +775,8 @@
             "author_total_papers": 1,
             "author_total_collaborators": [
                 "Clare Dixon",
-                "Renate A. Schmidt",
-                "Dmitry Tishkovsky"
+                "Dmitry Tishkovsky",
+                "Renate A. Schmidt"
             ],
             "author_closeness_centrality": 0.018633540372670808,
             "author_betweenness_centrality": 0.0,
@@ -788,8 +788,8 @@
             "author_total_papers": 1,
             "author_total_collaborators": [
                 "Clare Dixon",
-                "Dmitry Tishkovsky",
-                "Boris Konev"
+                "Boris Konev",
+                "Dmitry Tishkovsky"
             ],
             "author_closeness_centrality": 0.018633540372670808,
             "author_betweenness_centrality": 0.0,
@@ -801,8 +801,8 @@
             "author_total_papers": 1,
             "author_total_collaborators": [
                 "Clare Dixon",
-                "Renate A. Schmidt",
-                "Boris Konev"
+                "Boris Konev",
+                "Renate A. Schmidt"
             ],
             "author_closeness_centrality": 0.018633540372670808,
             "author_betweenness_centrality": 0.0,
@@ -826,9 +826,9 @@
             "author_total_citations": 1,
             "author_total_papers": 1,
             "author_total_collaborators": [
+                "Mihnea Donciu",
                 "Stefan Trausan-Matu",
-                "Mihai Dascalu",
-                "Mihnea Donciu"
+                "Mihai Dascalu"
             ],
             "author_closeness_centrality": 0.02766798418972332,
             "author_betweenness_centrality": 0.0,
@@ -850,8 +850,8 @@
             "author_total_citations": 12,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Isabela Dramnesc",
-                "Madalina Erascu"
+                "Madalina Erascu",
+                "Isabela Dramnesc"
             ],
             "author_closeness_centrality": 0.012422360248447204,
             "author_betweenness_centrality": 7.763975155279503e-05,
@@ -862,9 +862,9 @@
             "author_total_citations": 2,
             "author_total_papers": 1,
             "author_total_collaborators": [
+                "Romeo Negrea",
                 "Vasile Marinca",
-                "Bogdan Caruntu",
-                "Romeo Negrea"
+                "Bogdan Caruntu"
             ],
             "author_closeness_centrality": 0.018633540372670808,
             "author_betweenness_centrality": 0.0,
@@ -875,8 +875,8 @@
             "author_total_citations": 2,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Bogdan Caruntu",
                 "Romeo Negrea",
+                "Bogdan Caruntu",
                 "Remus Daniel Ene"
             ],
             "author_closeness_centrality": 0.018633540372670808,
@@ -901,8 +901,8 @@
             "author_total_citations": 2,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Vasile Marinca",
                 "Romeo Negrea",
+                "Vasile Marinca",
                 "Remus Daniel Ene"
             ],
             "author_closeness_centrality": 0.018633540372670808,
@@ -945,8 +945,8 @@
             "author_total_citations": 25,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Marcin Gasiorek",
                 "Katarzyna Zajac",
+                "Marcin Gasiorek",
                 "Mariusz Felisiak"
             ],
             "author_closeness_centrality": 0.018633540372670808,
@@ -958,12 +958,12 @@
             "author_total_citations": 33,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Danilo Ardagna",
-                "Donato Lucia",
-                "Davide Franceschelli",
+                "Mario Pio Gioiosa",
                 "Tabassum Sharif",
                 "Elisabetta Di Nitto",
-                "Mario Pio Gioiosa"
+                "Davide Franceschelli",
+                "Danilo Ardagna",
+                "Donato Lucia"
             ],
             "author_closeness_centrality": 0.046972049689441,
             "author_betweenness_centrality": 0.0,
@@ -974,12 +974,12 @@
             "author_total_citations": 33,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Danilo Ardagna",
-                "Donato Lucia",
-                "Filippo Lorenzo Ferraris",
+                "Mario Pio Gioiosa",
                 "Tabassum Sharif",
                 "Elisabetta Di Nitto",
-                "Mario Pio Gioiosa"
+                "Filippo Lorenzo Ferraris",
+                "Danilo Ardagna",
+                "Donato Lucia"
             ],
             "author_closeness_centrality": 0.046972049689441,
             "author_betweenness_centrality": 0.0,
@@ -990,12 +990,12 @@
             "author_total_citations": 33,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Danilo Ardagna",
-                "Donato Lucia",
-                "Davide Franceschelli",
-                "Filippo Lorenzo Ferraris",
                 "Tabassum Sharif",
-                "Elisabetta Di Nitto"
+                "Elisabetta Di Nitto",
+                "Filippo Lorenzo Ferraris",
+                "Davide Franceschelli",
+                "Danilo Ardagna",
+                "Donato Lucia"
             ],
             "author_closeness_centrality": 0.046972049689441,
             "author_betweenness_centrality": 0.0,
@@ -1006,12 +1006,12 @@
             "author_total_citations": 33,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Danilo Ardagna",
-                "Davide Franceschelli",
-                "Filippo Lorenzo Ferraris",
+                "Mario Pio Gioiosa",
                 "Tabassum Sharif",
                 "Elisabetta Di Nitto",
-                "Mario Pio Gioiosa"
+                "Filippo Lorenzo Ferraris",
+                "Davide Franceschelli",
+                "Danilo Ardagna"
             ],
             "author_closeness_centrality": 0.046972049689441,
             "author_betweenness_centrality": 0.0,
@@ -1022,12 +1022,12 @@
             "author_total_citations": 33,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Danilo Ardagna",
-                "Donato Lucia",
-                "Davide Franceschelli",
-                "Filippo Lorenzo Ferraris",
+                "Mario Pio Gioiosa",
                 "Elisabetta Di Nitto",
-                "Mario Pio Gioiosa"
+                "Filippo Lorenzo Ferraris",
+                "Davide Franceschelli",
+                "Danilo Ardagna",
+                "Donato Lucia"
             ],
             "author_closeness_centrality": 0.046972049689441,
             "author_betweenness_centrality": 0.0,
@@ -1060,10 +1060,10 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Chien-Ming Wang",
+                "Ernst Rank",
                 "Ruiping Gao",
                 "Ralf-Peter Mundani",
-                "Ernst Rank"
+                "Chien-Ming Wang"
             ],
             "author_closeness_centrality": 0.024844720496894408,
             "author_betweenness_centrality": 0.0,
@@ -1074,10 +1074,10 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Chien-Ming Wang",
-                "Ralf-Peter Mundani",
+                "Ernst Rank",
                 "Jerome Frisch",
-                "Ernst Rank"
+                "Ralf-Peter Mundani",
+                "Chien-Ming Wang"
             ],
             "author_closeness_centrality": 0.024844720496894408,
             "author_betweenness_centrality": 0.0,
@@ -1088,10 +1088,10 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Chien-Ming Wang",
-                "Ruiping Gao",
+                "Ernst Rank",
                 "Jerome Frisch",
-                "Ernst Rank"
+                "Ruiping Gao",
+                "Chien-Ming Wang"
             ],
             "author_closeness_centrality": 0.024844720496894408,
             "author_betweenness_centrality": 0.0,
@@ -1102,10 +1102,10 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Ruiping Gao",
-                "Ralf-Peter Mundani",
+                "Ernst Rank",
                 "Jerome Frisch",
-                "Ernst Rank"
+                "Ruiping Gao",
+                "Ralf-Peter Mundani"
             ],
             "author_closeness_centrality": 0.024844720496894408,
             "author_betweenness_centrality": 0.0,
@@ -1116,10 +1116,10 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Chien-Ming Wang",
+                "Jerome Frisch",
                 "Ruiping Gao",
                 "Ralf-Peter Mundani",
-                "Jerome Frisch"
+                "Chien-Ming Wang"
             ],
             "author_closeness_centrality": 0.024844720496894408,
             "author_betweenness_centrality": 0.0,
@@ -1130,8 +1130,8 @@
             "author_total_citations": 8,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Daniel Simson",
-                "Katarzyna Zajac"
+                "Katarzyna Zajac",
+                "Daniel Simson"
             ],
             "author_closeness_centrality": 0.013975155279503106,
             "author_betweenness_centrality": 0.0,
@@ -1142,8 +1142,8 @@
             "author_total_citations": 8,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Marcin Gasiorek",
-                "Daniel Simson"
+                "Daniel Simson",
+                "Marcin Gasiorek"
             ],
             "author_closeness_centrality": 0.013975155279503106,
             "author_betweenness_centrality": 0.0,
@@ -1154,8 +1154,8 @@
             "author_total_citations": 39,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Razvan Benchea",
-                "Cristina Vatamanu"
+                "Cristina Vatamanu",
+                "Razvan Benchea"
             ],
             "author_closeness_centrality": 0.012422360248447204,
             "author_betweenness_centrality": 0.0,
@@ -1166,8 +1166,8 @@
             "author_total_citations": 39,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Dragos Gavrilut",
-                "Cristina Vatamanu"
+                "Cristina Vatamanu",
+                "Dragos Gavrilut"
             ],
             "author_closeness_centrality": 0.012422360248447204,
             "author_betweenness_centrality": 0.0,
@@ -1178,8 +1178,8 @@
             "author_total_citations": 39,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Dragos Gavrilut",
-                "Razvan Benchea"
+                "Razvan Benchea",
+                "Dragos Gavrilut"
             ],
             "author_closeness_centrality": 0.012422360248447204,
             "author_betweenness_centrality": 0.0,
@@ -1223,12 +1223,12 @@
             "author_total_citations": 36,
             "author_total_papers": 3,
             "author_total_collaborators": [
-                "Stefan Maruster",
-                "Gabriel Iuhasz",
-                "Liviu Octavian Mafteiu-Scai",
+                "Monica Tirea",
                 "Teodor-Florin Fortis",
+                "Liviu Octavian Mafteiu-Scai",
                 "Victor Ion Munteanu",
-                "Monica Tirea"
+                "Stefan Maruster",
+                "Gabriel Iuhasz"
             ],
             "author_closeness_centrality": 0.03804347826086957,
             "author_betweenness_centrality": 0.0012422360248447205,
@@ -1282,8 +1282,8 @@
             "author_total_citations": 8,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Elena V. Ravve",
-                "Tomer Kotek"
+                "Tomer Kotek",
+                "Elena V. Ravve"
             ],
             "author_closeness_centrality": 0.012422360248447204,
             "author_betweenness_centrality": 0.0,
@@ -1294,8 +1294,8 @@
             "author_total_citations": 8,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Johann A. Makowsky",
-                "Tomer Kotek"
+                "Tomer Kotek",
+                "Johann A. Makowsky"
             ],
             "author_closeness_centrality": 0.012422360248447204,
             "author_betweenness_centrality": 0.0,
@@ -1432,8 +1432,8 @@
             "author_total_citations": 2,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Kinga Marton",
-                "Peter Toth"
+                "Peter Toth",
+                "Kinga Marton"
             ],
             "author_closeness_centrality": 0.012422360248447204,
             "author_betweenness_centrality": 0.0,
@@ -1444,8 +1444,8 @@
             "author_total_citations": 8,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Viorel Negru",
-                "Liviu Octavian Mafteiu-Scai"
+                "Liviu Octavian Mafteiu-Scai",
+                "Viorel Negru"
             ],
             "author_closeness_centrality": 0.023411371237458192,
             "author_betweenness_centrality": 0.0,
@@ -1468,8 +1468,8 @@
             "author_total_citations": 6,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Radu Badea",
-                "Sergiu Nedevschi"
+                "Sergiu Nedevschi",
+                "Radu Badea"
             ],
             "author_closeness_centrality": 0.012422360248447204,
             "author_betweenness_centrality": 0.0,
@@ -1492,8 +1492,8 @@
             "author_total_citations": 6,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Delia Mitrea",
-                "Sergiu Nedevschi"
+                "Sergiu Nedevschi",
+                "Delia Mitrea"
             ],
             "author_closeness_centrality": 0.012422360248447204,
             "author_betweenness_centrality": 0.0,
@@ -1504,8 +1504,8 @@
             "author_total_citations": 5,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Costin Badica",
-                "Sorin Ilie"
+                "Sorin Ilie",
+                "Costin Badica"
             ],
             "author_closeness_centrality": 0.012422360248447204,
             "author_betweenness_centrality": 0.0,
@@ -1516,8 +1516,8 @@
             "author_total_citations": 5,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Andrei Mocanu",
-                "Costin Badica"
+                "Costin Badica",
+                "Andrei Mocanu"
             ],
             "author_closeness_centrality": 0.012422360248447204,
             "author_betweenness_centrality": 0.0,
@@ -1528,8 +1528,8 @@
             "author_total_citations": 5,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Andrei Mocanu",
-                "Sorin Ilie"
+                "Sorin Ilie",
+                "Andrei Mocanu"
             ],
             "author_closeness_centrality": 0.012422360248447204,
             "author_betweenness_centrality": 0.0,
@@ -1584,11 +1584,11 @@
             "author_total_citations": 33,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Iokanaan Goutier",
                 "Arnor Solberg",
                 "Franck Fleurey",
-                "Brice Morin",
-                "Franck Chauvel"
+                "Franck Chauvel",
+                "Iokanaan Goutier",
+                "Brice Morin"
             ],
             "author_closeness_centrality": 0.031055900621118012,
             "author_betweenness_centrality": 0.0,
@@ -1599,11 +1599,11 @@
             "author_total_citations": 33,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Iokanaan Goutier",
-                "Sebastien Mosser",
                 "Arnor Solberg",
-                "Brice Morin",
-                "Franck Chauvel"
+                "Franck Chauvel",
+                "Sebastien Mosser",
+                "Iokanaan Goutier",
+                "Brice Morin"
             ],
             "author_closeness_centrality": 0.031055900621118012,
             "author_betweenness_centrality": 0.0,
@@ -1614,11 +1614,11 @@
             "author_total_citations": 33,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Iokanaan Goutier",
-                "Sebastien Mosser",
                 "Arnor Solberg",
                 "Franck Fleurey",
-                "Franck Chauvel"
+                "Franck Chauvel",
+                "Sebastien Mosser",
+                "Iokanaan Goutier"
             ],
             "author_closeness_centrality": 0.031055900621118012,
             "author_betweenness_centrality": 0.0,
@@ -1629,10 +1629,10 @@
             "author_total_citations": 33,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Iokanaan Goutier",
-                "Sebastien Mosser",
                 "Arnor Solberg",
                 "Franck Fleurey",
+                "Sebastien Mosser",
+                "Iokanaan Goutier",
                 "Brice Morin"
             ],
             "author_closeness_centrality": 0.031055900621118012,
@@ -1644,11 +1644,11 @@
             "author_total_citations": 33,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Iokanaan Goutier",
-                "Sebastien Mosser",
                 "Franck Fleurey",
-                "Brice Morin",
-                "Franck Chauvel"
+                "Franck Chauvel",
+                "Sebastien Mosser",
+                "Iokanaan Goutier",
+                "Brice Morin"
             ],
             "author_closeness_centrality": 0.031055900621118012,
             "author_betweenness_centrality": 0.0,
@@ -1659,11 +1659,11 @@
             "author_total_citations": 33,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Sebastien Mosser",
                 "Arnor Solberg",
                 "Franck Fleurey",
-                "Brice Morin",
-                "Franck Chauvel"
+                "Franck Chauvel",
+                "Sebastien Mosser",
+                "Brice Morin"
             ],
             "author_closeness_centrality": 0.031055900621118012,
             "author_betweenness_centrality": 0.0,
@@ -1698,8 +1698,8 @@
             "author_total_citations": 6,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Radu Ioan Peter",
-                "Ioan Lucian Muntean"
+                "Ioan Lucian Muntean",
+                "Radu Ioan Peter"
             ],
             "author_closeness_centrality": 0.012422360248447204,
             "author_betweenness_centrality": 0.0,
@@ -1710,9 +1710,9 @@
             "author_total_citations": 19,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Cristina Mindruta",
                 "Teodor-Florin Fortis",
-                "Viorel Negru"
+                "Viorel Negru",
+                "Cristina Mindruta"
             ],
             "author_closeness_centrality": 0.02766798418972332,
             "author_betweenness_centrality": 0.0001940993788819876,
@@ -1723,8 +1723,8 @@
             "author_total_citations": 19,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Cristina Mindruta",
                 "Viorel Negru",
+                "Cristina Mindruta",
                 "Victor Ion Munteanu"
             ],
             "author_closeness_centrality": 0.02766798418972332,
@@ -1748,8 +1748,8 @@
             "author_total_citations": 2,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Mihai Suciu",
-                "D. Dumitrescu"
+                "D. Dumitrescu",
+                "Mihai Suciu"
             ],
             "author_closeness_centrality": 0.012422360248447204,
             "author_betweenness_centrality": 0.0,
@@ -1760,8 +1760,8 @@
             "author_total_citations": 2,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Reka Nagy",
-                "D. Dumitrescu"
+                "D. Dumitrescu",
+                "Reka Nagy"
             ],
             "author_closeness_centrality": 0.012422360248447204,
             "author_betweenness_centrality": 0.0,
@@ -1814,8 +1814,8 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Adrian Colesa",
-                "Ciprian Oprisa"
+                "Ciprian Oprisa",
+                "Adrian Colesa"
             ],
             "author_closeness_centrality": 0.013975155279503106,
             "author_betweenness_centrality": 0.0,
@@ -2096,387 +2096,531 @@
     },
     "author_links": [
         [
-            "Bogdan Aman",
-            "Gabriel Ciobanu"
-        ],
-        [
-            "James Ahtes",
-            "Stefano Bocconi"
-        ],
-        [
-            "Ciprian Dobre",
-            "Mihai Dascalu"
-        ],
-        [
-            "Ioan Lucian Muntean",
-            "Radu Ioan Peter"
-        ],
-        [
-            "Delia Mitrea",
-            "Sergiu Nedevschi"
-        ],
-        [
-            "Adina Magda Florea",
-            "Ciprian Dobre"
-        ],
-        [
-            "Stefan Andrei",
-            "Timothy H. McNicholl"
-        ],
-        [
-            "Carlo Bellettini",
-            "Lorenzo Capra"
-        ],
-        [
-            "Danilo Ardagna",
-            "Filippo Lorenzo Ferraris"
-        ],
-        [
-            "Teodor-Florin Fortis",
-            "Victor Ion Munteanu"
-        ],
-        [
-            "Dimitris Zeginis",
-            "Francesco D&apos;Andria"
-        ],
-        [
-            "Danilo Ardagna",
-            "Davide Franceschelli"
-        ],
-        [
-            "Brice Morin",
-            "Franck Fleurey"
-        ],
-        [
-            "David J. Wilson",
-            "Matthew England"
-        ],
-        [
-            "Davide Franceschelli",
-            "Mario Pio Gioiosa"
-        ],
-        [
-            "Cristina Vatamanu",
-            "Razvan Benchea"
-        ],
-        [
-            "Daniel Langr",
-            "Ivan Simecek"
-        ],
-        [
-            "Ciprian Dobre",
-            "Stefan Trausan-Matu"
-        ],
-        [
-            "Bogdan Caruntu",
-            "Romeo Negrea"
-        ],
-        [
-            "Delia Mitrea",
-            "Radu Badea"
-        ],
-        [
-            "Ciprian Dobre",
-            "Cristian Bancu"
-        ],
-        [
-            "Elisabetta Di Nitto",
-            "Eva Gjeci"
-        ],
-        [
-            "Elisabetta Di Nitto",
-            "Eros Lever"
-        ],
-        [
-            "Adrian Mocanu",
-            "Nicolae Tapus"
-        ],
-        [
-            "Costin Badica",
-            "Sorin Ilie"
-        ],
-        [
-            "Cristina Mindruta",
-            "Teodor-Florin Fortis"
-        ],
-        [
-            "Arnor Solberg",
-            "Franck Fleurey"
-        ],
-        [
-            "Matthew England",
-            "Russell J. Bradford"
-        ],
-        [
-            "Ioan Lucian Muntean",
-            "Marius Joldos"
-        ],
-        [
-            "Eros Lever",
-            "Eva Gjeci"
-        ],
-        [
-            "Henri Luchian",
-            "Mihaela Elena Breaban"
-        ],
-        [
-            "Adina Magda Florea",
-            "Monica Dagadita"
-        ],
-        [
-            "Gabriel Iuhasz",
-            "Viorel Negru"
-        ],
-        [
-            "Cristian Bancu",
-            "Monica Dagadita"
-        ],
-        [
-            "Albert M. K. Cheng",
-            "Stefan Andrei"
-        ],
-        [
-            "Dimitris Zeginis",
-            "Jesus Gorronogoitia Cruz"
-        ],
-        [
-            "Donato Lucia",
-            "Tabassum Sharif"
-        ],
-        [
-            "Isabela Dramnesc",
-            "Tudor Jebelean"
-        ],
-        [
-            "Frantisek Darena",
-            "Jan Zizka"
-        ],
-        [
-            "Alin Suciu",
-            "Kinga Marton"
-        ],
-        [
-            "Donato Lucia",
-            "Elisabetta Di Nitto"
-        ],
-        [
-            "Victor Ion Munteanu",
-            "Viorel Negru"
-        ],
-        [
-            "Daniel Butoianu",
-            "Doru Todinca"
-        ],
-        [
-            "Davide Franceschelli",
-            "Filippo Lorenzo Ferraris"
-        ],
-        [
-            "Danilo Ardagna",
-            "Donato Lucia"
-        ],
-        [
-            "Dan A. Simovici",
-            "Henri Luchian"
-        ],
-        [
-            "Adrian Colesa",
-            "Ciprian Oprisa"
-        ],
-        [
-            "Eva Gjeci",
-            "Simone Benefico"
-        ],
-        [
-            "Chien-Ming Wang",
-            "Ruiping Gao"
-        ],
-        [
-            "Ricardo Gonzalez Gomarasca",
-            "Simone Benefico"
-        ],
-        [
-            "Alin Suciu",
-            "Peter Toth"
-        ],
-        [
-            "Brice Morin",
-            "Iokanaan Goutier"
-        ],
-        [
-            "Ivan Simecek",
-            "Pavel Tvrdik"
-        ],
-        [
-            "Chien-Ming Wang",
-            "Jerome Frisch"
-        ],
-        [
-            "Elena V. Ravve",
-            "Tomer Kotek"
-        ],
-        [
-            "Mircea Marin",
-            "Temur Kutsia"
-        ],
-        [
-            "Mihai Dascalu",
-            "Mihnea Donciu"
-        ],
-        [
-            "Adrian Colesa",
-            "Ioan Stan"
-        ],
-        [
-            "Liviu Octavian Mafteiu-Scai",
-            "Stefan Maruster"
-        ],
-        [
-            "Bela Palancz",
-            "Levente Kovacs"
-        ],
-        [
-            "Marius Joldos",
-            "Radu Ioan Peter"
-        ],
-        [
-            "Danilo Ardagna",
-            "Elisabetta Di Nitto"
-        ],
-        [
-            "Arnor Solberg",
-            "Iokanaan Goutier"
-        ],
-        [
-            "Brenda Luderman",
-            "Paul Tarau"
-        ],
-        [
-            "Romeo Negrea",
-            "Vasile Marinca"
-        ],
-        [
-            "Brice Morin",
-            "Sebastien Mosser"
-        ],
-        [
-            "Brice Morin",
-            "Franck Chauvel"
-        ],
-        [
-            "Ciprian Dobre",
-            "Monica Dagadita"
-        ],
-        [
-            "Daniel Simson",
-            "Marcin Gasiorek"
-        ],
-        [
-            "Mihai Dascalu",
-            "Stefan Trausan-Matu"
-        ],
-        [
-            "Dimitris Zeginis",
-            "James Ahtes"
-        ],
-        [
-            "Eva Gjeci",
-            "Santo Lombardo"
-        ],
-        [
-            "Elisabetta Di Nitto",
-            "Simone Benefico"
-        ],
-        [
-            "Boris Konev",
-            "Dmitry Tishkovsky"
-        ],
-        [
-            "Andrei Alexandru",
-            "Gabriel Ciobanu"
-        ],
-        [
-            "Ricardo Gonzalez Gomarasca",
-            "Santo Lombardo"
-        ],
-        [
-            "Arnor Solberg",
-            "Sebastien Mosser"
-        ],
-        [
-            "Chien-Ming Wang",
-            "Ralf-Peter Mundani"
-        ],
-        [
-            "Arnor Solberg",
-            "Franck Chauvel"
-        ],
-        [
-            "Elisabetta Di Nitto",
-            "Tabassum Sharif"
-        ],
-        [
-            "Ernst Rank",
-            "Ruiping Gao"
-        ],
-        [
-            "Mario Pio Gioiosa",
-            "Tabassum Sharif"
-        ],
-        [
-            "Eros Lever",
-            "Simone Benefico"
-        ],
-        [
-            "Stefan Andrei",
-            "Vlad Radulescu"
-        ],
-        [
-            "Monica Tirea",
-            "Viorel Negru"
-        ],
-        [
-            "Katarzyna Zajac",
-            "Marcin Gasiorek"
-        ],
-        [
-            "Ernst Rank",
-            "Jerome Frisch"
-        ],
-        [
-            "Solomon Marcus",
-            "Stephen M. Watt"
-        ],
-        [
-            "Jan Zizka",
-            "Karel Burda"
-        ],
-        [
-            "James Ahtes",
-            "Jesus Gorronogoitia Cruz"
-        ],
-        [
-            "Elisabetta Di Nitto",
-            "Mario Pio Gioiosa"
-        ],
-        [
-            "Daniel Pletea",
-            "Florin Pop"
+            "Lorenzo Capra",
+            "Mattia Monga"
         ],
         [
             "David J. Wilson",
             "James H. Davenport"
         ],
         [
-            "Florin Pop",
+            "Iokanaan Goutier",
+            "Sebastien Mosser"
+        ],
+        [
+            "Franck Fleurey",
+            "Sebastien Mosser"
+        ],
+        [
+            "Henri Luchian",
+            "Mihaela Elena Breaban"
+        ],
+        [
+            "Santo Lombardo",
+            "Simone Benefico"
+        ],
+        [
+            "Donato Lucia",
+            "Tabassum Sharif"
+        ],
+        [
+            "Radu Badea",
+            "Sergiu Nedevschi"
+        ],
+        [
+            "Stefan Andrei",
+            "Vlad Radulescu"
+        ],
+        [
+            "Frantisek Darena",
+            "Karel Burda"
+        ],
+        [
+            "Danilo Ardagna",
+            "Tabassum Sharif"
+        ],
+        [
+            "Dimitris Zeginis",
+            "Francesco D&apos;Andria"
+        ],
+        [
+            "Mario Pio Gioiosa",
+            "Tabassum Sharif"
+        ],
+        [
+            "Teodor-Florin Fortis",
+            "Viorel Negru"
+        ],
+        [
+            "Laura Kovacs",
+            "Levente Kovacs"
+        ],
+        [
+            "Eneia Nicolae Todoran",
+            "Gabriel Ciobanu"
+        ],
+        [
+            "Arnor Solberg",
+            "Sebastien Mosser"
+        ],
+        [
+            "Franck Chauvel",
+            "Sebastien Mosser"
+        ],
+        [
+            "Timothy H. McNicholl",
+            "Vlad Radulescu"
+        ],
+        [
+            "Adrian F. Spataru",
+            "Marc Frincu"
+        ],
+        [
+            "Danilo Ardagna",
+            "Eros Lever"
+        ],
+        [
+            "Francesco D&apos;Andria",
+            "Stefano Bocconi"
+        ],
+        [
+            "Eros Lever",
+            "Simone Benefico"
+        ],
+        [
+            "Elisabetta Di Nitto",
+            "Eva Gjeci"
+        ],
+        [
+            "Daniel Simson",
+            "Katarzyna Zajac"
+        ],
+        [
+            "Mircea Marin",
+            "Temur Kutsia"
+        ],
+        [
+            "Donato Lucia",
+            "Mario Pio Gioiosa"
+        ],
+        [
+            "Andrei Sucila",
+            "Mihai Cimpoesu"
+        ],
+        [
+            "Elisabetta Di Nitto",
+            "Tabassum Sharif"
+        ],
+        [
+            "Chien-Ming Wang",
+            "Jerome Frisch"
+        ],
+        [
+            "Clare Dixon",
+            "Renate A. Schmidt"
+        ],
+        [
+            "Albert M. K. Cheng",
+            "Vlad Radulescu"
+        ],
+        [
+            "Danilo Ardagna",
+            "Mario Pio Gioiosa"
+        ],
+        [
+            "Brice Morin",
+            "Sebastien Mosser"
+        ],
+        [
+            "Alin Suciu",
+            "Kinga Marton"
+        ],
+        [
+            "Giuliano Casale",
+            "Jean Moschetta"
+        ],
+        [
+            "Adina Magda Florea",
+            "Monica Dagadita"
+        ],
+        [
+            "Mihai Dascalu",
+            "Monica Dagadita"
+        ],
+        [
+            "Madalina Erascu",
+            "Tudor Jebelean"
+        ],
+        [
+            "Remus Daniel Ene",
+            "Vasile Marinca"
+        ],
+        [
+            "David J. Wilson",
+            "Matthew England"
+        ],
+        [
+            "Adina Magda Florea",
+            "Mihai Dascalu"
+        ],
+        [
+            "James H. Davenport",
+            "Russell J. Bradford"
+        ],
+        [
+            "Giuseppe Aversano",
+            "Massimiliano Rak"
+        ],
+        [
+            "Kinga Marton",
+            "Peter Toth"
+        ],
+        [
+            "Ricardo Gonzalez Gomarasca",
+            "Simone Benefico"
+        ],
+        [
+            "Elisabetta Di Nitto",
+            "Ricardo Gonzalez Gomarasca"
+        ],
+        [
+            "Danilo Ardagna",
+            "Simone Benefico"
+        ],
+        [
+            "Boris Konev",
+            "Clare Dixon"
+        ],
+        [
+            "Quratul-ain Mahesar",
+            "Volker Sorge"
+        ],
+        [
+            "Adrian Colesa",
+            "Iosif Ignat"
+        ],
+        [
+            "Costin Badica",
+            "Sorin Ilie"
+        ],
+        [
+            "Eva Gjeci",
+            "Ricardo Gonzalez Gomarasca"
+        ],
+        [
+            "Davide Franceschelli",
+            "Filippo Lorenzo Ferraris"
+        ],
+        [
+            "Elena V. Ravve",
+            "Tomer Kotek"
+        ],
+        [
+            "Andrei Alexandru",
+            "Gabriel Ciobanu"
+        ],
+        [
+            "Adina Magda Florea",
+            "Stefan Trausan-Matu"
+        ],
+        [
+            "Mihai Dascalu",
+            "Stefan Trausan-Matu"
+        ],
+        [
+            "Franck Chauvel",
+            "Franck Fleurey"
+        ],
+        [
+            "Arnor Solberg",
+            "Franck Fleurey"
+        ],
+        [
+            "Franck Fleurey",
+            "Iokanaan Goutier"
+        ],
+        [
+            "Arnor Solberg",
+            "Brice Morin"
+        ],
+        [
+            "Delia Mitrea",
+            "Radu Badea"
+        ],
+        [
+            "Cristian Bancu",
+            "Monica Dagadita"
+        ],
+        [
+            "Boris Konev",
+            "Dmitry Tishkovsky"
+        ],
+        [
+            "Eros Lever",
+            "Santo Lombardo"
+        ],
+        [
+            "Francesco D&apos;Andria",
+            "James Ahtes"
+        ],
+        [
+            "Romeo Negrea",
+            "Vasile Marinca"
+        ],
+        [
+            "Dimitris Zeginis",
+            "Jesus Gorronogoitia Cruz"
+        ],
+        [
+            "Alin Suciu",
+            "Peter Toth"
+        ],
+        [
+            "Andrei Mocanu",
+            "Sorin Ilie"
+        ],
+        [
+            "Daniel Pletea",
             "Valentin Cristea"
+        ],
+        [
+            "Remus Daniel Ene",
+            "Romeo Negrea"
+        ],
+        [
+            "Jan Zizka",
+            "Karel Burda"
+        ],
+        [
+            "Liviu P. Dinu",
+            "Radu Tudor Ionescu"
+        ],
+        [
+            "Adrian Colesa",
+            "Ciprian Oprisa"
+        ],
+        [
+            "Brice Morin",
+            "Franck Fleurey"
+        ],
+        [
+            "Eva Gjeci",
+            "Simone Benefico"
+        ],
+        [
+            "Mihai Dascalu",
+            "Mihnea Donciu"
+        ],
+        [
+            "Lorenzo Capra",
+            "Matteo Camilli"
+        ],
+        [
+            "Gabriel Iuhasz",
+            "Monica Tirea"
+        ],
+        [
+            "Dragos Gavrilut",
+            "Razvan Benchea"
+        ],
+        [
+            "Teodor-Florin Fortis",
+            "Victor Ion Munteanu"
+        ],
+        [
+            "Elena V. Ravve",
+            "Johann A. Makowsky"
+        ],
+        [
+            "Adrian Mocanu",
+            "Nicolae Tapus"
+        ],
+        [
+            "Chien-Ming Wang",
+            "Ernst Rank"
+        ],
+        [
+            "Ricardo Gonzalez Gomarasca",
+            "Santo Lombardo"
+        ],
+        [
+            "Ralf-Peter Mundani",
+            "Ruiping Gao"
+        ],
+        [
+            "James Ahtes",
+            "Jesus Gorronogoitia Cruz"
+        ],
+        [
+            "G. Michele Pinna",
+            "Gabriel Ciobanu"
+        ],
+        [
+            "Jesus Gorronogoitia Cruz",
+            "Stefano Bocconi"
+        ],
+        [
+            "Danilo Ardagna",
+            "Santo Lombardo"
+        ],
+        [
+            "Frantisek Darena",
+            "Jan Zizka"
+        ],
+        [
+            "Solomon Marcus",
+            "Stephen M. Watt"
+        ],
+        [
+            "Andrzej Mroz",
+            "Stanislaw Kasjan"
+        ],
+        [
+            "Davide Franceschelli",
+            "Elisabetta Di Nitto"
+        ],
+        [
+            "Denis Enachescu",
+            "Vinicius Almendra"
+        ],
+        [
+            "Isabela Dramnesc",
+            "Tudor Jebelean"
+        ],
+        [
+            "Bogdan Caruntu",
+            "Vasile Marinca"
+        ],
+        [
+            "Elisabetta Di Nitto",
+            "Eros Lever"
+        ],
+        [
+            "Cristina Vatamanu",
+            "Dragos Gavrilut"
+        ],
+        [
+            "Monica Dagadita",
+            "Stefan Trausan-Matu"
+        ],
+        [
+            "Ernst Rank",
+            "Ralf-Peter Mundani"
+        ],
+        [
+            "Donato Lucia",
+            "Filippo Lorenzo Ferraris"
+        ],
+        [
+            "Matteo Camilli",
+            "Mattia Monga"
+        ],
+        [
+            "Davide Franceschelli",
+            "Donato Lucia"
+        ],
+        [
+            "Filippo Lorenzo Ferraris",
+            "Tabassum Sharif"
+        ],
+        [
+            "Ioan Lucian Muntean",
+            "Radu Ioan Peter"
+        ],
+        [
+            "Carlo Bellettini",
+            "Mattia Monga"
+        ],
+        [
+            "Danilo Ardagna",
+            "Filippo Lorenzo Ferraris"
+        ],
+        [
+            "Madalina Ionita",
+            "Mihai Dascalu"
+        ],
+        [
+            "Davide Franceschelli",
+            "Tabassum Sharif"
+        ],
+        [
+            "Elisabetta Di Nitto",
+            "Mario Pio Gioiosa"
+        ],
+        [
+            "Carlo Bellettini",
+            "Lorenzo Capra"
+        ],
+        [
+            "Dan A. Simovici",
+            "Mihaela Elena Breaban"
+        ],
+        [
+            "Stefan Maruster",
+            "Viorel Negru"
+        ],
+        [
+            "Ioan Lucian Muntean",
+            "Marius Joldos"
         ],
         [
             "Cristina Mindruta",
             "Victor Ion Munteanu"
         ],
         [
-            "Donato Lucia",
+            "Albert M. K. Cheng",
+            "Stefan Andrei"
+        ],
+        [
+            "D. Dumitrescu",
+            "Reka Nagy"
+        ],
+        [
+            "Bogdan Caruntu",
+            "Remus Daniel Ene"
+        ],
+        [
+            "Marius Joldos",
+            "Radu Ioan Peter"
+        ],
+        [
+            "D. Dumitrescu",
+            "Mihai Suciu"
+        ],
+        [
+            "Katarzyna Zajac",
+            "Marcin Gasiorek"
+        ],
+        [
+            "Mihai Suciu",
+            "Reka Nagy"
+        ],
+        [
+            "Elisabetta Di Nitto",
+            "Simone Benefico"
+        ],
+        [
+            "Cristian Bancu",
+            "Mihai Dascalu"
+        ],
+        [
+            "Dmitry Tishkovsky",
+            "Renate A. Schmidt"
+        ],
+        [
+            "Brenda Luderman",
+            "Paul Tarau"
+        ],
+        [
+            "Bogdan Caruntu",
+            "Romeo Negrea"
+        ],
+        [
+            "Madalina Ionita",
+            "Stefan Trausan-Matu"
+        ],
+        [
+            "Filippo Lorenzo Ferraris",
             "Mario Pio Gioiosa"
         ],
         [
@@ -2484,436 +2628,292 @@
             "Dmitry Tishkovsky"
         ],
         [
-            "Jerome Frisch",
-            "Ruiping Gao"
-        ],
-        [
-            "Danilo Ardagna",
-            "Eva Gjeci"
-        ],
-        [
-            "Danilo Ardagna",
-            "Eros Lever"
-        ],
-        [
-            "Jesus Gorronogoitia Cruz",
-            "Stefano Bocconi"
-        ],
-        [
-            "Filippo Lorenzo Ferraris",
-            "Tabassum Sharif"
-        ],
-        [
-            "Dragos Gavrilut",
-            "Razvan Benchea"
-        ],
-        [
             "Elisabetta Di Nitto",
-            "Santo Lombardo"
-        ],
-        [
-            "Danilo Ardagna",
-            "Simone Benefico"
-        ],
-        [
-            "Cristina Vatamanu",
-            "Dragos Gavrilut"
-        ],
-        [
-            "Franck Fleurey",
-            "Iokanaan Goutier"
-        ],
-        [
-            "Elisabetta Di Nitto",
-            "Ricardo Gonzalez Gomarasca"
-        ],
-        [
-            "Bela Palancz",
-            "Laura Kovacs"
-        ],
-        [
-            "Danilo Ardagna",
-            "Tabassum Sharif"
-        ],
-        [
-            "Chien-Ming Wang",
-            "Ernst Rank"
+            "Filippo Lorenzo Ferraris"
         ],
         [
             "Eros Lever",
-            "Santo Lombardo"
-        ],
-        [
-            "Carlo Bellettini",
-            "Mattia Monga"
-        ],
-        [
-            "Ernst Rank",
-            "Ralf-Peter Mundani"
+            "Eva Gjeci"
         ],
         [
             "Ciprian Oprisa",
             "Iosif Ignat"
         ],
         [
-            "Lorenzo Capra",
-            "Mattia Monga"
-        ],
-        [
-            "Eros Lever",
-            "Ricardo Gonzalez Gomarasca"
-        ],
-        [
-            "Dan A. Simovici",
-            "Mihaela Elena Breaban"
-        ],
-        [
-            "Mihai Suciu",
-            "Reka Nagy"
-        ],
-        [
-            "Mihai Dascalu",
-            "Monica Dagadita"
-        ],
-        [
-            "Mihnea Donciu",
-            "Stefan Trausan-Matu"
-        ],
-        [
-            "Elisabetta Di Nitto",
-            "Filippo Lorenzo Ferraris"
-        ],
-        [
-            "Carlo Bellettini",
-            "Matteo Camilli"
-        ],
-        [
-            "D. Dumitrescu",
-            "Mihai Suciu"
-        ],
-        [
-            "Lorenzo Capra",
-            "Matteo Camilli"
-        ],
-        [
-            "Bogdan Aman",
-            "G. Michele Pinna"
-        ],
-        [
-            "D. Dumitrescu",
-            "Reka Nagy"
-        ],
-        [
-            "Donato Lucia",
-            "Filippo Lorenzo Ferraris"
-        ],
-        [
-            "Denis Enachescu",
-            "Vinicius Almendra"
-        ],
-        [
-            "Albert M. K. Cheng",
-            "Timothy H. McNicholl"
-        ],
-        [
-            "Madalina Ionita",
-            "Mihai Dascalu"
-        ],
-        [
-            "Francesco D&apos;Andria",
-            "James Ahtes"
-        ],
-        [
-            "Eva Gjeci",
-            "Ricardo Gonzalez Gomarasca"
-        ],
-        [
-            "Madalina Ionita",
-            "Mihnea Donciu"
-        ],
-        [
-            "Remus Daniel Ene",
-            "Romeo Negrea"
-        ],
-        [
-            "Davide Franceschelli",
-            "Donato Lucia"
-        ],
-        [
-            "Ralf-Peter Mundani",
-            "Ruiping Gao"
-        ],
-        [
-            "Daniel Simson",
-            "Mariusz Felisiak"
-        ],
-        [
-            "Jerome Frisch",
-            "Ralf-Peter Mundani"
-        ],
-        [
-            "Radu Badea",
-            "Sergiu Nedevschi"
-        ],
-        [
-            "Bogdan Caruntu",
-            "Vasile Marinca"
-        ],
-        [
-            "Franck Chauvel",
-            "Franck Fleurey"
-        ],
-        [
-            "Boris Konev",
-            "Renate A. Schmidt"
-        ],
-        [
-            "Danilo Ardagna",
-            "Santo Lombardo"
-        ],
-        [
-            "Bogdan Caruntu",
-            "Remus Daniel Ene"
-        ],
-        [
-            "Andrei Mocanu",
-            "Costin Badica"
-        ],
-        [
-            "Quratul-ain Mahesar",
-            "Volker Sorge"
-        ],
-        [
-            "Dimitris Zeginis",
-            "Stefano Bocconi"
-        ],
-        [
-            "Elena V. Ravve",
-            "Johann A. Makowsky"
-        ],
-        [
-            "Francesco D&apos;Andria",
-            "Jesus Gorronogoitia Cruz"
-        ],
-        [
-            "Giuliano Casale",
-            "Jean Moschetta"
-        ],
-        [
-            "Madalina Ionita",
-            "Stefan Trausan-Matu"
-        ],
-        [
-            "Dmitry Tishkovsky",
-            "Renate A. Schmidt"
-        ],
-        [
-            "Madalina Erascu",
-            "Tudor Jebelean"
-        ],
-        [
-            "Davide Franceschelli",
-            "Elisabetta Di Nitto"
-        ],
-        [
-            "Gabriel Iuhasz",
-            "Monica Tirea"
-        ],
-        [
-            "Adrian Turcanu",
-            "Florentin Ipate"
-        ],
-        [
-            "Matteo Camilli",
-            "Mattia Monga"
-        ],
-        [
-            "Andrei Arusoaie",
-            "Daniel Ionut Vicol"
-        ],
-        [
-            "Ana Claudia Sima",
-            "Emil Slusanschi"
-        ],
-        [
-            "Iokanaan Goutier",
-            "Sebastien Mosser"
-        ],
-        [
-            "Andrei Mocanu",
-            "Sorin Ilie"
-        ],
-        [
-            "Andrzej Mroz",
-            "Stanislaw Kasjan"
-        ],
-        [
-            "Albert M. K. Cheng",
-            "Vlad Radulescu"
-        ],
-        [
-            "Kinga Marton",
-            "Peter Toth"
-        ],
-        [
-            "Clare Dixon",
-            "Renate A. Schmidt"
-        ],
-        [
-            "Adina Magda Florea",
-            "Mihai Dascalu"
-        ],
-        [
-            "Monica Dagadita",
-            "Stefan Trausan-Matu"
-        ],
-        [
-            "Liviu Octavian Mafteiu-Scai",
-            "Viorel Negru"
-        ],
-        [
-            "Cristian Bancu",
-            "Mihai Dascalu"
-        ],
-        [
-            "Frantisek Darena",
-            "Karel Burda"
-        ],
-        [
-            "Andrei Sucila",
-            "Mihai Cimpoesu"
-        ],
-        [
-            "Giuseppe Aversano",
-            "Massimiliano Rak"
-        ],
-        [
-            "Daniel Tovarnak",
-            "Tomas Pitner"
-        ],
-        [
-            "Boris Konev",
-            "Clare Dixon"
-        ],
-        [
-            "Timothy H. McNicholl",
-            "Vlad Radulescu"
-        ],
-        [
-            "G. Michele Pinna",
-            "Gabriel Ciobanu"
-        ],
-        [
-            "Filippo Lorenzo Ferraris",
-            "Mario Pio Gioiosa"
-        ],
-        [
             "James H. Davenport",
-            "Russell J. Bradford"
-        ],
-        [
-            "Teodor-Florin Fortis",
-            "Viorel Negru"
+            "Matthew England"
         ],
         [
             "Arnor Solberg",
-            "Brice Morin"
+            "Franck Chauvel"
         ],
         [
-            "Laura Kovacs",
-            "Levente Kovacs"
+            "Arnor Solberg",
+            "Iokanaan Goutier"
         ],
         [
             "Franck Chauvel",
             "Iokanaan Goutier"
         ],
         [
-            "Liviu P. Dinu",
-            "Radu Tudor Ionescu"
+            "Ernst Rank",
+            "Ruiping Gao"
         ],
         [
-            "Franck Fleurey",
-            "Sebastien Mosser"
+            "Francesco D&apos;Andria",
+            "Jesus Gorronogoitia Cruz"
         ],
         [
-            "Adina Magda Florea",
-            "Stefan Trausan-Matu"
+            "Donato Lucia",
+            "Elisabetta Di Nitto"
         ],
         [
-            "Stefan Maruster",
-            "Viorel Negru"
+            "Andrei Arusoaie",
+            "Daniel Ionut Vicol"
         ],
         [
             "Johann A. Makowsky",
             "Tomer Kotek"
         ],
         [
-            "Adina Magda Florea",
-            "Cristian Bancu"
-        ],
-        [
-            "Danilo Ardagna",
-            "Mario Pio Gioiosa"
-        ],
-        [
             "Cristian Bancu",
             "Stefan Trausan-Matu"
         ],
         [
-            "Daniel Simson",
-            "Katarzyna Zajac"
+            "Cristina Mindruta",
+            "Teodor-Florin Fortis"
         ],
         [
             "Adrian Colesa",
-            "Iosif Ignat"
+            "Ioan Stan"
         ],
         [
-            "Daniel Pletea",
-            "Valentin Cristea"
+            "Danilo Ardagna",
+            "Elisabetta Di Nitto"
         ],
         [
-            "Eneia Nicolae Todoran",
-            "Gabriel Ciobanu"
+            "Bela Palancz",
+            "Levente Kovacs"
         ],
         [
-            "Franck Chauvel",
-            "Sebastien Mosser"
+            "Daniel Butoianu",
+            "Doru Todinca"
+        ],
+        [
+            "Daniel Tovarnak",
+            "Tomas Pitner"
+        ],
+        [
+            "Madalina Ionita",
+            "Mihnea Donciu"
+        ],
+        [
+            "Dimitris Zeginis",
+            "James Ahtes"
+        ],
+        [
+            "Stefan Andrei",
+            "Timothy H. McNicholl"
+        ],
+        [
+            "Adina Magda Florea",
+            "Ciprian Dobre"
+        ],
+        [
+            "Ernst Rank",
+            "Jerome Frisch"
+        ],
+        [
+            "Cristina Vatamanu",
+            "Razvan Benchea"
+        ],
+        [
+            "Brice Morin",
+            "Franck Chauvel"
+        ],
+        [
+            "Brice Morin",
+            "Iokanaan Goutier"
+        ],
+        [
+            "Dan A. Simovici",
+            "Henri Luchian"
+        ],
+        [
+            "Eros Lever",
+            "Ricardo Gonzalez Gomarasca"
+        ],
+        [
+            "Danilo Ardagna",
+            "Eva Gjeci"
+        ],
+        [
+            "Jerome Frisch",
+            "Ralf-Peter Mundani"
         ],
         [
             "Daniel Langr",
-            "Pavel Tvrdik"
+            "Ivan Simecek"
+        ],
+        [
+            "Delia Mitrea",
+            "Sergiu Nedevschi"
+        ],
+        [
+            "Danilo Ardagna",
+            "Donato Lucia"
+        ],
+        [
+            "Danilo Ardagna",
+            "Davide Franceschelli"
         ],
         [
             "David J. Wilson",
             "Russell J. Bradford"
         ],
         [
-            "James H. Davenport",
-            "Matthew England"
+            "Dimitris Zeginis",
+            "Stefano Bocconi"
+        ],
+        [
+            "Bela Palancz",
+            "Laura Kovacs"
+        ],
+        [
+            "Daniel Pletea",
+            "Florin Pop"
+        ],
+        [
+            "Ciprian Dobre",
+            "Cristian Bancu"
+        ],
+        [
+            "Adrian Turcanu",
+            "Florentin Ipate"
+        ],
+        [
+            "Elisabetta Di Nitto",
+            "Santo Lombardo"
+        ],
+        [
+            "Ciprian Dobre",
+            "Monica Dagadita"
+        ],
+        [
+            "Monica Tirea",
+            "Viorel Negru"
+        ],
+        [
+            "Daniel Langr",
+            "Pavel Tvrdik"
+        ],
+        [
+            "Bogdan Aman",
+            "G. Michele Pinna"
+        ],
+        [
+            "Andrei Mocanu",
+            "Costin Badica"
+        ],
+        [
+            "Liviu Octavian Mafteiu-Scai",
+            "Stefan Maruster"
+        ],
+        [
+            "Ciprian Dobre",
+            "Mihai Dascalu"
+        ],
+        [
+            "Chien-Ming Wang",
+            "Ruiping Gao"
+        ],
+        [
+            "Eva Gjeci",
+            "Santo Lombardo"
+        ],
+        [
+            "Albert M. K. Cheng",
+            "Timothy H. McNicholl"
+        ],
+        [
+            "Boris Konev",
+            "Renate A. Schmidt"
         ],
         [
             "Danilo Ardagna",
             "Ricardo Gonzalez Gomarasca"
         ],
         [
-            "Adrian F. Spataru",
-            "Marc Frincu"
+            "Ivan Simecek",
+            "Pavel Tvrdik"
         ],
         [
-            "Santo Lombardo",
-            "Simone Benefico"
+            "Bogdan Aman",
+            "Gabriel Ciobanu"
         ],
         [
-            "Remus Daniel Ene",
-            "Vasile Marinca"
+            "Victor Ion Munteanu",
+            "Viorel Negru"
         ],
         [
-            "Francesco D&apos;Andria",
+            "James Ahtes",
             "Stefano Bocconi"
         ],
         [
+            "Matthew England",
+            "Russell J. Bradford"
+        ],
+        [
+            "Daniel Simson",
+            "Mariusz Felisiak"
+        ],
+        [
+            "Ana Claudia Sima",
+            "Emil Slusanschi"
+        ],
+        [
+            "Mihnea Donciu",
+            "Stefan Trausan-Matu"
+        ],
+        [
             "Davide Franceschelli",
-            "Tabassum Sharif"
+            "Mario Pio Gioiosa"
+        ],
+        [
+            "Adina Magda Florea",
+            "Cristian Bancu"
+        ],
+        [
+            "Gabriel Iuhasz",
+            "Viorel Negru"
+        ],
+        [
+            "Ciprian Dobre",
+            "Stefan Trausan-Matu"
+        ],
+        [
+            "Florin Pop",
+            "Valentin Cristea"
+        ],
+        [
+            "Chien-Ming Wang",
+            "Ralf-Peter Mundani"
+        ],
+        [
+            "Jerome Frisch",
+            "Ruiping Gao"
+        ],
+        [
+            "Liviu Octavian Mafteiu-Scai",
+            "Viorel Negru"
+        ],
+        [
+            "Carlo Bellettini",
+            "Matteo Camilli"
+        ],
+        [
+            "Daniel Simson",
+            "Marcin Gasiorek"
         ]
     ],
     "collaborator_groups": {
@@ -3636,824 +3636,60 @@
     },
     "collaborator_group_links": [
         [
-            "Bogdan Aman",
-            "Gabriel Ciobanu"
+            "AA-BEEE",
+            "ENT-48A5"
         ],
         [
-            "James Ahtes",
-            "Stefano Bocconi"
+            "DS-24A3",
+            "DS-3812"
         ],
         [
-            "Ciprian Dobre",
-            "Mihai Dascalu"
+            "BA-4791",
+            "ENT-48A5"
         ],
         [
-            "Ioan Lucian Muntean",
-            "Radu Ioan Peter"
+            "AA-BEEE",
+            "BA-4791"
         ],
         [
-            "Delia Mitrea",
-            "Sergiu Nedevschi"
+            "AMF-56E5",
+            "MI-F02E"
         ],
         [
-            "Adina Magda Florea",
-            "Ciprian Dobre"
+            "DA-44C2",
+            "DA-EC1F"
         ],
         [
-            "Stefan Andrei",
-            "Timothy H. McNicholl"
+            "LOM-9B60",
+            "TF-F60D"
         ],
         [
-            "Carlo Bellettini",
-            "Lorenzo Capra"
+            "DA-44C2",
+            "DA-9D90"
         ],
         [
-            "Danilo Ardagna",
-            "Filippo Lorenzo Ferraris"
+            "GI-B237",
+            "TF-F60D"
         ],
         [
-            "Teodor-Florin Fortis",
-            "Victor Ion Munteanu"
+            "AC-6087",
+            "AC-AAF6"
         ],
         [
-            "Dimitris Zeginis",
-            "Francesco D&apos;Andria"
+            "CM-B405",
+            "TF-F60D"
         ],
         [
-            "Danilo Ardagna",
-            "Davide Franceschelli"
+            "ID-54C0",
+            "ME-B320"
         ],
         [
-            "Brice Morin",
-            "Franck Fleurey"
+            "GI-B237",
+            "LOM-9B60"
         ],
         [
-            "David J. Wilson",
-            "Matthew England"
-        ],
-        [
-            "Davide Franceschelli",
-            "Mario Pio Gioiosa"
-        ],
-        [
-            "Cristina Vatamanu",
-            "Razvan Benchea"
-        ],
-        [
-            "Daniel Langr",
-            "Ivan Simecek"
-        ],
-        [
-            "Ciprian Dobre",
-            "Stefan Trausan-Matu"
-        ],
-        [
-            "Bogdan Caruntu",
-            "Romeo Negrea"
-        ],
-        [
-            "Delia Mitrea",
-            "Radu Badea"
-        ],
-        [
-            "Ciprian Dobre",
-            "Cristian Bancu"
-        ],
-        [
-            "Elisabetta Di Nitto",
-            "Eva Gjeci"
-        ],
-        [
-            "Elisabetta Di Nitto",
-            "Eros Lever"
-        ],
-        [
-            "Adrian Mocanu",
-            "Nicolae Tapus"
-        ],
-        [
-            "Costin Badica",
-            "Sorin Ilie"
-        ],
-        [
-            "Cristina Mindruta",
-            "Teodor-Florin Fortis"
-        ],
-        [
-            "Arnor Solberg",
-            "Franck Fleurey"
-        ],
-        [
-            "Matthew England",
-            "Russell J. Bradford"
-        ],
-        [
-            "Ioan Lucian Muntean",
-            "Marius Joldos"
-        ],
-        [
-            "Eros Lever",
-            "Eva Gjeci"
-        ],
-        [
-            "Henri Luchian",
-            "Mihaela Elena Breaban"
-        ],
-        [
-            "Adina Magda Florea",
-            "Monica Dagadita"
-        ],
-        [
-            "Gabriel Iuhasz",
-            "Viorel Negru"
-        ],
-        [
-            "Cristian Bancu",
-            "Monica Dagadita"
-        ],
-        [
-            "Albert M. K. Cheng",
-            "Stefan Andrei"
-        ],
-        [
-            "Dimitris Zeginis",
-            "Jesus Gorronogoitia Cruz"
-        ],
-        [
-            "Donato Lucia",
-            "Tabassum Sharif"
-        ],
-        [
-            "Isabela Dramnesc",
-            "Tudor Jebelean"
-        ],
-        [
-            "Frantisek Darena",
-            "Jan Zizka"
-        ],
-        [
-            "Alin Suciu",
-            "Kinga Marton"
-        ],
-        [
-            "Donato Lucia",
-            "Elisabetta Di Nitto"
-        ],
-        [
-            "Victor Ion Munteanu",
-            "Viorel Negru"
-        ],
-        [
-            "Daniel Butoianu",
-            "Doru Todinca"
-        ],
-        [
-            "Davide Franceschelli",
-            "Filippo Lorenzo Ferraris"
-        ],
-        [
-            "Danilo Ardagna",
-            "Donato Lucia"
-        ],
-        [
-            "Dan A. Simovici",
-            "Henri Luchian"
-        ],
-        [
-            "Adrian Colesa",
-            "Ciprian Oprisa"
-        ],
-        [
-            "Eva Gjeci",
-            "Simone Benefico"
-        ],
-        [
-            "Chien-Ming Wang",
-            "Ruiping Gao"
-        ],
-        [
-            "Ricardo Gonzalez Gomarasca",
-            "Simone Benefico"
-        ],
-        [
-            "Alin Suciu",
-            "Peter Toth"
-        ],
-        [
-            "Brice Morin",
-            "Iokanaan Goutier"
-        ],
-        [
-            "Ivan Simecek",
-            "Pavel Tvrdik"
-        ],
-        [
-            "Chien-Ming Wang",
-            "Jerome Frisch"
-        ],
-        [
-            "Elena V. Ravve",
-            "Tomer Kotek"
-        ],
-        [
-            "Mircea Marin",
-            "Temur Kutsia"
-        ],
-        [
-            "Mihai Dascalu",
-            "Mihnea Donciu"
-        ],
-        [
-            "Adrian Colesa",
-            "Ioan Stan"
-        ],
-        [
-            "Liviu Octavian Mafteiu-Scai",
-            "Stefan Maruster"
-        ],
-        [
-            "Bela Palancz",
-            "Levente Kovacs"
-        ],
-        [
-            "Marius Joldos",
-            "Radu Ioan Peter"
-        ],
-        [
-            "Danilo Ardagna",
-            "Elisabetta Di Nitto"
-        ],
-        [
-            "Arnor Solberg",
-            "Iokanaan Goutier"
-        ],
-        [
-            "Brenda Luderman",
-            "Paul Tarau"
-        ],
-        [
-            "Romeo Negrea",
-            "Vasile Marinca"
-        ],
-        [
-            "Brice Morin",
-            "Sebastien Mosser"
-        ],
-        [
-            "Brice Morin",
-            "Franck Chauvel"
-        ],
-        [
-            "Ciprian Dobre",
-            "Monica Dagadita"
-        ],
-        [
-            "Daniel Simson",
-            "Marcin Gasiorek"
-        ],
-        [
-            "Mihai Dascalu",
-            "Stefan Trausan-Matu"
-        ],
-        [
-            "Dimitris Zeginis",
-            "James Ahtes"
-        ],
-        [
-            "Eva Gjeci",
-            "Santo Lombardo"
-        ],
-        [
-            "Elisabetta Di Nitto",
-            "Simone Benefico"
-        ],
-        [
-            "Boris Konev",
-            "Dmitry Tishkovsky"
-        ],
-        [
-            "Andrei Alexandru",
-            "Gabriel Ciobanu"
-        ],
-        [
-            "Ricardo Gonzalez Gomarasca",
-            "Santo Lombardo"
-        ],
-        [
-            "Arnor Solberg",
-            "Sebastien Mosser"
-        ],
-        [
-            "Chien-Ming Wang",
-            "Ralf-Peter Mundani"
-        ],
-        [
-            "Arnor Solberg",
-            "Franck Chauvel"
-        ],
-        [
-            "Elisabetta Di Nitto",
-            "Tabassum Sharif"
-        ],
-        [
-            "Ernst Rank",
-            "Ruiping Gao"
-        ],
-        [
-            "Mario Pio Gioiosa",
-            "Tabassum Sharif"
-        ],
-        [
-            "Eros Lever",
-            "Simone Benefico"
-        ],
-        [
-            "Stefan Andrei",
-            "Vlad Radulescu"
-        ],
-        [
-            "Monica Tirea",
-            "Viorel Negru"
-        ],
-        [
-            "Katarzyna Zajac",
-            "Marcin Gasiorek"
-        ],
-        [
-            "Ernst Rank",
-            "Jerome Frisch"
-        ],
-        [
-            "Solomon Marcus",
-            "Stephen M. Watt"
-        ],
-        [
-            "Jan Zizka",
-            "Karel Burda"
-        ],
-        [
-            "James Ahtes",
-            "Jesus Gorronogoitia Cruz"
-        ],
-        [
-            "Elisabetta Di Nitto",
-            "Mario Pio Gioiosa"
-        ],
-        [
-            "Daniel Pletea",
-            "Florin Pop"
-        ],
-        [
-            "David J. Wilson",
-            "James H. Davenport"
-        ],
-        [
-            "Florin Pop",
-            "Valentin Cristea"
-        ],
-        [
-            "Cristina Mindruta",
-            "Victor Ion Munteanu"
-        ],
-        [
-            "Donato Lucia",
-            "Mario Pio Gioiosa"
-        ],
-        [
-            "Clare Dixon",
-            "Dmitry Tishkovsky"
-        ],
-        [
-            "Jerome Frisch",
-            "Ruiping Gao"
-        ],
-        [
-            "Danilo Ardagna",
-            "Eva Gjeci"
-        ],
-        [
-            "Danilo Ardagna",
-            "Eros Lever"
-        ],
-        [
-            "Jesus Gorronogoitia Cruz",
-            "Stefano Bocconi"
-        ],
-        [
-            "Filippo Lorenzo Ferraris",
-            "Tabassum Sharif"
-        ],
-        [
-            "Dragos Gavrilut",
-            "Razvan Benchea"
-        ],
-        [
-            "Elisabetta Di Nitto",
-            "Santo Lombardo"
-        ],
-        [
-            "Danilo Ardagna",
-            "Simone Benefico"
-        ],
-        [
-            "Cristina Vatamanu",
-            "Dragos Gavrilut"
-        ],
-        [
-            "Franck Fleurey",
-            "Iokanaan Goutier"
-        ],
-        [
-            "Elisabetta Di Nitto",
-            "Ricardo Gonzalez Gomarasca"
-        ],
-        [
-            "Bela Palancz",
-            "Laura Kovacs"
-        ],
-        [
-            "Danilo Ardagna",
-            "Tabassum Sharif"
-        ],
-        [
-            "Chien-Ming Wang",
-            "Ernst Rank"
-        ],
-        [
-            "Eros Lever",
-            "Santo Lombardo"
-        ],
-        [
-            "Carlo Bellettini",
-            "Mattia Monga"
-        ],
-        [
-            "Ernst Rank",
-            "Ralf-Peter Mundani"
-        ],
-        [
-            "Ciprian Oprisa",
-            "Iosif Ignat"
-        ],
-        [
-            "Lorenzo Capra",
-            "Mattia Monga"
-        ],
-        [
-            "Eros Lever",
-            "Ricardo Gonzalez Gomarasca"
-        ],
-        [
-            "Dan A. Simovici",
-            "Mihaela Elena Breaban"
-        ],
-        [
-            "Mihai Suciu",
-            "Reka Nagy"
-        ],
-        [
-            "Mihai Dascalu",
-            "Monica Dagadita"
-        ],
-        [
-            "Mihnea Donciu",
-            "Stefan Trausan-Matu"
-        ],
-        [
-            "Elisabetta Di Nitto",
-            "Filippo Lorenzo Ferraris"
-        ],
-        [
-            "Carlo Bellettini",
-            "Matteo Camilli"
-        ],
-        [
-            "D. Dumitrescu",
-            "Mihai Suciu"
-        ],
-        [
-            "Lorenzo Capra",
-            "Matteo Camilli"
-        ],
-        [
-            "Bogdan Aman",
-            "G. Michele Pinna"
-        ],
-        [
-            "D. Dumitrescu",
-            "Reka Nagy"
-        ],
-        [
-            "Donato Lucia",
-            "Filippo Lorenzo Ferraris"
-        ],
-        [
-            "Denis Enachescu",
-            "Vinicius Almendra"
-        ],
-        [
-            "Albert M. K. Cheng",
-            "Timothy H. McNicholl"
-        ],
-        [
-            "Madalina Ionita",
-            "Mihai Dascalu"
-        ],
-        [
-            "Francesco D&apos;Andria",
-            "James Ahtes"
-        ],
-        [
-            "Eva Gjeci",
-            "Ricardo Gonzalez Gomarasca"
-        ],
-        [
-            "Madalina Ionita",
-            "Mihnea Donciu"
-        ],
-        [
-            "Remus Daniel Ene",
-            "Romeo Negrea"
-        ],
-        [
-            "Davide Franceschelli",
-            "Donato Lucia"
-        ],
-        [
-            "Ralf-Peter Mundani",
-            "Ruiping Gao"
-        ],
-        [
-            "Daniel Simson",
-            "Mariusz Felisiak"
-        ],
-        [
-            "Jerome Frisch",
-            "Ralf-Peter Mundani"
-        ],
-        [
-            "Radu Badea",
-            "Sergiu Nedevschi"
-        ],
-        [
-            "Bogdan Caruntu",
-            "Vasile Marinca"
-        ],
-        [
-            "Franck Chauvel",
-            "Franck Fleurey"
-        ],
-        [
-            "Boris Konev",
-            "Renate A. Schmidt"
-        ],
-        [
-            "Danilo Ardagna",
-            "Santo Lombardo"
-        ],
-        [
-            "Bogdan Caruntu",
-            "Remus Daniel Ene"
-        ],
-        [
-            "Andrei Mocanu",
-            "Costin Badica"
-        ],
-        [
-            "Quratul-ain Mahesar",
-            "Volker Sorge"
-        ],
-        [
-            "Dimitris Zeginis",
-            "Stefano Bocconi"
-        ],
-        [
-            "Elena V. Ravve",
-            "Johann A. Makowsky"
-        ],
-        [
-            "Francesco D&apos;Andria",
-            "Jesus Gorronogoitia Cruz"
-        ],
-        [
-            "Giuliano Casale",
-            "Jean Moschetta"
-        ],
-        [
-            "Madalina Ionita",
-            "Stefan Trausan-Matu"
-        ],
-        [
-            "Dmitry Tishkovsky",
-            "Renate A. Schmidt"
-        ],
-        [
-            "Madalina Erascu",
-            "Tudor Jebelean"
-        ],
-        [
-            "Davide Franceschelli",
-            "Elisabetta Di Nitto"
-        ],
-        [
-            "Gabriel Iuhasz",
-            "Monica Tirea"
-        ],
-        [
-            "Adrian Turcanu",
-            "Florentin Ipate"
-        ],
-        [
-            "Matteo Camilli",
-            "Mattia Monga"
-        ],
-        [
-            "Andrei Arusoaie",
-            "Daniel Ionut Vicol"
-        ],
-        [
-            "Ana Claudia Sima",
-            "Emil Slusanschi"
-        ],
-        [
-            "Iokanaan Goutier",
-            "Sebastien Mosser"
-        ],
-        [
-            "Andrei Mocanu",
-            "Sorin Ilie"
-        ],
-        [
-            "Andrzej Mroz",
-            "Stanislaw Kasjan"
-        ],
-        [
-            "Albert M. K. Cheng",
-            "Vlad Radulescu"
-        ],
-        [
-            "Kinga Marton",
-            "Peter Toth"
-        ],
-        [
-            "Clare Dixon",
-            "Renate A. Schmidt"
-        ],
-        [
-            "Adina Magda Florea",
-            "Mihai Dascalu"
-        ],
-        [
-            "Monica Dagadita",
-            "Stefan Trausan-Matu"
-        ],
-        [
-            "Liviu Octavian Mafteiu-Scai",
-            "Viorel Negru"
-        ],
-        [
-            "Cristian Bancu",
-            "Mihai Dascalu"
-        ],
-        [
-            "Frantisek Darena",
-            "Karel Burda"
-        ],
-        [
-            "Andrei Sucila",
-            "Mihai Cimpoesu"
-        ],
-        [
-            "Giuseppe Aversano",
-            "Massimiliano Rak"
-        ],
-        [
-            "Daniel Tovarnak",
-            "Tomas Pitner"
-        ],
-        [
-            "Boris Konev",
-            "Clare Dixon"
-        ],
-        [
-            "Timothy H. McNicholl",
-            "Vlad Radulescu"
-        ],
-        [
-            "G. Michele Pinna",
-            "Gabriel Ciobanu"
-        ],
-        [
-            "Filippo Lorenzo Ferraris",
-            "Mario Pio Gioiosa"
-        ],
-        [
-            "James H. Davenport",
-            "Russell J. Bradford"
-        ],
-        [
-            "Teodor-Florin Fortis",
-            "Viorel Negru"
-        ],
-        [
-            "Arnor Solberg",
-            "Brice Morin"
-        ],
-        [
-            "Laura Kovacs",
-            "Levente Kovacs"
-        ],
-        [
-            "Franck Chauvel",
-            "Iokanaan Goutier"
-        ],
-        [
-            "Liviu P. Dinu",
-            "Radu Tudor Ionescu"
-        ],
-        [
-            "Franck Fleurey",
-            "Sebastien Mosser"
-        ],
-        [
-            "Adina Magda Florea",
-            "Stefan Trausan-Matu"
-        ],
-        [
-            "Stefan Maruster",
-            "Viorel Negru"
-        ],
-        [
-            "Johann A. Makowsky",
-            "Tomer Kotek"
-        ],
-        [
-            "Adina Magda Florea",
-            "Cristian Bancu"
-        ],
-        [
-            "Danilo Ardagna",
-            "Mario Pio Gioiosa"
-        ],
-        [
-            "Cristian Bancu",
-            "Stefan Trausan-Matu"
-        ],
-        [
-            "Daniel Simson",
-            "Katarzyna Zajac"
-        ],
-        [
-            "Adrian Colesa",
-            "Iosif Ignat"
-        ],
-        [
-            "Daniel Pletea",
-            "Valentin Cristea"
-        ],
-        [
-            "Eneia Nicolae Todoran",
-            "Gabriel Ciobanu"
-        ],
-        [
-            "Franck Chauvel",
-            "Sebastien Mosser"
-        ],
-        [
-            "Daniel Langr",
-            "Pavel Tvrdik"
-        ],
-        [
-            "David J. Wilson",
-            "Russell J. Bradford"
-        ],
-        [
-            "James H. Davenport",
-            "Matthew England"
-        ],
-        [
-            "Danilo Ardagna",
-            "Ricardo Gonzalez Gomarasca"
-        ],
-        [
-            "Adrian F. Spataru",
-            "Marc Frincu"
-        ],
-        [
-            "Santo Lombardo",
-            "Simone Benefico"
-        ],
-        [
-            "Remus Daniel Ene",
-            "Vasile Marinca"
-        ],
-        [
-            "Francesco D&apos;Andria",
-            "Stefano Bocconi"
-        ],
-        [
-            "Davide Franceschelli",
-            "Tabassum Sharif"
+            "DA-9D90",
+            "DA-EC1F"
         ]
     ]
 }

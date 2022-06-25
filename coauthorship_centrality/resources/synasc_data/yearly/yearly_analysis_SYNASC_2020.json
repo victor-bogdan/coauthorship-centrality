@@ -65,8 +65,8 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Mihail Gaianu",
-                "Sebastian-Aurelian Stefaniga"
+                "Sebastian-Aurelian Stefaniga",
+                "Mihail Gaianu"
             ],
             "author_closeness_centrality": 0.02222222222222222,
             "author_betweenness_centrality": 0.0,
@@ -77,9 +77,9 @@
             "author_total_citations": 1,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Ionut-Adrian Tarba",
                 "Sorin Valcan",
-                "Sebastian-Aurelian Stefaniga"
+                "Sebastian-Aurelian Stefaniga",
+                "Ionut-Adrian Tarba"
             ],
             "author_closeness_centrality": 0.02666666666666667,
             "author_betweenness_centrality": 0.00042016806722689073,
@@ -91,8 +91,8 @@
             "author_total_papers": 2,
             "author_total_collaborators": [
                 "Alexandru Ionascu",
-                "Ionut-Adrian Tarba",
-                "Mihail Gaianu"
+                "Mihail Gaianu",
+                "Ionut-Adrian Tarba"
             ],
             "author_closeness_centrality": 0.02666666666666667,
             "author_betweenness_centrality": 0.00042016806722689073,
@@ -112,9 +112,9 @@
             "author_total_citations": 7,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Michael Emmerich",
                 "Aske Plaat",
-                "Mike Preuss"
+                "Mike Preuss",
+                "Michael Emmerich"
             ],
             "author_closeness_centrality": 0.025,
             "author_betweenness_centrality": 0.0,
@@ -125,9 +125,9 @@
             "author_total_citations": 7,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Michael Emmerich",
                 "Hui Wang",
-                "Aske Plaat"
+                "Aske Plaat",
+                "Michael Emmerich"
             ],
             "author_closeness_centrality": 0.025,
             "author_betweenness_centrality": 0.0,
@@ -151,9 +151,9 @@
             "author_total_citations": 7,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Michael Emmerich",
                 "Hui Wang",
-                "Mike Preuss"
+                "Mike Preuss",
+                "Michael Emmerich"
             ],
             "author_closeness_centrality": 0.025,
             "author_betweenness_centrality": 0.0,
@@ -176,8 +176,8 @@
             "author_total_citations": 5,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Cosmin Bonchis",
-                "Ciprian Orhei"
+                "Ciprian Orhei",
+                "Cosmin Bonchis"
             ],
             "author_closeness_centrality": 0.02222222222222222,
             "author_betweenness_centrality": 0.0,
@@ -188,10 +188,10 @@
             "author_total_citations": 6,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Victor Bogdan",
+                "Ciprian Orhei",
                 "Eva Kaslik",
-                "Florin Rosu",
-                "Ciprian Orhei"
+                "Victor Bogdan",
+                "Florin Rosu"
             ],
             "author_closeness_centrality": 0.03333333333333333,
             "author_betweenness_centrality": 0.0005602240896358543,
@@ -214,8 +214,8 @@
             "author_total_citations": 3,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Letizia Jaccheri",
-                "Swetlana Fast"
+                "Swetlana Fast",
+                "Letizia Jaccheri"
             ],
             "author_closeness_centrality": 0.016666666666666666,
             "author_betweenness_centrality": 0.0,
@@ -260,10 +260,10 @@
             "author_total_citations": 6,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Georgios Meditskos",
-                "Roman Sosa Gonzalez",
-                "Dragan Radolovic",
                 "Jesus Gorronogoitia",
+                "Roman Sosa Gonzalez",
+                "Georgios Meditskos",
+                "Dragan Radolovic",
                 "Indika Kumara",
                 "Karthee Sivalingam"
             ],
@@ -276,11 +276,11 @@
             "author_total_citations": 6,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Georgios Meditskos",
                 "Roman Sosa Gonzalez",
+                "Georgios Meditskos",
+                "Elisabetta Di Nitto",
                 "Dragan Radolovic",
                 "Indika Kumara",
-                "Elisabetta Di Nitto",
                 "Karthee Sivalingam"
             ],
             "author_closeness_centrality": 0.051041666666666666,
@@ -292,11 +292,11 @@
             "author_total_citations": 6,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Georgios Meditskos",
-                "Roman Sosa Gonzalez",
-                "Dragan Radolovic",
                 "Jesus Gorronogoitia",
+                "Roman Sosa Gonzalez",
+                "Georgios Meditskos",
                 "Elisabetta Di Nitto",
+                "Dragan Radolovic",
                 "Karthee Sivalingam"
             ],
             "author_closeness_centrality": 0.051041666666666666,
@@ -308,11 +308,11 @@
             "author_total_citations": 6,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Roman Sosa Gonzalez",
-                "Dragan Radolovic",
                 "Jesus Gorronogoitia",
-                "Indika Kumara",
+                "Roman Sosa Gonzalez",
                 "Elisabetta Di Nitto",
+                "Dragan Radolovic",
+                "Indika Kumara",
                 "Karthee Sivalingam"
             ],
             "author_closeness_centrality": 0.051041666666666666,
@@ -324,13 +324,13 @@
             "author_total_citations": 6,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Daniel Vladusic",
-                "Indika Kumara",
-                "Karthee Sivalingam",
+                "Jesus Gorronogoitia",
+                "Roman Sosa Gonzalez",
                 "Elisabetta Di Nitto",
                 "Georgios Meditskos",
-                "Jesus Gorronogoitia",
-                "Roman Sosa Gonzalez"
+                "Daniel Vladusic",
+                "Indika Kumara",
+                "Karthee Sivalingam"
             ],
             "author_closeness_centrality": 0.058333333333333334,
             "author_betweenness_centrality": 0.0008403361344537815,
@@ -341,12 +341,12 @@
             "author_total_citations": 6,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Georgios Meditskos",
-                "Roman Sosa Gonzalez",
-                "Dragan Radolovic",
                 "Jesus Gorronogoitia",
-                "Indika Kumara",
-                "Elisabetta Di Nitto"
+                "Roman Sosa Gonzalez",
+                "Georgios Meditskos",
+                "Elisabetta Di Nitto",
+                "Dragan Radolovic",
+                "Indika Kumara"
             ],
             "author_closeness_centrality": 0.051041666666666666,
             "author_betweenness_centrality": 0.0,
@@ -357,11 +357,11 @@
             "author_total_citations": 6,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Georgios Meditskos",
-                "Dragan Radolovic",
                 "Jesus Gorronogoitia",
-                "Indika Kumara",
+                "Georgios Meditskos",
                 "Elisabetta Di Nitto",
+                "Dragan Radolovic",
+                "Indika Kumara",
                 "Karthee Sivalingam"
             ],
             "author_closeness_centrality": 0.051041666666666666,
@@ -395,8 +395,8 @@
             "author_total_citations": 2,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Danielle S. McNamara",
-                "Mihai Dascalu"
+                "Mihai Dascalu",
+                "Danielle S. McNamara"
             ],
             "author_closeness_centrality": 0.05454545454545454,
             "author_betweenness_centrality": 0.0,
@@ -407,18 +407,18 @@
             "author_total_citations": 2,
             "author_total_papers": 3,
             "author_total_collaborators": [
-                "Sunhea Choi",
-                "Brigitte Angela Brands",
-                "Gabriel Gutu-Robu",
-                "Cosmin Titiliuc",
-                "Mihai Carabas",
-                "Darius Mihai",
-                "Keith M. Godfrey",
-                "Stefan Trausan-Matu",
-                "Berthold Koletzko",
-                "Stefan Ruseti",
                 "Danielle S. McNamara",
-                "Valentin Sergiu Cioaca"
+                "Gabriel Gutu-Robu",
+                "Brigitte Angela Brands",
+                "Sunhea Choi",
+                "Berthold Koletzko",
+                "Cosmin Titiliuc",
+                "Darius Mihai",
+                "Valentin Sergiu Cioaca",
+                "Stefan Trausan-Matu",
+                "Keith M. Godfrey",
+                "Mihai Carabas",
+                "Stefan Ruseti"
             ],
             "author_closeness_centrality": 0.1,
             "author_betweenness_centrality": 0.0050420168067226885,
@@ -429,8 +429,8 @@
             "author_total_citations": 2,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Valentin Sergiu Cioaca",
-                "Mihai Dascalu"
+                "Mihai Dascalu",
+                "Valentin Sergiu Cioaca"
             ],
             "author_closeness_centrality": 0.05454545454545454,
             "author_betweenness_centrality": 0.0,
@@ -453,8 +453,8 @@
             "author_total_citations": 1,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Valentin Ganchenko",
-                "Xiangtao Zheng"
+                "Xiangtao Zheng",
+                "Valentin Ganchenko"
             ],
             "author_closeness_centrality": 0.016666666666666666,
             "author_betweenness_centrality": 0.0,
@@ -478,8 +478,8 @@
             "author_total_papers": 1,
             "author_total_collaborators": [
                 "Florin Alin Sava",
-                "Virgil Cervicescu",
-                "Andrei Rusu"
+                "Andrei Rusu",
+                "Virgil Cervicescu"
             ],
             "author_closeness_centrality": 0.025,
             "author_betweenness_centrality": 0.0,
@@ -490,9 +490,9 @@
             "author_total_citations": 1,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Virgil Cervicescu",
+                "Andrei Rusu",
                 "Diana Paula Dudau",
-                "Andrei Rusu"
+                "Virgil Cervicescu"
             ],
             "author_closeness_centrality": 0.025,
             "author_betweenness_centrality": 0.0,
@@ -504,8 +504,8 @@
             "author_total_papers": 1,
             "author_total_collaborators": [
                 "Florin Alin Sava",
-                "Virgil Cervicescu",
-                "Diana Paula Dudau"
+                "Diana Paula Dudau",
+                "Virgil Cervicescu"
             ],
             "author_closeness_centrality": 0.025,
             "author_betweenness_centrality": 0.0,
@@ -517,8 +517,8 @@
             "author_total_papers": 1,
             "author_total_collaborators": [
                 "Florin Alin Sava",
-                "Diana Paula Dudau",
-                "Andrei Rusu"
+                "Andrei Rusu",
+                "Diana Paula Dudau"
             ],
             "author_closeness_centrality": 0.025,
             "author_betweenness_centrality": 0.0,
@@ -529,9 +529,9 @@
             "author_total_citations": 2,
             "author_total_papers": 1,
             "author_total_collaborators": [
+                "Teodora Grosu",
                 "Adrian Iftene",
                 "Ciprian-Gabriel Cusmuliuc",
-                "Teodora Grosu",
                 "Vladut-Haralambie Morosanu"
             ],
             "author_closeness_centrality": 0.03333333333333333,
@@ -543,9 +543,9 @@
             "author_total_citations": 2,
             "author_total_papers": 1,
             "author_total_collaborators": [
+                "Teodora Grosu",
                 "Adrian Iftene",
                 "Lucia Georgiana Coca",
-                "Teodora Grosu",
                 "Vladut-Haralambie Morosanu"
             ],
             "author_closeness_centrality": 0.03333333333333333,
@@ -557,10 +557,10 @@
             "author_total_citations": 2,
             "author_total_papers": 1,
             "author_total_collaborators": [
+                "Teodora Grosu",
                 "Adrian Iftene",
-                "Lucia Georgiana Coca",
                 "Ciprian-Gabriel Cusmuliuc",
-                "Teodora Grosu"
+                "Lucia Georgiana Coca"
             ],
             "author_closeness_centrality": 0.03333333333333333,
             "author_betweenness_centrality": 0.0,
@@ -572,8 +572,8 @@
             "author_total_papers": 1,
             "author_total_collaborators": [
                 "Adrian Iftene",
-                "Lucia Georgiana Coca",
                 "Ciprian-Gabriel Cusmuliuc",
+                "Lucia Georgiana Coca",
                 "Vladut-Haralambie Morosanu"
             ],
             "author_closeness_centrality": 0.03333333333333333,
@@ -585,9 +585,9 @@
             "author_total_citations": 2,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Lucia Georgiana Coca",
-                "Ciprian-Gabriel Cusmuliuc",
                 "Teodora Grosu",
+                "Ciprian-Gabriel Cusmuliuc",
+                "Lucia Georgiana Coca",
                 "Vladut-Haralambie Morosanu"
             ],
             "author_closeness_centrality": 0.03333333333333333,
@@ -599,8 +599,8 @@
             "author_total_citations": 2,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Ciprian Pungila",
-                "Spataru Alexe Luca"
+                "Spataru Alexe Luca",
+                "Ciprian Pungila"
             ],
             "author_closeness_centrality": 0.016666666666666666,
             "author_betweenness_centrality": 0.0,
@@ -611,8 +611,8 @@
             "author_total_citations": 2,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Ciprian Pungila",
-                "Togoe Nicolae-Bogdan-Cristian"
+                "Togoe Nicolae-Bogdan-Cristian",
+                "Ciprian Pungila"
             ],
             "author_closeness_centrality": 0.016666666666666666,
             "author_betweenness_centrality": 0.0,
@@ -623,8 +623,8 @@
             "author_total_citations": 2,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Togoe Nicolae-Bogdan-Cristian",
-                "Spataru Alexe Luca"
+                "Spataru Alexe Luca",
+                "Togoe Nicolae-Bogdan-Cristian"
             ],
             "author_closeness_centrality": 0.016666666666666666,
             "author_betweenness_centrality": 0.0,
@@ -688,8 +688,8 @@
             "author_total_citations": 1,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Thuy Trang Nguyen",
-                "Mary Sharac Granda"
+                "Mary Sharac Granda",
+                "Thuy Trang Nguyen"
             ],
             "author_closeness_centrality": 0.016666666666666666,
             "author_betweenness_centrality": 0.0,
@@ -746,11 +746,11 @@
             "author_total_citations": 1,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Zijian Gyozo Yang",
-                "Tamas Balla",
                 "Imre Bajak",
                 "Csaba Biro",
-                "Tibor Tajti"
+                "Tamas Balla",
+                "Tibor Tajti",
+                "Zijian Gyozo Yang"
             ],
             "author_closeness_centrality": 0.041666666666666664,
             "author_betweenness_centrality": 0.0,
@@ -761,11 +761,11 @@
             "author_total_citations": 1,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Zijian Gyozo Yang",
                 "Imre Bajak",
                 "Csaba Biro",
                 "Gabor Kusper",
-                "Tibor Tajti"
+                "Tibor Tajti",
+                "Zijian Gyozo Yang"
             ],
             "author_closeness_centrality": 0.041666666666666664,
             "author_betweenness_centrality": 0.0,
@@ -776,11 +776,11 @@
             "author_total_citations": 1,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Zijian Gyozo Yang",
-                "Tamas Balla",
                 "Imre Bajak",
                 "Gabor Kusper",
-                "Tibor Tajti"
+                "Tamas Balla",
+                "Tibor Tajti",
+                "Zijian Gyozo Yang"
             ],
             "author_closeness_centrality": 0.041666666666666664,
             "author_betweenness_centrality": 0.0,
@@ -791,11 +791,11 @@
             "author_total_citations": 1,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Zijian Gyozo Yang",
-                "Tamas Balla",
                 "Imre Bajak",
                 "Csaba Biro",
-                "Gabor Kusper"
+                "Gabor Kusper",
+                "Tamas Balla",
+                "Zijian Gyozo Yang"
             ],
             "author_closeness_centrality": 0.041666666666666664,
             "author_betweenness_centrality": 0.0,
@@ -806,10 +806,10 @@
             "author_total_citations": 1,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Tamas Balla",
                 "Imre Bajak",
                 "Csaba Biro",
                 "Gabor Kusper",
+                "Tamas Balla",
                 "Tibor Tajti"
             ],
             "author_closeness_centrality": 0.041666666666666664,
@@ -821,11 +821,11 @@
             "author_total_citations": 1,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Zijian Gyozo Yang",
-                "Tamas Balla",
                 "Csaba Biro",
                 "Gabor Kusper",
-                "Tibor Tajti"
+                "Tamas Balla",
+                "Tibor Tajti",
+                "Zijian Gyozo Yang"
             ],
             "author_closeness_centrality": 0.041666666666666664,
             "author_betweenness_centrality": 0.0,
@@ -836,8 +836,8 @@
             "author_total_citations": 1,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Cosmin Bonchis",
-                "Eva Kaslik"
+                "Eva Kaslik",
+                "Cosmin Bonchis"
             ],
             "author_closeness_centrality": 0.02222222222222222,
             "author_betweenness_centrality": 0.0,
@@ -860,11 +860,11 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Danilo Ardagna",
                 "Michele Ciavotta",
                 "Marco Lattuada",
+                "Edoardo Amaldi",
                 "Arezoo Jahani",
-                "Edoardo Amaldi"
+                "Danilo Ardagna"
             ],
             "author_closeness_centrality": 0.041666666666666664,
             "author_betweenness_centrality": 0.0,
@@ -875,11 +875,11 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Danilo Ardagna",
-                "Federica Filippini",
                 "Michele Ciavotta",
+                "Federica Filippini",
+                "Edoardo Amaldi",
                 "Arezoo Jahani",
-                "Edoardo Amaldi"
+                "Danilo Ardagna"
             ],
             "author_closeness_centrality": 0.041666666666666664,
             "author_betweenness_centrality": 0.0,
@@ -890,11 +890,11 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Danilo Ardagna",
-                "Federica Filippini",
                 "Michele Ciavotta",
+                "Federica Filippini",
                 "Marco Lattuada",
-                "Edoardo Amaldi"
+                "Edoardo Amaldi",
+                "Danilo Ardagna"
             ],
             "author_closeness_centrality": 0.041666666666666664,
             "author_betweenness_centrality": 0.0,
@@ -905,11 +905,11 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Danilo Ardagna",
                 "Federica Filippini",
                 "Marco Lattuada",
+                "Edoardo Amaldi",
                 "Arezoo Jahani",
-                "Edoardo Amaldi"
+                "Danilo Ardagna"
             ],
             "author_closeness_centrality": 0.041666666666666664,
             "author_betweenness_centrality": 0.0,
@@ -920,11 +920,11 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Federica Filippini",
                 "Michele Ciavotta",
+                "Federica Filippini",
                 "Marco Lattuada",
-                "Arezoo Jahani",
-                "Edoardo Amaldi"
+                "Edoardo Amaldi",
+                "Arezoo Jahani"
             ],
             "author_closeness_centrality": 0.041666666666666664,
             "author_betweenness_centrality": 0.0,
@@ -935,11 +935,11 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Danilo Ardagna",
-                "Federica Filippini",
                 "Michele Ciavotta",
+                "Federica Filippini",
                 "Marco Lattuada",
-                "Arezoo Jahani"
+                "Arezoo Jahani",
+                "Danilo Ardagna"
             ],
             "author_closeness_centrality": 0.041666666666666664,
             "author_betweenness_centrality": 0.0,
@@ -950,8 +950,8 @@
             "author_total_citations": 0,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Bashar Al Asaad",
-                "Viorel Negru"
+                "Viorel Negru",
+                "Bashar Al Asaad"
             ],
             "author_closeness_centrality": 0.016666666666666666,
             "author_betweenness_centrality": 0.00014005602240896358,
@@ -995,8 +995,8 @@
             "author_total_citations": 1,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Ioan-Gabriel Mircea",
                 "Emilia-Loredana Pop",
+                "Ioan-Gabriel Mircea",
                 "Iulia-Monica Szuhai"
             ],
             "author_closeness_centrality": 0.025,
@@ -1008,8 +1008,8 @@
             "author_total_citations": 1,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Ioan-Gabriel Mircea",
                 "Emilia-Loredana Pop",
+                "Ioan-Gabriel Mircea",
                 "Maria-Iuliana Bocicor"
             ],
             "author_closeness_centrality": 0.025,
@@ -1078,14 +1078,14 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Sunhea Choi",
+                "Mihai Dascalu",
                 "Brigitte Angela Brands",
-                "Mihai Carabas",
+                "Sunhea Choi",
+                "Berthold Koletzko",
+                "Stefan Trausan-Matu",
                 "Darius Mihai",
                 "Keith M. Godfrey",
-                "Stefan Trausan-Matu",
-                "Mihai Dascalu",
-                "Berthold Koletzko"
+                "Mihai Carabas"
             ],
             "author_closeness_centrality": 0.07500000000000001,
             "author_betweenness_centrality": 0.0,
@@ -1096,14 +1096,14 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Sunhea Choi",
-                "Brigitte Angela Brands",
-                "Gabriel Gutu-Robu",
-                "Mihai Carabas",
-                "Keith M. Godfrey",
-                "Stefan Trausan-Matu",
                 "Mihai Dascalu",
-                "Berthold Koletzko"
+                "Gabriel Gutu-Robu",
+                "Brigitte Angela Brands",
+                "Sunhea Choi",
+                "Berthold Koletzko",
+                "Stefan Trausan-Matu",
+                "Keith M. Godfrey",
+                "Mihai Carabas"
             ],
             "author_closeness_centrality": 0.07500000000000001,
             "author_betweenness_centrality": 0.0,
@@ -1114,14 +1114,14 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Sunhea Choi",
-                "Brigitte Angela Brands",
-                "Gabriel Gutu-Robu",
-                "Darius Mihai",
-                "Keith M. Godfrey",
-                "Stefan Trausan-Matu",
                 "Mihai Dascalu",
-                "Berthold Koletzko"
+                "Gabriel Gutu-Robu",
+                "Brigitte Angela Brands",
+                "Sunhea Choi",
+                "Berthold Koletzko",
+                "Stefan Trausan-Matu",
+                "Darius Mihai",
+                "Keith M. Godfrey"
             ],
             "author_closeness_centrality": 0.07500000000000001,
             "author_betweenness_centrality": 0.0,
@@ -1132,14 +1132,14 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Sunhea Choi",
-                "Brigitte Angela Brands",
+                "Mihai Dascalu",
                 "Gabriel Gutu-Robu",
-                "Mihai Carabas",
+                "Brigitte Angela Brands",
+                "Sunhea Choi",
+                "Berthold Koletzko",
                 "Darius Mihai",
                 "Keith M. Godfrey",
-                "Mihai Dascalu",
-                "Berthold Koletzko"
+                "Mihai Carabas"
             ],
             "author_closeness_centrality": 0.07500000000000001,
             "author_betweenness_centrality": 0.0,
@@ -1150,14 +1150,14 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Brigitte Angela Brands",
+                "Mihai Dascalu",
                 "Gabriel Gutu-Robu",
-                "Mihai Carabas",
+                "Brigitte Angela Brands",
+                "Berthold Koletzko",
+                "Stefan Trausan-Matu",
                 "Darius Mihai",
                 "Keith M. Godfrey",
-                "Stefan Trausan-Matu",
-                "Mihai Dascalu",
-                "Berthold Koletzko"
+                "Mihai Carabas"
             ],
             "author_closeness_centrality": 0.07500000000000001,
             "author_betweenness_centrality": 0.0,
@@ -1168,14 +1168,14 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Sunhea Choi",
-                "Brigitte Angela Brands",
-                "Gabriel Gutu-Robu",
-                "Mihai Carabas",
-                "Darius Mihai",
-                "Stefan Trausan-Matu",
                 "Mihai Dascalu",
-                "Berthold Koletzko"
+                "Gabriel Gutu-Robu",
+                "Brigitte Angela Brands",
+                "Sunhea Choi",
+                "Berthold Koletzko",
+                "Stefan Trausan-Matu",
+                "Darius Mihai",
+                "Mihai Carabas"
             ],
             "author_closeness_centrality": 0.07500000000000001,
             "author_betweenness_centrality": 0.0,
@@ -1186,14 +1186,14 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Sunhea Choi",
+                "Mihai Dascalu",
                 "Gabriel Gutu-Robu",
-                "Mihai Carabas",
+                "Sunhea Choi",
+                "Berthold Koletzko",
+                "Stefan Trausan-Matu",
                 "Darius Mihai",
                 "Keith M. Godfrey",
-                "Stefan Trausan-Matu",
-                "Mihai Dascalu",
-                "Berthold Koletzko"
+                "Mihai Carabas"
             ],
             "author_closeness_centrality": 0.07500000000000001,
             "author_betweenness_centrality": 0.0,
@@ -1204,14 +1204,14 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Sunhea Choi",
-                "Brigitte Angela Brands",
+                "Mihai Dascalu",
                 "Gabriel Gutu-Robu",
-                "Mihai Carabas",
+                "Brigitte Angela Brands",
+                "Sunhea Choi",
+                "Stefan Trausan-Matu",
                 "Darius Mihai",
                 "Keith M. Godfrey",
-                "Stefan Trausan-Matu",
-                "Mihai Dascalu"
+                "Mihai Carabas"
             ],
             "author_closeness_centrality": 0.07500000000000001,
             "author_betweenness_centrality": 0.0,
@@ -1273,9 +1273,9 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Akshar Nair",
                 "James H. Davenport",
-                "Gregory Sankaran"
+                "Gregory Sankaran",
+                "Akshar Nair"
             ],
             "author_closeness_centrality": 0.025,
             "author_betweenness_centrality": 0.0,
@@ -1286,9 +1286,9 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Scott McCallum",
                 "James H. Davenport",
-                "Gregory Sankaran"
+                "Gregory Sankaran",
+                "Scott McCallum"
             ],
             "author_closeness_centrality": 0.025,
             "author_betweenness_centrality": 0.0,
@@ -1299,9 +1299,9 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Akshar Nair",
+                "Gregory Sankaran",
                 "Scott McCallum",
-                "Gregory Sankaran"
+                "Akshar Nair"
             ],
             "author_closeness_centrality": 0.025,
             "author_betweenness_centrality": 0.0,
@@ -1312,9 +1312,9 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Akshar Nair",
+                "James H. Davenport",
                 "Scott McCallum",
-                "James H. Davenport"
+                "Akshar Nair"
             ],
             "author_closeness_centrality": 0.025,
             "author_betweenness_centrality": 0.0,
@@ -1349,8 +1349,8 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Gabriel-Codrin Cojocaru",
-                "Sergiu-Andrei Dinu"
+                "Sergiu-Andrei Dinu",
+                "Gabriel-Codrin Cojocaru"
             ],
             "author_closeness_centrality": 0.016666666666666666,
             "author_betweenness_centrality": 0.0,
@@ -1436,8 +1436,8 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "K. Basu",
-                "D. J. Jeffrey"
+                "D. J. Jeffrey",
+                "K. Basu"
             ],
             "author_closeness_centrality": 0.016666666666666666,
             "author_betweenness_centrality": 0.0,
@@ -1496,8 +1496,8 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Dorin-Marian Ionita",
-                "Filip-George Manole"
+                "Filip-George Manole",
+                "Dorin-Marian Ionita"
             ],
             "author_closeness_centrality": 0.016666666666666666,
             "author_betweenness_centrality": 0.0,
@@ -1585,8 +1585,8 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Stefan Ruseti",
-                "Mihai Dascalu"
+                "Mihai Dascalu",
+                "Stefan Ruseti"
             ],
             "author_closeness_centrality": 0.05454545454545454,
             "author_betweenness_centrality": 0.0,
@@ -1608,439 +1608,59 @@
     },
     "author_links": [
         [
-            "Tibor Tajti",
-            "Zijian Gyozo Yang"
+            "Federica Filippini",
+            "Michele Ciavotta"
         ],
         [
-            "Eugen Croitoru",
-            "Sergiu-Andrei Dinu"
-        ],
-        [
-            "Michael Emmerich",
-            "Mike Preuss"
-        ],
-        [
-            "Brigitte Angela Brands",
-            "Mihai Carabas"
-        ],
-        [
-            "Cosmin Bonchis",
-            "Victor Bogdan"
-        ],
-        [
-            "Dragan Radolovic",
-            "Karthee Sivalingam"
-        ],
-        [
-            "Gabriel Gutu-Robu",
-            "Mihai Dascalu"
-        ],
-        [
-            "Gabriel Gutu-Robu",
-            "Sunhea Choi"
-        ],
-        [
-            "Edoardo Amaldi",
+            "Danilo Ardagna",
             "Marco Lattuada"
-        ],
-        [
-            "Ciprian-Gabriel Cusmuliuc",
-            "Lucia Georgiana Coca"
-        ],
-        [
-            "Arezoo Jahani",
-            "Marco Lattuada"
-        ],
-        [
-            "Robert W. McGrail",
-            "Thuy Trang Nguyen"
-        ],
-        [
-            "Ioan-Gabriel Mircea",
-            "Iulia-Monica Szuhai"
         ],
         [
             "Gabor Kusper",
-            "Imre Bajak"
+            "Tibor Tajti"
         ],
         [
-            "Berthold Koletzko",
-            "Brigitte Angela Brands"
-        ],
-        [
-            "Cosmin Titiliuc",
-            "Mihai Dascalu"
-        ],
-        [
-            "Elisabetta Di Nitto",
-            "Jesus Gorronogoitia"
-        ],
-        [
-            "Valentin Ganchenko",
-            "Xiangtao Zheng"
-        ],
-        [
-            "Letizia Jaccheri",
-            "Swetlana Fast"
-        ],
-        [
-            "Berthold Koletzko",
-            "Keith M. Godfrey"
-        ],
-        [
-            "Cosmin Bonchis",
-            "Florin Rosu"
-        ],
-        [
-            "Hui Wang",
-            "Michael Emmerich"
+            "Ciprian Orhei",
+            "Victor Bogdan"
         ],
         [
             "Bela Genge",
             "Peter Szabo"
         ],
         [
-            "Emilia-Loredana Pop",
-            "Maria-Iuliana Bocicor"
-        ],
-        [
-            "Gabriel Gutu-Robu",
-            "Stefan Trausan-Matu"
-        ],
-        [
-            "Diana Paula Dudau",
-            "Florin Alin Sava"
-        ],
-        [
-            "Cristina Pereira",
-            "Letizia Jaccheri"
-        ],
-        [
-            "Andrei Rusu",
-            "Florin Alin Sava"
-        ],
-        [
-            "Darius Mihai",
-            "Gabriel Gutu-Robu"
+            "Edoardo Amaldi",
+            "Federica Filippini"
         ],
         [
             "Brigitte Angela Brands",
-            "Sunhea Choi"
+            "Darius Mihai"
         ],
         [
-            "Brigitte Angela Brands",
-            "Mihai Dascalu"
+            "Akshar Nair",
+            "James H. Davenport"
         ],
         [
-            "Darius Mihai",
+            "Mihai Carabas",
             "Stefan Trausan-Matu"
         ],
         [
-            "Cosmin Bonchis",
-            "Eva Kaslik"
+            "Darius Mihai",
+            "Keith M. Godfrey"
         ],
         [
-            "James H. Davenport",
-            "Scott McCallum"
+            "Berthold Koletzko",
+            "Keith M. Godfrey"
+        ],
+        [
+            "Brigitte Angela Brands",
+            "Keith M. Godfrey"
         ],
         [
             "Alexandru Ionascu",
             "Sebastian-Aurelian Stefaniga"
         ],
         [
-            "Mihail Gaianu",
-            "Sorin Valcan"
-        ],
-        [
-            "Anca Ignat",
-            "Valentin Rosca"
-        ],
-        [
-            "Gregory Sankaran",
-            "Scott McCallum"
-        ],
-        [
-            "Ionut-Adrian Tarba",
-            "Sebastian-Aurelian Stefaniga"
-        ],
-        [
-            "Mihail Gaianu",
-            "Sebastian-Aurelian Stefaniga"
-        ],
-        [
-            "Dragan Radolovic",
-            "Elisabetta Di Nitto"
-        ],
-        [
-            "Adrian Iftene",
-            "Ciprian-Gabriel Cusmuliuc"
-        ],
-        [
-            "Csaba Biro",
-            "Tibor Tajti"
-        ],
-        [
-            "Brigitte Angela Brands",
-            "Stefan Trausan-Matu"
-        ],
-        [
-            "Valentin Ganchenko",
-            "Valery Starovoitov"
-        ],
-        [
-            "Imre Bajak",
-            "Tibor Tajti"
-        ],
-        [
-            "Berthold Koletzko",
-            "Gabriel Gutu-Robu"
-        ],
-        [
-            "Dorin-Marian Ionita",
-            "Filip-George Manole"
-        ],
-        [
-            "Georgios Meditskos",
-            "Karthee Sivalingam"
-        ],
-        [
             "Arezoo Jahani",
-            "Danilo Ardagna"
-        ],
-        [
-            "Diana-Lucia Miholca",
-            "Zsuzsanna Onet-Marian"
-        ],
-        [
-            "Ciprian Pungila",
-            "Spataru Alexe Luca"
-        ],
-        [
-            "Gabor Kusper",
-            "Tibor Tajti"
-        ],
-        [
-            "Teodora Grosu",
-            "Vladut-Haralambie Morosanu"
-        ],
-        [
-            "Indika Kumara",
-            "Roman Sosa Gonzalez"
-        ],
-        [
-            "Jesus Gorronogoitia",
-            "Roman Sosa Gonzalez"
-        ],
-        [
-            "Berthold Koletzko",
-            "Mihai Carabas"
-        ],
-        [
-            "Danilo Ardagna",
-            "Federica Filippini"
-        ],
-        [
-            "Ciprian Orhei",
-            "Cosmin Bonchis"
-        ],
-        [
-            "Darius Mihai",
-            "Sunhea Choi"
-        ],
-        [
-            "Darius Mihai",
-            "Mihai Dascalu"
-        ],
-        [
-            "Mihai Dascalu",
-            "Stefan Trausan-Matu"
-        ],
-        [
-            "Stefan Trausan-Matu",
-            "Sunhea Choi"
-        ],
-        [
-            "Bertalan Borsos",
-            "Norbert Tihanyi"
-        ],
-        [
-            "Leili Rafiee Sevyeri",
-            "Robert M. Corless"
-        ],
-        [
-            "Alexandra Emilia Fortis",
-            "Teodor-Florin Fortis"
-        ],
-        [
-            "Georgios Meditskos",
-            "Jesus Gorronogoitia"
-        ],
-        [
-            "Elisabetta Di Nitto",
-            "Indika Kumara"
-        ],
-        [
-            "Daniel Vladusic",
-            "Dragan Radolovic"
-        ],
-        [
-            "Ciprian Pungila",
-            "Togoe Nicolae-Bogdan-Cristian"
-        ],
-        [
-            "Ciprian-Gabriel Cusmuliuc",
-            "Vladut-Haralambie Morosanu"
-        ],
-        [
-            "Mihai Carabas",
-            "Sunhea Choi"
-        ],
-        [
-            "Mihai Carabas",
-            "Mihai Dascalu"
-        ],
-        [
-            "Dragan Radolovic",
-            "Jesus Gorronogoitia"
-        ],
-        [
-            "Gregory Sankaran",
-            "James H. Davenport"
-        ],
-        [
-            "Csaba Biro",
-            "Zijian Gyozo Yang"
-        ],
-        [
-            "Florin Alin Sava",
-            "Virgil Cervicescu"
-        ],
-        [
-            "Danilo Ardagna",
-            "Edoardo Amaldi"
-        ],
-        [
-            "Gabriel Gutu-Robu",
-            "Keith M. Godfrey"
-        ],
-        [
-            "Marius-Florin Pslaru",
-            "Teodora Selea"
-        ],
-        [
-            "Dragan Radolovic",
-            "Indika Kumara"
-        ],
-        [
-            "Imre Bajak",
-            "Zijian Gyozo Yang"
-        ],
-        [
-            "Berthold Koletzko",
-            "Sunhea Choi"
-        ],
-        [
-            "Berthold Koletzko",
-            "Mihai Dascalu"
-        ],
-        [
-            "Adrian Iftene",
-            "Teodora Grosu"
-        ],
-        [
-            "Cristian Vargas Montero",
-            "Hamid Rahkooy"
-        ],
-        [
-            "Elisabetta Di Nitto",
-            "Roman Sosa Gonzalez"
-        ],
-        [
-            "Mihai Carabas",
-            "Stefan Trausan-Matu"
-        ],
-        [
-            "Elisabetta Di Nitto",
-            "Georgios Meditskos"
-        ],
-        [
-            "Aske Plaat",
-            "Mike Preuss"
-        ],
-        [
-            "Gabor Kusper",
-            "Zijian Gyozo Yang"
-        ],
-        [
-            "Csaba Biro",
-            "Tamas Balla"
-        ],
-        [
-            "Cosmin Titiliuc",
-            "Stefan Ruseti"
-        ],
-        [
-            "Marco Lattuada",
-            "Michele Ciavotta"
-        ],
-        [
-            "K. Basu",
-            "T. J. Ayoub"
-        ],
-        [
-            "Iulia-Monica Szuhai",
-            "Maria-Iuliana Bocicor"
-        ],
-        [
-            "Imre Bajak",
-            "Tamas Balla"
-        ],
-        [
-            "Berthold Koletzko",
-            "Darius Mihai"
-        ],
-        [
-            "Dragan Radolovic",
-            "Roman Sosa Gonzalez"
-        ],
-        [
-            "Berthold Koletzko",
-            "Stefan Trausan-Matu"
-        ],
-        [
-            "Mihai Dascalu",
-            "Sunhea Choi"
-        ],
-        [
-            "Emil-Ioan Slusanschi",
-            "Filip-George Manole"
-        ],
-        [
-            "Brigitte Angela Brands",
-            "Keith M. Godfrey"
-        ],
-        [
-            "Lucia Georgiana Coca",
-            "Teodora Grosu"
-        ],
-        [
-            "Ioan-Gabriel Mircea",
-            "Maria-Iuliana Bocicor"
-        ],
-        [
-            "Indika Kumara",
-            "Karthee Sivalingam"
-        ],
-        [
-            "Gabor Kusper",
-            "Tamas Balla"
-        ],
-        [
-            "Csaba Biro",
-            "Gabor Kusper"
-        ],
-        [
-            "Edoardo Amaldi",
             "Federica Filippini"
         ],
         [
@@ -2048,264 +1668,644 @@
             "Sergiu Limboi"
         ],
         [
-            "Mihai Dascalu",
-            "Valentin Sergiu Cioaca"
-        ],
-        [
-            "Diana Paula Dudau",
-            "Virgil Cervicescu"
-        ],
-        [
-            "Arezoo Jahani",
-            "Federica Filippini"
-        ],
-        [
-            "Emilia-Loredana Pop",
-            "Iulia-Monica Szuhai"
-        ],
-        [
-            "Cristina Pereira",
-            "Swetlana Fast"
-        ],
-        [
-            "Spataru Alexe Luca",
-            "Togoe Nicolae-Bogdan-Cristian"
-        ],
-        [
-            "Gabriel-Codrin Cojocaru",
-            "Sergiu-Andrei Dinu"
-        ],
-        [
-            "Keith M. Godfrey",
-            "Stefan Trausan-Matu"
-        ],
-        [
-            "Akshar Nair",
-            "Scott McCallum"
-        ],
-        [
-            "Georgios Meditskos",
-            "Indika Kumara"
-        ],
-        [
-            "Alexander V. Lyaletski",
-            "Alexandre Lyaletsky"
-        ],
-        [
-            "Ionut-Adrian Tarba",
-            "Mihail Gaianu"
-        ],
-        [
-            "Bashar Al Asaad",
-            "Doru Rotovei"
-        ],
-        [
-            "Emilia-Loredana Pop",
-            "Ioan-Gabriel Mircea"
-        ],
-        [
-            "Mihai Dascalu",
-            "Stefan Ruseti"
-        ],
-        [
-            "Arezoo Jahani",
-            "Edoardo Amaldi"
-        ],
-        [
-            "Dorin-Marian Ionita",
-            "Emil-Ioan Slusanschi"
-        ],
-        [
-            "Eva Kaslik",
-            "Florin Rosu"
-        ],
-        [
-            "Calin-George Barburescu",
-            "Gabriel Iuhasz"
-        ],
-        [
-            "Keith M. Godfrey",
-            "Mihai Carabas"
-        ],
-        [
-            "Eugen Croitoru",
-            "Gabriel-Codrin Cojocaru"
-        ],
-        [
-            "Danielle S. McNamara",
-            "Mihai Dascalu"
-        ],
-        [
-            "Darius Mihai",
-            "Keith M. Godfrey"
-        ],
-        [
-            "Lucia Georgiana Coca",
-            "Vladut-Haralambie Morosanu"
-        ],
-        [
             "Csaba Biro",
-            "Imre Bajak"
-        ],
-        [
-            "Edoardo Amaldi",
-            "Michele Ciavotta"
-        ],
-        [
-            "Georgios Meditskos",
-            "Roman Sosa Gonzalez"
-        ],
-        [
-            "Danilo Ardagna",
-            "Michele Ciavotta"
-        ],
-        [
-            "Tamas Balla",
-            "Tibor Tajti"
-        ],
-        [
-            "Arezoo Jahani",
-            "Michele Ciavotta"
-        ],
-        [
-            "Danielle S. McNamara",
-            "Valentin Sergiu Cioaca"
-        ],
-        [
-            "Ciprian Orhei",
-            "Victor Bogdan"
-        ],
-        [
-            "Federica Filippini",
-            "Michele Ciavotta"
-        ],
-        [
-            "Akshar Nair",
-            "Gregory Sankaran"
-        ],
-        [
-            "Danilo Ardagna",
-            "Marco Lattuada"
-        ],
-        [
-            "D. J. Jeffrey",
-            "T. J. Ayoub"
-        ],
-        [
-            "Dragan Radolovic",
-            "Georgios Meditskos"
+            "Zijian Gyozo Yang"
         ],
         [
             "Valery Starovoitov",
             "Xiangtao Zheng"
         ],
         [
-            "Federica Filippini",
-            "Marco Lattuada"
-        ],
-        [
-            "Jesus Gorronogoitia",
-            "Karthee Sivalingam"
-        ],
-        [
-            "Keith M. Godfrey",
-            "Sunhea Choi"
-        ],
-        [
-            "Keith M. Godfrey",
-            "Mihai Dascalu"
-        ],
-        [
-            "Adrian Iftene",
-            "Lucia Georgiana Coca"
-        ],
-        [
-            "Andrei Rusu",
-            "Diana Paula Dudau"
-        ],
-        [
-            "Mary Sharac Granda",
-            "Robert W. McGrail"
-        ],
-        [
-            "Liviu Ciortuz",
-            "Sebastian Ciobanu"
-        ],
-        [
-            "Andrei Rusu",
-            "Virgil Cervicescu"
-        ],
-        [
-            "Karthee Sivalingam",
-            "Roman Sosa Gonzalez"
-        ],
-        [
-            "Doru Rotovei",
-            "Viorel Negru"
-        ],
-        [
-            "Akshar Nair",
-            "James H. Davenport"
-        ],
-        [
-            "Hui Wang",
-            "Mike Preuss"
-        ],
-        [
             "Aske Plaat",
-            "Hui Wang"
-        ],
-        [
-            "Gabriel Gutu-Robu",
-            "Mihai Carabas"
-        ],
-        [
-            "Adrian Iftene",
-            "Vladut-Haralambie Morosanu"
+            "Mike Preuss"
         ],
         [
             "Eneia Nicolae Todoran",
             "Gabriel Ciobanu"
         ],
         [
+            "Federica Filippini",
+            "Marco Lattuada"
+        ],
+        [
+            "Cristina Pereira",
+            "Letizia Jaccheri"
+        ],
+        [
+            "Karthee Sivalingam",
+            "Roman Sosa Gonzalez"
+        ],
+        [
+            "Ciprian Pungila",
+            "Spataru Alexe Luca"
+        ],
+        [
+            "Mihail Gaianu",
+            "Sebastian-Aurelian Stefaniga"
+        ],
+        [
+            "Ciprian Orhei",
+            "Cosmin Bonchis"
+        ],
+        [
+            "Cristian Vargas Montero",
+            "Hamid Rahkooy"
+        ],
+        [
             "Indika Kumara",
             "Jesus Gorronogoitia"
         ],
         [
-            "Ciprian-Gabriel Cusmuliuc",
+            "Elisabetta Di Nitto",
+            "Jesus Gorronogoitia"
+        ],
+        [
+            "Andrei Rusu",
+            "Virgil Cervicescu"
+        ],
+        [
+            "Elisabetta Di Nitto",
+            "Indika Kumara"
+        ],
+        [
+            "Georgios Meditskos",
+            "Jesus Gorronogoitia"
+        ],
+        [
+            "Mary Sharac Granda",
+            "Robert W. McGrail"
+        ],
+        [
+            "Georgios Meditskos",
+            "Indika Kumara"
+        ],
+        [
+            "Teodora Grosu",
+            "Vladut-Haralambie Morosanu"
+        ],
+        [
+            "Cosmin Titiliuc",
+            "Mihai Dascalu"
+        ],
+        [
+            "Lucia Georgiana Coca",
             "Teodora Grosu"
         ],
         [
-            "Darius Mihai",
-            "Mihai Carabas"
+            "Ioan-Gabriel Mircea",
+            "Iulia-Monica Szuhai"
         ],
         [
-            "Tamas Balla",
-            "Zijian Gyozo Yang"
+            "Anca Ignat",
+            "Valentin Rosca"
+        ],
+        [
+            "Indika Kumara",
+            "Roman Sosa Gonzalez"
+        ],
+        [
+            "Valentin Ganchenko",
+            "Valery Starovoitov"
+        ],
+        [
+            "Diana Paula Dudau",
+            "Florin Alin Sava"
+        ],
+        [
+            "Csaba Biro",
+            "Tamas Balla"
+        ],
+        [
+            "Marco Lattuada",
+            "Michele Ciavotta"
+        ],
+        [
+            "Gabriel Gutu-Robu",
+            "Mihai Dascalu"
         ],
         [
             "Aske Plaat",
             "Michael Emmerich"
         ],
         [
+            "Mihai Dascalu",
+            "Valentin Sergiu Cioaca"
+        ],
+        [
+            "Keith M. Godfrey",
+            "Mihai Carabas"
+        ],
+        [
+            "James H. Davenport",
+            "Scott McCallum"
+        ],
+        [
+            "Mary Sharac Granda",
+            "Thuy Trang Nguyen"
+        ],
+        [
+            "Ciprian-Gabriel Cusmuliuc",
+            "Lucia Georgiana Coca"
+        ],
+        [
+            "Csaba Biro",
+            "Gabor Kusper"
+        ],
+        [
+            "Elisabetta Di Nitto",
+            "Georgios Meditskos"
+        ],
+        [
+            "Keith M. Godfrey",
+            "Sunhea Choi"
+        ],
+        [
+            "Darius Mihai",
+            "Mihai Carabas"
+        ],
+        [
+            "Leili Rafiee Sevyeri",
+            "Robert M. Corless"
+        ],
+        [
+            "Berthold Koletzko",
+            "Mihai Carabas"
+        ],
+        [
+            "Edoardo Amaldi",
+            "Michele Ciavotta"
+        ],
+        [
+            "Brigitte Angela Brands",
+            "Mihai Carabas"
+        ],
+        [
+            "Tibor Tajti",
+            "Zijian Gyozo Yang"
+        ],
+        [
+            "Csaba Biro",
+            "Tibor Tajti"
+        ],
+        [
+            "Darius Mihai",
+            "Sunhea Choi"
+        ],
+        [
+            "Berthold Koletzko",
+            "Sunhea Choi"
+        ],
+        [
+            "Gabriel Gutu-Robu",
+            "Stefan Trausan-Matu"
+        ],
+        [
+            "Cosmin Bonchis",
+            "Florin Rosu"
+        ],
+        [
+            "Lucia Georgiana Coca",
+            "Vladut-Haralambie Morosanu"
+        ],
+        [
+            "Cosmin Bonchis",
+            "Victor Bogdan"
+        ],
+        [
+            "Arezoo Jahani",
+            "Michele Ciavotta"
+        ],
+        [
+            "Doru Rotovei",
+            "Viorel Negru"
+        ],
+        [
+            "Diana Paula Dudau",
+            "Virgil Cervicescu"
+        ],
+        [
+            "Mihai Dascalu",
+            "Stefan Trausan-Matu"
+        ],
+        [
+            "Dragan Radolovic",
+            "Karthee Sivalingam"
+        ],
+        [
+            "Gabriel Gutu-Robu",
+            "Keith M. Godfrey"
+        ],
+        [
+            "Iulia-Monica Szuhai",
+            "Maria-Iuliana Bocicor"
+        ],
+        [
+            "Eugen Croitoru",
+            "Gabriel-Codrin Cojocaru"
+        ],
+        [
+            "Ciprian-Gabriel Cusmuliuc",
+            "Teodora Grosu"
+        ],
+        [
+            "Gabor Kusper",
+            "Imre Bajak"
+        ],
+        [
+            "Edoardo Amaldi",
+            "Marco Lattuada"
+        ],
+        [
+            "Adrian Iftene",
+            "Vladut-Haralambie Morosanu"
+        ],
+        [
+            "Darius Mihai",
+            "Gabriel Gutu-Robu"
+        ],
+        [
+            "Cosmin Titiliuc",
+            "Stefan Ruseti"
+        ],
+        [
+            "Berthold Koletzko",
+            "Gabriel Gutu-Robu"
+        ],
+        [
+            "Adrian Iftene",
+            "Lucia Georgiana Coca"
+        ],
+        [
+            "Danilo Ardagna",
+            "Edoardo Amaldi"
+        ],
+        [
+            "Ioan-Gabriel Mircea",
+            "Maria-Iuliana Bocicor"
+        ],
+        [
+            "Arezoo Jahani",
+            "Marco Lattuada"
+        ],
+        [
+            "Emilia-Loredana Pop",
+            "Iulia-Monica Szuhai"
+        ],
+        [
+            "Tamas Balla",
+            "Tibor Tajti"
+        ],
+        [
+            "Mihai Dascalu",
+            "Stefan Ruseti"
+        ],
+        [
+            "Diana-Lucia Miholca",
+            "Zsuzsanna Onet-Marian"
+        ],
+        [
+            "Imre Bajak",
+            "Zijian Gyozo Yang"
+        ],
+        [
+            "Ciprian-Gabriel Cusmuliuc",
+            "Vladut-Haralambie Morosanu"
+        ],
+        [
+            "Mihail Gaianu",
+            "Sorin Valcan"
+        ],
+        [
+            "Eva Kaslik",
+            "Florin Rosu"
+        ],
+        [
+            "Bertalan Borsos",
+            "Norbert Tihanyi"
+        ],
+        [
+            "Berthold Koletzko",
+            "Stefan Trausan-Matu"
+        ],
+        [
+            "Alexander V. Lyaletski",
+            "Alexandre Lyaletsky"
+        ],
+        [
+            "Daniel Vladusic",
+            "Dragan Radolovic"
+        ],
+        [
+            "Alexandra Emilia Fortis",
+            "Teodor-Florin Fortis"
+        ],
+        [
+            "Adrian Iftene",
+            "Teodora Grosu"
+        ],
+        [
+            "Jesus Gorronogoitia",
+            "Karthee Sivalingam"
+        ],
+        [
+            "Cosmin Bonchis",
+            "Eva Kaslik"
+        ],
+        [
+            "Brigitte Angela Brands",
+            "Sunhea Choi"
+        ],
+        [
+            "Marius-Florin Pslaru",
+            "Teodora Selea"
+        ],
+        [
+            "Berthold Koletzko",
+            "Brigitte Angela Brands"
+        ],
+        [
+            "Gabriel Gutu-Robu",
+            "Mihai Carabas"
+        ],
+        [
+            "Danielle S. McNamara",
+            "Valentin Sergiu Cioaca"
+        ],
+        [
+            "K. Basu",
+            "T. J. Ayoub"
+        ],
+        [
+            "Imre Bajak",
+            "Tamas Balla"
+        ],
+        [
+            "Dragan Radolovic",
+            "Roman Sosa Gonzalez"
+        ],
+        [
+            "Gabriel Gutu-Robu",
+            "Sunhea Choi"
+        ],
+        [
+            "Mihai Carabas",
+            "Sunhea Choi"
+        ],
+        [
+            "Danielle S. McNamara",
+            "Mihai Dascalu"
+        ],
+        [
+            "Bashar Al Asaad",
+            "Doru Rotovei"
+        ],
+        [
+            "Gregory Sankaran",
+            "Scott McCallum"
+        ],
+        [
+            "Letizia Jaccheri",
+            "Swetlana Fast"
+        ],
+        [
+            "Danilo Ardagna",
+            "Federica Filippini"
+        ],
+        [
+            "Adrian Iftene",
+            "Ciprian-Gabriel Cusmuliuc"
+        ],
+        [
             "Brigitte Angela Brands",
             "Gabriel Gutu-Robu"
         ],
         [
-            "Brigitte Angela Brands",
-            "Darius Mihai"
+            "Hui Wang",
+            "Michael Emmerich"
         ],
         [
-            "D. J. Jeffrey",
-            "K. Basu"
+            "Ciprian Pungila",
+            "Togoe Nicolae-Bogdan-Cristian"
+        ],
+        [
+            "Imre Bajak",
+            "Tibor Tajti"
+        ],
+        [
+            "Emilia-Loredana Pop",
+            "Maria-Iuliana Bocicor"
         ],
         [
             "Elisabetta Di Nitto",
             "Karthee Sivalingam"
         ],
         [
-            "Mary Sharac Granda",
+            "Florin Alin Sava",
+            "Virgil Cervicescu"
+        ],
+        [
+            "Georgios Meditskos",
+            "Karthee Sivalingam"
+        ],
+        [
+            "Spataru Alexe Luca",
+            "Togoe Nicolae-Bogdan-Cristian"
+        ],
+        [
+            "Andrei Rusu",
+            "Florin Alin Sava"
+        ],
+        [
+            "Aske Plaat",
+            "Hui Wang"
+        ],
+        [
+            "Dorin-Marian Ionita",
+            "Filip-George Manole"
+        ],
+        [
+            "Berthold Koletzko",
+            "Darius Mihai"
+        ],
+        [
+            "Eugen Croitoru",
+            "Sergiu-Andrei Dinu"
+        ],
+        [
+            "Dragan Radolovic",
+            "Elisabetta Di Nitto"
+        ],
+        [
+            "Stefan Trausan-Matu",
+            "Sunhea Choi"
+        ],
+        [
+            "Emil-Ioan Slusanschi",
+            "Filip-George Manole"
+        ],
+        [
+            "Jesus Gorronogoitia",
+            "Roman Sosa Gonzalez"
+        ],
+        [
+            "Ionut-Adrian Tarba",
+            "Mihail Gaianu"
+        ],
+        [
+            "Dragan Radolovic",
+            "Jesus Gorronogoitia"
+        ],
+        [
+            "Gabor Kusper",
+            "Zijian Gyozo Yang"
+        ],
+        [
+            "Dragan Radolovic",
+            "Indika Kumara"
+        ],
+        [
+            "Cristina Pereira",
+            "Swetlana Fast"
+        ],
+        [
+            "Akshar Nair",
+            "Scott McCallum"
+        ],
+        [
+            "Hui Wang",
+            "Mike Preuss"
+        ],
+        [
+            "Arezoo Jahani",
+            "Edoardo Amaldi"
+        ],
+        [
+            "Gregory Sankaran",
+            "James H. Davenport"
+        ],
+        [
+            "Michael Emmerich",
+            "Mike Preuss"
+        ],
+        [
+            "Keith M. Godfrey",
+            "Mihai Dascalu"
+        ],
+        [
+            "Ionut-Adrian Tarba",
+            "Sebastian-Aurelian Stefaniga"
+        ],
+        [
+            "Emilia-Loredana Pop",
+            "Ioan-Gabriel Mircea"
+        ],
+        [
+            "Calin-George Barburescu",
+            "Gabriel Iuhasz"
+        ],
+        [
+            "Danilo Ardagna",
+            "Michele Ciavotta"
+        ],
+        [
+            "Liviu Ciortuz",
+            "Sebastian Ciobanu"
+        ],
+        [
+            "Mihai Dascalu",
+            "Sunhea Choi"
+        ],
+        [
+            "Darius Mihai",
+            "Mihai Dascalu"
+        ],
+        [
+            "Berthold Koletzko",
+            "Mihai Dascalu"
+        ],
+        [
+            "Dragan Radolovic",
+            "Georgios Meditskos"
+        ],
+        [
+            "Brigitte Angela Brands",
+            "Mihai Dascalu"
+        ],
+        [
+            "Csaba Biro",
+            "Imre Bajak"
+        ],
+        [
+            "Gabor Kusper",
+            "Tamas Balla"
+        ],
+        [
+            "Gabriel-Codrin Cojocaru",
+            "Sergiu-Andrei Dinu"
+        ],
+        [
+            "Dorin-Marian Ionita",
+            "Emil-Ioan Slusanschi"
+        ],
+        [
+            "Elisabetta Di Nitto",
+            "Roman Sosa Gonzalez"
+        ],
+        [
+            "Indika Kumara",
+            "Karthee Sivalingam"
+        ],
+        [
+            "Akshar Nair",
+            "Gregory Sankaran"
+        ],
+        [
+            "Mihai Carabas",
+            "Mihai Dascalu"
+        ],
+        [
+            "Georgios Meditskos",
+            "Roman Sosa Gonzalez"
+        ],
+        [
+            "Keith M. Godfrey",
+            "Stefan Trausan-Matu"
+        ],
+        [
+            "Andrei Rusu",
+            "Diana Paula Dudau"
+        ],
+        [
+            "D. J. Jeffrey",
+            "K. Basu"
+        ],
+        [
+            "D. J. Jeffrey",
+            "T. J. Ayoub"
+        ],
+        [
+            "Arezoo Jahani",
+            "Danilo Ardagna"
+        ],
+        [
+            "Valentin Ganchenko",
+            "Xiangtao Zheng"
+        ],
+        [
+            "Darius Mihai",
+            "Stefan Trausan-Matu"
+        ],
+        [
+            "Tamas Balla",
+            "Zijian Gyozo Yang"
+        ],
+        [
+            "Robert W. McGrail",
             "Thuy Trang Nguyen"
+        ],
+        [
+            "Brigitte Angela Brands",
+            "Stefan Trausan-Matu"
         ]
     ],
     "collaborator_groups": {
@@ -2835,704 +2835,40 @@
     },
     "collaborator_group_links": [
         [
-            "Tibor Tajti",
-            "Zijian Gyozo Yang"
+            "CB-74DA",
+            "CO-151C"
         ],
         [
-            "Eugen Croitoru",
-            "Sergiu-Andrei Dinu"
+            "BK-797D",
+            "DSM-A43F"
         ],
         [
-            "Michael Emmerich",
-            "Mike Preuss"
+            "CP-0A38",
+            "CP-1EFC"
         ],
         [
-            "Brigitte Angela Brands",
-            "Mihai Carabas"
+            "DR-EAD7",
+            "DV-18BD"
         ],
         [
-            "Cosmin Bonchis",
-            "Victor Bogdan"
+            "BAA-9319",
+            "DR-EB98"
         ],
         [
-            "Dragan Radolovic",
-            "Karthee Sivalingam"
+            "AI-CC46",
+            "IT-8874"
         ],
         [
-            "Gabriel Gutu-Robu",
-            "Mihai Dascalu"
+            "BK-797D",
+            "CT-D7AD"
         ],
         [
-            "Gabriel Gutu-Robu",
-            "Sunhea Choi"
+            "CT-D7AD",
+            "DSM-A43F"
         ],
         [
-            "Edoardo Amaldi",
-            "Marco Lattuada"
-        ],
-        [
-            "Ciprian-Gabriel Cusmuliuc",
-            "Lucia Georgiana Coca"
-        ],
-        [
-            "Arezoo Jahani",
-            "Marco Lattuada"
-        ],
-        [
-            "Robert W. McGrail",
-            "Thuy Trang Nguyen"
-        ],
-        [
-            "Ioan-Gabriel Mircea",
-            "Iulia-Monica Szuhai"
-        ],
-        [
-            "Gabor Kusper",
-            "Imre Bajak"
-        ],
-        [
-            "Berthold Koletzko",
-            "Brigitte Angela Brands"
-        ],
-        [
-            "Cosmin Titiliuc",
-            "Mihai Dascalu"
-        ],
-        [
-            "Elisabetta Di Nitto",
-            "Jesus Gorronogoitia"
-        ],
-        [
-            "Valentin Ganchenko",
-            "Xiangtao Zheng"
-        ],
-        [
-            "Letizia Jaccheri",
-            "Swetlana Fast"
-        ],
-        [
-            "Berthold Koletzko",
-            "Keith M. Godfrey"
-        ],
-        [
-            "Cosmin Bonchis",
-            "Florin Rosu"
-        ],
-        [
-            "Hui Wang",
-            "Michael Emmerich"
-        ],
-        [
-            "Bela Genge",
-            "Peter Szabo"
-        ],
-        [
-            "Emilia-Loredana Pop",
-            "Maria-Iuliana Bocicor"
-        ],
-        [
-            "Gabriel Gutu-Robu",
-            "Stefan Trausan-Matu"
-        ],
-        [
-            "Diana Paula Dudau",
-            "Florin Alin Sava"
-        ],
-        [
-            "Cristina Pereira",
-            "Letizia Jaccheri"
-        ],
-        [
-            "Andrei Rusu",
-            "Florin Alin Sava"
-        ],
-        [
-            "Darius Mihai",
-            "Gabriel Gutu-Robu"
-        ],
-        [
-            "Brigitte Angela Brands",
-            "Sunhea Choi"
-        ],
-        [
-            "Brigitte Angela Brands",
-            "Mihai Dascalu"
-        ],
-        [
-            "Darius Mihai",
-            "Stefan Trausan-Matu"
-        ],
-        [
-            "Cosmin Bonchis",
-            "Eva Kaslik"
-        ],
-        [
-            "James H. Davenport",
-            "Scott McCallum"
-        ],
-        [
-            "Alexandru Ionascu",
-            "Sebastian-Aurelian Stefaniga"
-        ],
-        [
-            "Mihail Gaianu",
-            "Sorin Valcan"
-        ],
-        [
-            "Anca Ignat",
-            "Valentin Rosca"
-        ],
-        [
-            "Gregory Sankaran",
-            "Scott McCallum"
-        ],
-        [
-            "Ionut-Adrian Tarba",
-            "Sebastian-Aurelian Stefaniga"
-        ],
-        [
-            "Mihail Gaianu",
-            "Sebastian-Aurelian Stefaniga"
-        ],
-        [
-            "Dragan Radolovic",
-            "Elisabetta Di Nitto"
-        ],
-        [
-            "Adrian Iftene",
-            "Ciprian-Gabriel Cusmuliuc"
-        ],
-        [
-            "Csaba Biro",
-            "Tibor Tajti"
-        ],
-        [
-            "Brigitte Angela Brands",
-            "Stefan Trausan-Matu"
-        ],
-        [
-            "Valentin Ganchenko",
-            "Valery Starovoitov"
-        ],
-        [
-            "Imre Bajak",
-            "Tibor Tajti"
-        ],
-        [
-            "Berthold Koletzko",
-            "Gabriel Gutu-Robu"
-        ],
-        [
-            "Dorin-Marian Ionita",
-            "Filip-George Manole"
-        ],
-        [
-            "Georgios Meditskos",
-            "Karthee Sivalingam"
-        ],
-        [
-            "Arezoo Jahani",
-            "Danilo Ardagna"
-        ],
-        [
-            "Diana-Lucia Miholca",
-            "Zsuzsanna Onet-Marian"
-        ],
-        [
-            "Ciprian Pungila",
-            "Spataru Alexe Luca"
-        ],
-        [
-            "Gabor Kusper",
-            "Tibor Tajti"
-        ],
-        [
-            "Teodora Grosu",
-            "Vladut-Haralambie Morosanu"
-        ],
-        [
-            "Indika Kumara",
-            "Roman Sosa Gonzalez"
-        ],
-        [
-            "Jesus Gorronogoitia",
-            "Roman Sosa Gonzalez"
-        ],
-        [
-            "Berthold Koletzko",
-            "Mihai Carabas"
-        ],
-        [
-            "Danilo Ardagna",
-            "Federica Filippini"
-        ],
-        [
-            "Ciprian Orhei",
-            "Cosmin Bonchis"
-        ],
-        [
-            "Darius Mihai",
-            "Sunhea Choi"
-        ],
-        [
-            "Darius Mihai",
-            "Mihai Dascalu"
-        ],
-        [
-            "Mihai Dascalu",
-            "Stefan Trausan-Matu"
-        ],
-        [
-            "Stefan Trausan-Matu",
-            "Sunhea Choi"
-        ],
-        [
-            "Bertalan Borsos",
-            "Norbert Tihanyi"
-        ],
-        [
-            "Leili Rafiee Sevyeri",
-            "Robert M. Corless"
-        ],
-        [
-            "Alexandra Emilia Fortis",
-            "Teodor-Florin Fortis"
-        ],
-        [
-            "Georgios Meditskos",
-            "Jesus Gorronogoitia"
-        ],
-        [
-            "Elisabetta Di Nitto",
-            "Indika Kumara"
-        ],
-        [
-            "Daniel Vladusic",
-            "Dragan Radolovic"
-        ],
-        [
-            "Ciprian Pungila",
-            "Togoe Nicolae-Bogdan-Cristian"
-        ],
-        [
-            "Ciprian-Gabriel Cusmuliuc",
-            "Vladut-Haralambie Morosanu"
-        ],
-        [
-            "Mihai Carabas",
-            "Sunhea Choi"
-        ],
-        [
-            "Mihai Carabas",
-            "Mihai Dascalu"
-        ],
-        [
-            "Dragan Radolovic",
-            "Jesus Gorronogoitia"
-        ],
-        [
-            "Gregory Sankaran",
-            "James H. Davenport"
-        ],
-        [
-            "Csaba Biro",
-            "Zijian Gyozo Yang"
-        ],
-        [
-            "Florin Alin Sava",
-            "Virgil Cervicescu"
-        ],
-        [
-            "Danilo Ardagna",
-            "Edoardo Amaldi"
-        ],
-        [
-            "Gabriel Gutu-Robu",
-            "Keith M. Godfrey"
-        ],
-        [
-            "Marius-Florin Pslaru",
-            "Teodora Selea"
-        ],
-        [
-            "Dragan Radolovic",
-            "Indika Kumara"
-        ],
-        [
-            "Imre Bajak",
-            "Zijian Gyozo Yang"
-        ],
-        [
-            "Berthold Koletzko",
-            "Sunhea Choi"
-        ],
-        [
-            "Berthold Koletzko",
-            "Mihai Dascalu"
-        ],
-        [
-            "Adrian Iftene",
-            "Teodora Grosu"
-        ],
-        [
-            "Cristian Vargas Montero",
-            "Hamid Rahkooy"
-        ],
-        [
-            "Elisabetta Di Nitto",
-            "Roman Sosa Gonzalez"
-        ],
-        [
-            "Mihai Carabas",
-            "Stefan Trausan-Matu"
-        ],
-        [
-            "Elisabetta Di Nitto",
-            "Georgios Meditskos"
-        ],
-        [
-            "Aske Plaat",
-            "Mike Preuss"
-        ],
-        [
-            "Gabor Kusper",
-            "Zijian Gyozo Yang"
-        ],
-        [
-            "Csaba Biro",
-            "Tamas Balla"
-        ],
-        [
-            "Cosmin Titiliuc",
-            "Stefan Ruseti"
-        ],
-        [
-            "Marco Lattuada",
-            "Michele Ciavotta"
-        ],
-        [
-            "K. Basu",
-            "T. J. Ayoub"
-        ],
-        [
-            "Iulia-Monica Szuhai",
-            "Maria-Iuliana Bocicor"
-        ],
-        [
-            "Imre Bajak",
-            "Tamas Balla"
-        ],
-        [
-            "Berthold Koletzko",
-            "Darius Mihai"
-        ],
-        [
-            "Dragan Radolovic",
-            "Roman Sosa Gonzalez"
-        ],
-        [
-            "Berthold Koletzko",
-            "Stefan Trausan-Matu"
-        ],
-        [
-            "Mihai Dascalu",
-            "Sunhea Choi"
-        ],
-        [
-            "Emil-Ioan Slusanschi",
-            "Filip-George Manole"
-        ],
-        [
-            "Brigitte Angela Brands",
-            "Keith M. Godfrey"
-        ],
-        [
-            "Lucia Georgiana Coca",
-            "Teodora Grosu"
-        ],
-        [
-            "Ioan-Gabriel Mircea",
-            "Maria-Iuliana Bocicor"
-        ],
-        [
-            "Indika Kumara",
-            "Karthee Sivalingam"
-        ],
-        [
-            "Gabor Kusper",
-            "Tamas Balla"
-        ],
-        [
-            "Csaba Biro",
-            "Gabor Kusper"
-        ],
-        [
-            "Edoardo Amaldi",
-            "Federica Filippini"
-        ],
-        [
-            "Mara Deac-Petrusel",
-            "Sergiu Limboi"
-        ],
-        [
-            "Mihai Dascalu",
-            "Valentin Sergiu Cioaca"
-        ],
-        [
-            "Diana Paula Dudau",
-            "Virgil Cervicescu"
-        ],
-        [
-            "Arezoo Jahani",
-            "Federica Filippini"
-        ],
-        [
-            "Emilia-Loredana Pop",
-            "Iulia-Monica Szuhai"
-        ],
-        [
-            "Cristina Pereira",
-            "Swetlana Fast"
-        ],
-        [
-            "Spataru Alexe Luca",
-            "Togoe Nicolae-Bogdan-Cristian"
-        ],
-        [
-            "Gabriel-Codrin Cojocaru",
-            "Sergiu-Andrei Dinu"
-        ],
-        [
-            "Keith M. Godfrey",
-            "Stefan Trausan-Matu"
-        ],
-        [
-            "Akshar Nair",
-            "Scott McCallum"
-        ],
-        [
-            "Georgios Meditskos",
-            "Indika Kumara"
-        ],
-        [
-            "Alexander V. Lyaletski",
-            "Alexandre Lyaletsky"
-        ],
-        [
-            "Ionut-Adrian Tarba",
-            "Mihail Gaianu"
-        ],
-        [
-            "Bashar Al Asaad",
-            "Doru Rotovei"
-        ],
-        [
-            "Emilia-Loredana Pop",
-            "Ioan-Gabriel Mircea"
-        ],
-        [
-            "Mihai Dascalu",
-            "Stefan Ruseti"
-        ],
-        [
-            "Arezoo Jahani",
-            "Edoardo Amaldi"
-        ],
-        [
-            "Dorin-Marian Ionita",
-            "Emil-Ioan Slusanschi"
-        ],
-        [
-            "Eva Kaslik",
-            "Florin Rosu"
-        ],
-        [
-            "Calin-George Barburescu",
-            "Gabriel Iuhasz"
-        ],
-        [
-            "Keith M. Godfrey",
-            "Mihai Carabas"
-        ],
-        [
-            "Eugen Croitoru",
-            "Gabriel-Codrin Cojocaru"
-        ],
-        [
-            "Danielle S. McNamara",
-            "Mihai Dascalu"
-        ],
-        [
-            "Darius Mihai",
-            "Keith M. Godfrey"
-        ],
-        [
-            "Lucia Georgiana Coca",
-            "Vladut-Haralambie Morosanu"
-        ],
-        [
-            "Csaba Biro",
-            "Imre Bajak"
-        ],
-        [
-            "Edoardo Amaldi",
-            "Michele Ciavotta"
-        ],
-        [
-            "Georgios Meditskos",
-            "Roman Sosa Gonzalez"
-        ],
-        [
-            "Danilo Ardagna",
-            "Michele Ciavotta"
-        ],
-        [
-            "Tamas Balla",
-            "Tibor Tajti"
-        ],
-        [
-            "Arezoo Jahani",
-            "Michele Ciavotta"
-        ],
-        [
-            "Danielle S. McNamara",
-            "Valentin Sergiu Cioaca"
-        ],
-        [
-            "Ciprian Orhei",
-            "Victor Bogdan"
-        ],
-        [
-            "Federica Filippini",
-            "Michele Ciavotta"
-        ],
-        [
-            "Akshar Nair",
-            "Gregory Sankaran"
-        ],
-        [
-            "Danilo Ardagna",
-            "Marco Lattuada"
-        ],
-        [
-            "D. J. Jeffrey",
-            "T. J. Ayoub"
-        ],
-        [
-            "Dragan Radolovic",
-            "Georgios Meditskos"
-        ],
-        [
-            "Valery Starovoitov",
-            "Xiangtao Zheng"
-        ],
-        [
-            "Federica Filippini",
-            "Marco Lattuada"
-        ],
-        [
-            "Jesus Gorronogoitia",
-            "Karthee Sivalingam"
-        ],
-        [
-            "Keith M. Godfrey",
-            "Sunhea Choi"
-        ],
-        [
-            "Keith M. Godfrey",
-            "Mihai Dascalu"
-        ],
-        [
-            "Adrian Iftene",
-            "Lucia Georgiana Coca"
-        ],
-        [
-            "Andrei Rusu",
-            "Diana Paula Dudau"
-        ],
-        [
-            "Mary Sharac Granda",
-            "Robert W. McGrail"
-        ],
-        [
-            "Liviu Ciortuz",
-            "Sebastian Ciobanu"
-        ],
-        [
-            "Andrei Rusu",
-            "Virgil Cervicescu"
-        ],
-        [
-            "Karthee Sivalingam",
-            "Roman Sosa Gonzalez"
-        ],
-        [
-            "Doru Rotovei",
-            "Viorel Negru"
-        ],
-        [
-            "Akshar Nair",
-            "James H. Davenport"
-        ],
-        [
-            "Hui Wang",
-            "Mike Preuss"
-        ],
-        [
-            "Aske Plaat",
-            "Hui Wang"
-        ],
-        [
-            "Gabriel Gutu-Robu",
-            "Mihai Carabas"
-        ],
-        [
-            "Adrian Iftene",
-            "Vladut-Haralambie Morosanu"
-        ],
-        [
-            "Eneia Nicolae Todoran",
-            "Gabriel Ciobanu"
-        ],
-        [
-            "Indika Kumara",
-            "Jesus Gorronogoitia"
-        ],
-        [
-            "Ciprian-Gabriel Cusmuliuc",
-            "Teodora Grosu"
-        ],
-        [
-            "Darius Mihai",
-            "Mihai Carabas"
-        ],
-        [
-            "Tamas Balla",
-            "Zijian Gyozo Yang"
-        ],
-        [
-            "Aske Plaat",
-            "Michael Emmerich"
-        ],
-        [
-            "Brigitte Angela Brands",
-            "Gabriel Gutu-Robu"
-        ],
-        [
-            "Brigitte Angela Brands",
-            "Darius Mihai"
-        ],
-        [
-            "D. J. Jeffrey",
-            "K. Basu"
-        ],
-        [
-            "Elisabetta Di Nitto",
-            "Karthee Sivalingam"
-        ],
-        [
-            "Mary Sharac Granda",
-            "Thuy Trang Nguyen"
+            "IT-8874",
+            "MG-ADE5"
         ]
     ]
 }

@@ -113,13 +113,13 @@
             "author_total_papers": 3,
             "author_total_collaborators": [
                 "Rafael Romero",
-                "Roland H. C. Yap",
                 "Samarjit Chakraborty",
+                "Gabriel Manolache",
                 "Will Beazley",
-                "Bindiya Mansharamani",
                 "Nilam Chand",
                 "Victor Felea",
-                "Gabriel Manolache"
+                "Bindiya Mansharamani",
+                "Roland H. C. Yap"
             ],
             "author_closeness_centrality": 0.04879518072289157,
             "author_betweenness_centrality": 0.0017524644030668126,
@@ -230,12 +230,12 @@
             "author_total_citations": 38,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Myon-Woong Park",
-                "Costin Badica",
                 "Philippe Trigano",
+                "Myon-Woong Park",
+                "Maria Ganzha",
                 "Marcin Paprzycki",
-                "Maciej Gawinecki",
-                "Maria Ganzha"
+                "Costin Badica",
+                "Maciej Gawinecki"
             ],
             "author_closeness_centrality": 0.03614457831325301,
             "author_betweenness_centrality": 0.00014603870025556772,
@@ -246,12 +246,12 @@
             "author_total_citations": 38,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Myon-Woong Park",
-                "Philippe Trigano",
                 "Elvira Popescu",
+                "Philippe Trigano",
+                "Myon-Woong Park",
+                "Maria Ganzha",
                 "Marcin Paprzycki",
-                "Maciej Gawinecki",
-                "Maria Ganzha"
+                "Maciej Gawinecki"
             ],
             "author_closeness_centrality": 0.03614457831325301,
             "author_betweenness_centrality": 0.00014603870025556772,
@@ -262,8 +262,8 @@
             "author_total_citations": 24,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Costin Badica",
-                "Elvira Popescu"
+                "Elvira Popescu",
+                "Costin Badica"
             ],
             "author_closeness_centrality": 0.021686746987951807,
             "author_betweenness_centrality": 0.0,
@@ -283,8 +283,8 @@
             "author_total_citations": 18,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Cornelia Melenti",
-                "Dorian Gorgan"
+                "Dorian Gorgan",
+                "Cornelia Melenti"
             ],
             "author_closeness_centrality": 0.01606425702811245,
             "author_betweenness_centrality": 0.0,
@@ -307,10 +307,10 @@
             "author_total_citations": 38,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Mircea Alexandru Imbroane",
-                "Anca Radu",
                 "Victor Bacu",
-                "Cornelia Melenti"
+                "Cornelia Melenti",
+                "Mircea Alexandru Imbroane",
+                "Anca Radu"
             ],
             "author_closeness_centrality": 0.024096385542168676,
             "author_betweenness_centrality": 0.00029207740051113545,
@@ -376,10 +376,10 @@
             "author_total_citations": 12,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Cristina Marinescu",
-                "Radu Marinescu",
                 "George Ganea",
-                "Ioana Verebi"
+                "Ioana Verebi",
+                "Radu Marinescu",
+                "Cristina Marinescu"
             ],
             "author_closeness_centrality": 0.024096385542168676,
             "author_betweenness_centrality": 0.0,
@@ -390,10 +390,10 @@
             "author_total_citations": 12,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Cristina Marinescu",
+                "Ioana Verebi",
                 "Radu Marinescu",
                 "Petru Florin Mihancea",
-                "Ioana Verebi"
+                "Cristina Marinescu"
             ],
             "author_closeness_centrality": 0.024096385542168676,
             "author_betweenness_centrality": 0.0,
@@ -404,10 +404,10 @@
             "author_total_citations": 12,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Cristina Marinescu",
+                "George Ganea",
                 "Radu Marinescu",
                 "Petru Florin Mihancea",
-                "George Ganea"
+                "Cristina Marinescu"
             ],
             "author_closeness_centrality": 0.024096385542168676,
             "author_betweenness_centrality": 0.0,
@@ -418,10 +418,10 @@
             "author_total_citations": 18,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Radu Marinescu",
-                "Petru Florin Mihancea",
                 "George Ganea",
-                "Ioana Verebi"
+                "Ioana Verebi",
+                "Radu Marinescu",
+                "Petru Florin Mihancea"
             ],
             "author_closeness_centrality": 0.024096385542168676,
             "author_betweenness_centrality": 0.0,
@@ -432,10 +432,10 @@
             "author_total_citations": 12,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Cristina Marinescu",
-                "Petru Florin Mihancea",
                 "George Ganea",
-                "Ioana Verebi"
+                "Ioana Verebi",
+                "Petru Florin Mihancea",
+                "Cristina Marinescu"
             ],
             "author_closeness_centrality": 0.024096385542168676,
             "author_betweenness_centrality": 0.0,
@@ -459,9 +459,9 @@
             "author_total_citations": 12,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Antonio Plaza",
                 "Abel Paz",
-                "Soraya Blazquez"
+                "Soraya Blazquez",
+                "Antonio Plaza"
             ],
             "author_closeness_centrality": 0.018072289156626505,
             "author_betweenness_centrality": 0.0,
@@ -472,9 +472,9 @@
             "author_total_citations": 12,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Antonio Plaza",
                 "Javier Plaza",
-                "Soraya Blazquez"
+                "Soraya Blazquez",
+                "Antonio Plaza"
             ],
             "author_closeness_centrality": 0.018072289156626505,
             "author_betweenness_centrality": 0.0,
@@ -485,9 +485,9 @@
             "author_total_citations": 12,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Antonio Plaza",
                 "Abel Paz",
-                "Javier Plaza"
+                "Javier Plaza",
+                "Antonio Plaza"
             ],
             "author_closeness_centrality": 0.018072289156626505,
             "author_betweenness_centrality": 0.0,
@@ -520,8 +520,8 @@
             "author_total_citations": 11,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Douglas A. Creager",
-                "Andrew C. Simpson"
+                "Andrew C. Simpson",
+                "Douglas A. Creager"
             ],
             "author_closeness_centrality": 0.012048192771084338,
             "author_betweenness_centrality": 0.0,
@@ -544,8 +544,8 @@
             "author_total_citations": 11,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Douglas A. Creager",
-                "Sarah D. Induruwa Fernando"
+                "Sarah D. Induruwa Fernando",
+                "Douglas A. Creager"
             ],
             "author_closeness_centrality": 0.012048192771084338,
             "author_betweenness_centrality": 0.0,
@@ -578,8 +578,8 @@
             "author_total_citations": 11,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Daniela Zaharie",
                 "Viorel Negru",
+                "Daniela Zaharie",
                 "Diana Maria Muscalagiu",
                 "Daniel Pop",
                 "Ionel Muscalagiu"
@@ -622,8 +622,8 @@
             "author_total_papers": 1,
             "author_total_collaborators": [
                 "Viorel Negru",
-                "Horia Emil Popa",
-                "Daniel Pop"
+                "Daniel Pop",
+                "Horia Emil Popa"
             ],
             "author_closeness_centrality": 0.021514629948364887,
             "author_betweenness_centrality": 0.0,
@@ -634,9 +634,9 @@
             "author_total_citations": 9,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Corina Pop Sitar",
+                "Dumitru Dumitrescu",
                 "Camelia-Mihaela Pintea",
-                "Dumitru Dumitrescu"
+                "Corina Pop Sitar"
             ],
             "author_closeness_centrality": 0.01927710843373494,
             "author_betweenness_centrality": 0.0,
@@ -647,9 +647,9 @@
             "author_total_citations": 9,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Corina Pop Sitar",
+                "Dumitru Dumitrescu",
                 "Petrica C. Pop",
-                "Dumitru Dumitrescu"
+                "Corina Pop Sitar"
             ],
             "author_closeness_centrality": 0.01927710843373494,
             "author_betweenness_centrality": 0.0,
@@ -660,9 +660,9 @@
             "author_total_citations": 9,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Petrica C. Pop",
+                "Dumitru Dumitrescu",
                 "Camelia-Mihaela Pintea",
-                "Dumitru Dumitrescu"
+                "Petrica C. Pop"
             ],
             "author_closeness_centrality": 0.01927710843373494,
             "author_betweenness_centrality": 0.0,
@@ -673,10 +673,10 @@
             "author_total_citations": 9,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Laura Diosan",
-                "Petrica C. Pop",
+                "Corina Pop Sitar",
                 "Camelia-Mihaela Pintea",
-                "Corina Pop Sitar"
+                "Petrica C. Pop",
+                "Laura Diosan"
             ],
             "author_closeness_centrality": 0.024096385542168676,
             "author_betweenness_centrality": 0.00021905805038335157,
@@ -709,9 +709,9 @@
             "author_total_citations": 9,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Ion Iancu",
                 "Nicolae Constantinescu",
-                "Mirel Cosulschi"
+                "Mirel Cosulschi",
+                "Ion Iancu"
             ],
             "author_closeness_centrality": 0.018072289156626505,
             "author_betweenness_centrality": 0.0,
@@ -722,9 +722,9 @@
             "author_total_citations": 9,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Nicolae Constantinescu",
                 "Mihai Gabroveanu",
-                "Mirel Cosulschi"
+                "Mirel Cosulschi",
+                "Nicolae Constantinescu"
             ],
             "author_closeness_centrality": 0.018072289156626505,
             "author_betweenness_centrality": 0.0,
@@ -735,9 +735,9 @@
             "author_total_citations": 9,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Ion Iancu",
+                "Mihai Gabroveanu",
                 "Nicolae Constantinescu",
-                "Mihai Gabroveanu"
+                "Ion Iancu"
             ],
             "author_closeness_centrality": 0.018072289156626505,
             "author_betweenness_centrality": 0.0,
@@ -748,9 +748,9 @@
             "author_total_citations": 9,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Ion Iancu",
                 "Mihai Gabroveanu",
-                "Mirel Cosulschi"
+                "Mirel Cosulschi",
+                "Ion Iancu"
             ],
             "author_closeness_centrality": 0.018072289156626505,
             "author_betweenness_centrality": 0.0,
@@ -792,8 +792,8 @@
             "author_total_citations": 6,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Florin Pop",
-                "Valentin Cristea"
+                "Valentin Cristea",
+                "Florin Pop"
             ],
             "author_closeness_centrality": 0.013554216867469878,
             "author_betweenness_centrality": 0.0,
@@ -805,8 +805,8 @@
             "author_total_papers": 2,
             "author_total_collaborators": [
                 "Valentin Cristea",
-                "Mihai Pantelimon",
-                "Claudiu Gruia"
+                "Claudiu Gruia",
+                "Mihai Pantelimon"
             ],
             "author_closeness_centrality": 0.018072289156626505,
             "author_betweenness_centrality": 3.650967506389193e-05,
@@ -817,9 +817,9 @@
             "author_total_citations": 7,
             "author_total_papers": 2,
             "author_total_collaborators": [
+                "Claudiu Gruia",
                 "Florin Pop",
-                "Mihai Pantelimon",
-                "Claudiu Gruia"
+                "Mihai Pantelimon"
             ],
             "author_closeness_centrality": 0.018072289156626505,
             "author_betweenness_centrality": 3.650967506389193e-05,
@@ -852,9 +852,9 @@
             "author_total_citations": 7,
             "author_total_papers": 1,
             "author_total_collaborators": [
+                "Doru Constantin",
                 "Catalina Cocianu",
-                "Panayiotis M. Vlamos",
-                "Doru Constantin"
+                "Panayiotis M. Vlamos"
             ],
             "author_closeness_centrality": 0.018072289156626505,
             "author_betweenness_centrality": 0.0,
@@ -865,9 +865,9 @@
             "author_total_citations": 7,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Panayiotis M. Vlamos",
+                "Doru Constantin",
                 "Luminita State",
-                "Doru Constantin"
+                "Panayiotis M. Vlamos"
             ],
             "author_closeness_centrality": 0.018072289156626505,
             "author_betweenness_centrality": 0.0,
@@ -878,9 +878,9 @@
             "author_total_citations": 7,
             "author_total_papers": 1,
             "author_total_collaborators": [
+                "Doru Constantin",
                 "Catalina Cocianu",
-                "Luminita State",
-                "Doru Constantin"
+                "Luminita State"
             ],
             "author_closeness_centrality": 0.018072289156626505,
             "author_betweenness_centrality": 0.0,
@@ -892,8 +892,8 @@
             "author_total_papers": 1,
             "author_total_collaborators": [
                 "Catalina Cocianu",
-                "Panayiotis M. Vlamos",
-                "Luminita State"
+                "Luminita State",
+                "Panayiotis M. Vlamos"
             ],
             "author_closeness_centrality": 0.018072289156626505,
             "author_betweenness_centrality": 0.0,
@@ -905,8 +905,8 @@
             "author_total_papers": 3,
             "author_total_collaborators": [
                 "Marc Frincu",
-                "Dana Petcu",
                 "Vladimir Cretu",
+                "Dana Petcu",
                 "Dacian Tudor",
                 "Alexandru Carstea"
             ],
@@ -919,9 +919,9 @@
             "author_total_citations": 16,
             "author_total_papers": 3,
             "author_total_collaborators": [
-                "Alexandru Carstea",
                 "Georgiana Macariu",
-                "Marc Frincu"
+                "Marc Frincu",
+                "Alexandru Carstea"
             ],
             "author_closeness_centrality": 0.021514629948364887,
             "author_betweenness_centrality": 0.0,
@@ -933,8 +933,8 @@
             "author_total_papers": 2,
             "author_total_collaborators": [
                 "Gerd Wagner",
-                "Oana Nicolae",
-                "Ion-Mircea Diaconescu"
+                "Ion-Mircea Diaconescu",
+                "Oana Nicolae"
             ],
             "author_closeness_centrality": 0.018072289156626505,
             "author_betweenness_centrality": 0.0,
@@ -946,8 +946,8 @@
             "author_total_papers": 3,
             "author_total_collaborators": [
                 "Adrian Giurca",
-                "Oana Nicolae",
-                "Ion-Mircea Diaconescu"
+                "Ion-Mircea Diaconescu",
+                "Oana Nicolae"
             ],
             "author_closeness_centrality": 0.018072289156626505,
             "author_betweenness_centrality": 0.0,
@@ -958,9 +958,9 @@
             "author_total_citations": 6,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Dana Petcu",
                 "Marc Frincu",
-                "Georgiana Macariu"
+                "Georgiana Macariu",
+                "Dana Petcu"
             ],
             "author_closeness_centrality": 0.021514629948364887,
             "author_betweenness_centrality": 0.0,
@@ -971,9 +971,9 @@
             "author_total_citations": 10,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Dana Petcu",
                 "Georgiana Macariu",
-                "Alexandru Carstea"
+                "Alexandru Carstea",
+                "Dana Petcu"
             ],
             "author_closeness_centrality": 0.021514629948364887,
             "author_betweenness_centrality": 0.0,
@@ -1028,8 +1028,8 @@
             "author_total_citations": 4,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Ma Xinjian",
-                "Sun Chengfu"
+                "Sun Chengfu",
+                "Ma Xinjian"
             ],
             "author_closeness_centrality": 0.012048192771084338,
             "author_betweenness_centrality": 0.0,
@@ -1052,8 +1052,8 @@
             "author_total_citations": 4,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Lu Songfeng",
-                "Sun Chengfu"
+                "Sun Chengfu",
+                "Lu Songfeng"
             ],
             "author_closeness_centrality": 0.012048192771084338,
             "author_betweenness_centrality": 0.0,
@@ -1085,8 +1085,8 @@
             "author_total_citations": 26,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Henri Luchian",
-                "Andrei Bautu"
+                "Andrei Bautu",
+                "Henri Luchian"
             ],
             "author_closeness_centrality": 0.012048192771084338,
             "author_betweenness_centrality": 0.0,
@@ -1097,8 +1097,8 @@
             "author_total_citations": 26,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Elena Bautu",
-                "Andrei Bautu"
+                "Andrei Bautu",
+                "Elena Bautu"
             ],
             "author_closeness_centrality": 0.012048192771084338,
             "author_betweenness_centrality": 0.0,
@@ -1109,9 +1109,9 @@
             "author_total_citations": 4,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Cosmin Ardelean",
+                "Teodor Pop",
                 "Iosif Ignat",
-                "Teodor Pop"
+                "Cosmin Ardelean"
             ],
             "author_closeness_centrality": 0.018072289156626505,
             "author_betweenness_centrality": 0.0,
@@ -1122,9 +1122,9 @@
             "author_total_citations": 4,
             "author_total_papers": 1,
             "author_total_collaborators": [
+                "Iosif Ignat",
                 "Cosmin Ardelean",
-                "Adrian Colesa",
-                "Iosif Ignat"
+                "Adrian Colesa"
             ],
             "author_closeness_centrality": 0.018072289156626505,
             "author_betweenness_centrality": 0.0,
@@ -1135,9 +1135,9 @@
             "author_total_citations": 4,
             "author_total_papers": 1,
             "author_total_collaborators": [
+                "Teodor Pop",
                 "Cosmin Ardelean",
-                "Adrian Colesa",
-                "Teodor Pop"
+                "Adrian Colesa"
             ],
             "author_closeness_centrality": 0.018072289156626505,
             "author_betweenness_centrality": 0.0,
@@ -1148,9 +1148,9 @@
             "author_total_citations": 4,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Adrian Colesa",
+                "Teodor Pop",
                 "Iosif Ignat",
-                "Teodor Pop"
+                "Adrian Colesa"
             ],
             "author_closeness_centrality": 0.018072289156626505,
             "author_betweenness_centrality": 0.0,
@@ -1228,8 +1228,8 @@
             "author_total_citations": 3,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Hans Wortmann",
-                "Nick B. Szirbik"
+                "Nick B. Szirbik",
+                "Hans Wortmann"
             ],
             "author_closeness_centrality": 0.012048192771084338,
             "author_betweenness_centrality": 0.0,
@@ -1240,8 +1240,8 @@
             "author_total_citations": 3,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Hans Wortmann",
-                "Marco Stuit"
+                "Marco Stuit",
+                "Hans Wortmann"
             ],
             "author_closeness_centrality": 0.012048192771084338,
             "author_betweenness_centrality": 0.0,
@@ -1278,8 +1278,8 @@
             "author_total_papers": 1,
             "author_total_collaborators": [
                 "Viorel Negru",
-                "Horia Emil Popa",
-                "Ionel Muscalagiu"
+                "Ionel Muscalagiu",
+                "Horia Emil Popa"
             ],
             "author_closeness_centrality": 0.021514629948364887,
             "author_betweenness_centrality": 0.0,
@@ -1290,10 +1290,10 @@
             "author_total_citations": 8,
             "author_total_papers": 3,
             "author_total_collaborators": [
-                "Roland H. C. Yap",
-                "Marian Razvan Balta",
+                "Gabriel Manolache",
                 "Stefan Andrei",
-                "Gabriel Manolache"
+                "Marian Razvan Balta",
+                "Roland H. C. Yap"
             ],
             "author_closeness_centrality": 0.03485370051635112,
             "author_betweenness_centrality": 0.0005841548010222709,
@@ -1315,8 +1315,8 @@
             "author_total_citations": 3,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Dumitru Dan Burdescu",
-                "Liana Stanescu"
+                "Liana Stanescu",
+                "Dumitru Dan Burdescu"
             ],
             "author_closeness_centrality": 0.012048192771084338,
             "author_betweenness_centrality": 0.0,
@@ -1327,8 +1327,8 @@
             "author_total_citations": 3,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Dumitru Dan Burdescu",
-                "Anca Loredana Ion"
+                "Anca Loredana Ion",
+                "Dumitru Dan Burdescu"
             ],
             "author_closeness_centrality": 0.012048192771084338,
             "author_betweenness_centrality": 0.0,
@@ -1417,9 +1417,9 @@
             "author_total_citations": 2,
             "author_total_papers": 1,
             "author_total_collaborators": [
+                "Gabriel Manolache",
                 "Victor Felea",
-                "Stefan Andrei",
-                "Gabriel Manolache"
+                "Stefan Andrei"
             ],
             "author_closeness_centrality": 0.03253012048192771,
             "author_betweenness_centrality": 0.0,
@@ -1430,9 +1430,9 @@
             "author_total_citations": 2,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Ion-Mircea Diaconescu",
                 "Adrian Giurca",
-                "Gerd Wagner"
+                "Gerd Wagner",
+                "Ion-Mircea Diaconescu"
             ],
             "author_closeness_centrality": 0.018072289156626505,
             "author_betweenness_centrality": 0.0,
@@ -1444,8 +1444,8 @@
             "author_total_papers": 2,
             "author_total_collaborators": [
                 "Adrian Giurca",
-                "Oana Nicolae",
-                "Gerd Wagner"
+                "Gerd Wagner",
+                "Oana Nicolae"
             ],
             "author_closeness_centrality": 0.018072289156626505,
             "author_betweenness_centrality": 0.0,
@@ -1517,8 +1517,8 @@
             "author_total_citations": 1,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Daniel Matei",
-                "Adrian Iftene"
+                "Adrian Iftene",
+                "Daniel Matei"
             ],
             "author_closeness_centrality": 0.012048192771084338,
             "author_betweenness_centrality": 0.0,
@@ -1576,9 +1576,9 @@
             "author_total_citations": 1,
             "author_total_papers": 1,
             "author_total_collaborators": [
+                "Paola Salle",
                 "Frederic Duvert",
-                "Stefano A. Cerri",
-                "Paola Salle"
+                "Stefano A. Cerri"
             ],
             "author_closeness_centrality": 0.018072289156626505,
             "author_betweenness_centrality": 0.0,
@@ -1589,9 +1589,9 @@
             "author_total_citations": 1,
             "author_total_papers": 1,
             "author_total_collaborators": [
+                "Paola Salle",
                 "Stefano A. Cerri",
-                "Daniele Herin",
-                "Paola Salle"
+                "Daniele Herin"
             ],
             "author_closeness_centrality": 0.018072289156626505,
             "author_betweenness_centrality": 0.0,
@@ -1602,9 +1602,9 @@
             "author_total_citations": 1,
             "author_total_papers": 1,
             "author_total_collaborators": [
+                "Paola Salle",
                 "Frederic Duvert",
-                "Daniele Herin",
-                "Paola Salle"
+                "Daniele Herin"
             ],
             "author_closeness_centrality": 0.018072289156626505,
             "author_betweenness_centrality": 0.0,
@@ -1637,8 +1637,8 @@
             "author_total_citations": 1,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Florin Pop",
-                "Valentin Cristea"
+                "Valentin Cristea",
+                "Florin Pop"
             ],
             "author_closeness_centrality": 0.013554216867469878,
             "author_betweenness_centrality": 0.0,
@@ -1649,8 +1649,8 @@
             "author_total_citations": 1,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Yijie Liu",
-                "Siau-Cheng Khoo"
+                "Siau-Cheng Khoo",
+                "Yijie Liu"
             ],
             "author_closeness_centrality": 0.012048192771084338,
             "author_betweenness_centrality": 0.0,
@@ -1661,8 +1661,8 @@
             "author_total_citations": 1,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Yijie Liu",
-                "Hugh Anderson"
+                "Hugh Anderson",
+                "Yijie Liu"
             ],
             "author_closeness_centrality": 0.012048192771084338,
             "author_betweenness_centrality": 0.0,
@@ -1705,9 +1705,9 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
+                "Oleg Karsaev",
                 "Sergey Serebryakov",
-                "Vladimir Samoilov",
-                "Oleg Karsaev"
+                "Vladimir Samoilov"
             ],
             "author_closeness_centrality": 0.018072289156626505,
             "author_betweenness_centrality": 0.0,
@@ -1718,8 +1718,8 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Sergey Serebryakov",
                 "Vladimir Gorodetsky",
+                "Sergey Serebryakov",
                 "Vladimir Samoilov"
             ],
             "author_closeness_centrality": 0.018072289156626505,
@@ -1731,9 +1731,9 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Sergey Serebryakov",
+                "Oleg Karsaev",
                 "Vladimir Gorodetsky",
-                "Oleg Karsaev"
+                "Sergey Serebryakov"
             ],
             "author_closeness_centrality": 0.018072289156626505,
             "author_betweenness_centrality": 0.0,
@@ -1744,9 +1744,9 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
+                "Oleg Karsaev",
                 "Vladimir Gorodetsky",
-                "Vladimir Samoilov",
-                "Oleg Karsaev"
+                "Vladimir Samoilov"
             ],
             "author_closeness_centrality": 0.018072289156626505,
             "author_betweenness_centrality": 0.0,
@@ -1800,8 +1800,8 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Dacian Tudor",
-                "Georgiana Macariu"
+                "Georgiana Macariu",
+                "Dacian Tudor"
             ],
             "author_closeness_centrality": 0.018825301204819275,
             "author_betweenness_centrality": 0.0,
@@ -1821,9 +1821,9 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Alexandru Sofronia",
                 "Radu Gramatovici",
-                "Constantin Enea"
+                "Constantin Enea",
+                "Alexandru Sofronia"
             ],
             "author_closeness_centrality": 0.018072289156626505,
             "author_betweenness_centrality": 0.0,
@@ -1834,9 +1834,9 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Alexandru Sofronia",
                 "Radu Gramatovici",
-                "Catalin Dima"
+                "Catalin Dima",
+                "Alexandru Sofronia"
             ],
             "author_closeness_centrality": 0.018072289156626505,
             "author_betweenness_centrality": 0.0,
@@ -1847,9 +1847,9 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Alexandru Sofronia",
+                "Catalin Dima",
                 "Constantin Enea",
-                "Catalin Dima"
+                "Alexandru Sofronia"
             ],
             "author_closeness_centrality": 0.018072289156626505,
             "author_betweenness_centrality": 0.0,
@@ -1861,8 +1861,8 @@
             "author_total_papers": 1,
             "author_total_collaborators": [
                 "Radu Gramatovici",
-                "Constantin Enea",
-                "Catalin Dima"
+                "Catalin Dima",
+                "Constantin Enea"
             ],
             "author_closeness_centrality": 0.018072289156626505,
             "author_betweenness_centrality": 0.0,
@@ -1884,8 +1884,8 @@
             "author_total_collaborators": [
                 "Rafael Romero",
                 "Will Beazley",
-                "Bindiya Mansharamani",
-                "Stefan Andrei"
+                "Stefan Andrei",
+                "Bindiya Mansharamani"
             ],
             "author_closeness_centrality": 0.03253012048192771,
             "author_betweenness_centrality": 0.0,
@@ -1898,8 +1898,8 @@
             "author_total_collaborators": [
                 "Rafael Romero",
                 "Will Beazley",
-                "Nilam Chand",
-                "Stefan Andrei"
+                "Stefan Andrei",
+                "Nilam Chand"
             ],
             "author_closeness_centrality": 0.03253012048192771,
             "author_betweenness_centrality": 0.0,
@@ -1911,9 +1911,9 @@
             "author_total_papers": 1,
             "author_total_collaborators": [
                 "Will Beazley",
+                "Stefan Andrei",
                 "Nilam Chand",
-                "Bindiya Mansharamani",
-                "Stefan Andrei"
+                "Bindiya Mansharamani"
             ],
             "author_closeness_centrality": 0.03253012048192771,
             "author_betweenness_centrality": 0.0,
@@ -1925,9 +1925,9 @@
             "author_total_papers": 1,
             "author_total_collaborators": [
                 "Rafael Romero",
+                "Stefan Andrei",
                 "Nilam Chand",
-                "Bindiya Mansharamani",
-                "Stefan Andrei"
+                "Bindiya Mansharamani"
             ],
             "author_closeness_centrality": 0.03253012048192771,
             "author_betweenness_centrality": 0.0,
@@ -1960,8 +1960,8 @@
             "author_total_citations": 0,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Peter Istvan Fulop",
-                "D. Dumitrescu"
+                "D. Dumitrescu",
+                "Peter Istvan Fulop"
             ],
             "author_closeness_centrality": 0.012048192771084338,
             "author_betweenness_centrality": 0.0,
@@ -1972,8 +1972,8 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "David Iclanzan",
-                "D. Dumitrescu"
+                "D. Dumitrescu",
+                "David Iclanzan"
             ],
             "author_closeness_centrality": 0.012048192771084338,
             "author_betweenness_centrality": 0.0,
@@ -1984,8 +1984,8 @@
             "author_total_citations": 0,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Peter Istvan Fulop",
-                "David Iclanzan"
+                "David Iclanzan",
+                "Peter Istvan Fulop"
             ],
             "author_closeness_centrality": 0.012048192771084338,
             "author_betweenness_centrality": 0.0,
@@ -2027,10 +2027,10 @@
             "author_total_citations": 14,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Myon-Woong Park",
-                "Costin Badica",
                 "Elvira Popescu",
+                "Myon-Woong Park",
                 "Marcin Paprzycki",
+                "Costin Badica",
                 "Maciej Gawinecki"
             ],
             "author_closeness_centrality": 0.030981067125645436,
@@ -2042,11 +2042,11 @@
             "author_total_citations": 14,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Myon-Woong Park",
-                "Costin Badica",
                 "Elvira Popescu",
-                "Maciej Gawinecki",
-                "Maria Ganzha"
+                "Myon-Woong Park",
+                "Maria Ganzha",
+                "Costin Badica",
+                "Maciej Gawinecki"
             ],
             "author_closeness_centrality": 0.030981067125645436,
             "author_betweenness_centrality": 0.0,
@@ -2057,11 +2057,11 @@
             "author_total_citations": 14,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Myon-Woong Park",
-                "Costin Badica",
                 "Elvira Popescu",
+                "Myon-Woong Park",
+                "Maria Ganzha",
                 "Marcin Paprzycki",
-                "Maria Ganzha"
+                "Costin Badica"
             ],
             "author_closeness_centrality": 0.030981067125645436,
             "author_betweenness_centrality": 0.0,
@@ -2072,11 +2072,11 @@
             "author_total_citations": 14,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Costin Badica",
                 "Elvira Popescu",
+                "Maria Ganzha",
                 "Marcin Paprzycki",
-                "Maciej Gawinecki",
-                "Maria Ganzha"
+                "Costin Badica",
+                "Maciej Gawinecki"
             ],
             "author_closeness_centrality": 0.030981067125645436,
             "author_betweenness_centrality": 0.0,
@@ -2103,730 +2103,730 @@
         }
     },
     "author_links": [
-        {
-            "source": "Flavius Gruian",
-            "target": "Mark Westmijze"
-        },
-        {
-            "source": "Stefan Andrei",
-            "target": "Samarjit Chakraborty"
-        },
-        {
-            "source": "Raluca Lefticaru",
-            "target": "Florentin Ipate"
-        },
-        {
-            "source": "Zsolt Minier",
-            "target": "Zalan Bodo"
-        },
-        {
-            "source": "Zsolt Minier",
-            "target": "Lehel Csato"
-        },
-        {
-            "source": "Zalan Bodo",
-            "target": "Lehel Csato"
-        },
-        {
-            "source": "Sorin Iftene",
-            "target": "Manuela Grindei"
-        },
-        {
-            "source": "Elvira Popescu",
-            "target": "Costin Badica"
-        },
-        {
-            "source": "Elvira Popescu",
-            "target": "Philippe Trigano"
-        },
-        {
-            "source": "Costin Badica",
-            "target": "Philippe Trigano"
-        },
-        {
-            "source": "Mircea Alexandru Imbroane",
-            "target": "Cornelia Melenti"
-        },
-        {
-            "source": "Mircea Alexandru Imbroane",
-            "target": "Dorian Gorgan"
-        },
-        {
-            "source": "Cornelia Melenti",
-            "target": "Dorian Gorgan"
-        },
-        {
-            "source": "Oana Andrei",
-            "target": "Helene Kirchner"
-        },
-        {
-            "source": "Anca Radu",
-            "target": "Victor Bacu"
-        },
-        {
-            "source": "Anca Radu",
-            "target": "Dorian Gorgan"
-        },
-        {
-            "source": "Victor Bacu",
-            "target": "Dorian Gorgan"
-        },
-        {
-            "source": "Petru Florin Mihancea",
-            "target": "George Ganea"
-        },
-        {
-            "source": "Petru Florin Mihancea",
-            "target": "Ioana Verebi"
-        },
-        {
-            "source": "Petru Florin Mihancea",
-            "target": "Cristina Marinescu"
-        },
-        {
-            "source": "Petru Florin Mihancea",
-            "target": "Radu Marinescu"
-        },
-        {
-            "source": "George Ganea",
-            "target": "Ioana Verebi"
-        },
-        {
-            "source": "George Ganea",
-            "target": "Cristina Marinescu"
-        },
-        {
-            "source": "George Ganea",
-            "target": "Radu Marinescu"
-        },
-        {
-            "source": "Ioana Verebi",
-            "target": "Cristina Marinescu"
-        },
-        {
-            "source": "Ioana Verebi",
-            "target": "Radu Marinescu"
-        },
-        {
-            "source": "Cristina Marinescu",
-            "target": "Radu Marinescu"
-        },
-        {
-            "source": "Antonio Plaza",
-            "target": "Javier Plaza"
-        },
-        {
-            "source": "Antonio Plaza",
-            "target": "Abel Paz"
-        },
-        {
-            "source": "Antonio Plaza",
-            "target": "Soraya Blazquez"
-        },
-        {
-            "source": "Javier Plaza",
-            "target": "Abel Paz"
-        },
-        {
-            "source": "Javier Plaza",
-            "target": "Soraya Blazquez"
-        },
-        {
-            "source": "Abel Paz",
-            "target": "Soraya Blazquez"
-        },
-        {
-            "source": "Adrian Craciun",
-            "target": "Madalina Hodorog"
-        },
-        {
-            "source": "Sarah D. Induruwa Fernando",
-            "target": "Douglas A. Creager"
-        },
-        {
-            "source": "Sarah D. Induruwa Fernando",
-            "target": "Andrew C. Simpson"
-        },
-        {
-            "source": "Douglas A. Creager",
-            "target": "Andrew C. Simpson"
-        },
-        {
-            "source": "Lorenzo Capra",
-            "target": "Walter Cazzola"
-        },
-        {
-            "source": "Horia Emil Popa",
-            "target": "Daniel Pop"
-        },
-        {
-            "source": "Horia Emil Popa",
-            "target": "Viorel Negru"
-        },
-        {
-            "source": "Horia Emil Popa",
-            "target": "Daniela Zaharie"
-        },
-        {
-            "source": "Daniel Pop",
-            "target": "Viorel Negru"
-        },
-        {
-            "source": "Daniel Pop",
-            "target": "Daniela Zaharie"
-        },
-        {
-            "source": "Viorel Negru",
-            "target": "Daniela Zaharie"
-        },
-        {
-            "source": "Petrica C. Pop",
-            "target": "Camelia-Mihaela Pintea"
-        },
-        {
-            "source": "Petrica C. Pop",
-            "target": "Corina Pop Sitar"
-        },
-        {
-            "source": "Petrica C. Pop",
-            "target": "Dumitru Dumitrescu"
-        },
-        {
-            "source": "Camelia-Mihaela Pintea",
-            "target": "Corina Pop Sitar"
-        },
-        {
-            "source": "Camelia-Mihaela Pintea",
-            "target": "Dumitru Dumitrescu"
-        },
-        {
-            "source": "Corina Pop Sitar",
-            "target": "Dumitru Dumitrescu"
-        },
-        {
-            "source": "Marta Girdea",
-            "target": "Liviu Ciortuz"
-        },
-        {
-            "source": "Mihai Gabroveanu",
-            "target": "Ion Iancu"
-        },
-        {
-            "source": "Mihai Gabroveanu",
-            "target": "Mirel Cosulschi"
-        },
-        {
-            "source": "Mihai Gabroveanu",
-            "target": "Nicolae Constantinescu"
-        },
-        {
-            "source": "Ion Iancu",
-            "target": "Mirel Cosulschi"
-        },
-        {
-            "source": "Ion Iancu",
-            "target": "Nicolae Constantinescu"
-        },
-        {
-            "source": "Mirel Cosulschi",
-            "target": "Nicolae Constantinescu"
-        },
-        {
-            "source": "Adina Magda Florea",
-            "target": "Eugenia Kalisz"
-        },
-        {
-            "source": "Claudiu Gruia",
-            "target": "Florin Pop"
-        },
-        {
-            "source": "Claudiu Gruia",
-            "target": "Valentin Cristea"
-        },
-        {
-            "source": "Florin Pop",
-            "target": "Valentin Cristea"
-        },
-        {
-            "source": "Radu Tiberiu Trimbitas",
-            "target": "Maria Gabriela Trimbitas"
-        },
-        {
-            "source": "Luminita State",
-            "target": "Catalina Cocianu"
-        },
-        {
-            "source": "Luminita State",
-            "target": "Panayiotis M. Vlamos"
-        },
-        {
-            "source": "Luminita State",
-            "target": "Doru Constantin"
-        },
-        {
-            "source": "Catalina Cocianu",
-            "target": "Panayiotis M. Vlamos"
-        },
-        {
-            "source": "Catalina Cocianu",
-            "target": "Doru Constantin"
-        },
-        {
-            "source": "Panayiotis M. Vlamos",
-            "target": "Doru Constantin"
-        },
-        {
-            "source": "Georgiana Macariu",
-            "target": "Dana Petcu"
-        },
-        {
-            "source": "Adrian Giurca",
-            "target": "Gerd Wagner"
-        },
-        {
-            "source": "Alexandru Carstea",
-            "target": "Georgiana Macariu"
-        },
-        {
-            "source": "Alexandru Carstea",
-            "target": "Marc Frincu"
-        },
-        {
-            "source": "Alexandru Carstea",
-            "target": "Dana Petcu"
-        },
-        {
-            "source": "Georgiana Macariu",
-            "target": "Marc Frincu"
-        },
-        {
-            "source": "Marc Frincu",
-            "target": "Dana Petcu"
-        },
-        {
-            "source": "Jose A. Mocholi",
-            "target": "Javier Jaen Martinez"
-        },
-        {
-            "source": "Ion Pavaloiu",
-            "target": "Emil Catinas"
-        },
-        {
-            "source": "Lu Songfeng",
-            "target": "Sun Chengfu"
-        },
-        {
-            "source": "Lu Songfeng",
-            "target": "Ma Xinjian"
-        },
-        {
-            "source": "Sun Chengfu",
-            "target": "Ma Xinjian"
-        },
-        {
-            "source": "Andrei Bautu",
-            "target": "Elena Bautu"
-        },
-        {
-            "source": "Andrei Bautu",
-            "target": "Henri Luchian"
-        },
-        {
-            "source": "Elena Bautu",
-            "target": "Henri Luchian"
-        },
-        {
-            "source": "Adrian Colesa",
-            "target": "Teodor Pop"
-        },
-        {
-            "source": "Adrian Colesa",
-            "target": "Iosif Ignat"
-        },
-        {
-            "source": "Adrian Colesa",
-            "target": "Cosmin Ardelean"
-        },
-        {
-            "source": "Teodor Pop",
-            "target": "Iosif Ignat"
-        },
-        {
-            "source": "Teodor Pop",
-            "target": "Cosmin Ardelean"
-        },
-        {
-            "source": "Iosif Ignat",
-            "target": "Cosmin Ardelean"
-        },
-        {
-            "source": "Vasile Berinde",
-            "target": "Madalina Pacurar"
-        },
-        {
-            "source": "Joel Quinqueton",
-            "target": "Gilles Raymond"
-        },
-        {
-            "source": "Joel Quinqueton",
-            "target": "Christian Bessiere"
-        },
-        {
-            "source": "Gilles Raymond",
-            "target": "Christian Bessiere"
-        },
-        {
-            "source": "Marco Stuit",
-            "target": "Nick B. Szirbik"
-        },
-        {
-            "source": "Marco Stuit",
-            "target": "Hans Wortmann"
-        },
-        {
-            "source": "Nick B. Szirbik",
-            "target": "Hans Wortmann"
-        },
-        {
-            "source": "Horia Emil Popa",
-            "target": "Ionel Muscalagiu"
-        },
-        {
-            "source": "Horia Emil Popa",
-            "target": "Diana Maria Muscalagiu"
-        },
-        {
-            "source": "Ionel Muscalagiu",
-            "target": "Diana Maria Muscalagiu"
-        },
-        {
-            "source": "Ionel Muscalagiu",
-            "target": "Viorel Negru"
-        },
-        {
-            "source": "Diana Maria Muscalagiu",
-            "target": "Viorel Negru"
-        },
-        {
-            "source": "Victor Felea",
-            "target": "Marian Razvan Balta"
-        },
-        {
-            "source": "Anca Loredana Ion",
-            "target": "Liana Stanescu"
-        },
-        {
-            "source": "Anca Loredana Ion",
-            "target": "Dumitru Dan Burdescu"
-        },
-        {
-            "source": "Liana Stanescu",
-            "target": "Dumitru Dan Burdescu"
-        },
-        {
-            "source": "Bogdan Aman",
-            "target": "Gabriel Ciobanu"
-        },
-        {
-            "source": "Sergiu Dumitriu",
-            "target": "Sabin C. Buraga"
-        },
-        {
-            "source": "Stefan Andrei",
-            "target": "Gabriel Manolache"
-        },
-        {
-            "source": "Stefan Andrei",
-            "target": "Roland H. C. Yap"
-        },
-        {
-            "source": "Stefan Andrei",
-            "target": "Victor Felea"
-        },
-        {
-            "source": "Gabriel Manolache",
-            "target": "Roland H. C. Yap"
-        },
-        {
-            "source": "Gabriel Manolache",
-            "target": "Victor Felea"
-        },
-        {
-            "source": "Roland H. C. Yap",
-            "target": "Victor Felea"
-        },
-        {
-            "source": "Oana Nicolae",
-            "target": "Ion-Mircea Diaconescu"
-        },
-        {
-            "source": "Oana Nicolae",
-            "target": "Adrian Giurca"
-        },
-        {
-            "source": "Oana Nicolae",
-            "target": "Gerd Wagner"
-        },
-        {
-            "source": "Ion-Mircea Diaconescu",
-            "target": "Adrian Giurca"
-        },
-        {
-            "source": "Ion-Mircea Diaconescu",
-            "target": "Gerd Wagner"
-        },
-        {
-            "source": "Rodica Potolea",
-            "target": "Alin Suciu"
-        },
-        {
-            "source": "Adrian Iftene",
-            "target": "Alexandra Balahur-Dobrescu"
-        },
-        {
-            "source": "Adrian Iftene",
-            "target": "Daniel Matei"
-        },
-        {
-            "source": "Alexandra Balahur-Dobrescu",
-            "target": "Daniel Matei"
-        },
-        {
-            "source": "Stefan Maruster",
-            "target": "Cristina Popirlan"
-        },
-        {
-            "source": "Paola Salle",
-            "target": "Daniele Herin"
-        },
-        {
-            "source": "Paola Salle",
-            "target": "Frederic Duvert"
-        },
-        {
-            "source": "Paola Salle",
-            "target": "Stefano A. Cerri"
-        },
-        {
-            "source": "Daniele Herin",
-            "target": "Frederic Duvert"
-        },
-        {
-            "source": "Daniele Herin",
-            "target": "Stefano A. Cerri"
-        },
-        {
-            "source": "Frederic Duvert",
-            "target": "Stefano A. Cerri"
-        },
-        {
-            "source": "Octavian Cira",
-            "target": "Cristian-Mihai Cira"
-        },
-        {
-            "source": "Mihai Pantelimon",
-            "target": "Florin Pop"
-        },
-        {
-            "source": "Mihai Pantelimon",
-            "target": "Valentin Cristea"
-        },
-        {
-            "source": "Hugh Anderson",
-            "target": "Siau-Cheng Khoo"
-        },
-        {
-            "source": "Hugh Anderson",
-            "target": "Yijie Liu"
-        },
-        {
-            "source": "Siau-Cheng Khoo",
-            "target": "Yijie Liu"
-        },
-        {
-            "source": "Laura Diosan",
-            "target": "Dumitru Dumitrescu"
-        },
-        {
-            "source": "Vladimir Gorodetsky",
-            "target": "Oleg Karsaev"
-        },
-        {
-            "source": "Vladimir Gorodetsky",
-            "target": "Vladimir Samoilov"
-        },
-        {
-            "source": "Vladimir Gorodetsky",
-            "target": "Sergey Serebryakov"
-        },
-        {
-            "source": "Oleg Karsaev",
-            "target": "Vladimir Samoilov"
-        },
-        {
-            "source": "Oleg Karsaev",
-            "target": "Sergey Serebryakov"
-        },
-        {
-            "source": "Vladimir Samoilov",
-            "target": "Sergey Serebryakov"
-        },
-        {
-            "source": "Octav Brudaru",
-            "target": "Octavian Buzatu"
-        },
-        {
-            "source": "Dacian Tudor",
-            "target": "Georgiana Macariu"
-        },
-        {
-            "source": "Dacian Tudor",
-            "target": "Vladimir Cretu"
-        },
-        {
-            "source": "Georgiana Macariu",
-            "target": "Vladimir Cretu"
-        },
-        {
-            "source": "Catalin Dima",
-            "target": "Constantin Enea"
-        },
-        {
-            "source": "Catalin Dima",
-            "target": "Radu Gramatovici"
-        },
-        {
-            "source": "Catalin Dima",
-            "target": "Alexandru Sofronia"
-        },
-        {
-            "source": "Constantin Enea",
-            "target": "Radu Gramatovici"
-        },
-        {
-            "source": "Constantin Enea",
-            "target": "Alexandru Sofronia"
-        },
-        {
-            "source": "Radu Gramatovici",
-            "target": "Alexandru Sofronia"
-        },
-        {
-            "source": "Nilam Chand",
-            "target": "Bindiya Mansharamani"
-        },
-        {
-            "source": "Nilam Chand",
-            "target": "Rafael Romero"
-        },
-        {
-            "source": "Nilam Chand",
-            "target": "Will Beazley"
-        },
-        {
-            "source": "Nilam Chand",
-            "target": "Stefan Andrei"
-        },
-        {
-            "source": "Bindiya Mansharamani",
-            "target": "Rafael Romero"
-        },
-        {
-            "source": "Bindiya Mansharamani",
-            "target": "Will Beazley"
-        },
-        {
-            "source": "Bindiya Mansharamani",
-            "target": "Stefan Andrei"
-        },
-        {
-            "source": "Rafael Romero",
-            "target": "Will Beazley"
-        },
-        {
-            "source": "Rafael Romero",
-            "target": "Stefan Andrei"
-        },
-        {
-            "source": "Will Beazley",
-            "target": "Stefan Andrei"
-        },
-        {
-            "source": "Monica Radulescu",
-            "target": "Felicia Ionescu"
-        },
-        {
-            "source": "David Iclanzan",
-            "target": "Peter Istvan Fulop"
-        },
-        {
-            "source": "David Iclanzan",
-            "target": "D. Dumitrescu"
-        },
-        {
-            "source": "Peter Istvan Fulop",
-            "target": "D. Dumitrescu"
-        },
-        {
-            "source": "N. R. T. P. van Beest",
-            "target": "Laura Maruster"
-        },
-        {
-            "source": "Maria Ganzha",
-            "target": "Marcin Paprzycki"
-        },
-        {
-            "source": "Maria Ganzha",
-            "target": "Maciej Gawinecki"
-        },
-        {
-            "source": "Maria Ganzha",
-            "target": "Costin Badica"
-        },
-        {
-            "source": "Maria Ganzha",
-            "target": "Elvira Popescu"
-        },
-        {
-            "source": "Maria Ganzha",
-            "target": "Myon-Woong Park"
-        },
-        {
-            "source": "Marcin Paprzycki",
-            "target": "Maciej Gawinecki"
-        },
-        {
-            "source": "Marcin Paprzycki",
-            "target": "Costin Badica"
-        },
-        {
-            "source": "Marcin Paprzycki",
-            "target": "Elvira Popescu"
-        },
-        {
-            "source": "Marcin Paprzycki",
-            "target": "Myon-Woong Park"
-        },
-        {
-            "source": "Maciej Gawinecki",
-            "target": "Costin Badica"
-        },
-        {
-            "source": "Maciej Gawinecki",
-            "target": "Elvira Popescu"
-        },
-        {
-            "source": "Maciej Gawinecki",
-            "target": "Myon-Woong Park"
-        },
-        {
-            "source": "Costin Badica",
-            "target": "Myon-Woong Park"
-        },
-        {
-            "source": "Elvira Popescu",
-            "target": "Myon-Woong Park"
-        }
+        [
+            "Costin Badica",
+            "Maciej Gawinecki"
+        ],
+        [
+            "Alin Suciu",
+            "Rodica Potolea"
+        ],
+        [
+            "George Ganea",
+            "Ioana Verebi"
+        ],
+        [
+            "Dacian Tudor",
+            "Vladimir Cretu"
+        ],
+        [
+            "Javier Plaza",
+            "Soraya Blazquez"
+        ],
+        [
+            "Diana Maria Muscalagiu",
+            "Horia Emil Popa"
+        ],
+        [
+            "Adrian Iftene",
+            "Daniel Matei"
+        ],
+        [
+            "Frederic Duvert",
+            "Paola Salle"
+        ],
+        [
+            "Bindiya Mansharamani",
+            "Stefan Andrei"
+        ],
+        [
+            "Cristina Marinescu",
+            "George Ganea"
+        ],
+        [
+            "Dumitru Dumitrescu",
+            "Laura Diosan"
+        ],
+        [
+            "Bogdan Aman",
+            "Gabriel Ciobanu"
+        ],
+        [
+            "Camelia-Mihaela Pintea",
+            "Petrica C. Pop"
+        ],
+        [
+            "Ion Iancu",
+            "Mihai Gabroveanu"
+        ],
+        [
+            "Roland H. C. Yap",
+            "Stefan Andrei"
+        ],
+        [
+            "Octav Brudaru",
+            "Octavian Buzatu"
+        ],
+        [
+            "D. Dumitrescu",
+            "David Iclanzan"
+        ],
+        [
+            "Doru Constantin",
+            "Panayiotis M. Vlamos"
+        ],
+        [
+            "Abel Paz",
+            "Antonio Plaza"
+        ],
+        [
+            "Abel Paz",
+            "Soraya Blazquez"
+        ],
+        [
+            "Diana Maria Muscalagiu",
+            "Viorel Negru"
+        ],
+        [
+            "Maciej Gawinecki",
+            "Marcin Paprzycki"
+        ],
+        [
+            "Elvira Popescu",
+            "Maciej Gawinecki"
+        ],
+        [
+            "Christian Bessiere",
+            "Gilles Raymond"
+        ],
+        [
+            "Costin Badica",
+            "Marcin Paprzycki"
+        ],
+        [
+            "Alexandru Sofronia",
+            "Constantin Enea"
+        ],
+        [
+            "Nilam Chand",
+            "Rafael Romero"
+        ],
+        [
+            "Madalina Pacurar",
+            "Vasile Berinde"
+        ],
+        [
+            "Andrei Bautu",
+            "Henri Luchian"
+        ],
+        [
+            "Adrian Giurca",
+            "Oana Nicolae"
+        ],
+        [
+            "Petru Florin Mihancea",
+            "Radu Marinescu"
+        ],
+        [
+            "Cristina Marinescu",
+            "Petru Florin Mihancea"
+        ],
+        [
+            "Alexandru Sofronia",
+            "Radu Gramatovici"
+        ],
+        [
+            "Bindiya Mansharamani",
+            "Nilam Chand"
+        ],
+        [
+            "Nilam Chand",
+            "Will Beazley"
+        ],
+        [
+            "Abel Paz",
+            "Javier Plaza"
+        ],
+        [
+            "Catalina Cocianu",
+            "Doru Constantin"
+        ],
+        [
+            "Cornelia Melenti",
+            "Mircea Alexandru Imbroane"
+        ],
+        [
+            "Gerd Wagner",
+            "Ion-Mircea Diaconescu"
+        ],
+        [
+            "Hugh Anderson",
+            "Yijie Liu"
+        ],
+        [
+            "Ion Iancu",
+            "Nicolae Constantinescu"
+        ],
+        [
+            "Ma Xinjian",
+            "Sun Chengfu"
+        ],
+        [
+            "Marco Stuit",
+            "Nick B. Szirbik"
+        ],
+        [
+            "Florin Pop",
+            "Valentin Cristea"
+        ],
+        [
+            "Oleg Karsaev",
+            "Vladimir Samoilov"
+        ],
+        [
+            "Adrian Iftene",
+            "Alexandra Balahur-Dobrescu"
+        ],
+        [
+            "Douglas A. Creager",
+            "Sarah D. Induruwa Fernando"
+        ],
+        [
+            "Marcin Paprzycki",
+            "Maria Ganzha"
+        ],
+        [
+            "Maciej Gawinecki",
+            "Myon-Woong Park"
+        ],
+        [
+            "Cristina Marinescu",
+            "Radu Marinescu"
+        ],
+        [
+            "Sergey Serebryakov",
+            "Vladimir Gorodetsky"
+        ],
+        [
+            "Hugh Anderson",
+            "Siau-Cheng Khoo"
+        ],
+        [
+            "Horia Emil Popa",
+            "Viorel Negru"
+        ],
+        [
+            "Costin Badica",
+            "Myon-Woong Park"
+        ],
+        [
+            "Georgiana Macariu",
+            "Marc Frincu"
+        ],
+        [
+            "Adrian Giurca",
+            "Gerd Wagner"
+        ],
+        [
+            "Elvira Popescu",
+            "Marcin Paprzycki"
+        ],
+        [
+            "Stefan Andrei",
+            "Will Beazley"
+        ],
+        [
+            "Costin Badica",
+            "Elvira Popescu"
+        ],
+        [
+            "Alexandru Carstea",
+            "Dana Petcu"
+        ],
+        [
+            "Dorian Gorgan",
+            "Victor Bacu"
+        ],
+        [
+            "Javier Jaen Martinez",
+            "Jose A. Mocholi"
+        ],
+        [
+            "Ion Iancu",
+            "Mirel Cosulschi"
+        ],
+        [
+            "Lehel Csato",
+            "Zsolt Minier"
+        ],
+        [
+            "Horia Emil Popa",
+            "Ionel Muscalagiu"
+        ],
+        [
+            "Ion-Mircea Diaconescu",
+            "Oana Nicolae"
+        ],
+        [
+            "Daniele Herin",
+            "Stefano A. Cerri"
+        ],
+        [
+            "Daniel Pop",
+            "Horia Emil Popa"
+        ],
+        [
+            "Corina Pop Sitar",
+            "Dumitru Dumitrescu"
+        ],
+        [
+            "Catalin Dima",
+            "Constantin Enea"
+        ],
+        [
+            "Mihai Gabroveanu",
+            "Nicolae Constantinescu"
+        ],
+        [
+            "Gabriel Manolache",
+            "Victor Felea"
+        ],
+        [
+            "Andrei Bautu",
+            "Elena Bautu"
+        ],
+        [
+            "David Iclanzan",
+            "Peter Istvan Fulop"
+        ],
+        [
+            "Marian Razvan Balta",
+            "Victor Felea"
+        ],
+        [
+            "Andrew C. Simpson",
+            "Sarah D. Induruwa Fernando"
+        ],
+        [
+            "Manuela Grindei",
+            "Sorin Iftene"
+        ],
+        [
+            "Anca Loredana Ion",
+            "Dumitru Dan Burdescu"
+        ],
+        [
+            "Diana Maria Muscalagiu",
+            "Ionel Muscalagiu"
+        ],
+        [
+            "Catalin Dima",
+            "Radu Gramatovici"
+        ],
+        [
+            "Ionel Muscalagiu",
+            "Viorel Negru"
+        ],
+        [
+            "Claudiu Gruia",
+            "Valentin Cristea"
+        ],
+        [
+            "Adrian Colesa",
+            "Teodor Pop"
+        ],
+        [
+            "Alexandra Balahur-Dobrescu",
+            "Daniel Matei"
+        ],
+        [
+            "Florentin Ipate",
+            "Raluca Lefticaru"
+        ],
+        [
+            "Catalina Cocianu",
+            "Luminita State"
+        ],
+        [
+            "Hans Wortmann",
+            "Marco Stuit"
+        ],
+        [
+            "Daniel Pop",
+            "Viorel Negru"
+        ],
+        [
+            "Alexandru Carstea",
+            "Georgiana Macariu"
+        ],
+        [
+            "Elvira Popescu",
+            "Myon-Woong Park"
+        ],
+        [
+            "Corina Pop Sitar",
+            "Petrica C. Pop"
+        ],
+        [
+            "Mihai Gabroveanu",
+            "Mirel Cosulschi"
+        ],
+        [
+            "Elena Bautu",
+            "Henri Luchian"
+        ],
+        [
+            "Dumitru Dumitrescu",
+            "Petrica C. Pop"
+        ],
+        [
+            "D. Dumitrescu",
+            "Peter Istvan Fulop"
+        ],
+        [
+            "Daniele Herin",
+            "Frederic Duvert"
+        ],
+        [
+            "Gilles Raymond",
+            "Joel Quinqueton"
+        ],
+        [
+            "Rafael Romero",
+            "Will Beazley"
+        ],
+        [
+            "Dacian Tudor",
+            "Georgiana Macariu"
+        ],
+        [
+            "Camelia-Mihaela Pintea",
+            "Corina Pop Sitar"
+        ],
+        [
+            "Roland H. C. Yap",
+            "Victor Felea"
+        ],
+        [
+            "Maria Ganzha",
+            "Myon-Woong Park"
+        ],
+        [
+            "Nilam Chand",
+            "Stefan Andrei"
+        ],
+        [
+            "Daniele Herin",
+            "Paola Salle"
+        ],
+        [
+            "Costin Badica",
+            "Philippe Trigano"
+        ],
+        [
+            "George Ganea",
+            "Petru Florin Mihancea"
+        ],
+        [
+            "Mihai Pantelimon",
+            "Valentin Cristea"
+        ],
+        [
+            "Adrian Colesa",
+            "Iosif Ignat"
+        ],
+        [
+            "Daniela Zaharie",
+            "Horia Emil Popa"
+        ],
+        [
+            "Rafael Romero",
+            "Stefan Andrei"
+        ],
+        [
+            "Oleg Karsaev",
+            "Sergey Serebryakov"
+        ],
+        [
+            "Cristina Popirlan",
+            "Stefan Maruster"
+        ],
+        [
+            "Ioana Verebi",
+            "Petru Florin Mihancea"
+        ],
+        [
+            "Adina Magda Florea",
+            "Eugenia Kalisz"
+        ],
+        [
+            "Oleg Karsaev",
+            "Vladimir Gorodetsky"
+        ],
+        [
+            "George Ganea",
+            "Radu Marinescu"
+        ],
+        [
+            "Catalina Cocianu",
+            "Panayiotis M. Vlamos"
+        ],
+        [
+            "Vladimir Gorodetsky",
+            "Vladimir Samoilov"
+        ],
+        [
+            "Lu Songfeng",
+            "Ma Xinjian"
+        ],
+        [
+            "Siau-Cheng Khoo",
+            "Yijie Liu"
+        ],
+        [
+            "Cristian-Mihai Cira",
+            "Octavian Cira"
+        ],
+        [
+            "Cristina Marinescu",
+            "Ioana Verebi"
+        ],
+        [
+            "Bindiya Mansharamani",
+            "Rafael Romero"
+        ],
+        [
+            "Mirel Cosulschi",
+            "Nicolae Constantinescu"
+        ],
+        [
+            "Alexandru Sofronia",
+            "Catalin Dima"
+        ],
+        [
+            "Ioana Verebi",
+            "Radu Marinescu"
+        ],
+        [
+            "Daniela Zaharie",
+            "Viorel Negru"
+        ],
+        [
+            "Maciej Gawinecki",
+            "Maria Ganzha"
+        ],
+        [
+            "Dumitru Dan Burdescu",
+            "Liana Stanescu"
+        ],
+        [
+            "Paola Salle",
+            "Stefano A. Cerri"
+        ],
+        [
+            "Gerd Wagner",
+            "Oana Nicolae"
+        ],
+        [
+            "Costin Badica",
+            "Maria Ganzha"
+        ],
+        [
+            "Antonio Plaza",
+            "Soraya Blazquez"
+        ],
+        [
+            "Andrew C. Simpson",
+            "Douglas A. Creager"
+        ],
+        [
+            "Daniel Pop",
+            "Daniela Zaharie"
+        ],
+        [
+            "Cornelia Melenti",
+            "Dorian Gorgan"
+        ],
+        [
+            "Georgiana Macariu",
+            "Vladimir Cretu"
+        ],
+        [
+            "Elvira Popescu",
+            "Philippe Trigano"
+        ],
+        [
+            "Bindiya Mansharamani",
+            "Will Beazley"
+        ],
+        [
+            "Laura Maruster",
+            "N. R. T. P. van Beest"
+        ],
+        [
+            "Adrian Giurca",
+            "Ion-Mircea Diaconescu"
+        ],
+        [
+            "Emil Catinas",
+            "Ion Pavaloiu"
+        ],
+        [
+            "Dorian Gorgan",
+            "Mircea Alexandru Imbroane"
+        ],
+        [
+            "Lehel Csato",
+            "Zalan Bodo"
+        ],
+        [
+            "Zalan Bodo",
+            "Zsolt Minier"
+        ],
+        [
+            "Christian Bessiere",
+            "Joel Quinqueton"
+        ],
+        [
+            "Adrian Craciun",
+            "Madalina Hodorog"
+        ],
+        [
+            "Maria Gabriela Trimbitas",
+            "Radu Tiberiu Trimbitas"
+        ],
+        [
+            "Cosmin Ardelean",
+            "Teodor Pop"
+        ],
+        [
+            "Iosif Ignat",
+            "Teodor Pop"
+        ],
+        [
+            "Alexandru Carstea",
+            "Marc Frincu"
+        ],
+        [
+            "Antonio Plaza",
+            "Javier Plaza"
+        ],
+        [
+            "Gabriel Manolache",
+            "Roland H. C. Yap"
+        ],
+        [
+            "Flavius Gruian",
+            "Mark Westmijze"
+        ],
+        [
+            "Helene Kirchner",
+            "Oana Andrei"
+        ],
+        [
+            "Stefan Andrei",
+            "Victor Felea"
+        ],
+        [
+            "Frederic Duvert",
+            "Stefano A. Cerri"
+        ],
+        [
+            "Hans Wortmann",
+            "Nick B. Szirbik"
+        ],
+        [
+            "Luminita State",
+            "Panayiotis M. Vlamos"
+        ],
+        [
+            "Lu Songfeng",
+            "Sun Chengfu"
+        ],
+        [
+            "Elvira Popescu",
+            "Maria Ganzha"
+        ],
+        [
+            "Lorenzo Capra",
+            "Walter Cazzola"
+        ],
+        [
+            "Liviu Ciortuz",
+            "Marta Girdea"
+        ],
+        [
+            "Samarjit Chakraborty",
+            "Stefan Andrei"
+        ],
+        [
+            "Marcin Paprzycki",
+            "Myon-Woong Park"
+        ],
+        [
+            "Anca Radu",
+            "Dorian Gorgan"
+        ],
+        [
+            "Felicia Ionescu",
+            "Monica Radulescu"
+        ],
+        [
+            "Florin Pop",
+            "Mihai Pantelimon"
+        ],
+        [
+            "Claudiu Gruia",
+            "Florin Pop"
+        ],
+        [
+            "Dana Petcu",
+            "Georgiana Macariu"
+        ],
+        [
+            "Cosmin Ardelean",
+            "Iosif Ignat"
+        ],
+        [
+            "Sergey Serebryakov",
+            "Vladimir Samoilov"
+        ],
+        [
+            "Doru Constantin",
+            "Luminita State"
+        ],
+        [
+            "Adrian Colesa",
+            "Cosmin Ardelean"
+        ],
+        [
+            "Anca Loredana Ion",
+            "Liana Stanescu"
+        ],
+        [
+            "Gabriel Manolache",
+            "Stefan Andrei"
+        ],
+        [
+            "Camelia-Mihaela Pintea",
+            "Dumitru Dumitrescu"
+        ],
+        [
+            "Sabin C. Buraga",
+            "Sergiu Dumitriu"
+        ],
+        [
+            "Anca Radu",
+            "Victor Bacu"
+        ],
+        [
+            "Constantin Enea",
+            "Radu Gramatovici"
+        ],
+        [
+            "Dana Petcu",
+            "Marc Frincu"
+        ]
     ],
     "collaborator_groups": {
         "FG-BF2C": {
@@ -3603,77 +3603,729 @@
         }
     },
     "collaborator_group_links": [
-        {
-            "source": "SC-4B83",
-            "target": "GM-58F7"
-        },
-        {
-            "source": "SC-4B83",
-            "target": "BM-3D37"
-        },
-        {
-            "source": "CB-F43A",
-            "target": "CB-1597"
-        },
-        {
-            "source": "CM-3D51",
-            "target": "AR-F7D2"
-        },
-        {
-            "source": "DP-1E88",
-            "target": "DMM-FB66"
-        },
-        {
-            "source": "CP-DCED",
-            "target": "DD-5153"
-        },
-        {
-            "source": "CG-D8A3",
-            "target": "FP-7EB1"
-        },
-        {
-            "source": "DP-9B0E",
-            "target": "AC-AA92"
-        },
-        {
-            "source": "DP-9B0E",
-            "target": "DP-982B"
-        },
-        {
-            "source": "DP-9B0E",
-            "target": "DT-1AFF"
-        },
-        {
-            "source": "AG-2DF3",
-            "target": "AG-349C"
-        },
-        {
-            "source": "AG-2DF3",
-            "target": "GW-2A83"
-        },
-        {
-            "source": "AC-AA92",
-            "target": "DP-982B"
-        },
-        {
-            "source": "AC-AA92",
-            "target": "DT-1AFF"
-        },
-        {
-            "source": "MRB-FEC3",
-            "target": "GM-58F7"
-        },
-        {
-            "source": "GM-58F7",
-            "target": "BM-3D37"
-        },
-        {
-            "source": "AG-349C",
-            "target": "GW-2A83"
-        },
-        {
-            "source": "DD-FE3B",
-            "target": "DD-5631"
-        }
+        [
+            "Costin Badica",
+            "Maciej Gawinecki"
+        ],
+        [
+            "Alin Suciu",
+            "Rodica Potolea"
+        ],
+        [
+            "George Ganea",
+            "Ioana Verebi"
+        ],
+        [
+            "Dacian Tudor",
+            "Vladimir Cretu"
+        ],
+        [
+            "Javier Plaza",
+            "Soraya Blazquez"
+        ],
+        [
+            "Diana Maria Muscalagiu",
+            "Horia Emil Popa"
+        ],
+        [
+            "Adrian Iftene",
+            "Daniel Matei"
+        ],
+        [
+            "Frederic Duvert",
+            "Paola Salle"
+        ],
+        [
+            "Bindiya Mansharamani",
+            "Stefan Andrei"
+        ],
+        [
+            "Cristina Marinescu",
+            "George Ganea"
+        ],
+        [
+            "Dumitru Dumitrescu",
+            "Laura Diosan"
+        ],
+        [
+            "Bogdan Aman",
+            "Gabriel Ciobanu"
+        ],
+        [
+            "Camelia-Mihaela Pintea",
+            "Petrica C. Pop"
+        ],
+        [
+            "Ion Iancu",
+            "Mihai Gabroveanu"
+        ],
+        [
+            "Roland H. C. Yap",
+            "Stefan Andrei"
+        ],
+        [
+            "Octav Brudaru",
+            "Octavian Buzatu"
+        ],
+        [
+            "D. Dumitrescu",
+            "David Iclanzan"
+        ],
+        [
+            "Doru Constantin",
+            "Panayiotis M. Vlamos"
+        ],
+        [
+            "Abel Paz",
+            "Antonio Plaza"
+        ],
+        [
+            "Abel Paz",
+            "Soraya Blazquez"
+        ],
+        [
+            "Diana Maria Muscalagiu",
+            "Viorel Negru"
+        ],
+        [
+            "Maciej Gawinecki",
+            "Marcin Paprzycki"
+        ],
+        [
+            "Elvira Popescu",
+            "Maciej Gawinecki"
+        ],
+        [
+            "Christian Bessiere",
+            "Gilles Raymond"
+        ],
+        [
+            "Costin Badica",
+            "Marcin Paprzycki"
+        ],
+        [
+            "Alexandru Sofronia",
+            "Constantin Enea"
+        ],
+        [
+            "Nilam Chand",
+            "Rafael Romero"
+        ],
+        [
+            "Madalina Pacurar",
+            "Vasile Berinde"
+        ],
+        [
+            "Andrei Bautu",
+            "Henri Luchian"
+        ],
+        [
+            "Adrian Giurca",
+            "Oana Nicolae"
+        ],
+        [
+            "Petru Florin Mihancea",
+            "Radu Marinescu"
+        ],
+        [
+            "Cristina Marinescu",
+            "Petru Florin Mihancea"
+        ],
+        [
+            "Alexandru Sofronia",
+            "Radu Gramatovici"
+        ],
+        [
+            "Bindiya Mansharamani",
+            "Nilam Chand"
+        ],
+        [
+            "Nilam Chand",
+            "Will Beazley"
+        ],
+        [
+            "Abel Paz",
+            "Javier Plaza"
+        ],
+        [
+            "Catalina Cocianu",
+            "Doru Constantin"
+        ],
+        [
+            "Cornelia Melenti",
+            "Mircea Alexandru Imbroane"
+        ],
+        [
+            "Gerd Wagner",
+            "Ion-Mircea Diaconescu"
+        ],
+        [
+            "Hugh Anderson",
+            "Yijie Liu"
+        ],
+        [
+            "Ion Iancu",
+            "Nicolae Constantinescu"
+        ],
+        [
+            "Ma Xinjian",
+            "Sun Chengfu"
+        ],
+        [
+            "Marco Stuit",
+            "Nick B. Szirbik"
+        ],
+        [
+            "Florin Pop",
+            "Valentin Cristea"
+        ],
+        [
+            "Oleg Karsaev",
+            "Vladimir Samoilov"
+        ],
+        [
+            "Adrian Iftene",
+            "Alexandra Balahur-Dobrescu"
+        ],
+        [
+            "Douglas A. Creager",
+            "Sarah D. Induruwa Fernando"
+        ],
+        [
+            "Marcin Paprzycki",
+            "Maria Ganzha"
+        ],
+        [
+            "Maciej Gawinecki",
+            "Myon-Woong Park"
+        ],
+        [
+            "Cristina Marinescu",
+            "Radu Marinescu"
+        ],
+        [
+            "Sergey Serebryakov",
+            "Vladimir Gorodetsky"
+        ],
+        [
+            "Hugh Anderson",
+            "Siau-Cheng Khoo"
+        ],
+        [
+            "Horia Emil Popa",
+            "Viorel Negru"
+        ],
+        [
+            "Costin Badica",
+            "Myon-Woong Park"
+        ],
+        [
+            "Georgiana Macariu",
+            "Marc Frincu"
+        ],
+        [
+            "Adrian Giurca",
+            "Gerd Wagner"
+        ],
+        [
+            "Elvira Popescu",
+            "Marcin Paprzycki"
+        ],
+        [
+            "Stefan Andrei",
+            "Will Beazley"
+        ],
+        [
+            "Costin Badica",
+            "Elvira Popescu"
+        ],
+        [
+            "Alexandru Carstea",
+            "Dana Petcu"
+        ],
+        [
+            "Dorian Gorgan",
+            "Victor Bacu"
+        ],
+        [
+            "Javier Jaen Martinez",
+            "Jose A. Mocholi"
+        ],
+        [
+            "Ion Iancu",
+            "Mirel Cosulschi"
+        ],
+        [
+            "Lehel Csato",
+            "Zsolt Minier"
+        ],
+        [
+            "Horia Emil Popa",
+            "Ionel Muscalagiu"
+        ],
+        [
+            "Ion-Mircea Diaconescu",
+            "Oana Nicolae"
+        ],
+        [
+            "Daniele Herin",
+            "Stefano A. Cerri"
+        ],
+        [
+            "Daniel Pop",
+            "Horia Emil Popa"
+        ],
+        [
+            "Corina Pop Sitar",
+            "Dumitru Dumitrescu"
+        ],
+        [
+            "Catalin Dima",
+            "Constantin Enea"
+        ],
+        [
+            "Mihai Gabroveanu",
+            "Nicolae Constantinescu"
+        ],
+        [
+            "Gabriel Manolache",
+            "Victor Felea"
+        ],
+        [
+            "Andrei Bautu",
+            "Elena Bautu"
+        ],
+        [
+            "David Iclanzan",
+            "Peter Istvan Fulop"
+        ],
+        [
+            "Marian Razvan Balta",
+            "Victor Felea"
+        ],
+        [
+            "Andrew C. Simpson",
+            "Sarah D. Induruwa Fernando"
+        ],
+        [
+            "Manuela Grindei",
+            "Sorin Iftene"
+        ],
+        [
+            "Anca Loredana Ion",
+            "Dumitru Dan Burdescu"
+        ],
+        [
+            "Diana Maria Muscalagiu",
+            "Ionel Muscalagiu"
+        ],
+        [
+            "Catalin Dima",
+            "Radu Gramatovici"
+        ],
+        [
+            "Ionel Muscalagiu",
+            "Viorel Negru"
+        ],
+        [
+            "Claudiu Gruia",
+            "Valentin Cristea"
+        ],
+        [
+            "Adrian Colesa",
+            "Teodor Pop"
+        ],
+        [
+            "Alexandra Balahur-Dobrescu",
+            "Daniel Matei"
+        ],
+        [
+            "Florentin Ipate",
+            "Raluca Lefticaru"
+        ],
+        [
+            "Catalina Cocianu",
+            "Luminita State"
+        ],
+        [
+            "Hans Wortmann",
+            "Marco Stuit"
+        ],
+        [
+            "Daniel Pop",
+            "Viorel Negru"
+        ],
+        [
+            "Alexandru Carstea",
+            "Georgiana Macariu"
+        ],
+        [
+            "Elvira Popescu",
+            "Myon-Woong Park"
+        ],
+        [
+            "Corina Pop Sitar",
+            "Petrica C. Pop"
+        ],
+        [
+            "Mihai Gabroveanu",
+            "Mirel Cosulschi"
+        ],
+        [
+            "Elena Bautu",
+            "Henri Luchian"
+        ],
+        [
+            "Dumitru Dumitrescu",
+            "Petrica C. Pop"
+        ],
+        [
+            "D. Dumitrescu",
+            "Peter Istvan Fulop"
+        ],
+        [
+            "Daniele Herin",
+            "Frederic Duvert"
+        ],
+        [
+            "Gilles Raymond",
+            "Joel Quinqueton"
+        ],
+        [
+            "Rafael Romero",
+            "Will Beazley"
+        ],
+        [
+            "Dacian Tudor",
+            "Georgiana Macariu"
+        ],
+        [
+            "Camelia-Mihaela Pintea",
+            "Corina Pop Sitar"
+        ],
+        [
+            "Roland H. C. Yap",
+            "Victor Felea"
+        ],
+        [
+            "Maria Ganzha",
+            "Myon-Woong Park"
+        ],
+        [
+            "Nilam Chand",
+            "Stefan Andrei"
+        ],
+        [
+            "Daniele Herin",
+            "Paola Salle"
+        ],
+        [
+            "Costin Badica",
+            "Philippe Trigano"
+        ],
+        [
+            "George Ganea",
+            "Petru Florin Mihancea"
+        ],
+        [
+            "Mihai Pantelimon",
+            "Valentin Cristea"
+        ],
+        [
+            "Adrian Colesa",
+            "Iosif Ignat"
+        ],
+        [
+            "Daniela Zaharie",
+            "Horia Emil Popa"
+        ],
+        [
+            "Rafael Romero",
+            "Stefan Andrei"
+        ],
+        [
+            "Oleg Karsaev",
+            "Sergey Serebryakov"
+        ],
+        [
+            "Cristina Popirlan",
+            "Stefan Maruster"
+        ],
+        [
+            "Ioana Verebi",
+            "Petru Florin Mihancea"
+        ],
+        [
+            "Adina Magda Florea",
+            "Eugenia Kalisz"
+        ],
+        [
+            "Oleg Karsaev",
+            "Vladimir Gorodetsky"
+        ],
+        [
+            "George Ganea",
+            "Radu Marinescu"
+        ],
+        [
+            "Catalina Cocianu",
+            "Panayiotis M. Vlamos"
+        ],
+        [
+            "Vladimir Gorodetsky",
+            "Vladimir Samoilov"
+        ],
+        [
+            "Lu Songfeng",
+            "Ma Xinjian"
+        ],
+        [
+            "Siau-Cheng Khoo",
+            "Yijie Liu"
+        ],
+        [
+            "Cristian-Mihai Cira",
+            "Octavian Cira"
+        ],
+        [
+            "Cristina Marinescu",
+            "Ioana Verebi"
+        ],
+        [
+            "Bindiya Mansharamani",
+            "Rafael Romero"
+        ],
+        [
+            "Mirel Cosulschi",
+            "Nicolae Constantinescu"
+        ],
+        [
+            "Alexandru Sofronia",
+            "Catalin Dima"
+        ],
+        [
+            "Ioana Verebi",
+            "Radu Marinescu"
+        ],
+        [
+            "Daniela Zaharie",
+            "Viorel Negru"
+        ],
+        [
+            "Maciej Gawinecki",
+            "Maria Ganzha"
+        ],
+        [
+            "Dumitru Dan Burdescu",
+            "Liana Stanescu"
+        ],
+        [
+            "Paola Salle",
+            "Stefano A. Cerri"
+        ],
+        [
+            "Gerd Wagner",
+            "Oana Nicolae"
+        ],
+        [
+            "Costin Badica",
+            "Maria Ganzha"
+        ],
+        [
+            "Antonio Plaza",
+            "Soraya Blazquez"
+        ],
+        [
+            "Andrew C. Simpson",
+            "Douglas A. Creager"
+        ],
+        [
+            "Daniel Pop",
+            "Daniela Zaharie"
+        ],
+        [
+            "Cornelia Melenti",
+            "Dorian Gorgan"
+        ],
+        [
+            "Georgiana Macariu",
+            "Vladimir Cretu"
+        ],
+        [
+            "Elvira Popescu",
+            "Philippe Trigano"
+        ],
+        [
+            "Bindiya Mansharamani",
+            "Will Beazley"
+        ],
+        [
+            "Laura Maruster",
+            "N. R. T. P. van Beest"
+        ],
+        [
+            "Adrian Giurca",
+            "Ion-Mircea Diaconescu"
+        ],
+        [
+            "Emil Catinas",
+            "Ion Pavaloiu"
+        ],
+        [
+            "Dorian Gorgan",
+            "Mircea Alexandru Imbroane"
+        ],
+        [
+            "Lehel Csato",
+            "Zalan Bodo"
+        ],
+        [
+            "Zalan Bodo",
+            "Zsolt Minier"
+        ],
+        [
+            "Christian Bessiere",
+            "Joel Quinqueton"
+        ],
+        [
+            "Adrian Craciun",
+            "Madalina Hodorog"
+        ],
+        [
+            "Maria Gabriela Trimbitas",
+            "Radu Tiberiu Trimbitas"
+        ],
+        [
+            "Cosmin Ardelean",
+            "Teodor Pop"
+        ],
+        [
+            "Iosif Ignat",
+            "Teodor Pop"
+        ],
+        [
+            "Alexandru Carstea",
+            "Marc Frincu"
+        ],
+        [
+            "Antonio Plaza",
+            "Javier Plaza"
+        ],
+        [
+            "Gabriel Manolache",
+            "Roland H. C. Yap"
+        ],
+        [
+            "Flavius Gruian",
+            "Mark Westmijze"
+        ],
+        [
+            "Helene Kirchner",
+            "Oana Andrei"
+        ],
+        [
+            "Stefan Andrei",
+            "Victor Felea"
+        ],
+        [
+            "Frederic Duvert",
+            "Stefano A. Cerri"
+        ],
+        [
+            "Hans Wortmann",
+            "Nick B. Szirbik"
+        ],
+        [
+            "Luminita State",
+            "Panayiotis M. Vlamos"
+        ],
+        [
+            "Lu Songfeng",
+            "Sun Chengfu"
+        ],
+        [
+            "Elvira Popescu",
+            "Maria Ganzha"
+        ],
+        [
+            "Lorenzo Capra",
+            "Walter Cazzola"
+        ],
+        [
+            "Liviu Ciortuz",
+            "Marta Girdea"
+        ],
+        [
+            "Samarjit Chakraborty",
+            "Stefan Andrei"
+        ],
+        [
+            "Marcin Paprzycki",
+            "Myon-Woong Park"
+        ],
+        [
+            "Anca Radu",
+            "Dorian Gorgan"
+        ],
+        [
+            "Felicia Ionescu",
+            "Monica Radulescu"
+        ],
+        [
+            "Florin Pop",
+            "Mihai Pantelimon"
+        ],
+        [
+            "Claudiu Gruia",
+            "Florin Pop"
+        ],
+        [
+            "Dana Petcu",
+            "Georgiana Macariu"
+        ],
+        [
+            "Cosmin Ardelean",
+            "Iosif Ignat"
+        ],
+        [
+            "Sergey Serebryakov",
+            "Vladimir Samoilov"
+        ],
+        [
+            "Doru Constantin",
+            "Luminita State"
+        ],
+        [
+            "Adrian Colesa",
+            "Cosmin Ardelean"
+        ],
+        [
+            "Anca Loredana Ion",
+            "Liana Stanescu"
+        ],
+        [
+            "Gabriel Manolache",
+            "Stefan Andrei"
+        ],
+        [
+            "Camelia-Mihaela Pintea",
+            "Dumitru Dumitrescu"
+        ],
+        [
+            "Sabin C. Buraga",
+            "Sergiu Dumitriu"
+        ],
+        [
+            "Anca Radu",
+            "Victor Bacu"
+        ],
+        [
+            "Constantin Enea",
+            "Radu Gramatovici"
+        ],
+        [
+            "Dana Petcu",
+            "Marc Frincu"
+        ]
     ]
 }

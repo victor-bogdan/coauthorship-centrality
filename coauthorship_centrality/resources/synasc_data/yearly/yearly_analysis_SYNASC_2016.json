@@ -78,12 +78,12 @@
             "author_total_citations": 8,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Tino Teige",
                 "Tom Bienmuller",
-                "Ahmed Mahdi",
-                "Martin Franzle",
-                "Bernd Becker",
+                "Tino Teige",
                 "Karsten Scheibler",
+                "Bernd Becker",
+                "Martin Franzle",
+                "Ahmed Mahdi",
                 "Detlef Fehrer"
             ],
             "author_closeness_centrality": 0.04375,
@@ -95,12 +95,12 @@
             "author_total_citations": 8,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Tino Teige",
                 "Tom Bienmuller",
+                "Tino Teige",
+                "Bernd Becker",
+                "Martin Franzle",
                 "Felix Neubauer",
                 "Ahmed Mahdi",
-                "Martin Franzle",
-                "Bernd Becker",
                 "Detlef Fehrer"
             ],
             "author_closeness_centrality": 0.04375,
@@ -112,12 +112,12 @@
             "author_total_citations": 8,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Tino Teige",
                 "Tom Bienmuller",
+                "Tino Teige",
+                "Karsten Scheibler",
+                "Martin Franzle",
                 "Felix Neubauer",
                 "Ahmed Mahdi",
-                "Martin Franzle",
-                "Karsten Scheibler",
                 "Detlef Fehrer"
             ],
             "author_closeness_centrality": 0.04375,
@@ -129,12 +129,12 @@
             "author_total_citations": 8,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Tino Teige",
                 "Tom Bienmuller",
-                "Felix Neubauer",
-                "Martin Franzle",
-                "Bernd Becker",
+                "Tino Teige",
                 "Karsten Scheibler",
+                "Bernd Becker",
+                "Martin Franzle",
+                "Felix Neubauer",
                 "Detlef Fehrer"
             ],
             "author_closeness_centrality": 0.04375,
@@ -146,12 +146,12 @@
             "author_total_citations": 8,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Tino Teige",
                 "Tom Bienmuller",
+                "Tino Teige",
+                "Karsten Scheibler",
+                "Bernd Becker",
                 "Felix Neubauer",
                 "Ahmed Mahdi",
-                "Bernd Becker",
-                "Karsten Scheibler",
                 "Detlef Fehrer"
             ],
             "author_closeness_centrality": 0.04375,
@@ -163,12 +163,12 @@
             "author_total_citations": 11,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Martin Franzle",
-                "Bernd Becker",
-                "Karsten Scheibler",
-                "Felix Neubauer",
                 "Ahmed Mahdi",
                 "Tom Bienmuller",
+                "Martin Franzle",
+                "Felix Neubauer",
+                "Karsten Scheibler",
+                "Bernd Becker",
                 "Detlef Fehrer"
             ],
             "author_closeness_centrality": 0.04375,
@@ -180,12 +180,12 @@
             "author_total_citations": 11,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Martin Franzle",
-                "Bernd Becker",
-                "Tino Teige",
-                "Felix Neubauer",
                 "Ahmed Mahdi",
+                "Martin Franzle",
+                "Felix Neubauer",
+                "Tino Teige",
                 "Karsten Scheibler",
+                "Bernd Becker",
                 "Detlef Fehrer"
             ],
             "author_closeness_centrality": 0.04375,
@@ -197,13 +197,13 @@
             "author_total_citations": 8,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Tino Teige",
                 "Tom Bienmuller",
-                "Felix Neubauer",
-                "Ahmed Mahdi",
-                "Martin Franzle",
+                "Tino Teige",
+                "Karsten Scheibler",
                 "Bernd Becker",
-                "Karsten Scheibler"
+                "Martin Franzle",
+                "Felix Neubauer",
+                "Ahmed Mahdi"
             ],
             "author_closeness_centrality": 0.04375,
             "author_betweenness_centrality": 0.0,
@@ -281,8 +281,8 @@
             "author_total_citations": 26,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Magda Buhu",
-                "Ciprian Pavel Oprisa"
+                "Ciprian Pavel Oprisa",
+                "Magda Buhu"
             ],
             "author_closeness_centrality": 0.0125,
             "author_betweenness_centrality": 0.0,
@@ -317,9 +317,9 @@
             "author_total_citations": 24,
             "author_total_papers": 1,
             "author_total_collaborators": [
+                "Danilo Ardagna",
                 "Ali Movaghar",
-                "Eugenio Gianniti",
-                "Danilo Ardagna"
+                "Eugenio Gianniti"
             ],
             "author_closeness_centrality": 0.01875,
             "author_betweenness_centrality": 0.0,
@@ -330,9 +330,9 @@
             "author_total_citations": 24,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Ali Movaghar",
                 "Ehsan Ataie",
-                "Danilo Ardagna"
+                "Danilo Ardagna",
+                "Ali Movaghar"
             ],
             "author_closeness_centrality": 0.01875,
             "author_betweenness_centrality": 0.0,
@@ -343,8 +343,8 @@
             "author_total_citations": 24,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Ali Movaghar",
                 "Ehsan Ataie",
+                "Ali Movaghar",
                 "Eugenio Gianniti"
             ],
             "author_closeness_centrality": 0.01875,
@@ -357,8 +357,8 @@
             "author_total_papers": 1,
             "author_total_collaborators": [
                 "Ehsan Ataie",
-                "Eugenio Gianniti",
-                "Danilo Ardagna"
+                "Danilo Ardagna",
+                "Eugenio Gianniti"
             ],
             "author_closeness_centrality": 0.01875,
             "author_betweenness_centrality": 0.0,
@@ -369,9 +369,9 @@
             "author_total_citations": 20,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Baetu Ioan Alexandru",
                 "Adrian-Stefan Popescu",
-                "Dragos Teodor Gavrilut"
+                "Dragos Teodor Gavrilut",
+                "Baetu Ioan Alexandru"
             ],
             "author_closeness_centrality": 0.022321428571428572,
             "author_betweenness_centrality": 0.0,
@@ -382,11 +382,11 @@
             "author_total_citations": 26,
             "author_total_papers": 2,
             "author_total_collaborators": [
+                "George Popoiu",
                 "Razvan Benchea",
-                "Adrian-Stefan Popescu",
                 "Baetu Ioan Alexandru",
                 "Anton Dan Gabriel",
-                "George Popoiu"
+                "Adrian-Stefan Popescu"
             ],
             "author_closeness_centrality": 0.03125,
             "author_betweenness_centrality": 0.0004716981132075472,
@@ -397,9 +397,9 @@
             "author_total_citations": 20,
             "author_total_papers": 1,
             "author_total_collaborators": [
+                "Anton Dan Gabriel",
                 "Adrian-Stefan Popescu",
-                "Dragos Teodor Gavrilut",
-                "Anton Dan Gabriel"
+                "Dragos Teodor Gavrilut"
             ],
             "author_closeness_centrality": 0.022321428571428572,
             "author_betweenness_centrality": 0.0,
@@ -410,9 +410,9 @@
             "author_total_citations": 20,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Baetu Ioan Alexandru",
+                "Anton Dan Gabriel",
                 "Dragos Teodor Gavrilut",
-                "Anton Dan Gabriel"
+                "Baetu Ioan Alexandru"
             ],
             "author_closeness_centrality": 0.022321428571428572,
             "author_betweenness_centrality": 0.0,
@@ -423,8 +423,8 @@
             "author_total_citations": 20,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Florin Radulescu",
-                "Alexandru Boicea"
+                "Alexandru Boicea",
+                "Florin Radulescu"
             ],
             "author_closeness_centrality": 0.0125,
             "author_betweenness_centrality": 0.0,
@@ -435,8 +435,8 @@
             "author_total_citations": 20,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Ciprian-Octavian Truica",
-                "Alexandru Boicea"
+                "Alexandru Boicea",
+                "Ciprian-Octavian Truica"
             ],
             "author_closeness_centrality": 0.0125,
             "author_betweenness_centrality": 0.0,
@@ -447,8 +447,8 @@
             "author_total_citations": 20,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Florin Radulescu",
-                "Ciprian-Octavian Truica"
+                "Ciprian-Octavian Truica",
+                "Florin Radulescu"
             ],
             "author_closeness_centrality": 0.0125,
             "author_betweenness_centrality": 0.0,
@@ -459,8 +459,8 @@
             "author_total_citations": 21,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Matthew England",
                 "Lawrence C. Paulson",
+                "Matthew England",
                 "James H. Davenport"
             ],
             "author_closeness_centrality": 0.01875,
@@ -472,8 +472,8 @@
             "author_total_citations": 27,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Lawrence C. Paulson",
                 "Zongyan Huang",
+                "Lawrence C. Paulson",
                 "James H. Davenport"
             ],
             "author_closeness_centrality": 0.01875,
@@ -485,9 +485,9 @@
             "author_total_citations": 29,
             "author_total_papers": 3,
             "author_total_collaborators": [
-                "Matthew England",
+                "Zongyan Huang",
                 "Lawrence C. Paulson",
-                "Zongyan Huang"
+                "Matthew England"
             ],
             "author_closeness_centrality": 0.01875,
             "author_betweenness_centrality": 0.0,
@@ -498,8 +498,8 @@
             "author_total_citations": 21,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Matthew England",
                 "Zongyan Huang",
+                "Matthew England",
                 "James H. Davenport"
             ],
             "author_closeness_centrality": 0.01875,
@@ -586,12 +586,12 @@
             "author_total_citations": 12,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Farnam Mansouri",
-                "Ning Xie",
-                "Marc Moreno Maza",
                 "Svyatoslav Covanov",
                 "Wenyuan Wu",
-                "Yuzhen Xie"
+                "Farnam Mansouri",
+                "Yuzhen Xie",
+                "Marc Moreno Maza",
+                "Ning Xie"
             ],
             "author_closeness_centrality": 0.0375,
             "author_betweenness_centrality": 0.0003930817610062893,
@@ -603,8 +603,8 @@
             "author_total_papers": 1,
             "author_total_collaborators": [
                 "Farnam Mansouri",
-                "Changbo Chen",
                 "Marc Moreno Maza",
+                "Changbo Chen",
                 "Yuzhen Xie",
                 "Ning Xie"
             ],
@@ -617,9 +617,9 @@
             "author_total_citations": 9,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Changbo Chen",
                 "Marc Moreno Maza",
                 "Svyatoslav Covanov",
+                "Changbo Chen",
                 "Yuzhen Xie",
                 "Ning Xie"
             ],
@@ -633,8 +633,8 @@
             "author_total_papers": 1,
             "author_total_collaborators": [
                 "Farnam Mansouri",
-                "Changbo Chen",
                 "Svyatoslav Covanov",
+                "Changbo Chen",
                 "Yuzhen Xie",
                 "Ning Xie"
             ],
@@ -648,9 +648,9 @@
             "author_total_papers": 1,
             "author_total_collaborators": [
                 "Farnam Mansouri",
-                "Changbo Chen",
                 "Marc Moreno Maza",
                 "Svyatoslav Covanov",
+                "Changbo Chen",
                 "Yuzhen Xie"
             ],
             "author_closeness_centrality": 0.03214285714285714,
@@ -663,9 +663,9 @@
             "author_total_papers": 1,
             "author_total_collaborators": [
                 "Farnam Mansouri",
-                "Changbo Chen",
                 "Marc Moreno Maza",
                 "Svyatoslav Covanov",
+                "Changbo Chen",
                 "Ning Xie"
             ],
             "author_closeness_centrality": 0.03214285714285714,
@@ -699,10 +699,10 @@
             "author_total_citations": 14,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Istvan Gergely Czibula",
-                "Gabriela Czibula",
+                "Diana-Lucia Miholca",
                 "Zsuzsanna Marian",
-                "Diana-Lucia Miholca"
+                "Istvan Gergely Czibula",
+                "Gabriela Czibula"
             ],
             "author_closeness_centrality": 0.025,
             "author_betweenness_centrality": 2.620545073375262e-05,
@@ -713,10 +713,10 @@
             "author_total_citations": 14,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Gabriela Czibula",
-                "Ioan-Gabriel Mircea",
+                "Diana-Lucia Miholca",
                 "Zsuzsanna Marian",
-                "Diana-Lucia Miholca"
+                "Gabriela Czibula",
+                "Ioan-Gabriel Mircea"
             ],
             "author_closeness_centrality": 0.025,
             "author_betweenness_centrality": 2.620545073375262e-05,
@@ -727,10 +727,10 @@
             "author_total_citations": 14,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Istvan Gergely Czibula",
-                "Ioan-Gabriel Mircea",
+                "Diana-Lucia Miholca",
                 "Zsuzsanna Marian",
-                "Diana-Lucia Miholca"
+                "Istvan Gergely Czibula",
+                "Ioan-Gabriel Mircea"
             ],
             "author_closeness_centrality": 0.025,
             "author_betweenness_centrality": 2.620545073375262e-05,
@@ -742,8 +742,8 @@
             "author_total_papers": 1,
             "author_total_collaborators": [
                 "Marc Baboulin",
-                "Amal Khabou",
-                "Masha Sosonkina"
+                "Masha Sosonkina",
+                "Amal Khabou"
             ],
             "author_closeness_centrality": 0.01875,
             "author_betweenness_centrality": 0.0,
@@ -754,9 +754,9 @@
             "author_total_citations": 9,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Aygul Jamal",
+                "Masha Sosonkina",
                 "Amal Khabou",
-                "Masha Sosonkina"
+                "Aygul Jamal"
             ],
             "author_closeness_centrality": 0.01875,
             "author_betweenness_centrality": 0.0,
@@ -768,8 +768,8 @@
             "author_total_papers": 1,
             "author_total_collaborators": [
                 "Marc Baboulin",
-                "Aygul Jamal",
-                "Masha Sosonkina"
+                "Masha Sosonkina",
+                "Aygul Jamal"
             ],
             "author_closeness_centrality": 0.01875,
             "author_betweenness_centrality": 0.0,
@@ -781,8 +781,8 @@
             "author_total_papers": 1,
             "author_total_collaborators": [
                 "Marc Baboulin",
-                "Aygul Jamal",
-                "Amal Khabou"
+                "Amal Khabou",
+                "Aygul Jamal"
             ],
             "author_closeness_centrality": 0.01875,
             "author_betweenness_centrality": 0.0,
@@ -793,8 +793,8 @@
             "author_total_citations": 8,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Florentin Ipate",
-                "Raluca Lefticaru"
+                "Raluca Lefticaru",
+                "Florentin Ipate"
             ],
             "author_closeness_centrality": 0.0125,
             "author_betweenness_centrality": 0.0,
@@ -805,8 +805,8 @@
             "author_total_citations": 8,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Ana Turlea",
-                "Raluca Lefticaru"
+                "Raluca Lefticaru",
+                "Ana Turlea"
             ],
             "author_closeness_centrality": 0.0125,
             "author_betweenness_centrality": 0.0,
@@ -817,8 +817,8 @@
             "author_total_citations": 8,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Florentin Ipate",
-                "Ana Turlea"
+                "Ana Turlea",
+                "Florentin Ipate"
             ],
             "author_closeness_centrality": 0.0125,
             "author_betweenness_centrality": 0.0,
@@ -985,8 +985,8 @@
             "author_total_papers": 1,
             "author_total_collaborators": [
                 "Alexandru Fikl",
-                "Cosmin Bonchis",
-                "Florin Rosu"
+                "Florin Rosu",
+                "Cosmin Bonchis"
             ],
             "author_closeness_centrality": 0.01875,
             "author_betweenness_centrality": 0.0,
@@ -997,9 +997,9 @@
             "author_total_citations": 4,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Andrada Baban",
                 "Alexandru Fikl",
-                "Florin Rosu"
+                "Florin Rosu",
+                "Andrada Baban"
             ],
             "author_closeness_centrality": 0.01875,
             "author_betweenness_centrality": 0.0,
@@ -1010,9 +1010,9 @@
             "author_total_citations": 4,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Andrada Baban",
+                "Florin Rosu",
                 "Cosmin Bonchis",
-                "Florin Rosu"
+                "Andrada Baban"
             ],
             "author_closeness_centrality": 0.01875,
             "author_betweenness_centrality": 0.0,
@@ -1023,9 +1023,9 @@
             "author_total_citations": 4,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Andrada Baban",
                 "Alexandru Fikl",
-                "Cosmin Bonchis"
+                "Cosmin Bonchis",
+                "Andrada Baban"
             ],
             "author_closeness_centrality": 0.01875,
             "author_betweenness_centrality": 0.0,
@@ -1103,8 +1103,8 @@
             "author_total_citations": 4,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Armin Biere",
-                "Katalin Fazekas"
+                "Katalin Fazekas",
+                "Armin Biere"
             ],
             "author_closeness_centrality": 0.0125,
             "author_betweenness_centrality": 0.0,
@@ -1145,8 +1145,8 @@
             "author_total_citations": 4,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Andrei Mocanu",
-                "Alexandru Petrut Becheru"
+                "Alexandru Petrut Becheru",
+                "Andrei Mocanu"
             ],
             "author_closeness_centrality": 0.0125,
             "author_betweenness_centrality": 0.0,
@@ -1157,8 +1157,8 @@
             "author_total_citations": 4,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Alexandru Petrut Becheru",
-                "Lucian Luncean"
+                "Lucian Luncean",
+                "Alexandru Petrut Becheru"
             ],
             "author_closeness_centrality": 0.0125,
             "author_betweenness_centrality": 0.0,
@@ -1169,8 +1169,8 @@
             "author_total_citations": 4,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Andrei Mocanu",
-                "Lucian Luncean"
+                "Lucian Luncean",
+                "Andrei Mocanu"
             ],
             "author_closeness_centrality": 0.0125,
             "author_betweenness_centrality": 0.0,
@@ -1236,8 +1236,8 @@
             "author_total_citations": 2,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Emil-Ioan Slusanschi",
-                "Nicolae Tapus"
+                "Nicolae Tapus",
+                "Emil-Ioan Slusanschi"
             ],
             "author_closeness_centrality": 0.0125,
             "author_betweenness_centrality": 0.0,
@@ -1314,8 +1314,8 @@
             "author_total_citations": 3,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Monica Tirea",
                 "Adriana Dinis",
+                "Monica Tirea",
                 "Todor Ivascu"
             ],
             "author_closeness_centrality": 0.01875,
@@ -1351,8 +1351,8 @@
             "author_total_citations": 2,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Stefan Andrei",
-                "Vlad Radulescu"
+                "Vlad Radulescu",
+                "Stefan Andrei"
             ],
             "author_closeness_centrality": 0.0125,
             "author_betweenness_centrality": 0.0,
@@ -1375,8 +1375,8 @@
             "author_total_citations": 2,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Annamaria Szenkovits",
-                "Hunor Jakab"
+                "Hunor Jakab",
+                "Annamaria Szenkovits"
             ],
             "author_closeness_centrality": 0.0125,
             "author_betweenness_centrality": 0.0,
@@ -1399,8 +1399,8 @@
             "author_total_citations": 2,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Mattia Monga",
                 "Lorenzo Capra",
+                "Mattia Monga",
                 "Carlo Bellettini"
             ],
             "author_closeness_centrality": 0.01875,
@@ -1412,8 +1412,8 @@
             "author_total_citations": 2,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Mattia Monga",
                 "Lorenzo Capra",
+                "Mattia Monga",
                 "Matteo Camilli"
             ],
             "author_closeness_centrality": 0.01875,
@@ -1473,8 +1473,8 @@
             "author_total_citations": 1,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Laura Diosan",
-                "Irina Voiculescu"
+                "Irina Voiculescu",
+                "Laura Diosan"
             ],
             "author_closeness_centrality": 0.0125,
             "author_betweenness_centrality": 0.0,
@@ -1531,8 +1531,8 @@
             "author_total_citations": 4,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Erell Jamelot",
                 "Riyaz Mouhamad",
+                "Erell Jamelot",
                 "Olivier D. Lafitte"
             ],
             "author_closeness_centrality": 0.01875,
@@ -1544,9 +1544,9 @@
             "author_total_citations": 4,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Stephane Dellacherie",
                 "Riyaz Mouhamad",
-                "Olivier D. Lafitte"
+                "Olivier D. Lafitte",
+                "Stephane Dellacherie"
             ],
             "author_closeness_centrality": 0.01875,
             "author_betweenness_centrality": 0.0,
@@ -1557,9 +1557,9 @@
             "author_total_citations": 4,
             "author_total_papers": 1,
             "author_total_collaborators": [
+                "Riyaz Mouhamad",
                 "Erell Jamelot",
-                "Stephane Dellacherie",
-                "Riyaz Mouhamad"
+                "Stephane Dellacherie"
             ],
             "author_closeness_centrality": 0.01875,
             "author_betweenness_centrality": 0.0,
@@ -1571,8 +1571,8 @@
             "author_total_papers": 1,
             "author_total_collaborators": [
                 "Erell Jamelot",
-                "Stephane Dellacherie",
-                "Olivier D. Lafitte"
+                "Olivier D. Lafitte",
+                "Stephane Dellacherie"
             ],
             "author_closeness_centrality": 0.01875,
             "author_betweenness_centrality": 0.0,
@@ -1638,8 +1638,8 @@
             "author_total_citations": 1,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Chemseddine Chohra",
-                "Philippe Langlois"
+                "Philippe Langlois",
+                "Chemseddine Chohra"
             ],
             "author_closeness_centrality": 0.0125,
             "author_betweenness_centrality": 0.0,
@@ -1650,9 +1650,9 @@
             "author_total_citations": 1,
             "author_total_papers": 1,
             "author_total_collaborators": [
+                "Christos K. Filelis-Papadopoulos",
                 "John P. Morrison",
-                "George A. Gravvanis",
-                "Christos K. Filelis-Papadopoulos"
+                "George A. Gravvanis"
             ],
             "author_closeness_centrality": 0.01875,
             "author_betweenness_centrality": 0.0,
@@ -1676,9 +1676,9 @@
             "author_total_citations": 1,
             "author_total_papers": 1,
             "author_total_collaborators": [
+                "Christos K. Filelis-Papadopoulos",
                 "John P. Morrison",
-                "Byron E. Moutafis",
-                "Christos K. Filelis-Papadopoulos"
+                "Byron E. Moutafis"
             ],
             "author_closeness_centrality": 0.01875,
             "author_betweenness_centrality": 0.0,
@@ -1689,9 +1689,9 @@
             "author_total_citations": 1,
             "author_total_papers": 1,
             "author_total_collaborators": [
+                "Christos K. Filelis-Papadopoulos",
                 "George A. Gravvanis",
-                "Byron E. Moutafis",
-                "Christos K. Filelis-Papadopoulos"
+                "Byron E. Moutafis"
             ],
             "author_closeness_centrality": 0.01875,
             "author_betweenness_centrality": 0.0,
@@ -1704,8 +1704,8 @@
             "author_total_collaborators": [
                 "Ioan Salomie",
                 "Laura Petrisor",
-                "Dorin Moldovan",
-                "Emil St. Chifu"
+                "Emil St. Chifu",
+                "Dorin Moldovan"
             ],
             "author_closeness_centrality": 0.025,
             "author_betweenness_centrality": 0.0,
@@ -1716,10 +1716,10 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Viorica Rozina Chifu",
                 "Laura Petrisor",
+                "Emil St. Chifu",
                 "Dorin Moldovan",
-                "Emil St. Chifu"
+                "Viorica Rozina Chifu"
             ],
             "author_closeness_centrality": 0.025,
             "author_betweenness_centrality": 0.0,
@@ -1730,10 +1730,10 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Viorica Rozina Chifu",
                 "Ioan Salomie",
+                "Emil St. Chifu",
                 "Dorin Moldovan",
-                "Emil St. Chifu"
+                "Viorica Rozina Chifu"
             ],
             "author_closeness_centrality": 0.025,
             "author_betweenness_centrality": 0.0,
@@ -1744,10 +1744,10 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Viorica Rozina Chifu",
                 "Ioan Salomie",
                 "Laura Petrisor",
-                "Dorin Moldovan"
+                "Dorin Moldovan",
+                "Viorica Rozina Chifu"
             ],
             "author_closeness_centrality": 0.025,
             "author_betweenness_centrality": 0.0,
@@ -1758,10 +1758,10 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Viorica Rozina Chifu",
                 "Ioan Salomie",
                 "Laura Petrisor",
-                "Emil St. Chifu"
+                "Emil St. Chifu",
+                "Viorica Rozina Chifu"
             ],
             "author_closeness_centrality": 0.025,
             "author_betweenness_centrality": 0.0,
@@ -1871,10 +1871,10 @@
             "author_total_papers": 1,
             "author_total_collaborators": [
                 "Krzysztof Czarnecki",
-                "Ilias S. Kotsireas",
+                "Vijay Ganesh",
                 "Albert Heinle",
-                "Saeed Nejati",
-                "Vijay Ganesh"
+                "Ilias S. Kotsireas",
+                "Saeed Nejati"
             ],
             "author_closeness_centrality": 0.03125,
             "author_betweenness_centrality": 0.0,
@@ -1886,9 +1886,9 @@
             "author_total_papers": 1,
             "author_total_collaborators": [
                 "Krzysztof Czarnecki",
-                "Ilias S. Kotsireas",
-                "Curtis Bright",
                 "Albert Heinle",
+                "Curtis Bright",
+                "Ilias S. Kotsireas",
                 "Saeed Nejati"
             ],
             "author_closeness_centrality": 0.03125,
@@ -1901,10 +1901,10 @@
             "author_total_papers": 1,
             "author_total_collaborators": [
                 "Krzysztof Czarnecki",
-                "Ilias S. Kotsireas",
+                "Vijay Ganesh",
                 "Curtis Bright",
-                "Saeed Nejati",
-                "Vijay Ganesh"
+                "Ilias S. Kotsireas",
+                "Saeed Nejati"
             ],
             "author_closeness_centrality": 0.03125,
             "author_betweenness_centrality": 0.0,
@@ -1916,10 +1916,10 @@
             "author_total_papers": 1,
             "author_total_collaborators": [
                 "Krzysztof Czarnecki",
-                "Curtis Bright",
+                "Vijay Ganesh",
                 "Albert Heinle",
-                "Saeed Nejati",
-                "Vijay Ganesh"
+                "Curtis Bright",
+                "Saeed Nejati"
             ],
             "author_closeness_centrality": 0.03125,
             "author_betweenness_centrality": 0.0,
@@ -1931,10 +1931,10 @@
             "author_total_papers": 1,
             "author_total_collaborators": [
                 "Krzysztof Czarnecki",
-                "Ilias S. Kotsireas",
-                "Curtis Bright",
+                "Vijay Ganesh",
                 "Albert Heinle",
-                "Vijay Ganesh"
+                "Curtis Bright",
+                "Ilias S. Kotsireas"
             ],
             "author_closeness_centrality": 0.03125,
             "author_betweenness_centrality": 0.0,
@@ -1945,11 +1945,11 @@
             "author_total_citations": 19,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Ilias S. Kotsireas",
-                "Curtis Bright",
+                "Vijay Ganesh",
                 "Albert Heinle",
-                "Saeed Nejati",
-                "Vijay Ganesh"
+                "Curtis Bright",
+                "Ilias S. Kotsireas",
+                "Saeed Nejati"
             ],
             "author_closeness_centrality": 0.03125,
             "author_betweenness_centrality": 0.0,
@@ -1978,10 +1978,10 @@
             "author_total_citations": 10,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Scott Andrew Crossley",
-                "Ana Secui",
                 "Stefan Trausan-Matu",
                 "Mihai Dascalu",
+                "Scott Andrew Crossley",
+                "Ana Secui",
                 "Stefan Ruseti"
             ],
             "author_closeness_centrality": 0.03125,
@@ -1993,10 +1993,10 @@
             "author_total_citations": 10,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Scott Andrew Crossley",
-                "Dorinela Sirbu",
                 "Stefan Trausan-Matu",
                 "Mihai Dascalu",
+                "Scott Andrew Crossley",
+                "Dorinela Sirbu",
                 "Stefan Ruseti"
             ],
             "author_closeness_centrality": 0.03125,
@@ -2008,10 +2008,10 @@
             "author_total_citations": 10,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Scott Andrew Crossley",
-                "Ana Secui",
-                "Dorinela Sirbu",
                 "Stefan Trausan-Matu",
+                "Scott Andrew Crossley",
+                "Dorinela Sirbu",
+                "Ana Secui",
                 "Stefan Ruseti"
             ],
             "author_closeness_centrality": 0.03125,
@@ -2023,10 +2023,10 @@
             "author_total_citations": 10,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Ana Secui",
-                "Dorinela Sirbu",
                 "Stefan Trausan-Matu",
                 "Mihai Dascalu",
+                "Dorinela Sirbu",
+                "Ana Secui",
                 "Stefan Ruseti"
             ],
             "author_closeness_centrality": 0.03125,
@@ -2038,11 +2038,11 @@
             "author_total_citations": 10,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Scott Andrew Crossley",
-                "Ana Secui",
-                "Dorinela Sirbu",
                 "Stefan Trausan-Matu",
-                "Mihai Dascalu"
+                "Mihai Dascalu",
+                "Scott Andrew Crossley",
+                "Dorinela Sirbu",
+                "Ana Secui"
             ],
             "author_closeness_centrality": 0.03125,
             "author_betweenness_centrality": 0.0,
@@ -2053,10 +2053,10 @@
             "author_total_citations": 10,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Scott Andrew Crossley",
-                "Ana Secui",
-                "Dorinela Sirbu",
                 "Mihai Dascalu",
+                "Scott Andrew Crossley",
+                "Dorinela Sirbu",
+                "Ana Secui",
                 "Stefan Ruseti"
             ],
             "author_closeness_centrality": 0.03125,
@@ -2077,818 +2077,818 @@
         }
     },
     "author_links": [
-        {
-            "source": "Felix Neubauer",
-            "target": "Karsten Scheibler"
-        },
-        {
-            "source": "Felix Neubauer",
-            "target": "Bernd Becker"
-        },
-        {
-            "source": "Felix Neubauer",
-            "target": "Ahmed Mahdi"
-        },
-        {
-            "source": "Felix Neubauer",
-            "target": "Martin Franzle"
-        },
-        {
-            "source": "Felix Neubauer",
-            "target": "Tino Teige"
-        },
-        {
-            "source": "Felix Neubauer",
-            "target": "Tom Bienmuller"
-        },
-        {
-            "source": "Felix Neubauer",
-            "target": "Detlef Fehrer"
-        },
-        {
-            "source": "Karsten Scheibler",
-            "target": "Bernd Becker"
-        },
-        {
-            "source": "Karsten Scheibler",
-            "target": "Ahmed Mahdi"
-        },
-        {
-            "source": "Karsten Scheibler",
-            "target": "Martin Franzle"
-        },
-        {
-            "source": "Karsten Scheibler",
-            "target": "Tino Teige"
-        },
-        {
-            "source": "Karsten Scheibler",
-            "target": "Tom Bienmuller"
-        },
-        {
-            "source": "Karsten Scheibler",
-            "target": "Detlef Fehrer"
-        },
-        {
-            "source": "Bernd Becker",
-            "target": "Ahmed Mahdi"
-        },
-        {
-            "source": "Bernd Becker",
-            "target": "Martin Franzle"
-        },
-        {
-            "source": "Bernd Becker",
-            "target": "Tino Teige"
-        },
-        {
-            "source": "Bernd Becker",
-            "target": "Tom Bienmuller"
-        },
-        {
-            "source": "Bernd Becker",
-            "target": "Detlef Fehrer"
-        },
-        {
-            "source": "Ahmed Mahdi",
-            "target": "Martin Franzle"
-        },
-        {
-            "source": "Ahmed Mahdi",
-            "target": "Tino Teige"
-        },
-        {
-            "source": "Ahmed Mahdi",
-            "target": "Tom Bienmuller"
-        },
-        {
-            "source": "Ahmed Mahdi",
-            "target": "Detlef Fehrer"
-        },
-        {
-            "source": "Martin Franzle",
-            "target": "Tino Teige"
-        },
-        {
-            "source": "Martin Franzle",
-            "target": "Tom Bienmuller"
-        },
-        {
-            "source": "Martin Franzle",
-            "target": "Detlef Fehrer"
-        },
-        {
-            "source": "Tino Teige",
-            "target": "Tom Bienmuller"
-        },
-        {
-            "source": "Tino Teige",
-            "target": "Detlef Fehrer"
-        },
-        {
-            "source": "Tom Bienmuller",
-            "target": "Detlef Fehrer"
-        },
-        {
-            "source": "John Abbott",
-            "target": "Anna Maria Bigatti"
-        },
-        {
-            "source": "Md. Maruf Hussain",
-            "target": "Hiroshi Hattori"
-        },
-        {
-            "source": "Md. Maruf Hussain",
-            "target": "Noriyuki Fujimoto"
-        },
-        {
-            "source": "Hiroshi Hattori",
-            "target": "Noriyuki Fujimoto"
-        },
-        {
-            "source": "George Cabau",
-            "target": "Magda Buhu"
-        },
-        {
-            "source": "George Cabau",
-            "target": "Ciprian Pavel Oprisa"
-        },
-        {
-            "source": "Magda Buhu",
-            "target": "Ciprian Pavel Oprisa"
-        },
-        {
-            "source": "Ehsan Ataie",
-            "target": "Eugenio Gianniti"
-        },
-        {
-            "source": "Ehsan Ataie",
-            "target": "Danilo Ardagna"
-        },
-        {
-            "source": "Ehsan Ataie",
-            "target": "Ali Movaghar"
-        },
-        {
-            "source": "Eugenio Gianniti",
-            "target": "Danilo Ardagna"
-        },
-        {
-            "source": "Eugenio Gianniti",
-            "target": "Ali Movaghar"
-        },
-        {
-            "source": "Danilo Ardagna",
-            "target": "Ali Movaghar"
-        },
-        {
-            "source": "Anton Dan Gabriel",
-            "target": "Dragos Teodor Gavrilut"
-        },
-        {
-            "source": "Anton Dan Gabriel",
-            "target": "Baetu Ioan Alexandru"
-        },
-        {
-            "source": "Anton Dan Gabriel",
-            "target": "Adrian-Stefan Popescu"
-        },
-        {
-            "source": "Dragos Teodor Gavrilut",
-            "target": "Baetu Ioan Alexandru"
-        },
-        {
-            "source": "Dragos Teodor Gavrilut",
-            "target": "Adrian-Stefan Popescu"
-        },
-        {
-            "source": "Baetu Ioan Alexandru",
-            "target": "Adrian-Stefan Popescu"
-        },
-        {
-            "source": "Ciprian-Octavian Truica",
-            "target": "Florin Radulescu"
-        },
-        {
-            "source": "Ciprian-Octavian Truica",
-            "target": "Alexandru Boicea"
-        },
-        {
-            "source": "Florin Radulescu",
-            "target": "Alexandru Boicea"
-        },
-        {
-            "source": "Zongyan Huang",
-            "target": "Matthew England"
-        },
-        {
-            "source": "Zongyan Huang",
-            "target": "James H. Davenport"
-        },
-        {
-            "source": "Zongyan Huang",
-            "target": "Lawrence C. Paulson"
-        },
-        {
-            "source": "Matthew England",
-            "target": "James H. Davenport"
-        },
-        {
-            "source": "Matthew England",
-            "target": "Lawrence C. Paulson"
-        },
-        {
-            "source": "James H. Davenport",
-            "target": "Lawrence C. Paulson"
-        },
-        {
-            "source": "Liviu Oana",
-            "target": "Adrian F. Spataru"
-        },
-        {
-            "source": "Dong Nguyen Doan",
-            "target": "Gabriel Iuhasz"
-        },
-        {
-            "source": "Anca Ignat",
-            "target": "Bogdan Aciobanitei"
-        },
-        {
-            "source": "Changbo Chen",
-            "target": "Svyatoslav Covanov"
-        },
-        {
-            "source": "Changbo Chen",
-            "target": "Farnam Mansouri"
-        },
-        {
-            "source": "Changbo Chen",
-            "target": "Marc Moreno Maza"
-        },
-        {
-            "source": "Changbo Chen",
-            "target": "Ning Xie"
-        },
-        {
-            "source": "Changbo Chen",
-            "target": "Yuzhen Xie"
-        },
-        {
-            "source": "Svyatoslav Covanov",
-            "target": "Farnam Mansouri"
-        },
-        {
-            "source": "Svyatoslav Covanov",
-            "target": "Marc Moreno Maza"
-        },
-        {
-            "source": "Svyatoslav Covanov",
-            "target": "Ning Xie"
-        },
-        {
-            "source": "Svyatoslav Covanov",
-            "target": "Yuzhen Xie"
-        },
-        {
-            "source": "Farnam Mansouri",
-            "target": "Marc Moreno Maza"
-        },
-        {
-            "source": "Farnam Mansouri",
-            "target": "Ning Xie"
-        },
-        {
-            "source": "Farnam Mansouri",
-            "target": "Yuzhen Xie"
-        },
-        {
-            "source": "Marc Moreno Maza",
-            "target": "Ning Xie"
-        },
-        {
-            "source": "Marc Moreno Maza",
-            "target": "Yuzhen Xie"
-        },
-        {
-            "source": "Ning Xie",
-            "target": "Yuzhen Xie"
-        },
-        {
-            "source": "Zsuzsanna Marian",
-            "target": "Ioan-Gabriel Mircea"
-        },
-        {
-            "source": "Zsuzsanna Marian",
-            "target": "Istvan Gergely Czibula"
-        },
-        {
-            "source": "Zsuzsanna Marian",
-            "target": "Gabriela Czibula"
-        },
-        {
-            "source": "Ioan-Gabriel Mircea",
-            "target": "Istvan Gergely Czibula"
-        },
-        {
-            "source": "Ioan-Gabriel Mircea",
-            "target": "Gabriela Czibula"
-        },
-        {
-            "source": "Istvan Gergely Czibula",
-            "target": "Gabriela Czibula"
-        },
-        {
-            "source": "Aygul Jamal",
-            "target": "Marc Baboulin"
-        },
-        {
-            "source": "Aygul Jamal",
-            "target": "Amal Khabou"
-        },
-        {
-            "source": "Aygul Jamal",
-            "target": "Masha Sosonkina"
-        },
-        {
-            "source": "Marc Baboulin",
-            "target": "Amal Khabou"
-        },
-        {
-            "source": "Marc Baboulin",
-            "target": "Masha Sosonkina"
-        },
-        {
-            "source": "Amal Khabou",
-            "target": "Masha Sosonkina"
-        },
-        {
-            "source": "Ana Turlea",
-            "target": "Florentin Ipate"
-        },
-        {
-            "source": "Ana Turlea",
-            "target": "Raluca Lefticaru"
-        },
-        {
-            "source": "Florentin Ipate",
-            "target": "Raluca Lefticaru"
-        },
-        {
-            "source": "Jan Horacek",
-            "target": "Martin Kreuzer"
-        },
-        {
-            "source": "Jan Horacek",
-            "target": "Ange-Salome Messeng Ekossono"
-        },
-        {
-            "source": "Martin Kreuzer",
-            "target": "Ange-Salome Messeng Ekossono"
-        },
-        {
-            "source": "Dragos Teodor Gavrilut",
-            "target": "George Popoiu"
-        },
-        {
-            "source": "Dragos Teodor Gavrilut",
-            "target": "Razvan Benchea"
-        },
-        {
-            "source": "George Popoiu",
-            "target": "Razvan Benchea"
-        },
-        {
-            "source": "Nicolas Gutierrez",
-            "target": "Manuela Wiesinger-Widi"
-        },
-        {
-            "source": "Tateaki Sasaki",
-            "target": "Daiju Inaba"
-        },
-        {
-            "source": "Darian M. Onchis",
-            "target": "Simone Zappala"
-        },
-        {
-            "source": "Andrada Baban",
-            "target": "Cosmin Bonchis"
-        },
-        {
-            "source": "Andrada Baban",
-            "target": "Alexandru Fikl"
-        },
-        {
-            "source": "Andrada Baban",
-            "target": "Florin Rosu"
-        },
-        {
-            "source": "Cosmin Bonchis",
-            "target": "Alexandru Fikl"
-        },
-        {
-            "source": "Cosmin Bonchis",
-            "target": "Florin Rosu"
-        },
-        {
-            "source": "Alexandru Fikl",
-            "target": "Florin Rosu"
-        },
-        {
-            "source": "Diana-Lucia Miholca",
-            "target": "Gabriela Czibula"
-        },
-        {
-            "source": "Diana-Lucia Miholca",
-            "target": "Ioan-Gabriel Mircea"
-        },
-        {
-            "source": "Diana-Lucia Miholca",
-            "target": "Istvan Gergely Czibula"
-        },
-        {
-            "source": "Alexander Kogler",
-            "target": "Patrick Traxler"
-        },
-        {
-            "source": "Katalin Fazekas",
-            "target": "Martina Seidl"
-        },
-        {
-            "source": "Katalin Fazekas",
-            "target": "Armin Biere"
-        },
-        {
-            "source": "Martina Seidl",
-            "target": "Armin Biere"
-        },
-        {
-            "source": "Lucian Luncean",
-            "target": "Andrei Mocanu"
-        },
-        {
-            "source": "Lucian Luncean",
-            "target": "Alexandru Petrut Becheru"
-        },
-        {
-            "source": "Andrei Mocanu",
-            "target": "Alexandru Petrut Becheru"
-        },
-        {
-            "source": "Anca Nicoleta Marginean",
-            "target": "Kando Eniko"
-        },
-        {
-            "source": "Changbo Chen",
-            "target": "Wenyuan Wu"
-        },
-        {
-            "source": "Liviu Octavian Mafteiu-Scai",
-            "target": "Calin Alexandru Cornigeanu"
-        },
-        {
-            "source": "Grigore Lupescu",
-            "target": "Emil-Ioan Slusanschi"
-        },
-        {
-            "source": "Grigore Lupescu",
-            "target": "Nicolae Tapus"
-        },
-        {
-            "source": "Emil-Ioan Slusanschi",
-            "target": "Nicolae Tapus"
-        },
-        {
-            "source": "Todor Ivascu",
-            "target": "Adriana Dinis"
-        },
-        {
-            "source": "Todor Ivascu",
-            "target": "Viorel Negru"
-        },
-        {
-            "source": "Adriana Dinis",
-            "target": "Viorel Negru"
-        },
-        {
-            "source": "Vlad Radulescu",
-            "target": "Stefan Andrei"
-        },
-        {
-            "source": "Vlad Radulescu",
-            "target": "Albert M. K. Cheng"
-        },
-        {
-            "source": "Stefan Andrei",
-            "target": "Albert M. K. Cheng"
-        },
-        {
-            "source": "Annamaria Szenkovits",
-            "target": "Noemi Gasko"
-        },
-        {
-            "source": "Annamaria Szenkovits",
-            "target": "Hunor Jakab"
-        },
-        {
-            "source": "Noemi Gasko",
-            "target": "Hunor Jakab"
-        },
-        {
-            "source": "Matteo Camilli",
-            "target": "Carlo Bellettini"
-        },
-        {
-            "source": "Matteo Camilli",
-            "target": "Lorenzo Capra"
-        },
-        {
-            "source": "Matteo Camilli",
-            "target": "Mattia Monga"
-        },
-        {
-            "source": "Carlo Bellettini",
-            "target": "Lorenzo Capra"
-        },
-        {
-            "source": "Carlo Bellettini",
-            "target": "Mattia Monga"
-        },
-        {
-            "source": "Lorenzo Capra",
-            "target": "Mattia Monga"
-        },
-        {
-            "source": "Stefan Postavaru",
-            "target": "Ionut-MihaIta Plesea"
-        },
-        {
-            "source": "Anca Andreica",
-            "target": "Laura Diosan"
-        },
-        {
-            "source": "Anca Andreica",
-            "target": "Irina Voiculescu"
-        },
-        {
-            "source": "Laura Diosan",
-            "target": "Irina Voiculescu"
-        },
-        {
-            "source": "Shaoshi Chen",
-            "target": "Stephen M. Watt"
-        },
-        {
-            "source": "Eliana Duarte",
-            "target": "Daniel Lichtblau"
-        },
-        {
-            "source": "Stephane Dellacherie",
-            "target": "Erell Jamelot"
-        },
-        {
-            "source": "Stephane Dellacherie",
-            "target": "Olivier D. Lafitte"
-        },
-        {
-            "source": "Stephane Dellacherie",
-            "target": "Riyaz Mouhamad"
-        },
-        {
-            "source": "Erell Jamelot",
-            "target": "Olivier D. Lafitte"
-        },
-        {
-            "source": "Erell Jamelot",
-            "target": "Riyaz Mouhamad"
-        },
-        {
-            "source": "Olivier D. Lafitte",
-            "target": "Riyaz Mouhamad"
-        },
-        {
-            "source": "Ajinkya Borle",
-            "target": "Samuel J. Lomonaco"
-        },
-        {
-            "source": "Chemseddine Chohra",
-            "target": "Philippe Langlois"
-        },
-        {
-            "source": "Chemseddine Chohra",
-            "target": "David Parello"
-        },
-        {
-            "source": "Philippe Langlois",
-            "target": "David Parello"
-        },
-        {
-            "source": "Byron E. Moutafis",
-            "target": "Christos K. Filelis-Papadopoulos"
-        },
-        {
-            "source": "Byron E. Moutafis",
-            "target": "George A. Gravvanis"
-        },
-        {
-            "source": "Byron E. Moutafis",
-            "target": "John P. Morrison"
-        },
-        {
-            "source": "Christos K. Filelis-Papadopoulos",
-            "target": "George A. Gravvanis"
-        },
-        {
-            "source": "Christos K. Filelis-Papadopoulos",
-            "target": "John P. Morrison"
-        },
-        {
-            "source": "George A. Gravvanis",
-            "target": "John P. Morrison"
-        },
-        {
-            "source": "Viorica Rozina Chifu",
-            "target": "Ioan Salomie"
-        },
-        {
-            "source": "Viorica Rozina Chifu",
-            "target": "Laura Petrisor"
-        },
-        {
-            "source": "Viorica Rozina Chifu",
-            "target": "Emil St. Chifu"
-        },
-        {
-            "source": "Viorica Rozina Chifu",
-            "target": "Dorin Moldovan"
-        },
-        {
-            "source": "Ioan Salomie",
-            "target": "Laura Petrisor"
-        },
-        {
-            "source": "Ioan Salomie",
-            "target": "Emil St. Chifu"
-        },
-        {
-            "source": "Ioan Salomie",
-            "target": "Dorin Moldovan"
-        },
-        {
-            "source": "Laura Petrisor",
-            "target": "Emil St. Chifu"
-        },
-        {
-            "source": "Laura Petrisor",
-            "target": "Dorin Moldovan"
-        },
-        {
-            "source": "Emil St. Chifu",
-            "target": "Dorin Moldovan"
-        },
-        {
-            "source": "Raivis Bets",
-            "target": "Janis Buls"
-        },
-        {
-            "source": "Gabriel Ciobanu",
-            "target": "Eneia Nicolae Todoran"
-        },
-        {
-            "source": "Flavius Turcu",
-            "target": "Charles Dossal"
-        },
-        {
-            "source": "Flavius Turcu",
-            "target": "Marc Nicodeme"
-        },
-        {
-            "source": "Charles Dossal",
-            "target": "Marc Nicodeme"
-        },
-        {
-            "source": "Curtis Bright",
-            "target": "Vijay Ganesh"
-        },
-        {
-            "source": "Curtis Bright",
-            "target": "Albert Heinle"
-        },
-        {
-            "source": "Curtis Bright",
-            "target": "Ilias S. Kotsireas"
-        },
-        {
-            "source": "Curtis Bright",
-            "target": "Saeed Nejati"
-        },
-        {
-            "source": "Curtis Bright",
-            "target": "Krzysztof Czarnecki"
-        },
-        {
-            "source": "Vijay Ganesh",
-            "target": "Albert Heinle"
-        },
-        {
-            "source": "Vijay Ganesh",
-            "target": "Ilias S. Kotsireas"
-        },
-        {
-            "source": "Vijay Ganesh",
-            "target": "Saeed Nejati"
-        },
-        {
-            "source": "Vijay Ganesh",
-            "target": "Krzysztof Czarnecki"
-        },
-        {
-            "source": "Albert Heinle",
-            "target": "Ilias S. Kotsireas"
-        },
-        {
-            "source": "Albert Heinle",
-            "target": "Saeed Nejati"
-        },
-        {
-            "source": "Albert Heinle",
-            "target": "Krzysztof Czarnecki"
-        },
-        {
-            "source": "Ilias S. Kotsireas",
-            "target": "Saeed Nejati"
-        },
-        {
-            "source": "Ilias S. Kotsireas",
-            "target": "Krzysztof Czarnecki"
-        },
-        {
-            "source": "Saeed Nejati",
-            "target": "Krzysztof Czarnecki"
-        },
-        {
-            "source": "Dorinela Sirbu",
-            "target": "Ana Secui"
-        },
-        {
-            "source": "Dorinela Sirbu",
-            "target": "Mihai Dascalu"
-        },
-        {
-            "source": "Dorinela Sirbu",
-            "target": "Scott Andrew Crossley"
-        },
-        {
-            "source": "Dorinela Sirbu",
-            "target": "Stefan Ruseti"
-        },
-        {
-            "source": "Dorinela Sirbu",
-            "target": "Stefan Trausan-Matu"
-        },
-        {
-            "source": "Ana Secui",
-            "target": "Mihai Dascalu"
-        },
-        {
-            "source": "Ana Secui",
-            "target": "Scott Andrew Crossley"
-        },
-        {
-            "source": "Ana Secui",
-            "target": "Stefan Ruseti"
-        },
-        {
-            "source": "Ana Secui",
-            "target": "Stefan Trausan-Matu"
-        },
-        {
-            "source": "Mihai Dascalu",
-            "target": "Scott Andrew Crossley"
-        },
-        {
-            "source": "Mihai Dascalu",
-            "target": "Stefan Ruseti"
-        },
-        {
-            "source": "Mihai Dascalu",
-            "target": "Stefan Trausan-Matu"
-        },
-        {
-            "source": "Scott Andrew Crossley",
-            "target": "Stefan Ruseti"
-        },
-        {
-            "source": "Scott Andrew Crossley",
-            "target": "Stefan Trausan-Matu"
-        },
-        {
-            "source": "Stefan Ruseti",
-            "target": "Stefan Trausan-Matu"
-        },
-        {
-            "source": "Monica Tirea",
-            "target": "Viorel Negru"
-        }
+        [
+            "Grigore Lupescu",
+            "Nicolae Tapus"
+        ],
+        [
+            "Armin Biere",
+            "Martina Seidl"
+        ],
+        [
+            "Todor Ivascu",
+            "Viorel Negru"
+        ],
+        [
+            "Eneia Nicolae Todoran",
+            "Gabriel Ciobanu"
+        ],
+        [
+            "Albert Heinle",
+            "Saeed Nejati"
+        ],
+        [
+            "Changbo Chen",
+            "Wenyuan Wu"
+        ],
+        [
+            "James H. Davenport",
+            "Zongyan Huang"
+        ],
+        [
+            "Irina Voiculescu",
+            "Laura Diosan"
+        ],
+        [
+            "Ahmed Mahdi",
+            "Felix Neubauer"
+        ],
+        [
+            "Ahmed Mahdi",
+            "Bernd Becker"
+        ],
+        [
+            "Ahmed Mahdi",
+            "Tino Teige"
+        ],
+        [
+            "Adrian-Stefan Popescu",
+            "Anton Dan Gabriel"
+        ],
+        [
+            "Aygul Jamal",
+            "Masha Sosonkina"
+        ],
+        [
+            "Adriana Dinis",
+            "Viorel Negru"
+        ],
+        [
+            "Adrian-Stefan Popescu",
+            "Baetu Ioan Alexandru"
+        ],
+        [
+            "Dorin Moldovan",
+            "Ioan Salomie"
+        ],
+        [
+            "Ali Movaghar",
+            "Eugenio Gianniti"
+        ],
+        [
+            "Farnam Mansouri",
+            "Marc Moreno Maza"
+        ],
+        [
+            "Adrian F. Spataru",
+            "Liviu Oana"
+        ],
+        [
+            "Anton Dan Gabriel",
+            "Dragos Teodor Gavrilut"
+        ],
+        [
+            "Curtis Bright",
+            "Saeed Nejati"
+        ],
+        [
+            "Ana Secui",
+            "Mihai Dascalu"
+        ],
+        [
+            "Mihai Dascalu",
+            "Stefan Trausan-Matu"
+        ],
+        [
+            "Christos K. Filelis-Papadopoulos",
+            "John P. Morrison"
+        ],
+        [
+            "Jan Horacek",
+            "Martin Kreuzer"
+        ],
+        [
+            "Ilias S. Kotsireas",
+            "Krzysztof Czarnecki"
+        ],
+        [
+            "Ali Movaghar",
+            "Ehsan Ataie"
+        ],
+        [
+            "Albert Heinle",
+            "Vijay Ganesh"
+        ],
+        [
+            "Calin Alexandru Cornigeanu",
+            "Liviu Octavian Mafteiu-Scai"
+        ],
+        [
+            "Gabriela Czibula",
+            "Zsuzsanna Marian"
+        ],
+        [
+            "Annamaria Szenkovits",
+            "Hunor Jakab"
+        ],
+        [
+            "Ahmed Mahdi",
+            "Martin Franzle"
+        ],
+        [
+            "Chemseddine Chohra",
+            "David Parello"
+        ],
+        [
+            "Byron E. Moutafis",
+            "George A. Gravvanis"
+        ],
+        [
+            "Svyatoslav Covanov",
+            "Yuzhen Xie"
+        ],
+        [
+            "Ioan-Gabriel Mircea",
+            "Istvan Gergely Czibula"
+        ],
+        [
+            "George A. Gravvanis",
+            "John P. Morrison"
+        ],
+        [
+            "Ning Xie",
+            "Yuzhen Xie"
+        ],
+        [
+            "Marc Baboulin",
+            "Masha Sosonkina"
+        ],
+        [
+            "Curtis Bright",
+            "Vijay Ganesh"
+        ],
+        [
+            "Albert M. K. Cheng",
+            "Vlad Radulescu"
+        ],
+        [
+            "Felix Neubauer",
+            "Tom Bienmuller"
+        ],
+        [
+            "Stefan Andrei",
+            "Vlad Radulescu"
+        ],
+        [
+            "Olivier D. Lafitte",
+            "Stephane Dellacherie"
+        ],
+        [
+            "Alexandru Boicea",
+            "Florin Radulescu"
+        ],
+        [
+            "Lorenzo Capra",
+            "Matteo Camilli"
+        ],
+        [
+            "Detlef Fehrer",
+            "Tom Bienmuller"
+        ],
+        [
+            "Ioan Salomie",
+            "Viorica Rozina Chifu"
+        ],
+        [
+            "Gabriela Czibula",
+            "Ioan-Gabriel Mircea"
+        ],
+        [
+            "Tino Teige",
+            "Tom Bienmuller"
+        ],
+        [
+            "Ahmed Mahdi",
+            "Detlef Fehrer"
+        ],
+        [
+            "Anna Maria Bigatti",
+            "John Abbott"
+        ],
+        [
+            "Dorin Moldovan",
+            "Viorica Rozina Chifu"
+        ],
+        [
+            "Alexandru Fikl",
+            "Cosmin Bonchis"
+        ],
+        [
+            "Ehsan Ataie",
+            "Eugenio Gianniti"
+        ],
+        [
+            "Krzysztof Czarnecki",
+            "Saeed Nejati"
+        ],
+        [
+            "Ana Secui",
+            "Stefan Ruseti"
+        ],
+        [
+            "Stefan Ruseti",
+            "Stefan Trausan-Matu"
+        ],
+        [
+            "Charles Dossal",
+            "Marc Nicodeme"
+        ],
+        [
+            "Changbo Chen",
+            "Marc Moreno Maza"
+        ],
+        [
+            "Farnam Mansouri",
+            "Ning Xie"
+        ],
+        [
+            "Ana Turlea",
+            "Raluca Lefticaru"
+        ],
+        [
+            "Ciprian Pavel Oprisa",
+            "Magda Buhu"
+        ],
+        [
+            "Darian M. Onchis",
+            "Simone Zappala"
+        ],
+        [
+            "Matthew England",
+            "Zongyan Huang"
+        ],
+        [
+            "Laura Petrisor",
+            "Viorica Rozina Chifu"
+        ],
+        [
+            "Ange-Salome Messeng Ekossono",
+            "Jan Horacek"
+        ],
+        [
+            "Ana Secui",
+            "Scott Andrew Crossley"
+        ],
+        [
+            "Baetu Ioan Alexandru",
+            "Dragos Teodor Gavrilut"
+        ],
+        [
+            "Ning Xie",
+            "Svyatoslav Covanov"
+        ],
+        [
+            "Krzysztof Czarnecki",
+            "Vijay Ganesh"
+        ],
+        [
+            "Ana Turlea",
+            "Florentin Ipate"
+        ],
+        [
+            "George Popoiu",
+            "Razvan Benchea"
+        ],
+        [
+            "Martin Franzle",
+            "Tom Bienmuller"
+        ],
+        [
+            "Bernd Becker",
+            "Tom Bienmuller"
+        ],
+        [
+            "Alexandru Boicea",
+            "Ciprian-Octavian Truica"
+        ],
+        [
+            "Adrian-Stefan Popescu",
+            "Dragos Teodor Gavrilut"
+        ],
+        [
+            "Ionut-MihaIta Plesea",
+            "Stefan Postavaru"
+        ],
+        [
+            "Md. Maruf Hussain",
+            "Noriyuki Fujimoto"
+        ],
+        [
+            "Mihai Dascalu",
+            "Stefan Ruseti"
+        ],
+        [
+            "Marc Moreno Maza",
+            "Ning Xie"
+        ],
+        [
+            "Hunor Jakab",
+            "Noemi Gasko"
+        ],
+        [
+            "Ciprian-Octavian Truica",
+            "Florin Radulescu"
+        ],
+        [
+            "Anca Andreica",
+            "Irina Voiculescu"
+        ],
+        [
+            "Albert M. K. Cheng",
+            "Stefan Andrei"
+        ],
+        [
+            "Ioan-Gabriel Mircea",
+            "Zsuzsanna Marian"
+        ],
+        [
+            "Scott Andrew Crossley",
+            "Stefan Trausan-Matu"
+        ],
+        [
+            "Albert Heinle",
+            "Krzysztof Czarnecki"
+        ],
+        [
+            "Martin Franzle",
+            "Tino Teige"
+        ],
+        [
+            "Andrada Baban",
+            "Florin Rosu"
+        ],
+        [
+            "Bernd Becker",
+            "Felix Neubauer"
+        ],
+        [
+            "Bernd Becker",
+            "Tino Teige"
+        ],
+        [
+            "Daniel Lichtblau",
+            "Eliana Duarte"
+        ],
+        [
+            "Dorinela Sirbu",
+            "Stefan Trausan-Matu"
+        ],
+        [
+            "Danilo Ardagna",
+            "Eugenio Gianniti"
+        ],
+        [
+            "Changbo Chen",
+            "Farnam Mansouri"
+        ],
+        [
+            "Diana-Lucia Miholca",
+            "Istvan Gergely Czibula"
+        ],
+        [
+            "Andrei Mocanu",
+            "Lucian Luncean"
+        ],
+        [
+            "Ana Secui",
+            "Dorinela Sirbu"
+        ],
+        [
+            "Carlo Bellettini",
+            "Matteo Camilli"
+        ],
+        [
+            "Mihai Dascalu",
+            "Scott Andrew Crossley"
+        ],
+        [
+            "Alexander Kogler",
+            "Patrick Traxler"
+        ],
+        [
+            "Lawrence C. Paulson",
+            "Zongyan Huang"
+        ],
+        [
+            "Emil St. Chifu",
+            "Ioan Salomie"
+        ],
+        [
+            "Marc Moreno Maza",
+            "Svyatoslav Covanov"
+        ],
+        [
+            "Florentin Ipate",
+            "Raluca Lefticaru"
+        ],
+        [
+            "Curtis Bright",
+            "Krzysztof Czarnecki"
+        ],
+        [
+            "George Cabau",
+            "Magda Buhu"
+        ],
+        [
+            "Changbo Chen",
+            "Ning Xie"
+        ],
+        [
+            "Farnam Mansouri",
+            "Yuzhen Xie"
+        ],
+        [
+            "Andrada Baban",
+            "Cosmin Bonchis"
+        ],
+        [
+            "Lorenzo Capra",
+            "Mattia Monga"
+        ],
+        [
+            "Detlef Fehrer",
+            "Karsten Scheibler"
+        ],
+        [
+            "Matteo Camilli",
+            "Mattia Monga"
+        ],
+        [
+            "Bernd Becker",
+            "Martin Franzle"
+        ],
+        [
+            "Byron E. Moutafis",
+            "Christos K. Filelis-Papadopoulos"
+        ],
+        [
+            "Flavius Turcu",
+            "Marc Nicodeme"
+        ],
+        [
+            "Alexandru Petrut Becheru",
+            "Andrei Mocanu"
+        ],
+        [
+            "Dong Nguyen Doan",
+            "Gabriel Iuhasz"
+        ],
+        [
+            "Ahmed Mahdi",
+            "Karsten Scheibler"
+        ],
+        [
+            "Felix Neubauer",
+            "Tino Teige"
+        ],
+        [
+            "Emil-Ioan Slusanschi",
+            "Grigore Lupescu"
+        ],
+        [
+            "Manuela Wiesinger-Widi",
+            "Nicolas Gutierrez"
+        ],
+        [
+            "Detlef Fehrer",
+            "Felix Neubauer"
+        ],
+        [
+            "Detlef Fehrer",
+            "Tino Teige"
+        ],
+        [
+            "Katalin Fazekas",
+            "Martina Seidl"
+        ],
+        [
+            "Ciprian Pavel Oprisa",
+            "George Cabau"
+        ],
+        [
+            "James H. Davenport",
+            "Matthew England"
+        ],
+        [
+            "Christos K. Filelis-Papadopoulos",
+            "George A. Gravvanis"
+        ],
+        [
+            "Dorinela Sirbu",
+            "Mihai Dascalu"
+        ],
+        [
+            "Erell Jamelot",
+            "Olivier D. Lafitte"
+        ],
+        [
+            "Amal Khabou",
+            "Aygul Jamal"
+        ],
+        [
+            "Changbo Chen",
+            "Svyatoslav Covanov"
+        ],
+        [
+            "Amal Khabou",
+            "Masha Sosonkina"
+        ],
+        [
+            "Marc Moreno Maza",
+            "Yuzhen Xie"
+        ],
+        [
+            "Shaoshi Chen",
+            "Stephen M. Watt"
+        ],
+        [
+            "Bernd Becker",
+            "Detlef Fehrer"
+        ],
+        [
+            "Gabriela Czibula",
+            "Istvan Gergely Czibula"
+        ],
+        [
+            "Alexandru Fikl",
+            "Andrada Baban"
+        ],
+        [
+            "Felix Neubauer",
+            "Martin Franzle"
+        ],
+        [
+            "Erell Jamelot",
+            "Riyaz Mouhamad"
+        ],
+        [
+            "Emil-Ioan Slusanschi",
+            "Nicolae Tapus"
+        ],
+        [
+            "Emil St. Chifu",
+            "Viorica Rozina Chifu"
+        ],
+        [
+            "Detlef Fehrer",
+            "Martin Franzle"
+        ],
+        [
+            "Albert Heinle",
+            "Ilias S. Kotsireas"
+        ],
+        [
+            "Farnam Mansouri",
+            "Svyatoslav Covanov"
+        ],
+        [
+            "Daiju Inaba",
+            "Tateaki Sasaki"
+        ],
+        [
+            "Saeed Nejati",
+            "Vijay Ganesh"
+        ],
+        [
+            "Byron E. Moutafis",
+            "John P. Morrison"
+        ],
+        [
+            "Anca Ignat",
+            "Bogdan Aciobanitei"
+        ],
+        [
+            "Changbo Chen",
+            "Yuzhen Xie"
+        ],
+        [
+            "Curtis Bright",
+            "Ilias S. Kotsireas"
+        ],
+        [
+            "Dorin Moldovan",
+            "Emil St. Chifu"
+        ],
+        [
+            "Scott Andrew Crossley",
+            "Stefan Ruseti"
+        ],
+        [
+            "Ilias S. Kotsireas",
+            "Saeed Nejati"
+        ],
+        [
+            "Amal Khabou",
+            "Marc Baboulin"
+        ],
+        [
+            "Dorinela Sirbu",
+            "Stefan Ruseti"
+        ],
+        [
+            "Danilo Ardagna",
+            "Ehsan Ataie"
+        ],
+        [
+            "Carlo Bellettini",
+            "Mattia Monga"
+        ],
+        [
+            "Monica Tirea",
+            "Viorel Negru"
+        ],
+        [
+            "Anca Nicoleta Marginean",
+            "Kando Eniko"
+        ],
+        [
+            "Istvan Gergely Czibula",
+            "Zsuzsanna Marian"
+        ],
+        [
+            "Charles Dossal",
+            "Flavius Turcu"
+        ],
+        [
+            "Ioan Salomie",
+            "Laura Petrisor"
+        ],
+        [
+            "Ajinkya Borle",
+            "Samuel J. Lomonaco"
+        ],
+        [
+            "Diana-Lucia Miholca",
+            "Gabriela Czibula"
+        ],
+        [
+            "Diana-Lucia Miholca",
+            "Ioan-Gabriel Mircea"
+        ],
+        [
+            "Janis Buls",
+            "Raivis Bets"
+        ],
+        [
+            "Dorinela Sirbu",
+            "Scott Andrew Crossley"
+        ],
+        [
+            "Anton Dan Gabriel",
+            "Baetu Ioan Alexandru"
+        ],
+        [
+            "Dorin Moldovan",
+            "Laura Petrisor"
+        ],
+        [
+            "Hiroshi Hattori",
+            "Noriyuki Fujimoto"
+        ],
+        [
+            "Karsten Scheibler",
+            "Tom Bienmuller"
+        ],
+        [
+            "Ilias S. Kotsireas",
+            "Vijay Ganesh"
+        ],
+        [
+            "Dragos Teodor Gavrilut",
+            "George Popoiu"
+        ],
+        [
+            "Annamaria Szenkovits",
+            "Noemi Gasko"
+        ],
+        [
+            "Carlo Bellettini",
+            "Lorenzo Capra"
+        ],
+        [
+            "Ange-Salome Messeng Ekossono",
+            "Martin Kreuzer"
+        ],
+        [
+            "Chemseddine Chohra",
+            "Philippe Langlois"
+        ],
+        [
+            "David Parello",
+            "Philippe Langlois"
+        ],
+        [
+            "Albert Heinle",
+            "Curtis Bright"
+        ],
+        [
+            "Riyaz Mouhamad",
+            "Stephane Dellacherie"
+        ],
+        [
+            "Erell Jamelot",
+            "Stephane Dellacherie"
+        ],
+        [
+            "Anca Andreica",
+            "Laura Diosan"
+        ],
+        [
+            "Karsten Scheibler",
+            "Tino Teige"
+        ],
+        [
+            "Bernd Becker",
+            "Karsten Scheibler"
+        ],
+        [
+            "Alexandru Fikl",
+            "Florin Rosu"
+        ],
+        [
+            "Armin Biere",
+            "Katalin Fazekas"
+        ],
+        [
+            "Alexandru Petrut Becheru",
+            "Lucian Luncean"
+        ],
+        [
+            "Emil St. Chifu",
+            "Laura Petrisor"
+        ],
+        [
+            "Olivier D. Lafitte",
+            "Riyaz Mouhamad"
+        ],
+        [
+            "Aygul Jamal",
+            "Marc Baboulin"
+        ],
+        [
+            "Ali Movaghar",
+            "Danilo Ardagna"
+        ],
+        [
+            "Ana Secui",
+            "Stefan Trausan-Matu"
+        ],
+        [
+            "Ahmed Mahdi",
+            "Tom Bienmuller"
+        ],
+        [
+            "Karsten Scheibler",
+            "Martin Franzle"
+        ],
+        [
+            "Hiroshi Hattori",
+            "Md. Maruf Hussain"
+        ],
+        [
+            "Cosmin Bonchis",
+            "Florin Rosu"
+        ],
+        [
+            "Felix Neubauer",
+            "Karsten Scheibler"
+        ],
+        [
+            "Lawrence C. Paulson",
+            "Matthew England"
+        ],
+        [
+            "Adriana Dinis",
+            "Todor Ivascu"
+        ],
+        [
+            "James H. Davenport",
+            "Lawrence C. Paulson"
+        ],
+        [
+            "Dragos Teodor Gavrilut",
+            "Razvan Benchea"
+        ]
     ],
     "collaborator_groups": {
         "AM-AB47": {
@@ -3549,29 +3549,817 @@
         }
     },
     "collaborator_group_links": [
-        {
-            "source": "AM-AB47",
-            "target": "TT-818A"
-        },
-        {
-            "source": "AP-C5C8",
-            "target": "DTG-AC13"
-        },
-        {
-            "source": "JHD-5250",
-            "target": "JHD-BCC7"
-        },
-        {
-            "source": "CC-FF70",
-            "target": "CC-A999"
-        },
-        {
-            "source": "GC-69C6",
-            "target": "DM-38AE"
-        },
-        {
-            "source": "AD-8BAB",
-            "target": "MT-2C7E"
-        }
+        [
+            "Grigore Lupescu",
+            "Nicolae Tapus"
+        ],
+        [
+            "Armin Biere",
+            "Martina Seidl"
+        ],
+        [
+            "Todor Ivascu",
+            "Viorel Negru"
+        ],
+        [
+            "Eneia Nicolae Todoran",
+            "Gabriel Ciobanu"
+        ],
+        [
+            "Albert Heinle",
+            "Saeed Nejati"
+        ],
+        [
+            "Changbo Chen",
+            "Wenyuan Wu"
+        ],
+        [
+            "James H. Davenport",
+            "Zongyan Huang"
+        ],
+        [
+            "Irina Voiculescu",
+            "Laura Diosan"
+        ],
+        [
+            "Ahmed Mahdi",
+            "Felix Neubauer"
+        ],
+        [
+            "Ahmed Mahdi",
+            "Bernd Becker"
+        ],
+        [
+            "Ahmed Mahdi",
+            "Tino Teige"
+        ],
+        [
+            "Adrian-Stefan Popescu",
+            "Anton Dan Gabriel"
+        ],
+        [
+            "Aygul Jamal",
+            "Masha Sosonkina"
+        ],
+        [
+            "Adriana Dinis",
+            "Viorel Negru"
+        ],
+        [
+            "Adrian-Stefan Popescu",
+            "Baetu Ioan Alexandru"
+        ],
+        [
+            "Dorin Moldovan",
+            "Ioan Salomie"
+        ],
+        [
+            "Ali Movaghar",
+            "Eugenio Gianniti"
+        ],
+        [
+            "Farnam Mansouri",
+            "Marc Moreno Maza"
+        ],
+        [
+            "Adrian F. Spataru",
+            "Liviu Oana"
+        ],
+        [
+            "Anton Dan Gabriel",
+            "Dragos Teodor Gavrilut"
+        ],
+        [
+            "Curtis Bright",
+            "Saeed Nejati"
+        ],
+        [
+            "Ana Secui",
+            "Mihai Dascalu"
+        ],
+        [
+            "Mihai Dascalu",
+            "Stefan Trausan-Matu"
+        ],
+        [
+            "Christos K. Filelis-Papadopoulos",
+            "John P. Morrison"
+        ],
+        [
+            "Jan Horacek",
+            "Martin Kreuzer"
+        ],
+        [
+            "Ilias S. Kotsireas",
+            "Krzysztof Czarnecki"
+        ],
+        [
+            "Ali Movaghar",
+            "Ehsan Ataie"
+        ],
+        [
+            "Albert Heinle",
+            "Vijay Ganesh"
+        ],
+        [
+            "Calin Alexandru Cornigeanu",
+            "Liviu Octavian Mafteiu-Scai"
+        ],
+        [
+            "Gabriela Czibula",
+            "Zsuzsanna Marian"
+        ],
+        [
+            "Annamaria Szenkovits",
+            "Hunor Jakab"
+        ],
+        [
+            "Ahmed Mahdi",
+            "Martin Franzle"
+        ],
+        [
+            "Chemseddine Chohra",
+            "David Parello"
+        ],
+        [
+            "Byron E. Moutafis",
+            "George A. Gravvanis"
+        ],
+        [
+            "Svyatoslav Covanov",
+            "Yuzhen Xie"
+        ],
+        [
+            "Ioan-Gabriel Mircea",
+            "Istvan Gergely Czibula"
+        ],
+        [
+            "George A. Gravvanis",
+            "John P. Morrison"
+        ],
+        [
+            "Ning Xie",
+            "Yuzhen Xie"
+        ],
+        [
+            "Marc Baboulin",
+            "Masha Sosonkina"
+        ],
+        [
+            "Curtis Bright",
+            "Vijay Ganesh"
+        ],
+        [
+            "Albert M. K. Cheng",
+            "Vlad Radulescu"
+        ],
+        [
+            "Felix Neubauer",
+            "Tom Bienmuller"
+        ],
+        [
+            "Stefan Andrei",
+            "Vlad Radulescu"
+        ],
+        [
+            "Olivier D. Lafitte",
+            "Stephane Dellacherie"
+        ],
+        [
+            "Alexandru Boicea",
+            "Florin Radulescu"
+        ],
+        [
+            "Lorenzo Capra",
+            "Matteo Camilli"
+        ],
+        [
+            "Detlef Fehrer",
+            "Tom Bienmuller"
+        ],
+        [
+            "Ioan Salomie",
+            "Viorica Rozina Chifu"
+        ],
+        [
+            "Gabriela Czibula",
+            "Ioan-Gabriel Mircea"
+        ],
+        [
+            "Tino Teige",
+            "Tom Bienmuller"
+        ],
+        [
+            "Ahmed Mahdi",
+            "Detlef Fehrer"
+        ],
+        [
+            "Anna Maria Bigatti",
+            "John Abbott"
+        ],
+        [
+            "Dorin Moldovan",
+            "Viorica Rozina Chifu"
+        ],
+        [
+            "Alexandru Fikl",
+            "Cosmin Bonchis"
+        ],
+        [
+            "Ehsan Ataie",
+            "Eugenio Gianniti"
+        ],
+        [
+            "Krzysztof Czarnecki",
+            "Saeed Nejati"
+        ],
+        [
+            "Ana Secui",
+            "Stefan Ruseti"
+        ],
+        [
+            "Stefan Ruseti",
+            "Stefan Trausan-Matu"
+        ],
+        [
+            "Charles Dossal",
+            "Marc Nicodeme"
+        ],
+        [
+            "Changbo Chen",
+            "Marc Moreno Maza"
+        ],
+        [
+            "Farnam Mansouri",
+            "Ning Xie"
+        ],
+        [
+            "Ana Turlea",
+            "Raluca Lefticaru"
+        ],
+        [
+            "Ciprian Pavel Oprisa",
+            "Magda Buhu"
+        ],
+        [
+            "Darian M. Onchis",
+            "Simone Zappala"
+        ],
+        [
+            "Matthew England",
+            "Zongyan Huang"
+        ],
+        [
+            "Laura Petrisor",
+            "Viorica Rozina Chifu"
+        ],
+        [
+            "Ange-Salome Messeng Ekossono",
+            "Jan Horacek"
+        ],
+        [
+            "Ana Secui",
+            "Scott Andrew Crossley"
+        ],
+        [
+            "Baetu Ioan Alexandru",
+            "Dragos Teodor Gavrilut"
+        ],
+        [
+            "Ning Xie",
+            "Svyatoslav Covanov"
+        ],
+        [
+            "Krzysztof Czarnecki",
+            "Vijay Ganesh"
+        ],
+        [
+            "Ana Turlea",
+            "Florentin Ipate"
+        ],
+        [
+            "George Popoiu",
+            "Razvan Benchea"
+        ],
+        [
+            "Martin Franzle",
+            "Tom Bienmuller"
+        ],
+        [
+            "Bernd Becker",
+            "Tom Bienmuller"
+        ],
+        [
+            "Alexandru Boicea",
+            "Ciprian-Octavian Truica"
+        ],
+        [
+            "Adrian-Stefan Popescu",
+            "Dragos Teodor Gavrilut"
+        ],
+        [
+            "Ionut-MihaIta Plesea",
+            "Stefan Postavaru"
+        ],
+        [
+            "Md. Maruf Hussain",
+            "Noriyuki Fujimoto"
+        ],
+        [
+            "Mihai Dascalu",
+            "Stefan Ruseti"
+        ],
+        [
+            "Marc Moreno Maza",
+            "Ning Xie"
+        ],
+        [
+            "Hunor Jakab",
+            "Noemi Gasko"
+        ],
+        [
+            "Ciprian-Octavian Truica",
+            "Florin Radulescu"
+        ],
+        [
+            "Anca Andreica",
+            "Irina Voiculescu"
+        ],
+        [
+            "Albert M. K. Cheng",
+            "Stefan Andrei"
+        ],
+        [
+            "Ioan-Gabriel Mircea",
+            "Zsuzsanna Marian"
+        ],
+        [
+            "Scott Andrew Crossley",
+            "Stefan Trausan-Matu"
+        ],
+        [
+            "Albert Heinle",
+            "Krzysztof Czarnecki"
+        ],
+        [
+            "Martin Franzle",
+            "Tino Teige"
+        ],
+        [
+            "Andrada Baban",
+            "Florin Rosu"
+        ],
+        [
+            "Bernd Becker",
+            "Felix Neubauer"
+        ],
+        [
+            "Bernd Becker",
+            "Tino Teige"
+        ],
+        [
+            "Daniel Lichtblau",
+            "Eliana Duarte"
+        ],
+        [
+            "Dorinela Sirbu",
+            "Stefan Trausan-Matu"
+        ],
+        [
+            "Danilo Ardagna",
+            "Eugenio Gianniti"
+        ],
+        [
+            "Changbo Chen",
+            "Farnam Mansouri"
+        ],
+        [
+            "Diana-Lucia Miholca",
+            "Istvan Gergely Czibula"
+        ],
+        [
+            "Andrei Mocanu",
+            "Lucian Luncean"
+        ],
+        [
+            "Ana Secui",
+            "Dorinela Sirbu"
+        ],
+        [
+            "Carlo Bellettini",
+            "Matteo Camilli"
+        ],
+        [
+            "Mihai Dascalu",
+            "Scott Andrew Crossley"
+        ],
+        [
+            "Alexander Kogler",
+            "Patrick Traxler"
+        ],
+        [
+            "Lawrence C. Paulson",
+            "Zongyan Huang"
+        ],
+        [
+            "Emil St. Chifu",
+            "Ioan Salomie"
+        ],
+        [
+            "Marc Moreno Maza",
+            "Svyatoslav Covanov"
+        ],
+        [
+            "Florentin Ipate",
+            "Raluca Lefticaru"
+        ],
+        [
+            "Curtis Bright",
+            "Krzysztof Czarnecki"
+        ],
+        [
+            "George Cabau",
+            "Magda Buhu"
+        ],
+        [
+            "Changbo Chen",
+            "Ning Xie"
+        ],
+        [
+            "Farnam Mansouri",
+            "Yuzhen Xie"
+        ],
+        [
+            "Andrada Baban",
+            "Cosmin Bonchis"
+        ],
+        [
+            "Lorenzo Capra",
+            "Mattia Monga"
+        ],
+        [
+            "Detlef Fehrer",
+            "Karsten Scheibler"
+        ],
+        [
+            "Matteo Camilli",
+            "Mattia Monga"
+        ],
+        [
+            "Bernd Becker",
+            "Martin Franzle"
+        ],
+        [
+            "Byron E. Moutafis",
+            "Christos K. Filelis-Papadopoulos"
+        ],
+        [
+            "Flavius Turcu",
+            "Marc Nicodeme"
+        ],
+        [
+            "Alexandru Petrut Becheru",
+            "Andrei Mocanu"
+        ],
+        [
+            "Dong Nguyen Doan",
+            "Gabriel Iuhasz"
+        ],
+        [
+            "Ahmed Mahdi",
+            "Karsten Scheibler"
+        ],
+        [
+            "Felix Neubauer",
+            "Tino Teige"
+        ],
+        [
+            "Emil-Ioan Slusanschi",
+            "Grigore Lupescu"
+        ],
+        [
+            "Manuela Wiesinger-Widi",
+            "Nicolas Gutierrez"
+        ],
+        [
+            "Detlef Fehrer",
+            "Felix Neubauer"
+        ],
+        [
+            "Detlef Fehrer",
+            "Tino Teige"
+        ],
+        [
+            "Katalin Fazekas",
+            "Martina Seidl"
+        ],
+        [
+            "Ciprian Pavel Oprisa",
+            "George Cabau"
+        ],
+        [
+            "James H. Davenport",
+            "Matthew England"
+        ],
+        [
+            "Christos K. Filelis-Papadopoulos",
+            "George A. Gravvanis"
+        ],
+        [
+            "Dorinela Sirbu",
+            "Mihai Dascalu"
+        ],
+        [
+            "Erell Jamelot",
+            "Olivier D. Lafitte"
+        ],
+        [
+            "Amal Khabou",
+            "Aygul Jamal"
+        ],
+        [
+            "Changbo Chen",
+            "Svyatoslav Covanov"
+        ],
+        [
+            "Amal Khabou",
+            "Masha Sosonkina"
+        ],
+        [
+            "Marc Moreno Maza",
+            "Yuzhen Xie"
+        ],
+        [
+            "Shaoshi Chen",
+            "Stephen M. Watt"
+        ],
+        [
+            "Bernd Becker",
+            "Detlef Fehrer"
+        ],
+        [
+            "Gabriela Czibula",
+            "Istvan Gergely Czibula"
+        ],
+        [
+            "Alexandru Fikl",
+            "Andrada Baban"
+        ],
+        [
+            "Felix Neubauer",
+            "Martin Franzle"
+        ],
+        [
+            "Erell Jamelot",
+            "Riyaz Mouhamad"
+        ],
+        [
+            "Emil-Ioan Slusanschi",
+            "Nicolae Tapus"
+        ],
+        [
+            "Emil St. Chifu",
+            "Viorica Rozina Chifu"
+        ],
+        [
+            "Detlef Fehrer",
+            "Martin Franzle"
+        ],
+        [
+            "Albert Heinle",
+            "Ilias S. Kotsireas"
+        ],
+        [
+            "Farnam Mansouri",
+            "Svyatoslav Covanov"
+        ],
+        [
+            "Daiju Inaba",
+            "Tateaki Sasaki"
+        ],
+        [
+            "Saeed Nejati",
+            "Vijay Ganesh"
+        ],
+        [
+            "Byron E. Moutafis",
+            "John P. Morrison"
+        ],
+        [
+            "Anca Ignat",
+            "Bogdan Aciobanitei"
+        ],
+        [
+            "Changbo Chen",
+            "Yuzhen Xie"
+        ],
+        [
+            "Curtis Bright",
+            "Ilias S. Kotsireas"
+        ],
+        [
+            "Dorin Moldovan",
+            "Emil St. Chifu"
+        ],
+        [
+            "Scott Andrew Crossley",
+            "Stefan Ruseti"
+        ],
+        [
+            "Ilias S. Kotsireas",
+            "Saeed Nejati"
+        ],
+        [
+            "Amal Khabou",
+            "Marc Baboulin"
+        ],
+        [
+            "Dorinela Sirbu",
+            "Stefan Ruseti"
+        ],
+        [
+            "Danilo Ardagna",
+            "Ehsan Ataie"
+        ],
+        [
+            "Carlo Bellettini",
+            "Mattia Monga"
+        ],
+        [
+            "Monica Tirea",
+            "Viorel Negru"
+        ],
+        [
+            "Anca Nicoleta Marginean",
+            "Kando Eniko"
+        ],
+        [
+            "Istvan Gergely Czibula",
+            "Zsuzsanna Marian"
+        ],
+        [
+            "Charles Dossal",
+            "Flavius Turcu"
+        ],
+        [
+            "Ioan Salomie",
+            "Laura Petrisor"
+        ],
+        [
+            "Ajinkya Borle",
+            "Samuel J. Lomonaco"
+        ],
+        [
+            "Diana-Lucia Miholca",
+            "Gabriela Czibula"
+        ],
+        [
+            "Diana-Lucia Miholca",
+            "Ioan-Gabriel Mircea"
+        ],
+        [
+            "Janis Buls",
+            "Raivis Bets"
+        ],
+        [
+            "Dorinela Sirbu",
+            "Scott Andrew Crossley"
+        ],
+        [
+            "Anton Dan Gabriel",
+            "Baetu Ioan Alexandru"
+        ],
+        [
+            "Dorin Moldovan",
+            "Laura Petrisor"
+        ],
+        [
+            "Hiroshi Hattori",
+            "Noriyuki Fujimoto"
+        ],
+        [
+            "Karsten Scheibler",
+            "Tom Bienmuller"
+        ],
+        [
+            "Ilias S. Kotsireas",
+            "Vijay Ganesh"
+        ],
+        [
+            "Dragos Teodor Gavrilut",
+            "George Popoiu"
+        ],
+        [
+            "Annamaria Szenkovits",
+            "Noemi Gasko"
+        ],
+        [
+            "Carlo Bellettini",
+            "Lorenzo Capra"
+        ],
+        [
+            "Ange-Salome Messeng Ekossono",
+            "Martin Kreuzer"
+        ],
+        [
+            "Chemseddine Chohra",
+            "Philippe Langlois"
+        ],
+        [
+            "David Parello",
+            "Philippe Langlois"
+        ],
+        [
+            "Albert Heinle",
+            "Curtis Bright"
+        ],
+        [
+            "Riyaz Mouhamad",
+            "Stephane Dellacherie"
+        ],
+        [
+            "Erell Jamelot",
+            "Stephane Dellacherie"
+        ],
+        [
+            "Anca Andreica",
+            "Laura Diosan"
+        ],
+        [
+            "Karsten Scheibler",
+            "Tino Teige"
+        ],
+        [
+            "Bernd Becker",
+            "Karsten Scheibler"
+        ],
+        [
+            "Alexandru Fikl",
+            "Florin Rosu"
+        ],
+        [
+            "Armin Biere",
+            "Katalin Fazekas"
+        ],
+        [
+            "Alexandru Petrut Becheru",
+            "Lucian Luncean"
+        ],
+        [
+            "Emil St. Chifu",
+            "Laura Petrisor"
+        ],
+        [
+            "Olivier D. Lafitte",
+            "Riyaz Mouhamad"
+        ],
+        [
+            "Aygul Jamal",
+            "Marc Baboulin"
+        ],
+        [
+            "Ali Movaghar",
+            "Danilo Ardagna"
+        ],
+        [
+            "Ana Secui",
+            "Stefan Trausan-Matu"
+        ],
+        [
+            "Ahmed Mahdi",
+            "Tom Bienmuller"
+        ],
+        [
+            "Karsten Scheibler",
+            "Martin Franzle"
+        ],
+        [
+            "Hiroshi Hattori",
+            "Md. Maruf Hussain"
+        ],
+        [
+            "Cosmin Bonchis",
+            "Florin Rosu"
+        ],
+        [
+            "Felix Neubauer",
+            "Karsten Scheibler"
+        ],
+        [
+            "Lawrence C. Paulson",
+            "Matthew England"
+        ],
+        [
+            "Adriana Dinis",
+            "Todor Ivascu"
+        ],
+        [
+            "James H. Davenport",
+            "Lawrence C. Paulson"
+        ],
+        [
+            "Dragos Teodor Gavrilut",
+            "Razvan Benchea"
+        ]
     ]
 }

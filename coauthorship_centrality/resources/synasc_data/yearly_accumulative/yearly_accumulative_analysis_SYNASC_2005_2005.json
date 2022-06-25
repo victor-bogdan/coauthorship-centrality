@@ -1,1746 +1,1909 @@
 ﻿{
     "start_year": 2005,
     "end_year": 2005,
-    "accumulative_papers_count": 67,
-    "accumulative_authors_count": 143,
-    "accumulative_mean_author_papers": 1.1888111888111887,
-    "accumulative_mean_paper_authors": 2.4925373134328357,
-    "accumulative_mean_author_collaborators": 2.237762237762238,
-    "accumulative_authors": {
+    "papers_count": 67,
+    "authors_count": 143,
+    "mean_author_papers": 1.1888111888111887,
+    "mean_paper_authors": 2.4925373134328357,
+    "mean_author_collaborators": 2.237762237762238,
+    "authors": {
         "Pierluigi Frisco": {
-            "accumulative_author_total_citations": 14,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 14,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Ranulf T. Gibson"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Ranulf T. Gibson": {
-            "accumulative_author_total_citations": 14,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 14,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Pierluigi Frisco"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Richard Wettel": {
-            "accumulative_author_total_citations": 107,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 107,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Radu Marinescu"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Radu Marinescu": {
-            "accumulative_author_total_citations": 107,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 107,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Richard Wettel"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Laura Ildiko Kovacs": {
-            "accumulative_author_total_citations": 52,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 52,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Tudor Jebelean"
             ],
-            "accumulative_author_closeness_centrality": 0.009389671361502348,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.005687254179455598
+            "author_closeness_centrality": 0.009389671361502348,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.005687254179455598
         },
         "Tudor Jebelean": {
-            "accumulative_author_total_citations": 58,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 58,
+            "author_total_papers": 2,
+            "author_collaborators": [
                 "Laura Szakacs",
                 "Laura Ildiko Kovacs"
             ],
-            "accumulative_author_closeness_centrality": 0.014084507042253521,
-            "accumulative_author_betweenness_centrality": 9.989012086704625e-05,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.010790249675813591
+            "author_closeness_centrality": 0.014084507042253521,
+            "author_betweenness_centrality": 9.989012086704625e-05,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.010790249675813591
         },
         "Rudolf Freund": {
-            "accumulative_author_total_citations": 55,
-            "accumulative_author_collaborators": [
-                "Agustin Riscos-Nunez",
+            "author_total_citations": 55,
+            "author_total_papers": 2,
+            "author_collaborators": [
                 "Artiom Alhazov",
+                "Agustin Riscos-Nunez",
                 "Marion Oswald"
             ],
-            "accumulative_author_closeness_centrality": 0.03550469483568075,
-            "accumulative_author_betweenness_centrality": 0.0009989012086704626,
-            "accumulative_author_degree_centrality": 3,
-            "accumulative_author_pagerank_centrality": 0.007275079427344615
+            "author_closeness_centrality": 0.03550469483568075,
+            "author_betweenness_centrality": 0.0009989012086704626,
+            "author_degree_centrality": 3,
+            "author_pagerank_centrality": 0.007275079427344615
         },
         "Marion Oswald": {
-            "accumulative_author_total_citations": 41,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 41,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Rudolf Freund"
             ],
-            "accumulative_author_closeness_centrality": 0.025062137531068764,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.0031695111814045427
+            "author_closeness_centrality": 0.025062137531068764,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.0031695111814045427
         },
         "Razvan V. Florian": {
-            "accumulative_author_total_citations": 44,
-            "accumulative_author_collaborators": [],
-            "accumulative_author_closeness_centrality": 0.0,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 0,
-            "accumulative_author_pagerank_centrality": 0.0011082379017362397
+            "author_total_citations": 44,
+            "author_total_papers": 1,
+            "author_collaborators": [],
+            "author_closeness_centrality": 0.0,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 0,
+            "author_pagerank_centrality": 0.0011082379017362397
         },
         "Soumya Banerjee": {
-            "accumulative_author_total_citations": 35,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 35,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Crina Grosan",
                 "Ajith Abraham"
             ],
-            "accumulative_author_closeness_centrality": 0.01584507042253521,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.006052079320675486
+            "author_closeness_centrality": 0.01584507042253521,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.006052079320675486
         },
         "Crina Grosan": {
-            "accumulative_author_total_citations": 43,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 43,
+            "author_total_papers": 2,
+            "author_collaborators": [
                 "Monica Nicoara",
-                "Ajith Abraham",
-                "Soumya Banerjee"
+                "Soumya Banerjee",
+                "Ajith Abraham"
             ],
-            "accumulative_author_closeness_centrality": 0.02112676056338028,
-            "accumulative_author_betweenness_centrality": 4.9945060433523126e-05,
-            "accumulative_author_degree_centrality": 3,
-            "accumulative_author_pagerank_centrality": 0.008724426035807701
+            "author_closeness_centrality": 0.02112676056338028,
+            "author_betweenness_centrality": 4.9945060433523126e-05,
+            "author_degree_centrality": 3,
+            "author_pagerank_centrality": 0.008724426035807701
         },
         "Ajith Abraham": {
-            "accumulative_author_total_citations": 58,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 58,
+            "author_total_papers": 3,
+            "author_collaborators": [
                 "Monica Nicoara",
-                "Crina Grosan",
-                "Soumya Banerjee"
+                "Soumya Banerjee",
+                "Crina Grosan"
             ],
-            "accumulative_author_closeness_centrality": 0.02112676056338028,
-            "accumulative_author_betweenness_centrality": 4.9945060433523126e-05,
-            "accumulative_author_degree_centrality": 3,
-            "accumulative_author_pagerank_centrality": 0.008724426035807701
+            "author_closeness_centrality": 0.02112676056338028,
+            "author_betweenness_centrality": 4.9945060433523126e-05,
+            "author_degree_centrality": 3,
+            "author_pagerank_centrality": 0.008724426035807701
         },
         "Luis Fernandez": {
-            "accumulative_author_total_citations": 49,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 49,
+            "author_total_papers": 1,
+            "author_collaborators": [
+                "Fernando Arroyo",
                 "Luis F. Mingo",
-                "Victor J. Martinez",
-                "Fernando Arroyo"
+                "Victor J. Martinez"
             ],
-            "accumulative_author_closeness_centrality": 0.02112676056338028,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 3,
-            "accumulative_author_pagerank_centrality": 0.0073882526782415945
+            "author_closeness_centrality": 0.02112676056338028,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 3,
+            "author_pagerank_centrality": 0.0073882526782415945
         },
         "Victor J. Martinez": {
-            "accumulative_author_total_citations": 49,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 49,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Luis Fernandez",
-                "Luis F. Mingo",
-                "Fernando Arroyo"
+                "Fernando Arroyo",
+                "Luis F. Mingo"
             ],
-            "accumulative_author_closeness_centrality": 0.02112676056338028,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 3,
-            "accumulative_author_pagerank_centrality": 0.0073882526782415945
+            "author_closeness_centrality": 0.02112676056338028,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 3,
+            "author_pagerank_centrality": 0.0073882526782415945
         },
         "Fernando Arroyo": {
-            "accumulative_author_total_citations": 49,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 49,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Luis Fernandez",
                 "Luis F. Mingo",
                 "Victor J. Martinez"
             ],
-            "accumulative_author_closeness_centrality": 0.02112676056338028,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 3,
-            "accumulative_author_pagerank_centrality": 0.0073882526782415945
+            "author_closeness_centrality": 0.02112676056338028,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 3,
+            "author_pagerank_centrality": 0.0073882526782415945
         },
         "Luis F. Mingo": {
-            "accumulative_author_total_citations": 49,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 49,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Luis Fernandez",
-                "Victor J. Martinez",
-                "Fernando Arroyo"
+                "Fernando Arroyo",
+                "Victor J. Martinez"
             ],
-            "accumulative_author_closeness_centrality": 0.02112676056338028,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 3,
-            "accumulative_author_pagerank_centrality": 0.0073882526782415945
+            "author_closeness_centrality": 0.02112676056338028,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 3,
+            "author_pagerank_centrality": 0.0073882526782415945
         },
         "Camelia-Mihaela Pintea": {
-            "accumulative_author_total_citations": 38,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 38,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "D. Dumitrescu"
             ],
-            "accumulative_author_closeness_centrality": 0.012676056338028168,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.005120254679860266
+            "author_closeness_centrality": 0.012676056338028168,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.005120254679860266
         },
         "D. Dumitrescu": {
-            "accumulative_author_total_citations": 44,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 44,
+            "author_total_papers": 3,
+            "author_collaborators": [
                 "Anca Gog",
                 "Rodica Ioana Lung",
                 "Camelia-Mihaela Pintea"
             ],
-            "accumulative_author_closeness_centrality": 0.02112676056338028,
-            "accumulative_author_betweenness_centrality": 0.00029967036260113877,
-            "accumulative_author_degree_centrality": 3,
-            "accumulative_author_pagerank_centrality": 0.014192246673385586
+            "author_closeness_centrality": 0.02112676056338028,
+            "author_betweenness_centrality": 0.00029967036260113877,
+            "author_degree_centrality": 3,
+            "author_pagerank_centrality": 0.014192246673385586
         },
         "Gheorghe Paun": {
-            "accumulative_author_total_citations": 39,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 39,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Radu A. Paun"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Radu A. Paun": {
-            "accumulative_author_total_citations": 39,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 39,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Gheorghe Paun"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Laurentiu Dragan": {
-            "accumulative_author_total_citations": 29,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 29,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Stephen M. Watt"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Stephen M. Watt": {
-            "accumulative_author_total_citations": 29,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 29,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Laurentiu Dragan"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Elena Bautu": {
-            "accumulative_author_total_citations": 28,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 28,
+            "author_total_papers": 2,
+            "author_collaborators": [
                 "Andrei Bautu",
                 "Henri Luchian"
             ],
-            "accumulative_author_closeness_centrality": 0.014084507042253521,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.014084507042253521,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Andrei Bautu": {
-            "accumulative_author_total_citations": 28,
-            "accumulative_author_collaborators": [
-                "Henri Luchian",
-                "Elena Bautu"
+            "author_total_citations": 28,
+            "author_total_papers": 2,
+            "author_collaborators": [
+                "Elena Bautu",
+                "Henri Luchian"
             ],
-            "accumulative_author_closeness_centrality": 0.014084507042253521,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.014084507042253521,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Henri Luchian": {
-            "accumulative_author_total_citations": 28,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 28,
+            "author_total_papers": 2,
+            "author_collaborators": [
                 "Andrei Bautu",
                 "Elena Bautu"
             ],
-            "accumulative_author_closeness_centrality": 0.014084507042253521,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.014084507042253521,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Costin Badica": {
-            "accumulative_author_total_citations": 44,
-            "accumulative_author_collaborators": [
-                "Marcin Paprzycki",
-                "Maria Ganzha",
-                "Chris Fox",
+            "author_total_citations": 44,
+            "author_total_papers": 2,
+            "author_collaborators": [
                 "Cosmin Stoica Spahiu",
+                "Maria Ganzha",
+                "Amelia Badica",
+                "Chris Fox",
                 "Maria Teodorescu",
-                "Amelia Badica"
+                "Marcin Paprzycki"
             ],
-            "accumulative_author_closeness_centrality": 0.05030181086519115,
-            "accumulative_author_betweenness_centrality": 0.00239736290080911,
-            "accumulative_author_degree_centrality": 6,
-            "accumulative_author_pagerank_centrality": 0.011717705653845374
+            "author_closeness_centrality": 0.05030181086519115,
+            "author_betweenness_centrality": 0.00239736290080911,
+            "author_degree_centrality": 6,
+            "author_pagerank_centrality": 0.011717705653845374
         },
         "Maria Teodorescu": {
-            "accumulative_author_total_citations": 17,
-            "accumulative_author_collaborators": [
-                "Costin Badica",
+            "author_total_citations": 17,
+            "author_total_papers": 1,
+            "author_collaborators": [
+                "Cosmin Stoica Spahiu",
                 "Amelia Badica",
                 "Chris Fox",
-                "Cosmin Stoica Spahiu"
+                "Costin Badica"
             ],
-            "accumulative_author_closeness_centrality": 0.03912363067292645,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 4,
-            "accumulative_author_pagerank_centrality": 0.007721656364609862
+            "author_closeness_centrality": 0.03912363067292645,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 4,
+            "author_pagerank_centrality": 0.007721656364609862
         },
         "Cosmin Stoica Spahiu": {
-            "accumulative_author_total_citations": 17,
-            "accumulative_author_collaborators": [
-                "Liana Stanescu",
+            "author_total_citations": 17,
+            "author_total_papers": 2,
+            "author_collaborators": [
+                "Amelia Badica",
                 "Chris Fox",
                 "Costin Badica",
-                "Dumitru Dan Burdescu",
                 "Maria Teodorescu",
-                "Amelia Badica"
+                "Dumitru Dan Burdescu",
+                "Liana Stanescu"
             ],
-            "accumulative_author_closeness_centrality": 0.04401408450704226,
-            "accumulative_author_betweenness_centrality": 0.00159824193387274,
-            "accumulative_author_degree_centrality": 6,
-            "accumulative_author_pagerank_centrality": 0.01180028350235861
+            "author_closeness_centrality": 0.04401408450704226,
+            "author_betweenness_centrality": 0.00159824193387274,
+            "author_degree_centrality": 6,
+            "author_pagerank_centrality": 0.01180028350235861
         },
         "Amelia Badica": {
-            "accumulative_author_total_citations": 17,
-            "accumulative_author_collaborators": [
-                "Costin Badica",
+            "author_total_citations": 17,
+            "author_total_papers": 1,
+            "author_collaborators": [
+                "Cosmin Stoica Spahiu",
                 "Maria Teodorescu",
                 "Chris Fox",
-                "Cosmin Stoica Spahiu"
+                "Costin Badica"
             ],
-            "accumulative_author_closeness_centrality": 0.03912363067292645,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 4,
-            "accumulative_author_pagerank_centrality": 0.007721656364609862
+            "author_closeness_centrality": 0.03912363067292645,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 4,
+            "author_pagerank_centrality": 0.007721656364609862
         },
         "Chris Fox": {
-            "accumulative_author_total_citations": 17,
-            "accumulative_author_collaborators": [
-                "Costin Badica",
+            "author_total_citations": 17,
+            "author_total_papers": 1,
+            "author_collaborators": [
+                "Cosmin Stoica Spahiu",
                 "Maria Teodorescu",
                 "Amelia Badica",
-                "Cosmin Stoica Spahiu"
+                "Costin Badica"
             ],
-            "accumulative_author_closeness_centrality": 0.03912363067292645,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 4,
-            "accumulative_author_pagerank_centrality": 0.007721656364609862
+            "author_closeness_centrality": 0.03912363067292645,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 4,
+            "author_pagerank_centrality": 0.007721656364609862
         },
         "Maria Ganzha": {
-            "accumulative_author_total_citations": 27,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 27,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Costin Badica",
                 "Marcin Paprzycki"
             ],
-            "accumulative_author_closeness_centrality": 0.035211267605633804,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.004760316986830765
+            "author_closeness_centrality": 0.035211267605633804,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.004760316986830765
         },
         "Marcin Paprzycki": {
-            "accumulative_author_total_citations": 32,
-            "accumulative_author_collaborators": [
-                "Maria Ganzha",
+            "author_total_citations": 32,
+            "author_total_papers": 2,
+            "author_collaborators": [
+                "Srivastav Sethupathy",
                 "Nohpill Park",
-                "Costin Badica",
-                "Srivastav Sethupathy"
+                "Maria Ganzha",
+                "Costin Badica"
             ],
-            "accumulative_author_closeness_centrality": 0.03912363067292645,
-            "accumulative_author_betweenness_centrality": 0.00159824193387274,
-            "accumulative_author_degree_centrality": 4,
-            "accumulative_author_pagerank_centrality": 0.009374448562526661
+            "author_closeness_centrality": 0.03912363067292645,
+            "author_betweenness_centrality": 0.00159824193387274,
+            "author_degree_centrality": 4,
+            "author_pagerank_centrality": 0.009374448562526661
         },
         "Dario Pescini": {
-            "accumulative_author_total_citations": 20,
-            "accumulative_author_collaborators": [
-                "Daniela Besozzi",
-                "Giancarlo Mauri"
+            "author_total_citations": 20,
+            "author_total_papers": 1,
+            "author_collaborators": [
+                "Giancarlo Mauri",
+                "Daniela Besozzi"
             ],
-            "accumulative_author_closeness_centrality": 0.014084507042253521,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.014084507042253521,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Daniela Besozzi": {
-            "accumulative_author_total_citations": 20,
-            "accumulative_author_collaborators": [
-                "Dario Pescini",
-                "Giancarlo Mauri"
-            ],
-            "accumulative_author_closeness_centrality": 0.014084507042253521,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
-        },
-        "Giancarlo Mauri": {
-            "accumulative_author_total_citations": 20,
-            "accumulative_author_collaborators": [
-                "Daniela Besozzi",
+            "author_total_citations": 20,
+            "author_total_papers": 1,
+            "author_collaborators": [
+                "Giancarlo Mauri",
                 "Dario Pescini"
             ],
-            "accumulative_author_closeness_centrality": 0.014084507042253521,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.014084507042253521,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.007388252678241596
+        },
+        "Giancarlo Mauri": {
+            "author_total_citations": 20,
+            "author_total_papers": 1,
+            "author_collaborators": [
+                "Dario Pescini",
+                "Daniela Besozzi"
+            ],
+            "author_closeness_centrality": 0.014084507042253521,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Daniela Zaharie": {
-            "accumulative_author_total_citations": 12,
-            "accumulative_author_collaborators": [],
-            "accumulative_author_closeness_centrality": 0.0,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 0,
-            "accumulative_author_pagerank_centrality": 0.0011082379017362397
+            "author_total_citations": 12,
+            "author_total_papers": 1,
+            "author_collaborators": [],
+            "author_closeness_centrality": 0.0,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 0,
+            "author_pagerank_centrality": 0.0011082379017362397
         },
         "Francesco Bernardini": {
-            "accumulative_author_total_citations": 16,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 16,
+            "author_total_papers": 1,
+            "author_collaborators": [
+                "Francisco Jose Romero-Campero",
                 "Natalio Krasnogor",
-                "Maurice Margenstern",
                 "Mario J. Perez-Jimenez",
                 "Sergey Verlan",
-                "Francisco Jose Romero-Campero",
+                "Maurice Margenstern",
                 "Marian Gheorghe"
             ],
-            "accumulative_author_closeness_centrality": 0.0426056338028169,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 6,
-            "accumulative_author_pagerank_centrality": 0.007750093676883529
+            "author_closeness_centrality": 0.0426056338028169,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 6,
+            "author_pagerank_centrality": 0.007750093676883529
         },
         "Francisco Jose Romero-Campero": {
-            "accumulative_author_total_citations": 20,
-            "accumulative_author_collaborators": [
-                "Agustin Riscos-Nunez",
+            "author_total_citations": 20,
+            "author_total_papers": 2,
+            "author_collaborators": [
                 "Natalio Krasnogor",
+                "Maurice Margenstern",
                 "Mario J. Perez-Jimenez",
                 "Sergey Verlan",
                 "Francesco Bernardini",
                 "Miguel A. Gutierrez-Naranjo",
-                "Maurice Margenstern",
+                "Agustin Riscos-Nunez",
                 "Marian Gheorghe"
             ],
-            "accumulative_author_closeness_centrality": 0.05680751173708919,
-            "accumulative_author_betweenness_centrality": 0.001248626510838078,
-            "accumulative_author_degree_centrality": 8,
-            "accumulative_author_pagerank_centrality": 0.010588879495691067
+            "author_closeness_centrality": 0.05680751173708919,
+            "author_betweenness_centrality": 0.001248626510838078,
+            "author_degree_centrality": 8,
+            "author_pagerank_centrality": 0.010588879495691067
         },
         "Marian Gheorghe": {
-            "accumulative_author_total_citations": 16,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 16,
+            "author_total_papers": 1,
+            "author_collaborators": [
+                "Francisco Jose Romero-Campero",
                 "Natalio Krasnogor",
-                "Francesco Bernardini",
-                "Maurice Margenstern",
                 "Mario J. Perez-Jimenez",
                 "Sergey Verlan",
-                "Francisco Jose Romero-Campero"
+                "Francesco Bernardini",
+                "Maurice Margenstern"
             ],
-            "accumulative_author_closeness_centrality": 0.0426056338028169,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 6,
-            "accumulative_author_pagerank_centrality": 0.007750093676883529
+            "author_closeness_centrality": 0.0426056338028169,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 6,
+            "author_pagerank_centrality": 0.007750093676883529
         },
         "Mario J. Perez-Jimenez": {
-            "accumulative_author_total_citations": 20,
-            "accumulative_author_collaborators": [
-                "Agustin Riscos-Nunez",
+            "author_total_citations": 20,
+            "author_total_papers": 2,
+            "author_collaborators": [
                 "Natalio Krasnogor",
+                "Maurice Margenstern",
+                "Francisco Jose Romero-Campero",
                 "Sergey Verlan",
                 "Francesco Bernardini",
                 "Miguel A. Gutierrez-Naranjo",
-                "Maurice Margenstern",
-                "Francisco Jose Romero-Campero",
+                "Agustin Riscos-Nunez",
                 "Marian Gheorghe"
             ],
-            "accumulative_author_closeness_centrality": 0.05680751173708919,
-            "accumulative_author_betweenness_centrality": 0.001248626510838078,
-            "accumulative_author_degree_centrality": 8,
-            "accumulative_author_pagerank_centrality": 0.010588879495691067
+            "author_closeness_centrality": 0.05680751173708919,
+            "author_betweenness_centrality": 0.001248626510838078,
+            "author_degree_centrality": 8,
+            "author_pagerank_centrality": 0.010588879495691067
         },
         "Maurice Margenstern": {
-            "accumulative_author_total_citations": 16,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 16,
+            "author_total_papers": 1,
+            "author_collaborators": [
+                "Francisco Jose Romero-Campero",
                 "Natalio Krasnogor",
-                "Francesco Bernardini",
                 "Mario J. Perez-Jimenez",
                 "Sergey Verlan",
-                "Francisco Jose Romero-Campero",
+                "Francesco Bernardini",
                 "Marian Gheorghe"
             ],
-            "accumulative_author_closeness_centrality": 0.0426056338028169,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 6,
-            "accumulative_author_pagerank_centrality": 0.007750093676883529
+            "author_closeness_centrality": 0.0426056338028169,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 6,
+            "author_pagerank_centrality": 0.007750093676883529
         },
         "Sergey Verlan": {
-            "accumulative_author_total_citations": 16,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 16,
+            "author_total_papers": 1,
+            "author_collaborators": [
+                "Francisco Jose Romero-Campero",
                 "Natalio Krasnogor",
+                "Mario J. Perez-Jimenez",
                 "Francesco Bernardini",
                 "Maurice Margenstern",
-                "Mario J. Perez-Jimenez",
-                "Francisco Jose Romero-Campero",
                 "Marian Gheorghe"
             ],
-            "accumulative_author_closeness_centrality": 0.0426056338028169,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 6,
-            "accumulative_author_pagerank_centrality": 0.007750093676883529
+            "author_closeness_centrality": 0.0426056338028169,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 6,
+            "author_pagerank_centrality": 0.007750093676883529
         },
         "Natalio Krasnogor": {
-            "accumulative_author_total_citations": 16,
-            "accumulative_author_collaborators": [
-                "Francesco Bernardini",
-                "Maurice Margenstern",
+            "author_total_citations": 16,
+            "author_total_papers": 1,
+            "author_collaborators": [
+                "Francisco Jose Romero-Campero",
                 "Mario J. Perez-Jimenez",
                 "Sergey Verlan",
-                "Francisco Jose Romero-Campero",
+                "Francesco Bernardini",
+                "Maurice Margenstern",
                 "Marian Gheorghe"
             ],
-            "accumulative_author_closeness_centrality": 0.0426056338028169,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 6,
-            "accumulative_author_pagerank_centrality": 0.007750093676883529
+            "author_closeness_centrality": 0.0426056338028169,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 6,
+            "author_pagerank_centrality": 0.007750093676883529
         },
         "Artiom Alhazov": {
-            "accumulative_author_total_citations": 14,
-            "accumulative_author_collaborators": [
-                "Agustin Riscos-Nunez",
-                "Rudolf Freund"
+            "author_total_citations": 14,
+            "author_total_papers": 1,
+            "author_collaborators": [
+                "Rudolf Freund",
+                "Agustin Riscos-Nunez"
             ],
-            "accumulative_author_closeness_centrality": 0.03408450704225352,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.0046612396556089675
+            "author_closeness_centrality": 0.03408450704225352,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.0046612396556089675
         },
         "Agustin Riscos-Nunez": {
-            "accumulative_author_total_citations": 18,
-            "accumulative_author_collaborators": [
-                "Miguel A. Gutierrez-Naranjo",
-                "Mario J. Perez-Jimenez",
-                "Rudolf Freund",
+            "author_total_citations": 18,
+            "author_total_papers": 2,
+            "author_collaborators": [
+                "Artiom Alhazov",
                 "Francisco Jose Romero-Campero",
-                "Artiom Alhazov"
+                "Rudolf Freund",
+                "Mario J. Perez-Jimenez",
+                "Miguel A. Gutierrez-Naranjo"
             ],
-            "accumulative_author_closeness_centrality": 0.05012427506213753,
-            "accumulative_author_betweenness_centrality": 0.00239736290080911,
-            "accumulative_author_degree_centrality": 5,
-            "accumulative_author_pagerank_centrality": 0.008774871399325654
+            "author_closeness_centrality": 0.05012427506213753,
+            "author_betweenness_centrality": 0.00239736290080911,
+            "author_degree_centrality": 5,
+            "author_pagerank_centrality": 0.008774871399325654
         },
         "Adina Florea": {
-            "accumulative_author_total_citations": 11,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 11,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Eugenia Kalisz"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Eugenia Kalisz": {
-            "accumulative_author_total_citations": 11,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 11,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Adina Florea"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Jingfu Zhong": {
-            "accumulative_author_total_citations": 13,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 13,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Binheng Song"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Binheng Song": {
-            "accumulative_author_total_citations": 13,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 13,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Jingfu Zhong"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Darian M. Onchis": {
-            "accumulative_author_total_citations": 9,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 9,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Constantin Marta"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Constantin Marta": {
-            "accumulative_author_total_citations": 9,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 9,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Darian M. Onchis"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Lorenzo Capra": {
-            "accumulative_author_total_citations": 8,
-            "accumulative_author_collaborators": [],
-            "accumulative_author_closeness_centrality": 0.0,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 0,
-            "accumulative_author_pagerank_centrality": 0.0011082379017362397
+            "author_total_citations": 8,
+            "author_total_papers": 1,
+            "author_collaborators": [],
+            "author_closeness_centrality": 0.0,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 0,
+            "author_pagerank_centrality": 0.0011082379017362397
         },
         "Monica Nicoara": {
-            "accumulative_author_total_citations": 8,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 8,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Crina Grosan",
                 "Ajith Abraham"
             ],
-            "accumulative_author_closeness_centrality": 0.01584507042253521,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.006052079320675486
+            "author_closeness_centrality": 0.01584507042253521,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.006052079320675486
         },
         "Ferucio Laurentiu Tiplea": {
-            "accumulative_author_total_citations": 11,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 11,
+            "author_total_papers": 2,
+            "author_collaborators": [
                 "Aurora Tiplea",
                 "Geanina Ionela Macovei"
             ],
-            "accumulative_author_closeness_centrality": 0.014084507042253521,
-            "accumulative_author_betweenness_centrality": 9.989012086704625e-05,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.010790249675813591
+            "author_closeness_centrality": 0.014084507042253521,
+            "author_betweenness_centrality": 9.989012086704625e-05,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.010790249675813591
         },
         "Aurora Tiplea": {
-            "accumulative_author_total_citations": 8,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 8,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Ferucio Laurentiu Tiplea"
             ],
-            "accumulative_author_closeness_centrality": 0.009389671361502348,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.005687254179455598
+            "author_closeness_centrality": 0.009389671361502348,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.005687254179455598
         },
         "Anna Bartkowiak": {
-            "accumulative_author_total_citations": 5,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 5,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Piotr Lipinski"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Piotr Lipinski": {
-            "accumulative_author_total_citations": 5,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 5,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Anna Bartkowiak"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Rodica Ioana Lung": {
-            "accumulative_author_total_citations": 6,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 6,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "D. Dumitrescu"
             ],
-            "accumulative_author_closeness_centrality": 0.012676056338028168,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.005120254679860266
+            "author_closeness_centrality": 0.012676056338028168,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.005120254679860266
         },
         "Catalin Hritcu": {
-            "accumulative_author_total_citations": 7,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 7,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Sabin C. Buraga"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Sabin C. Buraga": {
-            "accumulative_author_total_citations": 7,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 7,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Catalin Hritcu"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Laura Szakacs": {
-            "accumulative_author_total_citations": 6,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 6,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Tudor Jebelean"
             ],
-            "accumulative_author_closeness_centrality": 0.009389671361502348,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.005687254179455598
+            "author_closeness_centrality": 0.009389671361502348,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.005687254179455598
         },
         "Yong Feng": {
-            "accumulative_author_total_citations": 6,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 6,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Yaohui Li"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Yaohui Li": {
-            "accumulative_author_total_citations": 6,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 6,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Yong Feng"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Virginia Niculescu": {
-            "accumulative_author_total_citations": 5,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 5,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Grigoreta Sofia Moldovan"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Grigoreta Sofia Moldovan": {
-            "accumulative_author_total_citations": 5,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 5,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Virginia Niculescu"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Srivastav Sethupathy": {
-            "accumulative_author_total_citations": 5,
-            "accumulative_author_collaborators": [
-                "Marcin Paprzycki",
-                "Nohpill Park"
+            "author_total_citations": 5,
+            "author_total_papers": 1,
+            "author_collaborators": [
+                "Nohpill Park",
+                "Marcin Paprzycki"
             ],
-            "accumulative_author_closeness_centrality": 0.02708559046587216,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.005391842383931757
+            "author_closeness_centrality": 0.02708559046587216,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.005391842383931757
         },
         "Nohpill Park": {
-            "accumulative_author_total_citations": 5,
-            "accumulative_author_collaborators": [
-                "Marcin Paprzycki",
-                "Srivastav Sethupathy"
+            "author_total_citations": 5,
+            "author_total_papers": 1,
+            "author_collaborators": [
+                "Srivastav Sethupathy",
+                "Marcin Paprzycki"
             ],
-            "accumulative_author_closeness_centrality": 0.02708559046587216,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.005391842383931757
+            "author_closeness_centrality": 0.02708559046587216,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.005391842383931757
         },
         "Daniel Pop": {
-            "accumulative_author_total_citations": 5,
-            "accumulative_author_collaborators": [
-                "Ciprian Jichici",
-                "Viorel Negru"
+            "author_total_citations": 5,
+            "author_total_papers": 1,
+            "author_collaborators": [
+                "Viorel Negru",
+                "Ciprian Jichici"
             ],
-            "accumulative_author_closeness_centrality": 0.014084507042253521,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.014084507042253521,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Ciprian Jichici": {
-            "accumulative_author_total_citations": 5,
-            "accumulative_author_collaborators": [
-                "Viorel Negru",
-                "Daniel Pop"
+            "author_total_citations": 5,
+            "author_total_papers": 1,
+            "author_collaborators": [
+                "Daniel Pop",
+                "Viorel Negru"
             ],
-            "accumulative_author_closeness_centrality": 0.014084507042253521,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.014084507042253521,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Viorel Negru": {
-            "accumulative_author_total_citations": 5,
-            "accumulative_author_collaborators": [
-                "Ciprian Jichici",
-                "Daniel Pop"
+            "author_total_citations": 5,
+            "author_total_papers": 1,
+            "author_collaborators": [
+                "Daniel Pop",
+                "Ciprian Jichici"
             ],
-            "accumulative_author_closeness_centrality": 0.014084507042253521,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.014084507042253521,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Raghavan Rama": {
-            "accumulative_author_total_citations": 6,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 6,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "H. Ramesh"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "H. Ramesh": {
-            "accumulative_author_total_citations": 6,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 6,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Raghavan Rama"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Adriana Popovici": {
-            "accumulative_author_total_citations": 5,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 5,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Dan Popovici"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Dan Popovici": {
-            "accumulative_author_total_citations": 5,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 5,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Adriana Popovici"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Gabriel Ciobanu": {
-            "accumulative_author_total_citations": 5,
-            "accumulative_author_collaborators": [
-                "Dorel Lucanu",
+            "author_total_citations": 5,
+            "author_total_papers": 4,
+            "author_collaborators": [
                 "K. N. Sridhar",
-                "Mihai Danes"
+                "Mihai Danes",
+                "Dorel Lucanu"
             ],
-            "accumulative_author_closeness_centrality": 0.02112676056338028,
-            "accumulative_author_betweenness_centrality": 0.0001997802417340925,
-            "accumulative_author_degree_centrality": 3,
-            "accumulative_author_pagerank_centrality": 0.010838149085589445
+            "author_closeness_centrality": 0.02112676056338028,
+            "author_betweenness_centrality": 0.0001997802417340925,
+            "author_degree_centrality": 3,
+            "author_pagerank_centrality": 0.010838149085589445
         },
         "K. N. Sridhar": {
-            "accumulative_author_total_citations": 4,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 4,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Gabriel Ciobanu"
             ],
-            "accumulative_author_closeness_centrality": 0.012676056338028168,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.004179046753528207
+            "author_closeness_centrality": 0.012676056338028168,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.004179046753528207
         },
         "Aurelia Profir": {
-            "accumulative_author_total_citations": 5,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 5,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Emilian Gutuleac",
                 "Elena Boian"
             ],
-            "accumulative_author_closeness_centrality": 0.014084507042253521,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.014084507042253521,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Emilian Gutuleac": {
-            "accumulative_author_total_citations": 5,
-            "accumulative_author_collaborators": [
-                "Elena Boian",
-                "Aurelia Profir"
+            "author_total_citations": 5,
+            "author_total_papers": 1,
+            "author_collaborators": [
+                "Aurelia Profir",
+                "Elena Boian"
             ],
-            "accumulative_author_closeness_centrality": 0.014084507042253521,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.014084507042253521,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Elena Boian": {
-            "accumulative_author_total_citations": 5,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 5,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Emilian Gutuleac",
                 "Aurelia Profir"
             ],
-            "accumulative_author_closeness_centrality": 0.014084507042253521,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.014084507042253521,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Miguel A. Gutierrez-Naranjo": {
-            "accumulative_author_total_citations": 4,
-            "accumulative_author_collaborators": [
-                "Agustin Riscos-Nunez",
+            "author_total_citations": 4,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Francisco Jose Romero-Campero",
+                "Agustin Riscos-Nunez",
                 "Mario J. Perez-Jimenez"
             ],
-            "accumulative_author_closeness_centrality": 0.0426056338028169,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 3,
-            "accumulative_author_pagerank_centrality": 0.004850103099415554
+            "author_closeness_centrality": 0.0426056338028169,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 3,
+            "author_pagerank_centrality": 0.004850103099415554
         },
         "M. Carmen Ruiz": {
-            "accumulative_author_total_citations": 4,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 4,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Fernando Cuartero",
                 "Diego Cazorla",
                 "Juan Jose Pardo"
             ],
-            "accumulative_author_closeness_centrality": 0.02112676056338028,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 3,
-            "accumulative_author_pagerank_centrality": 0.0073882526782415945
+            "author_closeness_centrality": 0.02112676056338028,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 3,
+            "author_pagerank_centrality": 0.0073882526782415945
         },
         "Diego Cazorla": {
-            "accumulative_author_total_citations": 4,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 4,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Fernando Cuartero",
                 "M. Carmen Ruiz",
                 "Juan Jose Pardo"
             ],
-            "accumulative_author_closeness_centrality": 0.02112676056338028,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 3,
-            "accumulative_author_pagerank_centrality": 0.0073882526782415945
+            "author_closeness_centrality": 0.02112676056338028,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 3,
+            "author_pagerank_centrality": 0.0073882526782415945
         },
         "Fernando Cuartero": {
-            "accumulative_author_total_citations": 4,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 4,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "M. Carmen Ruiz",
                 "Diego Cazorla",
                 "Juan Jose Pardo"
             ],
-            "accumulative_author_closeness_centrality": 0.02112676056338028,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 3,
-            "accumulative_author_pagerank_centrality": 0.0073882526782415945
+            "author_closeness_centrality": 0.02112676056338028,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 3,
+            "author_pagerank_centrality": 0.0073882526782415945
         },
         "Juan Jose Pardo": {
-            "accumulative_author_total_citations": 4,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 4,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Fernando Cuartero",
                 "M. Carmen Ruiz",
                 "Diego Cazorla"
             ],
-            "accumulative_author_closeness_centrality": 0.02112676056338028,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 3,
-            "accumulative_author_pagerank_centrality": 0.0073882526782415945
+            "author_closeness_centrality": 0.02112676056338028,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 3,
+            "author_pagerank_centrality": 0.0073882526782415945
         },
         "Oscar H. Ibarra": {
-            "accumulative_author_total_citations": 4,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 4,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Sara Woodworth"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Sara Woodworth": {
-            "accumulative_author_total_citations": 4,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 4,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Oscar H. Ibarra"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Gabriela Serban": {
-            "accumulative_author_total_citations": 3,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 3,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Alina Campan"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Alina Campan": {
-            "accumulative_author_total_citations": 3,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 3,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Gabriela Serban"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Geanina Ionela Macovei": {
-            "accumulative_author_total_citations": 3,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 3,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Ferucio Laurentiu Tiplea"
             ],
-            "accumulative_author_closeness_centrality": 0.009389671361502348,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.005687254179455598
+            "author_closeness_centrality": 0.009389671361502348,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.005687254179455598
         },
         "Bogdan Groza": {
-            "accumulative_author_total_citations": 2,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 2,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Dorina Petrica"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Dorina Petrica": {
-            "accumulative_author_total_citations": 2,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 2,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Bogdan Groza"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Ionel Muscalagiu": {
-            "accumulative_author_total_citations": 2,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 2,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Horia Emil Popa",
                 "Manuela Panoiu"
             ],
-            "accumulative_author_closeness_centrality": 0.014084507042253521,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.014084507042253521,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Horia Emil Popa": {
-            "accumulative_author_total_citations": 2,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 2,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Ionel Muscalagiu",
                 "Manuela Panoiu"
             ],
-            "accumulative_author_closeness_centrality": 0.014084507042253521,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.014084507042253521,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Manuela Panoiu": {
-            "accumulative_author_total_citations": 2,
-            "accumulative_author_collaborators": [
-                "Horia Emil Popa",
-                "Ionel Muscalagiu"
+            "author_total_citations": 2,
+            "author_total_papers": 1,
+            "author_collaborators": [
+                "Ionel Muscalagiu",
+                "Horia Emil Popa"
             ],
-            "accumulative_author_closeness_centrality": 0.014084507042253521,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.014084507042253521,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Delia David": {
-            "accumulative_author_total_citations": 2,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 2,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Laura Diosan",
                 "Dumitru Dumitrescu"
             ],
-            "accumulative_author_closeness_centrality": 0.014084507042253521,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.014084507042253521,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Laura Diosan": {
-            "accumulative_author_total_citations": 2,
-            "accumulative_author_collaborators": [
-                "Delia David",
-                "Dumitru Dumitrescu"
+            "author_total_citations": 2,
+            "author_total_papers": 1,
+            "author_collaborators": [
+                "Dumitru Dumitrescu",
+                "Delia David"
             ],
-            "accumulative_author_closeness_centrality": 0.014084507042253521,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.014084507042253521,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Dumitru Dumitrescu": {
-            "accumulative_author_total_citations": 2,
-            "accumulative_author_collaborators": [
-                "Delia David",
-                "Laura Diosan"
+            "author_total_citations": 2,
+            "author_total_papers": 1,
+            "author_collaborators": [
+                "Laura Diosan",
+                "Delia David"
             ],
-            "accumulative_author_closeness_centrality": 0.014084507042253521,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.014084507042253521,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Eva Kaslik": {
-            "accumulative_author_total_citations": 2,
-            "accumulative_author_collaborators": [
-                "Stefan Balint",
-                "L. Braescu"
+            "author_total_citations": 2,
+            "author_total_papers": 1,
+            "author_collaborators": [
+                "L. Braescu",
+                "Stefan Balint"
             ],
-            "accumulative_author_closeness_centrality": 0.014084507042253521,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.014084507042253521,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "L. Braescu": {
-            "accumulative_author_total_citations": 2,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 2,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Eva Kaslik",
                 "Stefan Balint"
             ],
-            "accumulative_author_closeness_centrality": 0.014084507042253521,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.014084507042253521,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Stefan Balint": {
-            "accumulative_author_total_citations": 2,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 2,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Eva Kaslik",
                 "L. Braescu"
             ],
-            "accumulative_author_closeness_centrality": 0.014084507042253521,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.014084507042253521,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Sorin Iftene": {
-            "accumulative_author_total_citations": 2,
-            "accumulative_author_collaborators": [],
-            "accumulative_author_closeness_centrality": 0.0,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 0,
-            "accumulative_author_pagerank_centrality": 0.0011082379017362397
+            "author_total_citations": 2,
+            "author_total_papers": 1,
+            "author_collaborators": [],
+            "author_closeness_centrality": 0.0,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 0,
+            "author_pagerank_centrality": 0.0011082379017362397
         },
         "Mihai Danes": {
-            "accumulative_author_total_citations": 1,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 1,
+            "author_total_papers": 2,
+            "author_collaborators": [
                 "Dorel Lucanu",
                 "Gabriel Ciobanu"
             ],
-            "accumulative_author_closeness_centrality": 0.01584507042253521,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.0072679074369243635
+            "author_closeness_centrality": 0.01584507042253521,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.0072679074369243635
         },
         "Dorel Lucanu": {
-            "accumulative_author_total_citations": 1,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 1,
+            "author_total_papers": 2,
+            "author_collaborators": [
                 "Mihai Danes",
                 "Gabriel Ciobanu"
             ],
-            "accumulative_author_closeness_centrality": 0.01584507042253521,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.0072679074369243635
+            "author_closeness_centrality": 0.01584507042253521,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.0072679074369243635
         },
         "Zsolt I. Lazar": {
-            "accumulative_author_total_citations": 1,
-            "accumulative_author_collaborators": [
-                "Vladiela Ciobotariu-Boer",
-                "Andreea Fanea",
+            "author_total_citations": 1,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Bazil Parv",
+                "Andreea Fanea",
+                "Vladiela Ciobotariu-Boer",
                 "Dragos Petrascu"
             ],
-            "accumulative_author_closeness_centrality": 0.028169014084507043,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 4,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.028169014084507043,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 4,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Andreea Fanea": {
-            "accumulative_author_total_citations": 1,
-            "accumulative_author_collaborators": [
-                "Vladiela Ciobotariu-Boer",
-                "Zsolt I. Lazar",
+            "author_total_citations": 1,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Bazil Parv",
+                "Zsolt I. Lazar",
+                "Vladiela Ciobotariu-Boer",
                 "Dragos Petrascu"
             ],
-            "accumulative_author_closeness_centrality": 0.028169014084507043,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 4,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.028169014084507043,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 4,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Dragos Petrascu": {
-            "accumulative_author_total_citations": 1,
-            "accumulative_author_collaborators": [
-                "Andreea Fanea",
-                "Zsolt I. Lazar",
+            "author_total_citations": 1,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Bazil Parv",
-                "Vladiela Ciobotariu-Boer"
+                "Zsolt I. Lazar",
+                "Vladiela Ciobotariu-Boer",
+                "Andreea Fanea"
             ],
-            "accumulative_author_closeness_centrality": 0.028169014084507043,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 4,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.028169014084507043,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 4,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Vladiela Ciobotariu-Boer": {
-            "accumulative_author_total_citations": 1,
-            "accumulative_author_collaborators": [
-                "Andreea Fanea",
+            "author_total_citations": 1,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Zsolt I. Lazar",
+                "Andreea Fanea",
                 "Bazil Parv",
                 "Dragos Petrascu"
             ],
-            "accumulative_author_closeness_centrality": 0.028169014084507043,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 4,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.028169014084507043,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 4,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Bazil Parv": {
-            "accumulative_author_total_citations": 1,
-            "accumulative_author_collaborators": [
-                "Vladiela Ciobotariu-Boer",
-                "Andreea Fanea",
+            "author_total_citations": 1,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Zsolt I. Lazar",
+                "Andreea Fanea",
+                "Vladiela Ciobotariu-Boer",
                 "Dragos Petrascu"
             ],
-            "accumulative_author_closeness_centrality": 0.028169014084507043,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 4,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.028169014084507043,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 4,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Dana Petcu": {
-            "accumulative_author_total_citations": 1,
-            "accumulative_author_collaborators": [],
-            "accumulative_author_closeness_centrality": 0.0,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 0,
-            "accumulative_author_pagerank_centrality": 0.0011082379017362397
+            "author_total_citations": 1,
+            "author_total_papers": 1,
+            "author_collaborators": [],
+            "author_closeness_centrality": 0.0,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 0,
+            "author_pagerank_centrality": 0.0011082379017362397
         },
         "Cornelia Gyorodi": {
-            "accumulative_author_total_citations": 7,
-            "accumulative_author_collaborators": [
-                "Ovidiu Boc",
+            "author_total_citations": 7,
+            "author_total_papers": 2,
+            "author_collaborators": [
                 "Mirela Pater",
                 "Zoltan David",
-                "Robert Gyorodi"
+                "Robert Gyorodi",
+                "Ovidiu Boc"
             ],
-            "accumulative_author_closeness_centrality": 0.028169014084507043,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 4,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.028169014084507043,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 4,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Robert Gyorodi": {
-            "accumulative_author_total_citations": 7,
-            "accumulative_author_collaborators": [
-                "Cornelia Gyorodi",
-                "Ovidiu Boc",
+            "author_total_citations": 7,
+            "author_total_papers": 2,
+            "author_collaborators": [
                 "Mirela Pater",
-                "Zoltan David"
+                "Zoltan David",
+                "Cornelia Gyorodi",
+                "Ovidiu Boc"
             ],
-            "accumulative_author_closeness_centrality": 0.028169014084507043,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 4,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.028169014084507043,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 4,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Mirela Pater": {
-            "accumulative_author_total_citations": 7,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 7,
+            "author_total_papers": 2,
+            "author_collaborators": [
                 "Cornelia Gyorodi",
-                "Ovidiu Boc",
                 "Zoltan David",
-                "Robert Gyorodi"
+                "Robert Gyorodi",
+                "Ovidiu Boc"
             ],
-            "accumulative_author_closeness_centrality": 0.028169014084507043,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 4,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.028169014084507043,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 4,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Ovidiu Boc": {
-            "accumulative_author_total_citations": 7,
-            "accumulative_author_collaborators": [
-                "Cornelia Gyorodi",
-                "Robert Gyorodi",
+            "author_total_citations": 7,
+            "author_total_papers": 2,
+            "author_collaborators": [
                 "Mirela Pater",
-                "Zoltan David"
+                "Zoltan David",
+                "Robert Gyorodi",
+                "Cornelia Gyorodi"
             ],
-            "accumulative_author_closeness_centrality": 0.028169014084507043,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 4,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.028169014084507043,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 4,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Zoltan David": {
-            "accumulative_author_total_citations": 7,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 7,
+            "author_total_papers": 2,
+            "author_collaborators": [
                 "Cornelia Gyorodi",
-                "Ovidiu Boc",
                 "Mirela Pater",
-                "Robert Gyorodi"
+                "Robert Gyorodi",
+                "Ovidiu Boc"
             ],
-            "accumulative_author_closeness_centrality": 0.028169014084507043,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 4,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.028169014084507043,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 4,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Cristian Vidrascu": {
-            "accumulative_author_total_citations": 0,
-            "accumulative_author_collaborators": [],
-            "accumulative_author_closeness_centrality": 0.0,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 0,
-            "accumulative_author_pagerank_centrality": 0.0011082379017362397
+            "author_total_citations": 0,
+            "author_total_papers": 1,
+            "author_collaborators": [],
+            "author_closeness_centrality": 0.0,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 0,
+            "author_pagerank_centrality": 0.0011082379017362397
         },
         "Anca Gog": {
-            "accumulative_author_total_citations": 0,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 0,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "D. Dumitrescu"
             ],
-            "accumulative_author_closeness_centrality": 0.012676056338028168,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.005120254679860266
+            "author_closeness_centrality": 0.012676056338028168,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.005120254679860266
         },
         "Ionut Popa": {
-            "accumulative_author_total_citations": 0,
-            "accumulative_author_collaborators": [],
-            "accumulative_author_closeness_centrality": 0.0,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 0,
-            "accumulative_author_pagerank_centrality": 0.0011082379017362397
+            "author_total_citations": 0,
+            "author_total_papers": 1,
+            "author_collaborators": [],
+            "author_closeness_centrality": 0.0,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 0,
+            "author_pagerank_centrality": 0.0011082379017362397
         },
         "Gemma Bel Enguix": {
-            "accumulative_author_total_citations": 0,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 0,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Maria Dolores Jimenez-Lopez"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Maria Dolores Jimenez-Lopez": {
-            "accumulative_author_total_citations": 0,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 0,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Gemma Bel Enguix"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Xinli Zhang": {
-            "accumulative_author_total_citations": 0,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 0,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Dayong Zhu"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Dayong Zhu": {
-            "accumulative_author_total_citations": 0,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 0,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Xinli Zhang"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Luca Bianco": {
-            "accumulative_author_total_citations": 0,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 0,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Simone Zorzan",
                 "Vincenzo Manca"
             ],
-            "accumulative_author_closeness_centrality": 0.014084507042253521,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.014084507042253521,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Vincenzo Manca": {
-            "accumulative_author_total_citations": 0,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 0,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Simone Zorzan",
                 "Luca Bianco"
             ],
-            "accumulative_author_closeness_centrality": 0.014084507042253521,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.014084507042253521,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Simone Zorzan": {
-            "accumulative_author_total_citations": 0,
-            "accumulative_author_collaborators": [
-                "Vincenzo Manca",
-                "Luca Bianco"
+            "author_total_citations": 0,
+            "author_total_papers": 1,
+            "author_collaborators": [
+                "Luca Bianco",
+                "Vincenzo Manca"
             ],
-            "accumulative_author_closeness_centrality": 0.014084507042253521,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.014084507042253521,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Liana Stanescu": {
-            "accumulative_author_total_citations": 0,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 0,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Cosmin Stoica Spahiu",
                 "Dumitru Dan Burdescu"
             ],
-            "accumulative_author_closeness_centrality": 0.02934272300469484,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.004834685446701512
+            "author_closeness_centrality": 0.02934272300469484,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.004834685446701512
         },
         "Dumitru Dan Burdescu": {
-            "accumulative_author_total_citations": 0,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 0,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Cosmin Stoica Spahiu",
                 "Liana Stanescu"
             ],
-            "accumulative_author_closeness_centrality": 0.02934272300469484,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.004834685446701512
+            "author_closeness_centrality": 0.02934272300469484,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.004834685446701512
         },
         "Mircea Dragan": {
-            "accumulative_author_total_citations": 0,
-            "accumulative_author_collaborators": [],
-            "accumulative_author_closeness_centrality": 0.0,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 0,
-            "accumulative_author_pagerank_centrality": 0.0011082379017362397
+            "author_total_citations": 0,
+            "author_total_papers": 1,
+            "author_collaborators": [],
+            "author_closeness_centrality": 0.0,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 0,
+            "author_pagerank_centrality": 0.0011082379017362397
         },
         "Teodor-Florin Fortis": {
-            "accumulative_author_total_citations": 0,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 0,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Alexandra Emilia Fortis"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Alexandra Emilia Fortis": {
-            "accumulative_author_total_citations": 0,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 0,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Teodor-Florin Fortis"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Alina Andreica": {
-            "accumulative_author_total_citations": 11,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 11,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Daniel Stuparu",
                 "Iulia Mantu"
             ],
-            "accumulative_author_closeness_centrality": 0.014084507042253521,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.014084507042253521,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Daniel Stuparu": {
-            "accumulative_author_total_citations": 11,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 11,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Alina Andreica",
                 "Iulia Mantu"
             ],
-            "accumulative_author_closeness_centrality": 0.014084507042253521,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.014084507042253521,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Iulia Mantu": {
-            "accumulative_author_total_citations": 11,
-            "accumulative_author_collaborators": [
-                "Alina Andreica",
-                "Daniel Stuparu"
+            "author_total_citations": 11,
+            "author_total_papers": 1,
+            "author_collaborators": [
+                "Daniel Stuparu",
+                "Alina Andreica"
             ],
-            "accumulative_author_closeness_centrality": 0.014084507042253521,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 2,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.014084507042253521,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 2,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Sorin Cristian Cheran": {
-            "accumulative_author_total_citations": 14,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 14,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Gianfranco Gargano"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Gianfranco Gargano": {
-            "accumulative_author_total_citations": 14,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 14,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Sorin Cristian Cheran"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Horea-Adrian Grebla": {
-            "accumulative_author_total_citations": 10,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 10,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Calin Cenan"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Calin Cenan": {
-            "accumulative_author_total_citations": 10,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 10,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Horea-Adrian Grebla"
             ],
-            "accumulative_author_closeness_centrality": 0.007042253521126761,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 1,
-            "accumulative_author_pagerank_centrality": 0.007388252678241596
+            "author_closeness_centrality": 0.007042253521126761,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 1,
+            "author_pagerank_centrality": 0.007388252678241596
         },
         "Katsusuke Nabeshima": {
-            "accumulative_author_total_citations": 4,
-            "accumulative_author_collaborators": [],
-            "accumulative_author_closeness_centrality": 0.0,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 0,
-            "accumulative_author_pagerank_centrality": 0.0011082379017362397
+            "author_total_citations": 4,
+            "author_total_papers": 1,
+            "author_collaborators": [],
+            "author_closeness_centrality": 0.0,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 0,
+            "author_pagerank_centrality": 0.0011082379017362397
         },
         "Dorin Mircea Popovici": {
-            "accumulative_author_total_citations": 13,
-            "accumulative_author_collaborators": [
-                "Ronan Querrec",
-                "Luca-Dan Serbanati",
+            "author_total_citations": 13,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Serge Morvan",
                 "Christophe Le Gal",
+                "Ronan Querrec",
+                "Luca-Dan Serbanati",
                 "Fabrice Harrouet"
             ],
-            "accumulative_author_closeness_centrality": 0.035211267605633804,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 5,
-            "accumulative_author_pagerank_centrality": 0.007388252678241598
+            "author_closeness_centrality": 0.035211267605633804,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 5,
+            "author_pagerank_centrality": 0.007388252678241598
         },
         "Ronan Querrec": {
-            "accumulative_author_total_citations": 13,
-            "accumulative_author_collaborators": [
-                "Luca-Dan Serbanati",
+            "author_total_citations": 13,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Serge Morvan",
                 "Christophe Le Gal",
+                "Luca-Dan Serbanati",
                 "Fabrice Harrouet",
                 "Dorin Mircea Popovici"
             ],
-            "accumulative_author_closeness_centrality": 0.035211267605633804,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 5,
-            "accumulative_author_pagerank_centrality": 0.007388252678241598
+            "author_closeness_centrality": 0.035211267605633804,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 5,
+            "author_pagerank_centrality": 0.007388252678241598
         },
         "Fabrice Harrouet": {
-            "accumulative_author_total_citations": 13,
-            "accumulative_author_collaborators": [
-                "Ronan Querrec",
-                "Luca-Dan Serbanati",
+            "author_total_citations": 13,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Serge Morvan",
                 "Christophe Le Gal",
+                "Ronan Querrec",
+                "Luca-Dan Serbanati",
                 "Dorin Mircea Popovici"
             ],
-            "accumulative_author_closeness_centrality": 0.035211267605633804,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 5,
-            "accumulative_author_pagerank_centrality": 0.007388252678241598
+            "author_closeness_centrality": 0.035211267605633804,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 5,
+            "author_pagerank_centrality": 0.007388252678241598
         },
         "Christophe Le Gal": {
-            "accumulative_author_total_citations": 13,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 13,
+            "author_total_papers": 1,
+            "author_collaborators": [
+                "Serge Morvan",
                 "Ronan Querrec",
                 "Luca-Dan Serbanati",
-                "Serge Morvan",
                 "Fabrice Harrouet",
                 "Dorin Mircea Popovici"
             ],
-            "accumulative_author_closeness_centrality": 0.035211267605633804,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 5,
-            "accumulative_author_pagerank_centrality": 0.007388252678241598
+            "author_closeness_centrality": 0.035211267605633804,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 5,
+            "author_pagerank_centrality": 0.007388252678241598
         },
         "Luca-Dan Serbanati": {
-            "accumulative_author_total_citations": 13,
-            "accumulative_author_collaborators": [
-                "Ronan Querrec",
+            "author_total_citations": 13,
+            "author_total_papers": 1,
+            "author_collaborators": [
                 "Serge Morvan",
                 "Christophe Le Gal",
+                "Ronan Querrec",
                 "Fabrice Harrouet",
                 "Dorin Mircea Popovici"
             ],
-            "accumulative_author_closeness_centrality": 0.035211267605633804,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 5,
-            "accumulative_author_pagerank_centrality": 0.007388252678241598
+            "author_closeness_centrality": 0.035211267605633804,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 5,
+            "author_pagerank_centrality": 0.007388252678241598
         },
         "Serge Morvan": {
-            "accumulative_author_total_citations": 13,
-            "accumulative_author_collaborators": [
+            "author_total_citations": 13,
+            "author_total_papers": 1,
+            "author_collaborators": [
+                "Christophe Le Gal",
                 "Ronan Querrec",
                 "Luca-Dan Serbanati",
-                "Christophe Le Gal",
                 "Fabrice Harrouet",
                 "Dorin Mircea Popovici"
             ],
-            "accumulative_author_closeness_centrality": 0.035211267605633804,
-            "accumulative_author_betweenness_centrality": 0.0,
-            "accumulative_author_degree_centrality": 5,
-            "accumulative_author_pagerank_centrality": 0.007388252678241598
+            "author_closeness_centrality": 0.035211267605633804,
+            "author_betweenness_centrality": 0.0,
+            "author_degree_centrality": 5,
+            "author_pagerank_centrality": 0.007388252678241598
         }
     },
-    "accumulative_author_links": [
+    "author_links": [
         [
-            "Francesco Bernardini",
-            "Francisco Jose Romero-Campero"
-        ],
-        [
-            "Francesco Bernardini",
-            "Marian Gheorghe"
-        ],
-        [
-            "Mario J. Perez-Jimenez",
-            "Maurice Margenstern"
-        ],
-        [
-            "Maurice Margenstern",
-            "Sergey Verlan"
-        ],
-        [
-            "Gemma Bel Enguix",
-            "Maria Dolores Jimenez-Lopez"
-        ],
-        [
-            "Ovidiu Boc",
-            "Zoltan David"
-        ],
-        [
-            "Luca Bianco",
-            "Vincenzo Manca"
+            "Andrei Bautu",
+            "Henri Luchian"
         ],
         [
             "Dario Pescini",
             "Giancarlo Mauri"
         ],
         [
-            "Luis Fernandez",
-            "Victor J. Martinez"
+            "Francisco Jose Romero-Campero",
+            "Sergey Verlan"
         ],
         [
-            "Amelia Badica",
-            "Costin Badica"
+            "Ovidiu Boc",
+            "Zoltan David"
         ],
         [
-            "Dragos Petrascu",
-            "Zsolt I. Lazar"
+            "Calin Cenan",
+            "Horea-Adrian Grebla"
         ],
         [
-            "Ferucio Laurentiu Tiplea",
-            "Geanina Ionela Macovei"
-        ],
-        [
-            "Juan Jose Pardo",
-            "M. Carmen Ruiz"
-        ],
-        [
-            "Dorel Lucanu",
-            "Mihai Danes"
-        ],
-        [
-            "Aurelia Profir",
-            "Elena Boian"
-        ],
-        [
-            "Horia Emil Popa",
-            "Manuela Panoiu"
-        ],
-        [
-            "Christophe Le Gal",
-            "Luca-Dan Serbanati"
-        ],
-        [
-            "Fernando Arroyo",
-            "Victor J. Martinez"
-        ],
-        [
-            "Marcin Paprzycki",
-            "Srivastav Sethupathy"
-        ],
-        [
-            "Cornelia Gyorodi",
-            "Robert Gyorodi"
-        ],
-        [
-            "Grigoreta Sofia Moldovan",
-            "Virginia Niculescu"
-        ],
-        [
-            "Fabrice Harrouet",
-            "Serge Morvan"
-        ],
-        [
-            "Artiom Alhazov",
-            "Rudolf Freund"
-        ],
-        [
-            "Christophe Le Gal",
-            "Fabrice Harrouet"
-        ],
-        [
-            "Eva Kaslik",
-            "Stefan Balint"
+            "H. Ramesh",
+            "Raghavan Rama"
         ],
         [
             "Crina Grosan",
             "Soumya Banerjee"
         ],
         [
-            "Dumitru Dan Burdescu",
-            "Liana Stanescu"
+            "Dayong Zhu",
+            "Xinli Zhang"
         ],
         [
-            "Alexandra Emilia Fortis",
-            "Teodor-Florin Fortis"
+            "Fabrice Harrouet",
+            "Ronan Querrec"
         ],
         [
-            "Dorin Mircea Popovici",
+            "Laura Szakacs",
+            "Tudor Jebelean"
+        ],
+        [
+            "Delia David",
+            "Laura Diosan"
+        ],
+        [
+            "Ajith Abraham",
+            "Soumya Banerjee"
+        ],
+        [
+            "Oscar H. Ibarra",
+            "Sara Woodworth"
+        ],
+        [
+            "Ronan Querrec",
+            "Serge Morvan"
+        ],
+        [
+            "Constantin Marta",
+            "Darian M. Onchis"
+        ],
+        [
+            "Christophe Le Gal",
+            "Dorin Mircea Popovici"
+        ],
+        [
+            "Alina Andreica",
+            "Iulia Mantu"
+        ],
+        [
+            "Fabrice Harrouet",
             "Luca-Dan Serbanati"
         ],
         [
-            "Chris Fox",
-            "Costin Badica"
-        ],
-        [
-            "Daniela Besozzi",
-            "Giancarlo Mauri"
-        ],
-        [
-            "Aurelia Profir",
-            "Emilian Gutuleac"
-        ],
-        [
             "Cornelia Gyorodi",
-            "Ovidiu Boc"
+            "Zoltan David"
         ],
         [
-            "Dorin Mircea Popovici",
+            "Gabriel Ciobanu",
+            "Mihai Danes"
+        ],
+        [
+            "Cosmin Stoica Spahiu",
+            "Maria Teodorescu"
+        ],
+        [
+            "Cosmin Stoica Spahiu",
+            "Liana Stanescu"
+        ],
+        [
+            "Chris Fox",
+            "Maria Teodorescu"
+        ],
+        [
+            "Dorel Lucanu",
+            "Gabriel Ciobanu"
+        ],
+        [
+            "Radu Marinescu",
+            "Richard Wettel"
+        ],
+        [
+            "Anca Gog",
+            "D. Dumitrescu"
+        ],
+        [
+            "Francesco Bernardini",
+            "Maurice Margenstern"
+        ],
+        [
+            "Gheorghe Paun",
+            "Radu A. Paun"
+        ],
+        [
+            "Andrei Bautu",
+            "Elena Bautu"
+        ],
+        [
+            "Ovidiu Boc",
+            "Robert Gyorodi"
+        ],
+        [
+            "Bogdan Groza",
+            "Dorina Petrica"
+        ],
+        [
+            "Gabriel Ciobanu",
+            "K. N. Sridhar"
+        ],
+        [
+            "Cosmin Stoica Spahiu",
+            "Dumitru Dan Burdescu"
+        ],
+        [
+            "Marcin Paprzycki",
+            "Srivastav Sethupathy"
+        ],
+        [
+            "Luis Fernandez",
+            "Victor J. Martinez"
+        ],
+        [
+            "Francesco Bernardini",
+            "Mario J. Perez-Jimenez"
+        ],
+        [
+            "Elena Bautu",
+            "Henri Luchian"
+        ],
+        [
+            "Chris Fox",
+            "Cosmin Stoica Spahiu"
+        ],
+        [
+            "Christophe Le Gal",
             "Fabrice Harrouet"
         ],
         [
@@ -1748,508 +1911,488 @@
             "Viorel Negru"
         ],
         [
-            "Bazil Parv",
-            "Vladiela Ciobotariu-Boer"
-        ],
-        [
-            "D. Dumitrescu",
-            "Rodica Ioana Lung"
-        ],
-        [
-            "Amelia Badica",
-            "Maria Teodorescu"
-        ],
-        [
-            "Natalio Krasnogor",
-            "Sergey Verlan"
-        ],
-        [
-            "Dayong Zhu",
-            "Xinli Zhang"
-        ],
-        [
-            "Andrei Bautu",
-            "Henri Luchian"
-        ],
-        [
-            "Maurice Margenstern",
-            "Natalio Krasnogor"
-        ],
-        [
-            "Laurentiu Dragan",
-            "Stephen M. Watt"
-        ],
-        [
-            "Francisco Jose Romero-Campero",
-            "Natalio Krasnogor"
-        ],
-        [
-            "Mario J. Perez-Jimenez",
-            "Miguel A. Gutierrez-Naranjo"
-        ],
-        [
-            "Gianfranco Gargano",
-            "Sorin Cristian Cheran"
-        ],
-        [
-            "Andreea Fanea",
-            "Zsolt I. Lazar"
-        ],
-        [
-            "Francisco Jose Romero-Campero",
-            "Maurice Margenstern"
-        ],
-        [
-            "Alina Campan",
-            "Gabriela Serban"
-        ],
-        [
-            "Ajith Abraham",
-            "Monica Nicoara"
-        ],
-        [
-            "Costin Badica",
-            "Maria Ganzha"
-        ],
-        [
-            "Francisco Jose Romero-Campero",
-            "Sergey Verlan"
-        ],
-        [
-            "Chris Fox",
-            "Maria Teodorescu"
-        ],
-        [
-            "Ciprian Jichici",
-            "Daniel Pop"
-        ],
-        [
-            "Laura Ildiko Kovacs",
-            "Tudor Jebelean"
-        ],
-        [
-            "Cornelia Gyorodi",
-            "Mirela Pater"
-        ],
-        [
-            "Ionel Muscalagiu",
-            "Manuela Panoiu"
-        ],
-        [
-            "Delia David",
-            "Dumitru Dumitrescu"
-        ],
-        [
-            "Simone Zorzan",
-            "Vincenzo Manca"
-        ],
-        [
-            "Marian Gheorghe",
-            "Natalio Krasnogor"
-        ],
-        [
-            "Delia David",
-            "Laura Diosan"
-        ],
-        [
-            "Constantin Marta",
-            "Darian M. Onchis"
-        ],
-        [
-            "Cosmin Stoica Spahiu",
-            "Maria Teodorescu"
-        ],
-        [
-            "Adriana Popovici",
-            "Dan Popovici"
-        ],
-        [
-            "Marian Gheorghe",
-            "Maurice Margenstern"
-        ],
-        [
-            "Agustin Riscos-Nunez",
-            "Artiom Alhazov"
-        ],
-        [
-            "Luis F. Mingo",
-            "Victor J. Martinez"
-        ],
-        [
-            "Bazil Parv",
-            "Dragos Petrascu"
-        ],
-        [
-            "Anna Bartkowiak",
-            "Piotr Lipinski"
-        ],
-        [
-            "Marian Gheorghe",
-            "Sergey Verlan"
-        ],
-        [
-            "Robert Gyorodi",
-            "Zoltan David"
-        ],
-        [
-            "Anca Gog",
-            "D. Dumitrescu"
-        ],
-        [
-            "Horia Emil Popa",
-            "Ionel Muscalagiu"
-        ],
-        [
-            "Mirela Pater",
-            "Robert Gyorodi"
-        ],
-        [
-            "Luis F. Mingo",
+            "Fernando Arroyo",
             "Luis Fernandez"
-        ],
-        [
-            "Bogdan Groza",
-            "Dorina Petrica"
-        ],
-        [
-            "Agustin Riscos-Nunez",
-            "Mario J. Perez-Jimenez"
-        ],
-        [
-            "Radu Marinescu",
-            "Richard Wettel"
-        ],
-        [
-            "Yaohui Li",
-            "Yong Feng"
-        ],
-        [
-            "Ajith Abraham",
-            "Crina Grosan"
-        ],
-        [
-            "Mirela Pater",
-            "Ovidiu Boc"
-        ],
-        [
-            "Eva Kaslik",
-            "L. Braescu"
-        ],
-        [
-            "Francesco Bernardini",
-            "Sergey Verlan"
-        ],
-        [
-            "Binheng Song",
-            "Jingfu Zhong"
-        ],
-        [
-            "Cosmin Stoica Spahiu",
-            "Liana Stanescu"
-        ],
-        [
-            "Calin Cenan",
-            "Horea-Adrian Grebla"
-        ],
-        [
-            "Crina Grosan",
-            "Monica Nicoara"
-        ],
-        [
-            "Cosmin Stoica Spahiu",
-            "Dumitru Dan Burdescu"
-        ],
-        [
-            "Aurora Tiplea",
-            "Ferucio Laurentiu Tiplea"
-        ],
-        [
-            "Adina Florea",
-            "Eugenia Kalisz"
-        ],
-        [
-            "Diego Cazorla",
-            "M. Carmen Ruiz"
-        ],
-        [
-            "Daniel Stuparu",
-            "Iulia Mantu"
-        ],
-        [
-            "Catalin Hritcu",
-            "Sabin C. Buraga"
         ],
         [
             "Camelia-Mihaela Pintea",
             "D. Dumitrescu"
         ],
         [
-            "Alina Andreica",
-            "Iulia Mantu"
-        ],
-        [
-            "Costin Badica",
-            "Marcin Paprzycki"
-        ],
-        [
-            "Francisco Jose Romero-Campero",
-            "Marian Gheorghe"
-        ],
-        [
-            "Agustin Riscos-Nunez",
-            "Francisco Jose Romero-Campero"
-        ],
-        [
-            "Marcin Paprzycki",
-            "Maria Ganzha"
-        ],
-        [
-            "Elena Bautu",
-            "Henri Luchian"
-        ],
-        [
-            "Laura Szakacs",
-            "Tudor Jebelean"
-        ],
-        [
-            "Fernando Arroyo",
-            "Luis F. Mingo"
-        ],
-        [
-            "Bazil Parv",
-            "Zsolt I. Lazar"
-        ],
-        [
-            "Elena Boian",
-            "Emilian Gutuleac"
-        ],
-        [
-            "Amelia Badica",
-            "Cosmin Stoica Spahiu"
-        ],
-        [
-            "Marion Oswald",
-            "Rudolf Freund"
-        ],
-        [
-            "Daniela Besozzi",
-            "Dario Pescini"
-        ],
-        [
-            "Dorel Lucanu",
-            "Gabriel Ciobanu"
-        ],
-        [
             "Diego Cazorla",
             "Fernando Cuartero"
         ],
         [
-            "Fabrice Harrouet",
-            "Luca-Dan Serbanati"
-        ],
-        [
-            "Ovidiu Boc",
-            "Robert Gyorodi"
-        ],
-        [
-            "Ronan Querrec",
-            "Serge Morvan"
-        ],
-        [
-            "Christophe Le Gal",
-            "Ronan Querrec"
-        ],
-        [
-            "Andrei Bautu",
-            "Elena Bautu"
-        ],
-        [
-            "Dragos Petrascu",
-            "Vladiela Ciobotariu-Boer"
-        ],
-        [
-            "Vladiela Ciobotariu-Boer",
-            "Zsolt I. Lazar"
-        ],
-        [
-            "Agustin Riscos-Nunez",
-            "Rudolf Freund"
-        ],
-        [
-            "Chris Fox",
-            "Cosmin Stoica Spahiu"
-        ],
-        [
-            "Francisco Jose Romero-Campero",
-            "Mario J. Perez-Jimenez"
-        ],
-        [
-            "Francesco Bernardini",
-            "Natalio Krasnogor"
-        ],
-        [
-            "Alina Andreica",
-            "Daniel Stuparu"
-        ],
-        [
-            "Francesco Bernardini",
-            "Maurice Margenstern"
-        ],
-        [
-            "Diego Cazorla",
-            "Juan Jose Pardo"
-        ],
-        [
-            "Dorin Mircea Popovici",
-            "Ronan Querrec"
-        ],
-        [
-            "Luca Bianco",
-            "Simone Zorzan"
-        ],
-        [
-            "Cornelia Gyorodi",
-            "Zoltan David"
-        ],
-        [
-            "Andreea Fanea",
+            "Bazil Parv",
             "Dragos Petrascu"
         ],
         [
-            "Francisco Jose Romero-Campero",
-            "Miguel A. Gutierrez-Naranjo"
+            "Crina Grosan",
+            "Monica Nicoara"
         ],
         [
-            "Mario J. Perez-Jimenez",
-            "Sergey Verlan"
-        ],
-        [
-            "Marian Gheorghe",
-            "Mario J. Perez-Jimenez"
-        ],
-        [
-            "Agustin Riscos-Nunez",
-            "Miguel A. Gutierrez-Naranjo"
+            "Aurora Tiplea",
+            "Ferucio Laurentiu Tiplea"
         ],
         [
             "Mirela Pater",
-            "Zoltan David"
+            "Ovidiu Boc"
         ],
         [
-            "Luca-Dan Serbanati",
-            "Ronan Querrec"
+            "Cornelia Gyorodi",
+            "Robert Gyorodi"
         ],
         [
-            "Andreea Fanea",
-            "Bazil Parv"
+            "Alina Campan",
+            "Gabriela Serban"
         ],
         [
-            "Gabriel Ciobanu",
-            "Mihai Danes"
-        ],
-        [
-            "Marcin Paprzycki",
-            "Nohpill Park"
-        ],
-        [
-            "H. Ramesh",
-            "Raghavan Rama"
-        ],
-        [
-            "Christophe Le Gal",
-            "Serge Morvan"
-        ],
-        [
-            "Francesco Bernardini",
-            "Mario J. Perez-Jimenez"
-        ],
-        [
-            "Andreea Fanea",
-            "Vladiela Ciobotariu-Boer"
-        ],
-        [
-            "Dorin Mircea Popovici",
-            "Serge Morvan"
-        ],
-        [
-            "Dumitru Dumitrescu",
-            "Laura Diosan"
-        ],
-        [
-            "Costin Badica",
-            "Maria Teodorescu"
-        ],
-        [
-            "Fernando Arroyo",
-            "Luis Fernandez"
-        ],
-        [
-            "Oscar H. Ibarra",
-            "Sara Woodworth"
-        ],
-        [
-            "Gabriel Ciobanu",
-            "K. N. Sridhar"
-        ],
-        [
-            "Fernando Cuartero",
-            "Juan Jose Pardo"
-        ],
-        [
-            "Christophe Le Gal",
-            "Dorin Mircea Popovici"
-        ],
-        [
-            "Ajith Abraham",
-            "Soumya Banerjee"
-        ],
-        [
-            "Cosmin Stoica Spahiu",
-            "Costin Badica"
-        ],
-        [
-            "L. Braescu",
-            "Stefan Balint"
-        ],
-        [
-            "Amelia Badica",
-            "Chris Fox"
-        ],
-        [
-            "Fernando Cuartero",
-            "M. Carmen Ruiz"
-        ],
-        [
-            "Gheorghe Paun",
-            "Radu A. Paun"
-        ],
-        [
-            "Fabrice Harrouet",
-            "Ronan Querrec"
+            "Mario J. Perez-Jimenez",
+            "Miguel A. Gutierrez-Naranjo"
         ],
         [
             "Luca-Dan Serbanati",
             "Serge Morvan"
         ],
         [
-            "Nohpill Park",
-            "Srivastav Sethupathy"
+            "Maurice Margenstern",
+            "Natalio Krasnogor"
         ],
         [
             "Pierluigi Frisco",
             "Ranulf T. Gibson"
         ],
         [
-            "Ciprian Jichici",
-            "Viorel Negru"
+            "Fernando Cuartero",
+            "Juan Jose Pardo"
+        ],
+        [
+            "Grigoreta Sofia Moldovan",
+            "Virginia Niculescu"
+        ],
+        [
+            "Alina Andreica",
+            "Daniel Stuparu"
+        ],
+        [
+            "Ajith Abraham",
+            "Monica Nicoara"
+        ],
+        [
+            "D. Dumitrescu",
+            "Rodica Ioana Lung"
+        ],
+        [
+            "Luis F. Mingo",
+            "Luis Fernandez"
+        ],
+        [
+            "Amelia Badica",
+            "Maria Teodorescu"
+        ],
+        [
+            "Andreea Fanea",
+            "Vladiela Ciobotariu-Boer"
+        ],
+        [
+            "Agustin Riscos-Nunez",
+            "Artiom Alhazov"
+        ],
+        [
+            "Yaohui Li",
+            "Yong Feng"
+        ],
+        [
+            "Christophe Le Gal",
+            "Serge Morvan"
+        ],
+        [
+            "Maurice Margenstern",
+            "Sergey Verlan"
+        ],
+        [
+            "Catalin Hritcu",
+            "Sabin C. Buraga"
+        ],
+        [
+            "Francisco Jose Romero-Campero",
+            "Maurice Margenstern"
+        ],
+        [
+            "Agustin Riscos-Nunez",
+            "Mario J. Perez-Jimenez"
+        ],
+        [
+            "Adina Florea",
+            "Eugenia Kalisz"
+        ],
+        [
+            "Luca-Dan Serbanati",
+            "Ronan Querrec"
+        ],
+        [
+            "Diego Cazorla",
+            "M. Carmen Ruiz"
+        ],
+        [
+            "Fernando Cuartero",
+            "M. Carmen Ruiz"
+        ],
+        [
+            "Cosmin Stoica Spahiu",
+            "Costin Badica"
+        ],
+        [
+            "Amelia Badica",
+            "Cosmin Stoica Spahiu"
+        ],
+        [
+            "Francisco Jose Romero-Campero",
+            "Mario J. Perez-Jimenez"
+        ],
+        [
+            "Dorin Mircea Popovici",
+            "Fabrice Harrouet"
+        ],
+        [
+            "Chris Fox",
+            "Costin Badica"
+        ],
+        [
+            "Francesco Bernardini",
+            "Francisco Jose Romero-Campero"
+        ],
+        [
+            "Natalio Krasnogor",
+            "Sergey Verlan"
+        ],
+        [
+            "Marian Gheorghe",
+            "Natalio Krasnogor"
+        ],
+        [
+            "Dumitru Dumitrescu",
+            "Laura Diosan"
+        ],
+        [
+            "Christophe Le Gal",
+            "Ronan Querrec"
+        ],
+        [
+            "Fernando Arroyo",
+            "Victor J. Martinez"
+        ],
+        [
+            "L. Braescu",
+            "Stefan Balint"
+        ],
+        [
+            "Francesco Bernardini",
+            "Marian Gheorghe"
+        ],
+        [
+            "Fernando Arroyo",
+            "Luis F. Mingo"
+        ],
+        [
+            "Cornelia Gyorodi",
+            "Mirela Pater"
+        ],
+        [
+            "Elena Boian",
+            "Emilian Gutuleac"
+        ],
+        [
+            "Marian Gheorghe",
+            "Sergey Verlan"
+        ],
+        [
+            "Dorel Lucanu",
+            "Mihai Danes"
+        ],
+        [
+            "Daniela Besozzi",
+            "Dario Pescini"
+        ],
+        [
+            "Anna Bartkowiak",
+            "Piotr Lipinski"
+        ],
+        [
+            "Christophe Le Gal",
+            "Luca-Dan Serbanati"
+        ],
+        [
+            "Agustin Riscos-Nunez",
+            "Miguel A. Gutierrez-Naranjo"
+        ],
+        [
+            "Luca Bianco",
+            "Vincenzo Manca"
+        ],
+        [
+            "Luis F. Mingo",
+            "Victor J. Martinez"
+        ],
+        [
+            "Diego Cazorla",
+            "Juan Jose Pardo"
+        ],
+        [
+            "Dorin Mircea Popovici",
+            "Serge Morvan"
+        ],
+        [
+            "Luca Bianco",
+            "Simone Zorzan"
         ],
         [
             "Mario J. Perez-Jimenez",
             "Natalio Krasnogor"
+        ],
+        [
+            "Alexandra Emilia Fortis",
+            "Teodor-Florin Fortis"
+        ],
+        [
+            "Cornelia Gyorodi",
+            "Ovidiu Boc"
+        ],
+        [
+            "Francisco Jose Romero-Campero",
+            "Miguel A. Gutierrez-Naranjo"
+        ],
+        [
+            "Juan Jose Pardo",
+            "M. Carmen Ruiz"
+        ],
+        [
+            "Amelia Badica",
+            "Chris Fox"
+        ],
+        [
+            "Andreea Fanea",
+            "Zsolt I. Lazar"
+        ],
+        [
+            "Aurelia Profir",
+            "Emilian Gutuleac"
+        ],
+        [
+            "Agustin Riscos-Nunez",
+            "Francisco Jose Romero-Campero"
+        ],
+        [
+            "Eva Kaslik",
+            "L. Braescu"
+        ],
+        [
+            "Amelia Badica",
+            "Costin Badica"
+        ],
+        [
+            "Costin Badica",
+            "Marcin Paprzycki"
+        ],
+        [
+            "Daniel Stuparu",
+            "Iulia Mantu"
+        ],
+        [
+            "Costin Badica",
+            "Maria Teodorescu"
+        ],
+        [
+            "Mario J. Perez-Jimenez",
+            "Sergey Verlan"
+        ],
+        [
+            "Adriana Popovici",
+            "Dan Popovici"
+        ],
+        [
+            "Ionel Muscalagiu",
+            "Manuela Panoiu"
+        ],
+        [
+            "Dragos Petrascu",
+            "Vladiela Ciobotariu-Boer"
+        ],
+        [
+            "Ciprian Jichici",
+            "Daniel Pop"
+        ],
+        [
+            "Horia Emil Popa",
+            "Ionel Muscalagiu"
+        ],
+        [
+            "Eva Kaslik",
+            "Stefan Balint"
+        ],
+        [
+            "Francesco Bernardini",
+            "Natalio Krasnogor"
+        ],
+        [
+            "Dorin Mircea Popovici",
+            "Ronan Querrec"
+        ],
+        [
+            "Nohpill Park",
+            "Srivastav Sethupathy"
+        ],
+        [
+            "Delia David",
+            "Dumitru Dumitrescu"
+        ],
+        [
+            "Marian Gheorghe",
+            "Mario J. Perez-Jimenez"
+        ],
+        [
+            "Ferucio Laurentiu Tiplea",
+            "Geanina Ionela Macovei"
+        ],
+        [
+            "Bazil Parv",
+            "Zsolt I. Lazar"
+        ],
+        [
+            "Laura Ildiko Kovacs",
+            "Tudor Jebelean"
+        ],
+        [
+            "Bazil Parv",
+            "Vladiela Ciobotariu-Boer"
+        ],
+        [
+            "Francisco Jose Romero-Campero",
+            "Marian Gheorghe"
+        ],
+        [
+            "Andreea Fanea",
+            "Bazil Parv"
+        ],
+        [
+            "Francesco Bernardini",
+            "Sergey Verlan"
+        ],
+        [
+            "Gianfranco Gargano",
+            "Sorin Cristian Cheran"
+        ],
+        [
+            "Agustin Riscos-Nunez",
+            "Rudolf Freund"
+        ],
+        [
+            "Dorin Mircea Popovici",
+            "Luca-Dan Serbanati"
+        ],
+        [
+            "Horia Emil Popa",
+            "Manuela Panoiu"
+        ],
+        [
+            "Mirela Pater",
+            "Zoltan David"
+        ],
+        [
+            "Marion Oswald",
+            "Rudolf Freund"
+        ],
+        [
+            "Mario J. Perez-Jimenez",
+            "Maurice Margenstern"
+        ],
+        [
+            "Binheng Song",
+            "Jingfu Zhong"
+        ],
+        [
+            "Simone Zorzan",
+            "Vincenzo Manca"
+        ],
+        [
+            "Dumitru Dan Burdescu",
+            "Liana Stanescu"
+        ],
+        [
+            "Artiom Alhazov",
+            "Rudolf Freund"
+        ],
+        [
+            "Laurentiu Dragan",
+            "Stephen M. Watt"
+        ],
+        [
+            "Andreea Fanea",
+            "Dragos Petrascu"
+        ],
+        [
+            "Marcin Paprzycki",
+            "Maria Ganzha"
+        ],
+        [
+            "Ajith Abraham",
+            "Crina Grosan"
+        ],
+        [
+            "Daniela Besozzi",
+            "Giancarlo Mauri"
+        ],
+        [
+            "Francisco Jose Romero-Campero",
+            "Natalio Krasnogor"
+        ],
+        [
+            "Robert Gyorodi",
+            "Zoltan David"
+        ],
+        [
+            "Ciprian Jichici",
+            "Viorel Negru"
+        ],
+        [
+            "Marcin Paprzycki",
+            "Nohpill Park"
+        ],
+        [
+            "Fabrice Harrouet",
+            "Serge Morvan"
+        ],
+        [
+            "Costin Badica",
+            "Maria Ganzha"
+        ],
+        [
+            "Vladiela Ciobotariu-Boer",
+            "Zsolt I. Lazar"
+        ],
+        [
+            "Dragos Petrascu",
+            "Zsolt I. Lazar"
+        ],
+        [
+            "Marian Gheorghe",
+            "Maurice Margenstern"
+        ],
+        [
+            "Mirela Pater",
+            "Robert Gyorodi"
+        ],
+        [
+            "Gemma Bel Enguix",
+            "Maria Dolores Jimenez-Lopez"
+        ],
+        [
+            "Aurelia Profir",
+            "Elena Boian"
         ]
     ],
-    "accumulative_collaborator_groups": {
-        "PF-5510": {
+    "collaborator_groups": {
+        "PF-4846": {
             "authors": [
                 "Pierluigi Frisco",
                 "Ranulf T. Gibson"
@@ -2261,7 +2404,7 @@
             "accumulative_collaborator_groups_degree_centrality": 0,
             "accumulative_collaborator_groups_pagerank_centrality": 0.0061864553077027665
         },
-        "RM-6310": {
+        "RM-5D14": {
             "authors": [
                 "Radu Marinescu",
                 "Richard Wettel"
@@ -2273,7 +2416,7 @@
             "accumulative_collaborator_groups_degree_centrality": 0,
             "accumulative_collaborator_groups_pagerank_centrality": 0.0061864553077027665
         },
-        "LIK-9932": {
+        "LIK-5741": {
             "authors": [
                 "Laura Ildiko Kovacs",
                 "Tudor Jebelean"
@@ -2285,7 +2428,7 @@
             "accumulative_collaborator_groups_degree_centrality": 1,
             "accumulative_collaborator_groups_pagerank_centrality": 0.04123547706475802
         },
-        "MO-7134": {
+        "MO-61D8": {
             "authors": [
                 "Marion Oswald",
                 "Rudolf Freund"
@@ -2297,7 +2440,7 @@
             "accumulative_collaborator_groups_degree_centrality": 1,
             "accumulative_collaborator_groups_pagerank_centrality": 0.028937404180683756
         },
-        "AA-9585": {
+        "AA-186F": {
             "authors": [
                 "Ajith Abraham",
                 "Crina Grosan",
@@ -2310,7 +2453,7 @@
             "accumulative_collaborator_groups_degree_centrality": 1,
             "accumulative_collaborator_groups_pagerank_centrality": 0.04123547706475802
         },
-        "FA-4215": {
+        "FA-98D8": {
             "authors": [
                 "Fernando Arroyo",
                 "Luis F. Mingo",
@@ -2324,7 +2467,7 @@
             "accumulative_collaborator_groups_degree_centrality": 0,
             "accumulative_collaborator_groups_pagerank_centrality": 0.0061864553077027665
         },
-        "CP-6690": {
+        "CP-4F59": {
             "authors": [
                 "Camelia-Mihaela Pintea",
                 "D. Dumitrescu"
@@ -2336,7 +2479,7 @@
             "accumulative_collaborator_groups_degree_centrality": 2,
             "accumulative_collaborator_groups_pagerank_centrality": 0.04123547706475802
         },
-        "GP-9339": {
+        "GP-E428": {
             "authors": [
                 "Gheorghe Paun",
                 "Radu A. Paun"
@@ -2348,7 +2491,7 @@
             "accumulative_collaborator_groups_degree_centrality": 0,
             "accumulative_collaborator_groups_pagerank_centrality": 0.0061864553077027665
         },
-        "LD-3054": {
+        "LD-9262": {
             "authors": [
                 "Laurentiu Dragan",
                 "Stephen M. Watt"
@@ -2360,7 +2503,7 @@
             "accumulative_collaborator_groups_degree_centrality": 0,
             "accumulative_collaborator_groups_pagerank_centrality": 0.0061864553077027665
         },
-        "AB-3537": {
+        "AB-D5A2": {
             "authors": [
                 "Andrei Bautu",
                 "Elena Bautu",
@@ -2373,7 +2516,7 @@
             "accumulative_collaborator_groups_degree_centrality": 0,
             "accumulative_collaborator_groups_pagerank_centrality": 0.0061864553077027665
         },
-        "AB-8449": {
+        "AB-B1A3": {
             "authors": [
                 "Amelia Badica",
                 "Chris Fox",
@@ -2388,7 +2531,7 @@
             "accumulative_collaborator_groups_degree_centrality": 2,
             "accumulative_collaborator_groups_pagerank_centrality": 0.053533549948832304
         },
-        "CB-8486": {
+        "CB-C710": {
             "authors": [
                 "Costin Badica",
                 "Marcin Paprzycki",
@@ -2401,7 +2544,7 @@
             "accumulative_collaborator_groups_degree_centrality": 2,
             "accumulative_collaborator_groups_pagerank_centrality": 0.053533549948832304
         },
-        "DB-7121": {
+        "DB-A791": {
             "authors": [
                 "Daniela Besozzi",
                 "Dario Pescini",
@@ -2414,7 +2557,7 @@
             "accumulative_collaborator_groups_degree_centrality": 0,
             "accumulative_collaborator_groups_pagerank_centrality": 0.0061864553077027665
         },
-        "FB-7004": {
+        "FB-3BBD": {
             "authors": [
                 "Francesco Bernardini",
                 "Francisco Jose Romero-Campero",
@@ -2431,7 +2574,7 @@
             "accumulative_collaborator_groups_degree_centrality": 1,
             "accumulative_collaborator_groups_pagerank_centrality": 0.028937404180683756
         },
-        "AR-1655": {
+        "AR-596F": {
             "authors": [
                 "Agustin Riscos-Nunez",
                 "Artiom Alhazov",
@@ -2444,7 +2587,7 @@
             "accumulative_collaborator_groups_degree_centrality": 2,
             "accumulative_collaborator_groups_pagerank_centrality": 0.053533549948832304
         },
-        "AF-6449": {
+        "AF-CC17": {
             "authors": [
                 "Adina Florea",
                 "Eugenia Kalisz"
@@ -2456,7 +2599,7 @@
             "accumulative_collaborator_groups_degree_centrality": 0,
             "accumulative_collaborator_groups_pagerank_centrality": 0.0061864553077027665
         },
-        "BS-7231": {
+        "BS-92CA": {
             "authors": [
                 "Binheng Song",
                 "Jingfu Zhong"
@@ -2468,7 +2611,7 @@
             "accumulative_collaborator_groups_degree_centrality": 0,
             "accumulative_collaborator_groups_pagerank_centrality": 0.0061864553077027665
         },
-        "CM-1893": {
+        "CM-5C5A": {
             "authors": [
                 "Constantin Marta",
                 "Darian M. Onchis"
@@ -2480,7 +2623,7 @@
             "accumulative_collaborator_groups_degree_centrality": 0,
             "accumulative_collaborator_groups_pagerank_centrality": 0.0061864553077027665
         },
-        "AA-6456": {
+        "AA-7672": {
             "authors": [
                 "Ajith Abraham",
                 "Crina Grosan",
@@ -2493,7 +2636,7 @@
             "accumulative_collaborator_groups_degree_centrality": 1,
             "accumulative_collaborator_groups_pagerank_centrality": 0.04123547706475802
         },
-        "AT-5633": {
+        "AT-6EC0": {
             "authors": [
                 "Aurora Tiplea",
                 "Ferucio Laurentiu Tiplea"
@@ -2505,7 +2648,7 @@
             "accumulative_collaborator_groups_degree_centrality": 1,
             "accumulative_collaborator_groups_pagerank_centrality": 0.04123547706475802
         },
-        "AB-5160": {
+        "AB-AA76": {
             "authors": [
                 "Anna Bartkowiak",
                 "Piotr Lipinski"
@@ -2517,7 +2660,7 @@
             "accumulative_collaborator_groups_degree_centrality": 0,
             "accumulative_collaborator_groups_pagerank_centrality": 0.0061864553077027665
         },
-        "DD-1713": {
+        "DD-9C79": {
             "authors": [
                 "D. Dumitrescu",
                 "Rodica Ioana Lung"
@@ -2529,7 +2672,7 @@
             "accumulative_collaborator_groups_degree_centrality": 2,
             "accumulative_collaborator_groups_pagerank_centrality": 0.04123547706475802
         },
-        "CH-7041": {
+        "CH-E56E": {
             "authors": [
                 "Catalin Hritcu",
                 "Sabin C. Buraga"
@@ -2541,7 +2684,7 @@
             "accumulative_collaborator_groups_degree_centrality": 0,
             "accumulative_collaborator_groups_pagerank_centrality": 0.0061864553077027665
         },
-        "LS-6452": {
+        "LS-633B": {
             "authors": [
                 "Laura Szakacs",
                 "Tudor Jebelean"
@@ -2553,7 +2696,7 @@
             "accumulative_collaborator_groups_degree_centrality": 1,
             "accumulative_collaborator_groups_pagerank_centrality": 0.04123547706475802
         },
-        "YL-9032": {
+        "YL-E232": {
             "authors": [
                 "Yaohui Li",
                 "Yong Feng"
@@ -2565,7 +2708,7 @@
             "accumulative_collaborator_groups_degree_centrality": 0,
             "accumulative_collaborator_groups_pagerank_centrality": 0.0061864553077027665
         },
-        "GSM-457": {
+        "GSM-D80B": {
             "authors": [
                 "Grigoreta Sofia Moldovan",
                 "Virginia Niculescu"
@@ -2577,7 +2720,7 @@
             "accumulative_collaborator_groups_degree_centrality": 0,
             "accumulative_collaborator_groups_pagerank_centrality": 0.0061864553077027665
         },
-        "MP-9947": {
+        "MP-29BA": {
             "authors": [
                 "Marcin Paprzycki",
                 "Nohpill Park",
@@ -2590,7 +2733,7 @@
             "accumulative_collaborator_groups_degree_centrality": 1,
             "accumulative_collaborator_groups_pagerank_centrality": 0.028937404180683756
         },
-        "CJ-9107": {
+        "CJ-B45D": {
             "authors": [
                 "Ciprian Jichici",
                 "Daniel Pop",
@@ -2603,7 +2746,7 @@
             "accumulative_collaborator_groups_degree_centrality": 0,
             "accumulative_collaborator_groups_pagerank_centrality": 0.0061864553077027665
         },
-        "HR-6823": {
+        "HR-18D0": {
             "authors": [
                 "H. Ramesh",
                 "Raghavan Rama"
@@ -2615,7 +2758,7 @@
             "accumulative_collaborator_groups_degree_centrality": 0,
             "accumulative_collaborator_groups_pagerank_centrality": 0.0061864553077027665
         },
-        "AP-1843": {
+        "AP-8551": {
             "authors": [
                 "Adriana Popovici",
                 "Dan Popovici"
@@ -2627,7 +2770,7 @@
             "accumulative_collaborator_groups_degree_centrality": 0,
             "accumulative_collaborator_groups_pagerank_centrality": 0.0061864553077027665
         },
-        "GC-859": {
+        "GC-5A73": {
             "authors": [
                 "Gabriel Ciobanu",
                 "K. N. Sridhar"
@@ -2639,7 +2782,7 @@
             "accumulative_collaborator_groups_degree_centrality": 1,
             "accumulative_collaborator_groups_pagerank_centrality": 0.04123547706475802
         },
-        "AP-7311": {
+        "AP-2034": {
             "authors": [
                 "Aurelia Profir",
                 "Elena Boian",
@@ -2652,7 +2795,7 @@
             "accumulative_collaborator_groups_degree_centrality": 0,
             "accumulative_collaborator_groups_pagerank_centrality": 0.0061864553077027665
         },
-        "AR-7951": {
+        "AR-0944": {
             "authors": [
                 "Agustin Riscos-Nunez",
                 "Francisco Jose Romero-Campero",
@@ -2666,7 +2809,7 @@
             "accumulative_collaborator_groups_degree_centrality": 2,
             "accumulative_collaborator_groups_pagerank_centrality": 0.053533549948832304
         },
-        "DC-3104": {
+        "DC-5BC0": {
             "authors": [
                 "Diego Cazorla",
                 "Fernando Cuartero",
@@ -2680,7 +2823,7 @@
             "accumulative_collaborator_groups_degree_centrality": 0,
             "accumulative_collaborator_groups_pagerank_centrality": 0.0061864553077027665
         },
-        "OHI-9874": {
+        "OHI-6ADF": {
             "authors": [
                 "Oscar H. Ibarra",
                 "Sara Woodworth"
@@ -2692,7 +2835,7 @@
             "accumulative_collaborator_groups_degree_centrality": 0,
             "accumulative_collaborator_groups_pagerank_centrality": 0.0061864553077027665
         },
-        "AC-3713": {
+        "AC-28EF": {
             "authors": [
                 "Alina Campan",
                 "Gabriela Serban"
@@ -2704,7 +2847,7 @@
             "accumulative_collaborator_groups_degree_centrality": 0,
             "accumulative_collaborator_groups_pagerank_centrality": 0.0061864553077027665
         },
-        "FLT-1442": {
+        "FLT-17A1": {
             "authors": [
                 "Ferucio Laurentiu Tiplea",
                 "Geanina Ionela Macovei"
@@ -2716,7 +2859,7 @@
             "accumulative_collaborator_groups_degree_centrality": 1,
             "accumulative_collaborator_groups_pagerank_centrality": 0.04123547706475802
         },
-        "BG-2150": {
+        "BG-DC93": {
             "authors": [
                 "Bogdan Groza",
                 "Dorina Petrica"
@@ -2728,7 +2871,7 @@
             "accumulative_collaborator_groups_degree_centrality": 0,
             "accumulative_collaborator_groups_pagerank_centrality": 0.0061864553077027665
         },
-        "HEP-9906": {
+        "HEP-774A": {
             "authors": [
                 "Horia Emil Popa",
                 "Ionel Muscalagiu",
@@ -2741,7 +2884,7 @@
             "accumulative_collaborator_groups_degree_centrality": 0,
             "accumulative_collaborator_groups_pagerank_centrality": 0.0061864553077027665
         },
-        "DD-2250": {
+        "DD-CA4B": {
             "authors": [
                 "Delia David",
                 "Dumitru Dumitrescu",
@@ -2754,7 +2897,7 @@
             "accumulative_collaborator_groups_degree_centrality": 0,
             "accumulative_collaborator_groups_pagerank_centrality": 0.0061864553077027665
         },
-        "EK-8541": {
+        "EK-D54E": {
             "authors": [
                 "Eva Kaslik",
                 "L. Braescu",
@@ -2767,7 +2910,7 @@
             "accumulative_collaborator_groups_degree_centrality": 0,
             "accumulative_collaborator_groups_pagerank_centrality": 0.0061864553077027665
         },
-        "DL-9651": {
+        "DL-2110": {
             "authors": [
                 "Dorel Lucanu",
                 "Gabriel Ciobanu",
@@ -2780,7 +2923,7 @@
             "accumulative_collaborator_groups_degree_centrality": 1,
             "accumulative_collaborator_groups_pagerank_centrality": 0.04123547706475802
         },
-        "AF-1835": {
+        "AF-9E53": {
             "authors": [
                 "Andreea Fanea",
                 "Bazil Parv",
@@ -2795,7 +2938,7 @@
             "accumulative_collaborator_groups_degree_centrality": 0,
             "accumulative_collaborator_groups_pagerank_centrality": 0.0061864553077027665
         },
-        "CG-6002": {
+        "CG-17ED": {
             "authors": [
                 "Cornelia Gyorodi",
                 "Mirela Pater",
@@ -2810,7 +2953,7 @@
             "accumulative_collaborator_groups_degree_centrality": 0,
             "accumulative_collaborator_groups_pagerank_centrality": 0.0061864553077027665
         },
-        "AG-2314": {
+        "AG-66C6": {
             "authors": [
                 "Anca Gog",
                 "D. Dumitrescu"
@@ -2822,7 +2965,7 @@
             "accumulative_collaborator_groups_degree_centrality": 2,
             "accumulative_collaborator_groups_pagerank_centrality": 0.04123547706475802
         },
-        "GBE-1426": {
+        "GBE-596A": {
             "authors": [
                 "Gemma Bel Enguix",
                 "Maria Dolores Jimenez-Lopez"
@@ -2834,7 +2977,7 @@
             "accumulative_collaborator_groups_degree_centrality": 0,
             "accumulative_collaborator_groups_pagerank_centrality": 0.0061864553077027665
         },
-        "DZ-1004": {
+        "DZ-4076": {
             "authors": [
                 "Dayong Zhu",
                 "Xinli Zhang"
@@ -2846,7 +2989,7 @@
             "accumulative_collaborator_groups_degree_centrality": 0,
             "accumulative_collaborator_groups_pagerank_centrality": 0.0061864553077027665
         },
-        "LB-7186": {
+        "LB-62E7": {
             "authors": [
                 "Luca Bianco",
                 "Simone Zorzan",
@@ -2859,7 +3002,7 @@
             "accumulative_collaborator_groups_degree_centrality": 0,
             "accumulative_collaborator_groups_pagerank_centrality": 0.0061864553077027665
         },
-        "CSS-6746": {
+        "CSS-B459": {
             "authors": [
                 "Cosmin Stoica Spahiu",
                 "Dumitru Dan Burdescu",
@@ -2872,7 +3015,7 @@
             "accumulative_collaborator_groups_degree_centrality": 1,
             "accumulative_collaborator_groups_pagerank_centrality": 0.028937404180683756
         },
-        "AEF-9067": {
+        "AEF-CAB2": {
             "authors": [
                 "Alexandra Emilia Fortis",
                 "Teodor-Florin Fortis"
@@ -2884,7 +3027,7 @@
             "accumulative_collaborator_groups_degree_centrality": 0,
             "accumulative_collaborator_groups_pagerank_centrality": 0.0061864553077027665
         },
-        "AA-4814": {
+        "AA-19AB": {
             "authors": [
                 "Alina Andreica",
                 "Daniel Stuparu",
@@ -2897,7 +3040,7 @@
             "accumulative_collaborator_groups_degree_centrality": 0,
             "accumulative_collaborator_groups_pagerank_centrality": 0.0061864553077027665
         },
-        "GG-858": {
+        "GG-5633": {
             "authors": [
                 "Gianfranco Gargano",
                 "Sorin Cristian Cheran"
@@ -2909,7 +3052,7 @@
             "accumulative_collaborator_groups_degree_centrality": 0,
             "accumulative_collaborator_groups_pagerank_centrality": 0.0061864553077027665
         },
-        "CC-9414": {
+        "CC-66DC": {
             "authors": [
                 "Calin Cenan",
                 "Horea-Adrian Grebla"
@@ -2921,7 +3064,7 @@
             "accumulative_collaborator_groups_degree_centrality": 0,
             "accumulative_collaborator_groups_pagerank_centrality": 0.0061864553077027665
         },
-        "CLG-1899": {
+        "CLG-70D4": {
             "authors": [
                 "Christophe Le Gal",
                 "Dorin Mircea Popovici",
@@ -2938,58 +3081,58 @@
             "accumulative_collaborator_groups_pagerank_centrality": 0.0061864553077027665
         }
     },
-    "accumulative_collaborator_group_links": [
+    "collaborator_group_links": [
         [
-            "DL-9651",
-            "GC-859"
+            "AA-186F",
+            "AA-7672"
         ],
         [
-            "AR-1655",
-            "MO-7134"
+            "CP-4F59",
+            "DD-9C79"
         ],
         [
-            "AB-8449",
-            "CSS-6746"
+            "LIK-5741",
+            "LS-633B"
         ],
         [
-            "AR-7951",
-            "FB-7004"
+            "AG-66C6",
+            "CP-4F59"
         ],
         [
-            "AT-5633",
-            "FLT-1442"
+            "AB-B1A3",
+            "CB-C710"
         ],
         [
-            "LIK-9932",
-            "LS-6452"
+            "CB-C710",
+            "MP-29BA"
         ],
         [
-            "AG-2314",
-            "DD-1713"
+            "AR-0944",
+            "FB-3BBD"
         ],
         [
-            "AB-8449",
-            "CB-8486"
+            "AR-596F",
+            "MO-61D8"
         ],
         [
-            "CP-6690",
-            "DD-1713"
+            "AR-0944",
+            "AR-596F"
         ],
         [
-            "AA-6456",
-            "AA-9585"
+            "DL-2110",
+            "GC-5A73"
         ],
         [
-            "AR-1655",
-            "AR-7951"
+            "AT-6EC0",
+            "FLT-17A1"
         ],
         [
-            "CB-8486",
-            "MP-9947"
+            "AB-B1A3",
+            "CSS-B459"
         ],
         [
-            "AG-2314",
-            "CP-6690"
+            "AG-66C6",
+            "DD-9C79"
         ]
     ]
 }

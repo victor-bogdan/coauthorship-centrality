@@ -92,8 +92,8 @@
             "author_total_citations": 6,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Martin C. Rinard",
                 "Stefan Andrei",
+                "Martin C. Rinard",
                 "Roland H. C. Yap"
             ],
             "author_closeness_centrality": 0.024193548387096774,
@@ -119,8 +119,8 @@
             "author_total_papers": 1,
             "author_total_collaborators": [
                 "Gheorghe Grigoras",
-                "Martin C. Rinard",
-                "Stefan Andrei"
+                "Stefan Andrei",
+                "Martin C. Rinard"
             ],
             "author_closeness_centrality": 0.024193548387096774,
             "author_betweenness_centrality": 0.0,
@@ -131,10 +131,10 @@
             "author_total_citations": 2,
             "author_total_papers": 2,
             "author_total_collaborators": [
+                "Andrei Grigorean",
                 "Nicolae Tapus",
                 "Lucian-Ionut Balaceanu",
-                "Irina Borozan",
-                "Andrei Grigorean"
+                "Irina Borozan"
             ],
             "author_closeness_centrality": 0.03225806451612903,
             "author_betweenness_centrality": 0.00013113034356150013,
@@ -158,8 +158,8 @@
             "author_total_citations": 1,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Irina Borozan",
                 "Mugurel Ionut Andreica",
+                "Irina Borozan",
                 "Nicolae Tapus"
             ],
             "author_closeness_centrality": 0.025806451612903226,
@@ -171,10 +171,10 @@
             "author_total_citations": 2,
             "author_total_papers": 2,
             "author_total_collaborators": [
+                "Andrei Grigorean",
                 "Lucian-Ionut Balaceanu",
                 "Mugurel Ionut Andreica",
-                "Irina Borozan",
-                "Andrei Grigorean"
+                "Irina Borozan"
             ],
             "author_closeness_centrality": 0.03225806451612903,
             "author_betweenness_centrality": 0.00013113034356150013,
@@ -316,8 +316,8 @@
             "author_total_citations": 7,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Vasile I. Manta",
-                "Simona Caraiman"
+                "Simona Caraiman",
+                "Vasile I. Manta"
             ],
             "author_closeness_centrality": 0.016129032258064516,
             "author_betweenness_centrality": 0.0,
@@ -340,9 +340,9 @@
             "author_total_citations": 3,
             "author_total_papers": 1,
             "author_total_collaborators": [
+                "Dana Petcu",
                 "Marc Frincu",
-                "Georgiana Macariu",
-                "Dana Petcu"
+                "Georgiana Macariu"
             ],
             "author_closeness_centrality": 0.024193548387096774,
             "author_betweenness_centrality": 0.0,
@@ -353,9 +353,9 @@
             "author_total_citations": 3,
             "author_total_papers": 1,
             "author_total_collaborators": [
+                "Dana Petcu",
                 "Marc Frincu",
-                "Alexandru Carstea",
-                "Dana Petcu"
+                "Alexandru Carstea"
             ],
             "author_closeness_centrality": 0.024193548387096774,
             "author_betweenness_centrality": 0.0,
@@ -366,9 +366,9 @@
             "author_total_citations": 10,
             "author_total_papers": 2,
             "author_total_collaborators": [
+                "Dana Petcu",
                 "Georgiana Macariu",
-                "Alexandru Carstea",
-                "Dana Petcu"
+                "Alexandru Carstea"
             ],
             "author_closeness_centrality": 0.024193548387096774,
             "author_betweenness_centrality": 0.0,
@@ -392,15 +392,15 @@
             "author_total_citations": 19,
             "author_total_papers": 3,
             "author_total_collaborators": [
-                "Cristina Bianca Pop",
                 "Emil St. Chifu",
-                "Roland Vachter",
                 "Iulia Vartic",
-                "Monica Vlad",
-                "Marius Gherga",
+                "Roland Vachter",
                 "Ioan Salomie",
-                "Ioana Harsa",
                 "Mihaela Dinsoreanu",
+                "Cristina Bianca Pop",
+                "Ioana Harsa",
+                "Marius Gherga",
+                "Monica Vlad",
                 "Alpar Kover"
             ],
             "author_closeness_centrality": 0.08294930875576036,
@@ -412,18 +412,18 @@
             "author_total_citations": 31,
             "author_total_papers": 4,
             "author_total_collaborators": [
-                "Viorica R. Chifu",
-                "Ioana Harsa",
-                "Ionut Anghel",
-                "Cristina Bianca Pop",
-                "Tudor Cioara",
                 "Emil St. Chifu",
+                "Ioana Harsa",
+                "Marius Gherga",
                 "Roland Vachter",
                 "Iulia Vartic",
+                "Alpar Kover",
                 "Monica Vlad",
-                "Marius Gherga",
+                "Tudor Cioara",
+                "Viorica R. Chifu",
                 "Mihaela Dinsoreanu",
-                "Alpar Kover"
+                "Ionut Anghel",
+                "Cristina Bianca Pop"
             ],
             "author_closeness_centrality": 0.0967741935483871,
             "author_betweenness_centrality": 0.0035405192761605035,
@@ -434,9 +434,9 @@
             "author_total_citations": 4,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Viorica R. Chifu",
-                "Ioan Salomie",
                 "Roland Vachter",
+                "Ioan Salomie",
+                "Viorica R. Chifu",
                 "Alpar Kover"
             ],
             "author_closeness_centrality": 0.058064516129032254,
@@ -448,9 +448,9 @@
             "author_total_citations": 4,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Viorica R. Chifu",
-                "Ioan Salomie",
                 "Emil St. Chifu",
+                "Ioan Salomie",
+                "Viorica R. Chifu",
                 "Alpar Kover"
             ],
             "author_closeness_centrality": 0.058064516129032254,
@@ -462,10 +462,10 @@
             "author_total_citations": 4,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Viorica R. Chifu",
-                "Ioan Salomie",
                 "Emil St. Chifu",
-                "Roland Vachter"
+                "Roland Vachter",
+                "Ioan Salomie",
+                "Viorica R. Chifu"
             ],
             "author_closeness_centrality": 0.058064516129032254,
             "author_betweenness_centrality": 0.0,
@@ -476,9 +476,9 @@
             "author_total_citations": 8,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Viorica R. Chifu",
+                "Ioan Salomie",
                 "Marius Gherga",
-                "Ioan Salomie"
+                "Viorica R. Chifu"
             ],
             "author_closeness_centrality": 0.05529953917050691,
             "author_betweenness_centrality": 0.0,
@@ -489,9 +489,9 @@
             "author_total_citations": 8,
             "author_total_papers": 1,
             "author_total_collaborators": [
+                "Ioan Salomie",
                 "Viorica R. Chifu",
-                "Ioana Harsa",
-                "Ioan Salomie"
+                "Ioana Harsa"
             ],
             "author_closeness_centrality": 0.05529953917050691,
             "author_betweenness_centrality": 0.0,
@@ -528,13 +528,13 @@
             "author_total_citations": 19,
             "author_total_papers": 2,
             "author_total_collaborators": [
+                "Iulia Vartic",
                 "Ioan Salomie",
-                "Viorica R. Chifu",
-                "Ionut Anghel",
-                "Cristina Bianca Pop",
-                "Tudor Cioara",
                 "Monica Vlad",
-                "Iulia Vartic"
+                "Tudor Cioara",
+                "Viorica R. Chifu",
+                "Cristina Bianca Pop",
+                "Ionut Anghel"
             ],
             "author_closeness_centrality": 0.0683111954459203,
             "author_betweenness_centrality": 0.0005245213742460005,
@@ -567,12 +567,12 @@
             "author_total_citations": 26,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Simona Motogna",
-                "Bazil Parv",
                 "Codrut-Lucian Lazar",
                 "Ioan Lazar",
+                "Gabriela Czibula",
                 "Adriana Mihaela Guran",
-                "Gabriela Czibula"
+                "Simona Motogna",
+                "Bazil Parv"
             ],
             "author_closeness_centrality": 0.04939516129032258,
             "author_betweenness_centrality": 0.0015735641227380016,
@@ -595,8 +595,8 @@
             "author_total_citations": 2,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Istvan Gergely Czibula",
                 "Gabriela Czibula",
+                "Istvan Gergely Czibula",
                 "Virginia Niculescu"
             ],
             "author_closeness_centrality": 0.035923753665689145,
@@ -643,9 +643,9 @@
             "author_total_citations": 2,
             "author_total_papers": 1,
             "author_total_collaborators": [
+                "Maxime Denes",
                 "Yves Bertot",
-                "Adrien Richard",
-                "Maxime Denes"
+                "Adrien Richard"
             ],
             "author_closeness_centrality": 0.024193548387096774,
             "author_betweenness_centrality": 0.0,
@@ -657,8 +657,8 @@
             "author_total_papers": 1,
             "author_total_collaborators": [
                 "Benjamin Lesage",
-                "Adrien Richard",
-                "Maxime Denes"
+                "Maxime Denes",
+                "Adrien Richard"
             ],
             "author_closeness_centrality": 0.024193548387096774,
             "author_betweenness_centrality": 0.0,
@@ -670,8 +670,8 @@
             "author_total_papers": 1,
             "author_total_collaborators": [
                 "Benjamin Lesage",
-                "Yves Bertot",
-                "Maxime Denes"
+                "Maxime Denes",
+                "Yves Bertot"
             ],
             "author_closeness_centrality": 0.024193548387096774,
             "author_betweenness_centrality": 0.0,
@@ -726,8 +726,8 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Tudor Dan Mihoc",
-                "Rodica Ioana Lung"
+                "Rodica Ioana Lung",
+                "Tudor Dan Mihoc"
             ],
             "author_closeness_centrality": 0.016129032258064516,
             "author_betweenness_centrality": 0.0,
@@ -738,8 +738,8 @@
             "author_total_citations": 0,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Tudor Dan Mihoc",
-                "D. Dumitrescu"
+                "D. Dumitrescu",
+                "Tudor Dan Mihoc"
             ],
             "author_closeness_centrality": 0.016129032258064516,
             "author_betweenness_centrality": 0.0,
@@ -802,8 +802,8 @@
             "author_total_citations": 2,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Dorel Lucanu",
-                "Georgiana Caltais"
+                "Georgiana Caltais",
+                "Dorel Lucanu"
             ],
             "author_closeness_centrality": 0.016129032258064516,
             "author_betweenness_centrality": 0.0,
@@ -826,8 +826,8 @@
             "author_total_citations": 2,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Eugen-Ioan Goriac",
-                "Georgiana Caltais"
+                "Georgiana Caltais",
+                "Eugen-Ioan Goriac"
             ],
             "author_closeness_centrality": 0.016129032258064516,
             "author_betweenness_centrality": 0.0,
@@ -935,8 +935,8 @@
             "author_total_citations": 10,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Ciprian Dobre",
                 "Valentin Cristea",
+                "Ciprian Dobre",
                 "Florin Pop"
             ],
             "author_closeness_centrality": 0.03225806451612903,
@@ -948,12 +948,12 @@
             "author_total_citations": 29,
             "author_total_papers": 3,
             "author_total_collaborators": [
+                "Marius Ion",
+                "Alina Simion",
                 "Marieta Nastase",
                 "Ciprian Dobre",
                 "Valentin Cristea",
-                "Alina Simion",
-                "Dragos Sbirlea",
-                "Marius Ion"
+                "Dragos Sbirlea"
             ],
             "author_closeness_centrality": 0.04838709677419355,
             "author_betweenness_centrality": 0.0004371011452050004,
@@ -964,10 +964,10 @@
             "author_total_citations": 23,
             "author_total_papers": 2,
             "author_total_collaborators": [
-                "Marieta Nastase",
-                "Valentin Cristea",
+                "Marius Ion",
                 "Florin Pop",
-                "Marius Ion"
+                "Marieta Nastase",
+                "Valentin Cristea"
             ],
             "author_closeness_centrality": 0.03629032258064516,
             "author_betweenness_centrality": 4.3710114520500044e-05,
@@ -978,12 +978,12 @@
             "author_total_citations": 29,
             "author_total_papers": 3,
             "author_total_collaborators": [
+                "Florin Pop",
+                "Marius Ion",
+                "Alina Simion",
                 "Marieta Nastase",
                 "Ciprian Dobre",
-                "Alina Simion",
-                "Dragos Sbirlea",
-                "Florin Pop",
-                "Marius Ion"
+                "Dragos Sbirlea"
             ],
             "author_closeness_centrality": 0.04838709677419355,
             "author_betweenness_centrality": 0.0004371011452050004,
@@ -994,8 +994,8 @@
             "author_total_citations": 4,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Dragan Sahpaski",
-                "Goran Velinov"
+                "Goran Velinov",
+                "Dragan Sahpaski"
             ],
             "author_closeness_centrality": 0.016129032258064516,
             "author_betweenness_centrality": 0.0,
@@ -1006,8 +1006,8 @@
             "author_total_citations": 4,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Boro Jakimovski",
-                "Goran Velinov"
+                "Goran Velinov",
+                "Boro Jakimovski"
             ],
             "author_closeness_centrality": 0.016129032258064516,
             "author_betweenness_centrality": 0.0,
@@ -1061,10 +1061,10 @@
             "author_total_citations": 25,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Simona Motogna",
-                "Bazil Parv",
                 "Ioan Lazar",
-                "Istvan Gergely Czibula"
+                "Simona Motogna",
+                "Istvan Gergely Czibula",
+                "Bazil Parv"
             ],
             "author_closeness_centrality": 0.035923753665689145,
             "author_betweenness_centrality": 0.0,
@@ -1075,10 +1075,10 @@
             "author_total_citations": 25,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Simona Motogna",
-                "Bazil Parv",
                 "Codrut-Lucian Lazar",
-                "Istvan Gergely Czibula"
+                "Simona Motogna",
+                "Istvan Gergely Czibula",
+                "Bazil Parv"
             ],
             "author_closeness_centrality": 0.035923753665689145,
             "author_betweenness_centrality": 0.0,
@@ -1089,9 +1089,9 @@
             "author_total_citations": 25,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Simona Motogna",
                 "Codrut-Lucian Lazar",
                 "Ioan Lazar",
+                "Simona Motogna",
                 "Istvan Gergely Czibula"
             ],
             "author_closeness_centrality": 0.035923753665689145,
@@ -1103,10 +1103,10 @@
             "author_total_citations": 25,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Bazil Parv",
                 "Codrut-Lucian Lazar",
                 "Ioan Lazar",
-                "Istvan Gergely Czibula"
+                "Istvan Gergely Czibula",
+                "Bazil Parv"
             ],
             "author_closeness_centrality": 0.035923753665689145,
             "author_betweenness_centrality": 0.0,
@@ -1211,9 +1211,9 @@
             "author_total_citations": 13,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Ciprian Dobre",
+                "Florin Pop",
                 "Valentin Cristea",
-                "Florin Pop"
+                "Ciprian Dobre"
             ],
             "author_closeness_centrality": 0.03225806451612903,
             "author_betweenness_centrality": 0.0,
@@ -1235,10 +1235,10 @@
             "author_total_citations": 28,
             "author_total_papers": 1,
             "author_total_collaborators": [
+                "Gheorghe Cosmin Silaghi",
                 "Mihaela Ordean",
-                "Melania Duma",
                 "Andrei Saupe",
-                "Gheorghe Cosmin Silaghi"
+                "Melania Duma"
             ],
             "author_closeness_centrality": 0.03225806451612903,
             "author_betweenness_centrality": 0.0,
@@ -1249,10 +1249,10 @@
             "author_total_citations": 28,
             "author_total_papers": 1,
             "author_total_collaborators": [
+                "Gheorghe Cosmin Silaghi",
                 "Mihaela Ordean",
-                "Melania Duma",
                 "Mihai Alexandru Ordean",
-                "Gheorghe Cosmin Silaghi"
+                "Melania Duma"
             ],
             "author_closeness_centrality": 0.03225806451612903,
             "author_betweenness_centrality": 0.0,
@@ -1263,10 +1263,10 @@
             "author_total_citations": 28,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Melania Duma",
+                "Gheorghe Cosmin Silaghi",
                 "Mihai Alexandru Ordean",
                 "Andrei Saupe",
-                "Gheorghe Cosmin Silaghi"
+                "Melania Duma"
             ],
             "author_closeness_centrality": 0.03225806451612903,
             "author_betweenness_centrality": 0.0,
@@ -1277,10 +1277,10 @@
             "author_total_citations": 28,
             "author_total_papers": 1,
             "author_total_collaborators": [
+                "Gheorghe Cosmin Silaghi",
                 "Mihaela Ordean",
                 "Mihai Alexandru Ordean",
-                "Andrei Saupe",
-                "Gheorghe Cosmin Silaghi"
+                "Andrei Saupe"
             ],
             "author_closeness_centrality": 0.03225806451612903,
             "author_betweenness_centrality": 0.0,
@@ -1292,9 +1292,9 @@
             "author_total_papers": 1,
             "author_total_collaborators": [
                 "Mihaela Ordean",
-                "Melania Duma",
                 "Mihai Alexandru Ordean",
-                "Andrei Saupe"
+                "Andrei Saupe",
+                "Melania Duma"
             ],
             "author_closeness_centrality": 0.03225806451612903,
             "author_betweenness_centrality": 0.0,
@@ -1305,9 +1305,9 @@
             "author_total_citations": 4,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Yin Jie Chen",
                 "Mark Tangney",
-                "Sabin Tabirca"
+                "Sabin Tabirca",
+                "Yin Jie Chen"
             ],
             "author_closeness_centrality": 0.024193548387096774,
             "author_betweenness_centrality": 0.0,
@@ -1318,9 +1318,9 @@
             "author_total_citations": 4,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Yin Jie Chen",
                 "Mark Tangney",
-                "Marius Paltanea"
+                "Marius Paltanea",
+                "Yin Jie Chen"
             ],
             "author_closeness_centrality": 0.024193548387096774,
             "author_betweenness_centrality": 0.0,
@@ -1344,9 +1344,9 @@
             "author_total_citations": 4,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Yin Jie Chen",
                 "Marius Paltanea",
-                "Sabin Tabirca"
+                "Sabin Tabirca",
+                "Yin Jie Chen"
             ],
             "author_closeness_centrality": 0.024193548387096774,
             "author_betweenness_centrality": 0.0,
@@ -1379,11 +1379,11 @@
             "author_total_citations": 7,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Viorica R. Chifu",
+                "Iulia Vartic",
                 "Ioan Salomie",
                 "Monica Vlad",
-                "Iulia Vartic",
-                "Mihaela Dinsoreanu"
+                "Mihaela Dinsoreanu",
+                "Viorica R. Chifu"
             ],
             "author_closeness_centrality": 0.06112054329371816,
             "author_betweenness_centrality": 0.0,
@@ -1394,11 +1394,11 @@
             "author_total_citations": 7,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Viorica R. Chifu",
                 "Ioan Salomie",
-                "Cristina Bianca Pop",
                 "Monica Vlad",
-                "Mihaela Dinsoreanu"
+                "Mihaela Dinsoreanu",
+                "Viorica R. Chifu",
+                "Cristina Bianca Pop"
             ],
             "author_closeness_centrality": 0.06112054329371816,
             "author_betweenness_centrality": 0.0,
@@ -1409,11 +1409,11 @@
             "author_total_citations": 7,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Viorica R. Chifu",
-                "Ioan Salomie",
-                "Cristina Bianca Pop",
                 "Iulia Vartic",
-                "Mihaela Dinsoreanu"
+                "Ioan Salomie",
+                "Mihaela Dinsoreanu",
+                "Viorica R. Chifu",
+                "Cristina Bianca Pop"
             ],
             "author_closeness_centrality": 0.06112054329371816,
             "author_betweenness_centrality": 0.0,
@@ -1442,8 +1442,8 @@
             "author_total_citations": 2,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Victor Bacu",
-                "Dorian Gorgan"
+                "Dorian Gorgan",
+                "Victor Bacu"
             ],
             "author_closeness_centrality": 0.016129032258064516,
             "author_betweenness_centrality": 0.0,
@@ -1454,8 +1454,8 @@
             "author_total_citations": 2,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Denisa Rodila",
-                "Dorian Gorgan"
+                "Dorian Gorgan",
+                "Denisa Rodila"
             ],
             "author_closeness_centrality": 0.016129032258064516,
             "author_betweenness_centrality": 0.0,
@@ -1466,8 +1466,8 @@
             "author_total_citations": 2,
             "author_total_papers": 1,
             "author_total_collaborators": [
-                "Denisa Rodila",
-                "Victor Bacu"
+                "Victor Bacu",
+                "Denisa Rodila"
             ],
             "author_closeness_centrality": 0.016129032258064516,
             "author_betweenness_centrality": 0.0,
@@ -1496,9 +1496,9 @@
             "author_total_citations": 6,
             "author_total_papers": 1,
             "author_total_collaborators": [
+                "Florin Pop",
                 "Valentin Cristea",
-                "Dragos Sbirlea",
-                "Florin Pop"
+                "Dragos Sbirlea"
             ],
             "author_closeness_centrality": 0.03225806451612903,
             "author_betweenness_centrality": 0.0,
@@ -1509,9 +1509,9 @@
             "author_total_citations": 6,
             "author_total_papers": 1,
             "author_total_collaborators": [
+                "Florin Pop",
                 "Valentin Cristea",
-                "Alina Simion",
-                "Florin Pop"
+                "Alina Simion"
             ],
             "author_closeness_centrality": 0.03225806451612903,
             "author_betweenness_centrality": 0.0,
@@ -1583,199 +1583,15 @@
     },
     "author_links": [
         [
-            "Eneia Nicolae Todoran",
-            "Gabriel Ciobanu"
-        ],
-        [
-            "Ioan Salomie",
-            "Iulia Vartic"
-        ],
-        [
-            "Iulia Vartic",
-            "Mihaela Dinsoreanu"
-        ],
-        [
-            "Marius Paltanea",
-            "Mark Tangney"
-        ],
-        [
-            "Hao Jiang",
-            "Lizhi Cheng"
-        ],
-        [
-            "Hao Jiang",
-            "Rongfen Lin"
-        ],
-        [
-            "Dongming Wang",
-            "Yanli Huang"
-        ],
-        [
-            "Irina Borozan",
-            "Mugurel Ionut Andreica"
-        ],
-        [
-            "Eugen-Ioan Goriac",
-            "Georgiana Caltais"
-        ],
-        [
-            "Jacques Carette",
-            "James Harold Davenport"
-        ],
-        [
-            "Adrian Craciun",
-            "Mircea Marin"
-        ],
-        [
-            "Mihaela Dinsoreanu",
-            "Tudor Cioara"
-        ],
-        [
-            "Codrut-Lucian Lazar",
-            "Ioan Lazar"
-        ],
-        [
-            "D. Dumitrescu",
-            "Tudor Dan Mihoc"
-        ],
-        [
-            "Roland H. C. Yap",
-            "Stefan Andrei"
-        ],
-        [
-            "Alina Simion",
-            "Florin Pop"
-        ],
-        [
-            "Gheorghe Cosmin Silaghi",
-            "Mihaela Ordean"
-        ],
-        [
-            "Monica Vlad",
-            "Viorica R. Chifu"
-        ],
-        [
-            "Denisa Rodila",
-            "Dorian Gorgan"
-        ],
-        [
-            "Andrei Saupe",
-            "Gheorghe Cosmin Silaghi"
-        ],
-        [
-            "Irina Borozan",
-            "Lucian-Ionut Balaceanu"
-        ],
-        [
-            "Andrei Saupe",
-            "Mihai Alexandru Ordean"
-        ],
-        [
-            "Adrien Richard",
-            "Maxime Denes"
-        ],
-        [
-            "Simona Caraiman",
-            "Vasile I. Manta"
-        ],
-        [
-            "Adriana Mihaela Guran",
-            "Gabriela Czibula"
-        ],
-        [
-            "Cristina Bianca Pop",
-            "Ioan Salomie"
-        ],
-        [
-            "Denisa Rodila",
-            "Victor Bacu"
-        ],
-        [
-            "Flavius Turcu",
-            "Mohamed Najim"
-        ],
-        [
-            "Ioan Lazar",
-            "Istvan Gergely Czibula"
-        ],
-        [
-            "Dragan Sahpaski",
-            "Goran Velinov"
-        ],
-        [
-            "Ioan Salomie",
-            "Marius Gherga"
-        ],
-        [
-            "Dragos Sbirlea",
-            "Valentin Cristea"
-        ],
-        [
-            "Gerd Wagner",
-            "Ion-Mircea Diaconescu"
-        ],
-        [
-            "Florin Pop",
-            "Marius Ion"
-        ],
-        [
-            "Florin Pop",
-            "Valentin Cristea"
-        ],
-        [
-            "Boro Jakimovski",
-            "Goran Velinov"
-        ],
-        [
-            "Mark Tangney",
-            "Yin Jie Chen"
-        ],
-        [
             "Bazil Parv",
-            "Ioan Lazar"
+            "Istvan Gergely Czibula"
         ],
         [
             "Florin Pop",
             "Marieta Nastase"
         ],
         [
-            "Iulia Vartic",
-            "Viorica R. Chifu"
-        ],
-        [
-            "Melania Duma",
-            "Mihaela Ordean"
-        ],
-        [
-            "D. Dumitrescu",
-            "Rodica Ioana Lung"
-        ],
-        [
             "Mihaela Dinsoreanu",
-            "Viorica R. Chifu"
-        ],
-        [
-            "Georgiana Macariu",
-            "Marc Frincu"
-        ],
-        [
-            "Gheorghe Cosmin Silaghi",
-            "Mihai Alexandru Ordean"
-        ],
-        [
-            "Sabin Tabirca",
-            "Yin Jie Chen"
-        ],
-        [
-            "Dorel Lucanu",
-            "Georgiana Caltais"
-        ],
-        [
-            "Dorel Lucanu",
-            "Eugen-Ioan Goriac"
-        ],
-        [
-            "Emil St. Chifu",
             "Viorica R. Chifu"
         ],
         [
@@ -1783,184 +1599,232 @@
             "Dana Petcu"
         ],
         [
-            "Dorian Gorgan",
-            "Victor Bacu"
-        ],
-        [
-            "Camelia Vidrighin Bratu",
-            "Rodica Potolea"
-        ],
-        [
-            "Iulia Vartic",
-            "Monica Vlad"
-        ],
-        [
-            "Adrien Richard",
-            "Yves Bertot"
-        ],
-        [
-            "Mihaela Dinsoreanu",
-            "Monica Vlad"
-        ],
-        [
-            "Ionut Anghel",
-            "Mihaela Dinsoreanu"
-        ],
-        [
-            "Marius Paltanea",
-            "Sabin Tabirca"
-        ],
-        [
-            "Alpar Kover",
-            "Roland Vachter"
-        ],
-        [
-            "Adina Magda Florea",
-            "Cristian Gratie"
-        ],
-        [
-            "Ion Iancu",
-            "Mihaela Colhon"
-        ],
-        [
-            "Roland Vachter",
-            "Viorica R. Chifu"
-        ],
-        [
-            "Mugurel Ionut Andreica",
-            "Nicolae Tapus"
-        ],
-        [
-            "Ioana Harsa",
-            "Viorica R. Chifu"
-        ],
-        [
-            "Martin C. Rinard",
-            "Roland H. C. Yap"
-        ],
-        [
-            "Emil St. Chifu",
-            "Ioan Salomie"
-        ],
-        [
-            "Alexandru Carstea",
-            "Georgiana Macariu"
-        ],
-        [
-            "Adrien Richard",
-            "Benjamin Lesage"
-        ],
-        [
-            "Rodica Ioana Lung",
-            "Tudor Dan Mihoc"
-        ],
-        [
-            "Benjamin Lesage",
-            "Maxime Denes"
-        ],
-        [
-            "Istvan Gergely Czibula",
-            "Simona Motogna"
-        ],
-        [
-            "Ioan Lazar",
-            "Simona Motogna"
-        ],
-        [
-            "Bazil Parv",
-            "Istvan Gergely Czibula"
-        ],
-        [
-            "Ioana Harsa",
-            "Marius Gherga"
-        ],
-        [
-            "Boro Jakimovski",
-            "Dragan Sahpaski"
-        ],
-        [
-            "Melania Duma",
-            "Mihai Alexandru Ordean"
-        ],
-        [
-            "Flavius Turcu",
-            "Iuliana Borza"
-        ],
-        [
-            "Lizhi Cheng",
-            "Rongfen Lin"
-        ],
-        [
-            "Alpar Kover",
-            "Emil St. Chifu"
-        ],
-        [
-            "Cristina Bianca Pop",
-            "Mihaela Dinsoreanu"
-        ],
-        [
-            "Iuliana Borza",
-            "Mohamed Najim"
-        ],
-        [
             "Codrut-Lucian Lazar",
-            "Istvan Gergely Czibula"
-        ],
-        [
-            "Martin C. Rinard",
-            "Stefan Andrei"
-        ],
-        [
-            "Hong-Qing Zhang",
-            "Qi Ding"
-        ],
-        [
-            "Gabriela Czibula",
-            "Istvan Gergely Czibula"
-        ],
-        [
-            "Gheorghe Cosmin Silaghi",
-            "Melania Duma"
-        ],
-        [
-            "Lucian-Ionut Balaceanu",
-            "Nicolae Tapus"
-        ],
-        [
-            "Grant Olney Passmore",
-            "Leonardo Mendonca de Moura"
-        ],
-        [
-            "Gheorghe Grigoras",
-            "Roland H. C. Yap"
-        ],
-        [
-            "Ioan Salomie",
-            "Mihaela Dinsoreanu"
-        ],
-        [
-            "Madalina Erascu",
-            "Tudor Jebelean"
-        ],
-        [
-            "Alina Simion",
-            "Valentin Cristea"
+            "Ioan Lazar"
         ],
         [
             "Laurentiu Vasile",
             "Letitia Velcescu"
         ],
         [
+            "Melania Duma",
+            "Mihai Alexandru Ordean"
+        ],
+        [
+            "Maxime Denes",
+            "Yves Bertot"
+        ],
+        [
+            "Gheorghe Cosmin Silaghi",
+            "Mihaela Ordean"
+        ],
+        [
+            "Iulia Vartic",
+            "Viorica R. Chifu"
+        ],
+        [
+            "Ioan Salomie",
+            "Iulia Vartic"
+        ],
+        [
+            "Ioan Salomie",
+            "Ioana Harsa"
+        ],
+        [
+            "Ioana Harsa",
+            "Marius Gherga"
+        ],
+        [
+            "Dorel Lucanu",
+            "Georgiana Caltais"
+        ],
+        [
+            "Georgiana Macariu",
+            "Marc Frincu"
+        ],
+        [
+            "Dana Petcu",
+            "Georgiana Macariu"
+        ],
+        [
+            "Ion Iancu",
+            "Mihaela Colhon"
+        ],
+        [
+            "Cristina Bianca Pop",
+            "Iulia Vartic"
+        ],
+        [
+            "D. Dumitrescu",
+            "Tudor Dan Mihoc"
+        ],
+        [
+            "Sabin Tabirca",
+            "Yin Jie Chen"
+        ],
+        [
+            "Alexandru Carstea",
+            "Georgiana Macariu"
+        ],
+        [
+            "Dragos Sbirlea",
+            "Valentin Cristea"
+        ],
+        [
+            "Gheorghe Cosmin Silaghi",
+            "Melania Duma"
+        ],
+        [
+            "Lizhi Cheng",
+            "Rongfen Lin"
+        ],
+        [
+            "Monica Vlad",
+            "Viorica R. Chifu"
+        ],
+        [
+            "Irina Borozan",
+            "Nicolae Tapus"
+        ],
+        [
+            "Irina Borozan",
+            "Mugurel Ionut Andreica"
+        ],
+        [
+            "Hao Jiang",
+            "Lizhi Cheng"
+        ],
+        [
+            "Emil St. Chifu",
+            "Ioan Salomie"
+        ],
+        [
+            "Marius Gherga",
+            "Viorica R. Chifu"
+        ],
+        [
+            "Gabriela Czibula",
+            "Istvan Gergely Czibula"
+        ],
+        [
+            "Flavius Turcu",
+            "Iuliana Borza"
+        ],
+        [
+            "Mihaela Dinsoreanu",
+            "Monica Vlad"
+        ],
+        [
+            "Alpar Kover",
+            "Ioan Salomie"
+        ],
+        [
+            "Dana Petcu",
+            "Marc Frincu"
+        ],
+        [
             "Alexandru Archip",
             "Vasile I. Manta"
+        ],
+        [
+            "Jacques Carette",
+            "James Harold Davenport"
+        ],
+        [
+            "Miklos Bartha",
+            "Miklos Kresz"
+        ],
+        [
+            "Martin C. Rinard",
+            "Stefan Andrei"
+        ],
+        [
+            "Adriana Mihaela Guran",
+            "Virginia Niculescu"
+        ],
+        [
+            "Hao Jiang",
+            "Rongfen Lin"
+        ],
+        [
+            "Ioan Lazar",
+            "Istvan Gergely Czibula"
+        ],
+        [
+            "Andrei Saupe",
+            "Mihaela Ordean"
         ],
         [
             "Andrei Voronkov",
             "Laura Kovacs"
         ],
         [
-            "Marius Gherga",
+            "Cristina Bianca Pop",
             "Viorica R. Chifu"
+        ],
+        [
+            "Alexandru Carstea",
+            "Marc Frincu"
+        ],
+        [
+            "Ioana Harsa",
+            "Viorica R. Chifu"
+        ],
+        [
+            "Bazil Parv",
+            "Simona Motogna"
+        ],
+        [
+            "Grant Olney Passmore",
+            "Leonardo Mendonca de Moura"
+        ],
+        [
+            "Dorian Gorgan",
+            "Victor Bacu"
+        ],
+        [
+            "Ioan Salomie",
+            "Ionut Anghel"
+        ],
+        [
+            "Marius Ion",
+            "Valentin Cristea"
+        ],
+        [
+            "Mihaela Dinsoreanu",
+            "Tudor Cioara"
+        ],
+        [
+            "Adrien Richard",
+            "Benjamin Lesage"
+        ],
+        [
+            "Boro Jakimovski",
+            "Dragan Sahpaski"
+        ],
+        [
+            "Bazil Parv",
+            "Ioan Lazar"
+        ],
+        [
+            "Marieta Nastase",
+            "Valentin Cristea"
+        ],
+        [
+            "Amir Hashemi",
+            "Mahsad Kalantari"
+        ],
+        [
+            "Simona Caraiman",
+            "Vasile I. Manta"
+        ],
+        [
+            "Martin C. Rinard",
+            "Roland H. C. Yap"
+        ],
+        [
+            "Florin Pop",
+            "Valentin Cristea"
         ],
         [
             "Andrei Saupe",
@@ -1971,92 +1835,104 @@
             "Florin Pop"
         ],
         [
-            "Benjamin Lesage",
-            "Yves Bertot"
+            "Ioan Salomie",
+            "Monica Vlad"
         ],
         [
-            "Ionut Anghel",
-            "Tudor Cioara"
+            "Dongming Wang",
+            "Yanli Huang"
         ],
         [
-            "Ciprian Dobre",
-            "Marius Ion"
+            "Bazil Parv",
+            "Codrut-Lucian Lazar"
         ],
         [
-            "Marieta Nastase",
+            "Roland Vachter",
+            "Viorica R. Chifu"
+        ],
+        [
+            "Denisa Rodila",
+            "Dorian Gorgan"
+        ],
+        [
+            "Melania Duma",
+            "Mihaela Ordean"
+        ],
+        [
+            "Mugurel Ionut Andreica",
+            "Nicolae Tapus"
+        ],
+        [
+            "Marius Paltanea",
+            "Mark Tangney"
+        ],
+        [
+            "Roland H. C. Yap",
+            "Stefan Andrei"
+        ],
+        [
+            "Gheorghe Cosmin Silaghi",
+            "Mihai Alexandru Ordean"
+        ],
+        [
+            "Alina Simion",
             "Valentin Cristea"
         ],
         [
-            "Ciprian Dobre",
-            "Valentin Cristea"
-        ],
-        [
-            "Ciprian Dobre",
-            "Marieta Nastase"
-        ],
-        [
-            "Lucian-Ionut Balaceanu",
-            "Mugurel Ionut Andreica"
+            "Dorel Lucanu",
+            "Eugen-Ioan Goriac"
         ],
         [
             "Andrei Grigorean",
             "Nicolae Tapus"
         ],
         [
-            "Gheorghe Grigoras",
-            "Stefan Andrei"
+            "Codrut-Lucian Lazar",
+            "Istvan Gergely Czibula"
         ],
         [
-            "Mihaela Ordean",
-            "Mihai Alexandru Ordean"
+            "Iulia Vartic",
+            "Monica Vlad"
         ],
         [
-            "Adriana Mihaela Guran",
-            "Virginia Niculescu"
-        ],
-        [
-            "Bazil Parv",
-            "Simona Motogna"
-        ],
-        [
-            "Alpar Kover",
-            "Viorica R. Chifu"
-        ],
-        [
-            "Ioan Salomie",
-            "Roland Vachter"
-        ],
-        [
-            "Alina Simion",
-            "Dragos Sbirlea"
-        ],
-        [
-            "Marius Paltanea",
-            "Yin Jie Chen"
-        ],
-        [
-            "Marius Ion",
+            "Ciprian Dobre",
             "Valentin Cristea"
         ],
         [
-            "Gheorghe Grigoras",
-            "Martin C. Rinard"
+            "Ioan Salomie",
+            "Tudor Cioara"
         ],
         [
-            "Alexandru Carstea",
-            "Marc Frincu"
+            "Florin Pop",
+            "Marius Ion"
         ],
         [
-            "Miklos Bartha",
-            "Miklos Kresz"
+            "Benjamin Lesage",
+            "Yves Bertot"
         ],
         [
-            "Cristina Bianca Pop",
-            "Viorica R. Chifu"
+            "Irina Borozan",
+            "Lucian-Ionut Balaceanu"
         ],
         [
-            "Adriana Mihaela Guran",
-            "Istvan Gergely Czibula"
+            "Hong-Qing Zhang",
+            "Qi Ding"
+        ],
+        [
+            "Marius Paltanea",
+            "Sabin Tabirca"
+        ],
+        [
+            "Boro Jakimovski",
+            "Goran Velinov"
+        ],
+        [
+            "Ioan Lazar",
+            "Simona Motogna"
+        ],
+        [
+            "Emil St. Chifu",
+            "Roland Vachter"
         ],
         [
             "Codrut-Lucian Lazar",
@@ -2067,36 +1943,144 @@
             "Sabin Tabirca"
         ],
         [
-            "Maxime Denes",
+            "Alpar Kover",
+            "Emil St. Chifu"
+        ],
+        [
+            "Alpar Kover",
+            "Roland Vachter"
+        ],
+        [
+            "Dragan Sahpaski",
+            "Goran Velinov"
+        ],
+        [
+            "Iulia Vartic",
+            "Mihaela Dinsoreanu"
+        ],
+        [
+            "Madalina Erascu",
+            "Tudor Jebelean"
+        ],
+        [
+            "Benjamin Lesage",
+            "Maxime Denes"
+        ],
+        [
+            "Denisa Rodila",
+            "Victor Bacu"
+        ],
+        [
+            "D. Dumitrescu",
+            "Rodica Ioana Lung"
+        ],
+        [
+            "Ciprian Dobre",
+            "Marius Ion"
+        ],
+        [
+            "Eugen-Ioan Goriac",
+            "Georgiana Caltais"
+        ],
+        [
+            "Rodica Ioana Lung",
+            "Tudor Dan Mihoc"
+        ],
+        [
+            "Adrian Craciun",
+            "Mircea Marin"
+        ],
+        [
+            "Adrien Richard",
             "Yves Bertot"
         ],
         [
-            "Andrei Grigorean",
+            "Lucian-Ionut Balaceanu",
+            "Nicolae Tapus"
+        ],
+        [
+            "Gheorghe Grigoras",
+            "Martin C. Rinard"
+        ],
+        [
+            "Adriana Mihaela Guran",
+            "Istvan Gergely Czibula"
+        ],
+        [
+            "Andrei Saupe",
+            "Mihai Alexandru Ordean"
+        ],
+        [
+            "Lucian-Ionut Balaceanu",
             "Mugurel Ionut Andreica"
+        ],
+        [
+            "Istvan Gergely Czibula",
+            "Simona Motogna"
+        ],
+        [
+            "Gerd Wagner",
+            "Ion-Mircea Diaconescu"
+        ],
+        [
+            "Marius Paltanea",
+            "Yin Jie Chen"
         ],
         [
             "Cristina Bianca Pop",
             "Monica Vlad"
         ],
         [
-            "Irina Borozan",
-            "Nicolae Tapus"
+            "Alina Simion",
+            "Florin Pop"
         ],
         [
-            "Alpar Kover",
-            "Ioan Salomie"
+            "Andrei Grigorean",
+            "Mugurel Ionut Andreica"
         ],
         [
-            "Dana Petcu",
-            "Georgiana Macariu"
+            "Adriana Mihaela Guran",
+            "Gabriela Czibula"
         ],
         [
-            "Ioan Salomie",
-            "Viorica R. Chifu"
+            "Mihaela Ordean",
+            "Mihai Alexandru Ordean"
         ],
         [
-            "Bazil Parv",
-            "Codrut-Lucian Lazar"
+            "Mark Tangney",
+            "Yin Jie Chen"
+        ],
+        [
+            "Alexandru-Ciprian Zavoianu",
+            "Ciprian Dorin Craciun"
+        ],
+        [
+            "Gheorghe Grigoras",
+            "Roland H. C. Yap"
+        ],
+        [
+            "Iuliana Borza",
+            "Mohamed Najim"
+        ],
+        [
+            "Ciprian Dobre",
+            "Marieta Nastase"
+        ],
+        [
+            "Ionut Anghel",
+            "Tudor Cioara"
+        ],
+        [
+            "Alina Simion",
+            "Dragos Sbirlea"
+        ],
+        [
+            "Ionut Anghel",
+            "Mihaela Dinsoreanu"
+        ],
+        [
+            "Adina Magda Florea",
+            "Cristian Gratie"
         ],
         [
             "Alexandru Archip",
@@ -2107,44 +2091,60 @@
             "Florin Pop"
         ],
         [
-            "Cristina Bianca Pop",
-            "Iulia Vartic"
+            "Ioan Salomie",
+            "Mihaela Dinsoreanu"
         ],
         [
-            "Ioan Salomie",
-            "Tudor Cioara"
+            "Cristina Bianca Pop",
+            "Ioan Salomie"
+        ],
+        [
+            "Adrien Richard",
+            "Maxime Denes"
+        ],
+        [
+            "Flavius Turcu",
+            "Mohamed Najim"
         ],
         [
             "Emil St. Chifu",
-            "Roland Vachter"
+            "Viorica R. Chifu"
+        ],
+        [
+            "Eneia Nicolae Todoran",
+            "Gabriel Ciobanu"
+        ],
+        [
+            "Gheorghe Grigoras",
+            "Stefan Andrei"
+        ],
+        [
+            "Camelia Vidrighin Bratu",
+            "Rodica Potolea"
+        ],
+        [
+            "Alpar Kover",
+            "Viorica R. Chifu"
+        ],
+        [
+            "Ioan Salomie",
+            "Viorica R. Chifu"
+        ],
+        [
+            "Ioan Salomie",
+            "Marius Gherga"
         ],
         [
             "Andrei Saupe",
-            "Mihaela Ordean"
-        ],
-        [
-            "Amir Hashemi",
-            "Mahsad Kalantari"
-        ],
-        [
-            "Alexandru-Ciprian Zavoianu",
-            "Ciprian Dorin Craciun"
+            "Gheorghe Cosmin Silaghi"
         ],
         [
             "Ioan Salomie",
-            "Ionut Anghel"
+            "Roland Vachter"
         ],
         [
-            "Ioan Salomie",
-            "Monica Vlad"
-        ],
-        [
-            "Dana Petcu",
-            "Marc Frincu"
-        ],
-        [
-            "Ioan Salomie",
-            "Ioana Harsa"
+            "Cristina Bianca Pop",
+            "Mihaela Dinsoreanu"
         ]
     ],
     "collaborator_groups": {
@@ -2157,10 +2157,10 @@
             ],
             "cites": 6,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.0,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 0,
-            "year_collaborator_groups_pagerank_centrality": 0.009259259268217461
+            "collaborator_groups_closeness_centrality": 0.0,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 0,
+            "collaborator_groups_pagerank_centrality": 0.009259259268217461
         },
         "IB-FF11": {
             "authors": [
@@ -2171,10 +2171,10 @@
             ],
             "cites": 1,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.02564102564102564,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 1,
-            "year_collaborator_groups_pagerank_centrality": 0.06172839504082594
+            "collaborator_groups_closeness_centrality": 0.02564102564102564,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 1,
+            "collaborator_groups_pagerank_centrality": 0.06172839504082594
         },
         "AG-5A2C": {
             "authors": [
@@ -2184,10 +2184,10 @@
             ],
             "cites": 1,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.02564102564102564,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 1,
-            "year_collaborator_groups_pagerank_centrality": 0.06172839504082594
+            "collaborator_groups_closeness_centrality": 0.02564102564102564,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 1,
+            "collaborator_groups_pagerank_centrality": 0.06172839504082594
         },
         "MB-85A0": {
             "authors": [
@@ -2196,10 +2196,10 @@
             ],
             "cites": 17,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.0,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 0,
-            "year_collaborator_groups_pagerank_centrality": 0.009259259268217461
+            "collaborator_groups_closeness_centrality": 0.0,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 0,
+            "collaborator_groups_pagerank_centrality": 0.009259259268217461
         },
         "FT-6EF8": {
             "authors": [
@@ -2209,10 +2209,10 @@
             ],
             "cites": 0,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.0,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 0,
-            "year_collaborator_groups_pagerank_centrality": 0.009259259268217461
+            "collaborator_groups_closeness_centrality": 0.0,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 0,
+            "collaborator_groups_pagerank_centrality": 0.009259259268217461
         },
         "CVB-9975": {
             "authors": [
@@ -2221,10 +2221,10 @@
             ],
             "cites": 1,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.0,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 0,
-            "year_collaborator_groups_pagerank_centrality": 0.009259259268217461
+            "collaborator_groups_closeness_centrality": 0.0,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 0,
+            "collaborator_groups_pagerank_centrality": 0.009259259268217461
         },
         "AA-A327": {
             "authors": [
@@ -2234,10 +2234,10 @@
             ],
             "cites": 7,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.0,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 0,
-            "year_collaborator_groups_pagerank_centrality": 0.009259259268217461
+            "collaborator_groups_closeness_centrality": 0.0,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 0,
+            "collaborator_groups_pagerank_centrality": 0.009259259268217461
         },
         "AC-AA92": {
             "authors": [
@@ -2248,10 +2248,10 @@
             ],
             "cites": 3,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.0,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 0,
-            "year_collaborator_groups_pagerank_centrality": 0.009259259268217461
+            "collaborator_groups_closeness_centrality": 0.0,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 0,
+            "collaborator_groups_pagerank_centrality": 0.009259259268217461
         },
         "AK-1497": {
             "authors": [
@@ -2263,10 +2263,10 @@
             ],
             "cites": 4,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.07692307692307693,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 3,
-            "year_collaborator_groups_pagerank_centrality": 0.06172839504082591
+            "collaborator_groups_closeness_centrality": 0.07692307692307693,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 3,
+            "collaborator_groups_pagerank_centrality": 0.06172839504082591
         },
         "IS-63B7": {
             "authors": [
@@ -2277,10 +2277,10 @@
             ],
             "cites": 8,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.07692307692307693,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 3,
-            "year_collaborator_groups_pagerank_centrality": 0.06172839504082591
+            "collaborator_groups_closeness_centrality": 0.07692307692307693,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 3,
+            "collaborator_groups_pagerank_centrality": 0.06172839504082591
         },
         "IS-96E0": {
             "authors": [
@@ -2291,10 +2291,10 @@
             ],
             "cites": 12,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.07692307692307693,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 3,
-            "year_collaborator_groups_pagerank_centrality": 0.06172839504082591
+            "collaborator_groups_closeness_centrality": 0.07692307692307693,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 3,
+            "collaborator_groups_pagerank_centrality": 0.06172839504082591
         },
         "ENT-48A5": {
             "authors": [
@@ -2303,10 +2303,10 @@
             ],
             "cites": 1,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.0,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 0,
-            "year_collaborator_groups_pagerank_centrality": 0.009259259268217461
+            "collaborator_groups_closeness_centrality": 0.0,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 0,
+            "collaborator_groups_pagerank_centrality": 0.009259259268217461
         },
         "AMG-26FE": {
             "authors": [
@@ -2316,10 +2316,10 @@
             ],
             "cites": 1,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.05128205128205128,
-            "year_collaborator_groups_betweenness_centrality": 0.001349527665317139,
-            "year_collaborator_groups_degree_centrality": 2,
-            "year_collaborator_groups_pagerank_centrality": 0.09009871813839483
+            "collaborator_groups_closeness_centrality": 0.05128205128205128,
+            "collaborator_groups_betweenness_centrality": 0.001349527665317139,
+            "collaborator_groups_degree_centrality": 2,
+            "collaborator_groups_pagerank_centrality": 0.09009871813839483
         },
         "JC-A197": {
             "authors": [
@@ -2328,10 +2328,10 @@
             ],
             "cites": 11,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.0,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 0,
-            "year_collaborator_groups_pagerank_centrality": 0.009259259268217461
+            "collaborator_groups_closeness_centrality": 0.0,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 0,
+            "collaborator_groups_pagerank_centrality": 0.009259259268217461
         },
         "AR-CE9C": {
             "authors": [
@@ -2342,10 +2342,10 @@
             ],
             "cites": 2,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.0,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 0,
-            "year_collaborator_groups_pagerank_centrality": 0.009259259268217461
+            "collaborator_groups_closeness_centrality": 0.0,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 0,
+            "collaborator_groups_pagerank_centrality": 0.009259259268217461
         },
         "GW-2A83": {
             "authors": [
@@ -2354,10 +2354,10 @@
             ],
             "cites": 0,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.0,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 0,
-            "year_collaborator_groups_pagerank_centrality": 0.009259259268217461
+            "collaborator_groups_closeness_centrality": 0.0,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 0,
+            "collaborator_groups_pagerank_centrality": 0.009259259268217461
         },
         "HZ-DE41": {
             "authors": [
@@ -2366,10 +2366,10 @@
             ],
             "cites": 0,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.0,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 0,
-            "year_collaborator_groups_pagerank_centrality": 0.009259259268217461
+            "collaborator_groups_closeness_centrality": 0.0,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 0,
+            "collaborator_groups_pagerank_centrality": 0.009259259268217461
         },
         "DD-55F9": {
             "authors": [
@@ -2379,10 +2379,10 @@
             ],
             "cites": 0,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.0,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 0,
-            "year_collaborator_groups_pagerank_centrality": 0.009259259268217461
+            "collaborator_groups_closeness_centrality": 0.0,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 0,
+            "collaborator_groups_pagerank_centrality": 0.009259259268217461
         },
         "ME-B320": {
             "authors": [
@@ -2391,10 +2391,10 @@
             ],
             "cites": 6,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.0,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 0,
-            "year_collaborator_groups_pagerank_centrality": 0.009259259268217461
+            "collaborator_groups_closeness_centrality": 0.0,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 0,
+            "collaborator_groups_pagerank_centrality": 0.009259259268217461
         },
         "DL-7A91": {
             "authors": [
@@ -2404,10 +2404,10 @@
             ],
             "cites": 2,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.0,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 0,
-            "year_collaborator_groups_pagerank_centrality": 0.009259259268217461
+            "collaborator_groups_closeness_centrality": 0.0,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 0,
+            "collaborator_groups_pagerank_centrality": 0.009259259268217461
         },
         "AMF-B652": {
             "authors": [
@@ -2416,10 +2416,10 @@
             ],
             "cites": 3,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.0,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 0,
-            "year_collaborator_groups_pagerank_centrality": 0.009259259268217461
+            "collaborator_groups_closeness_centrality": 0.0,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 0,
+            "collaborator_groups_pagerank_centrality": 0.009259259268217461
         },
         "AH-48E6": {
             "authors": [
@@ -2428,10 +2428,10 @@
             ],
             "cites": 0,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.0,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 0,
-            "year_collaborator_groups_pagerank_centrality": 0.009259259268217461
+            "collaborator_groups_closeness_centrality": 0.0,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 0,
+            "collaborator_groups_pagerank_centrality": 0.009259259268217461
         },
         "DW-2390": {
             "authors": [
@@ -2440,10 +2440,10 @@
             ],
             "cites": 3,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.0,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 0,
-            "year_collaborator_groups_pagerank_centrality": 0.009259259268217461
+            "collaborator_groups_closeness_centrality": 0.0,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 0,
+            "collaborator_groups_pagerank_centrality": 0.009259259268217461
         },
         "II-F8E0": {
             "authors": [
@@ -2452,10 +2452,10 @@
             ],
             "cites": 7,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.0,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 0,
-            "year_collaborator_groups_pagerank_centrality": 0.009259259268217461
+            "collaborator_groups_closeness_centrality": 0.0,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 0,
+            "collaborator_groups_pagerank_centrality": 0.009259259268217461
         },
         "CD-D3F1": {
             "authors": [
@@ -2466,10 +2466,10 @@
             ],
             "cites": 10,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.05128205128205128,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 2,
-            "year_collaborator_groups_pagerank_centrality": 0.06172839504082594
+            "collaborator_groups_closeness_centrality": 0.05128205128205128,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 2,
+            "collaborator_groups_pagerank_centrality": 0.06172839504082594
         },
         "BJ-D41F": {
             "authors": [
@@ -2479,10 +2479,10 @@
             ],
             "cites": 4,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.0,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 0,
-            "year_collaborator_groups_pagerank_centrality": 0.009259259268217461
+            "collaborator_groups_closeness_centrality": 0.0,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 0,
+            "collaborator_groups_pagerank_centrality": 0.009259259268217461
         },
         "AV-4B9A": {
             "authors": [
@@ -2491,10 +2491,10 @@
             ],
             "cites": 183,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.0,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 0,
-            "year_collaborator_groups_pagerank_centrality": 0.009259259268217461
+            "collaborator_groups_closeness_centrality": 0.0,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 0,
+            "collaborator_groups_pagerank_centrality": 0.009259259268217461
         },
         "BP-136B": {
             "authors": [
@@ -2506,10 +2506,10 @@
             ],
             "cites": 25,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.034188034188034185,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 1,
-            "year_collaborator_groups_pagerank_centrality": 0.04754323349204149
+            "collaborator_groups_closeness_centrality": 0.034188034188034185,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 1,
+            "collaborator_groups_pagerank_centrality": 0.04754323349204149
         },
         "HJ-D16B": {
             "authors": [
@@ -2519,10 +2519,10 @@
             ],
             "cites": 0,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.0,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 0,
-            "year_collaborator_groups_pagerank_centrality": 0.009259259268217461
+            "collaborator_groups_closeness_centrality": 0.0,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 0,
+            "collaborator_groups_pagerank_centrality": 0.009259259268217461
         },
         "AC-56C9": {
             "authors": [
@@ -2531,10 +2531,10 @@
             ],
             "cites": 3,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.0,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 0,
-            "year_collaborator_groups_pagerank_centrality": 0.009259259268217461
+            "collaborator_groups_closeness_centrality": 0.0,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 0,
+            "collaborator_groups_pagerank_centrality": 0.009259259268217461
         },
         "CD-FBE6": {
             "authors": [
@@ -2545,10 +2545,10 @@
             ],
             "cites": 13,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.05128205128205128,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 2,
-            "year_collaborator_groups_pagerank_centrality": 0.06172839504082594
+            "collaborator_groups_closeness_centrality": 0.05128205128205128,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 2,
+            "collaborator_groups_pagerank_centrality": 0.06172839504082594
         },
         "AMG-5119": {
             "authors": [
@@ -2557,10 +2557,10 @@
             ],
             "cites": 1,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.034188034188034185,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 1,
-            "year_collaborator_groups_pagerank_centrality": 0.04754323349204149
+            "collaborator_groups_closeness_centrality": 0.034188034188034185,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 1,
+            "collaborator_groups_pagerank_centrality": 0.04754323349204149
         },
         "AS-22A7": {
             "authors": [
@@ -2572,10 +2572,10 @@
             ],
             "cites": 28,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.0,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 0,
-            "year_collaborator_groups_pagerank_centrality": 0.009259259268217461
+            "collaborator_groups_closeness_centrality": 0.0,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 0,
+            "collaborator_groups_pagerank_centrality": 0.009259259268217461
         },
         "MP-A9B0": {
             "authors": [
@@ -2586,10 +2586,10 @@
             ],
             "cites": 4,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.0,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 0,
-            "year_collaborator_groups_pagerank_centrality": 0.009259259268217461
+            "collaborator_groups_closeness_centrality": 0.0,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 0,
+            "collaborator_groups_pagerank_centrality": 0.009259259268217461
         },
         "GOP-EF0A": {
             "authors": [
@@ -2598,10 +2598,10 @@
             ],
             "cites": 7,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.0,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 0,
-            "year_collaborator_groups_pagerank_centrality": 0.009259259268217461
+            "collaborator_groups_closeness_centrality": 0.0,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 0,
+            "collaborator_groups_pagerank_centrality": 0.009259259268217461
         },
         "CBP-32D6": {
             "authors": [
@@ -2614,10 +2614,10 @@
             ],
             "cites": 7,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.07692307692307693,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 3,
-            "year_collaborator_groups_pagerank_centrality": 0.06172839504082591
+            "collaborator_groups_closeness_centrality": 0.07692307692307693,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 3,
+            "collaborator_groups_pagerank_centrality": 0.06172839504082591
         },
         "DR-6729": {
             "authors": [
@@ -2627,10 +2627,10 @@
             ],
             "cites": 2,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.0,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 0,
-            "year_collaborator_groups_pagerank_centrality": 0.009259259268217461
+            "collaborator_groups_closeness_centrality": 0.0,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 0,
+            "collaborator_groups_pagerank_centrality": 0.009259259268217461
         },
         "AS-E73F": {
             "authors": [
@@ -2641,10 +2641,10 @@
             ],
             "cites": 6,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.05128205128205128,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 2,
-            "year_collaborator_groups_pagerank_centrality": 0.06172839504082594
+            "collaborator_groups_closeness_centrality": 0.05128205128205128,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 2,
+            "collaborator_groups_pagerank_centrality": 0.06172839504082594
         },
         "LV-202E": {
             "authors": [
@@ -2653,10 +2653,10 @@
             ],
             "cites": 5,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.0,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 0,
-            "year_collaborator_groups_pagerank_centrality": 0.009259259268217461
+            "collaborator_groups_closeness_centrality": 0.0,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 0,
+            "collaborator_groups_pagerank_centrality": 0.009259259268217461
         },
         "AZ-38A8": {
             "authors": [
@@ -2665,207 +2665,23 @@
             ],
             "cites": 2,
             "papers_count": 1,
-            "year_collaborator_groups_closeness_centrality": 0.0,
-            "year_collaborator_groups_betweenness_centrality": 0.0,
-            "year_collaborator_groups_degree_centrality": 0,
-            "year_collaborator_groups_pagerank_centrality": 0.009259259268217461
+            "collaborator_groups_closeness_centrality": 0.0,
+            "collaborator_groups_betweenness_centrality": 0.0,
+            "collaborator_groups_degree_centrality": 0,
+            "collaborator_groups_pagerank_centrality": 0.009259259268217461
         }
     },
     "collaborator_group_links": [
         [
-            "Eneia Nicolae Todoran",
-            "Gabriel Ciobanu"
-        ],
-        [
-            "Ioan Salomie",
-            "Iulia Vartic"
-        ],
-        [
-            "Iulia Vartic",
-            "Mihaela Dinsoreanu"
-        ],
-        [
-            "Marius Paltanea",
-            "Mark Tangney"
-        ],
-        [
-            "Hao Jiang",
-            "Lizhi Cheng"
-        ],
-        [
-            "Hao Jiang",
-            "Rongfen Lin"
-        ],
-        [
-            "Dongming Wang",
-            "Yanli Huang"
-        ],
-        [
-            "Irina Borozan",
-            "Mugurel Ionut Andreica"
-        ],
-        [
-            "Eugen-Ioan Goriac",
-            "Georgiana Caltais"
-        ],
-        [
-            "Jacques Carette",
-            "James Harold Davenport"
-        ],
-        [
-            "Adrian Craciun",
-            "Mircea Marin"
-        ],
-        [
-            "Mihaela Dinsoreanu",
-            "Tudor Cioara"
-        ],
-        [
-            "Codrut-Lucian Lazar",
-            "Ioan Lazar"
-        ],
-        [
-            "D. Dumitrescu",
-            "Tudor Dan Mihoc"
-        ],
-        [
-            "Roland H. C. Yap",
-            "Stefan Andrei"
-        ],
-        [
-            "Alina Simion",
-            "Florin Pop"
-        ],
-        [
-            "Gheorghe Cosmin Silaghi",
-            "Mihaela Ordean"
-        ],
-        [
-            "Monica Vlad",
-            "Viorica R. Chifu"
-        ],
-        [
-            "Denisa Rodila",
-            "Dorian Gorgan"
-        ],
-        [
-            "Andrei Saupe",
-            "Gheorghe Cosmin Silaghi"
-        ],
-        [
-            "Irina Borozan",
-            "Lucian-Ionut Balaceanu"
-        ],
-        [
-            "Andrei Saupe",
-            "Mihai Alexandru Ordean"
-        ],
-        [
-            "Adrien Richard",
-            "Maxime Denes"
-        ],
-        [
-            "Simona Caraiman",
-            "Vasile I. Manta"
-        ],
-        [
-            "Adriana Mihaela Guran",
-            "Gabriela Czibula"
-        ],
-        [
-            "Cristina Bianca Pop",
-            "Ioan Salomie"
-        ],
-        [
-            "Denisa Rodila",
-            "Victor Bacu"
-        ],
-        [
-            "Flavius Turcu",
-            "Mohamed Najim"
-        ],
-        [
-            "Ioan Lazar",
-            "Istvan Gergely Czibula"
-        ],
-        [
-            "Dragan Sahpaski",
-            "Goran Velinov"
-        ],
-        [
-            "Ioan Salomie",
-            "Marius Gherga"
-        ],
-        [
-            "Dragos Sbirlea",
-            "Valentin Cristea"
-        ],
-        [
-            "Gerd Wagner",
-            "Ion-Mircea Diaconescu"
-        ],
-        [
-            "Florin Pop",
-            "Marius Ion"
-        ],
-        [
-            "Florin Pop",
-            "Valentin Cristea"
-        ],
-        [
-            "Boro Jakimovski",
-            "Goran Velinov"
-        ],
-        [
-            "Mark Tangney",
-            "Yin Jie Chen"
-        ],
-        [
             "Bazil Parv",
-            "Ioan Lazar"
+            "Istvan Gergely Czibula"
         ],
         [
             "Florin Pop",
             "Marieta Nastase"
         ],
         [
-            "Iulia Vartic",
-            "Viorica R. Chifu"
-        ],
-        [
-            "Melania Duma",
-            "Mihaela Ordean"
-        ],
-        [
-            "D. Dumitrescu",
-            "Rodica Ioana Lung"
-        ],
-        [
             "Mihaela Dinsoreanu",
-            "Viorica R. Chifu"
-        ],
-        [
-            "Georgiana Macariu",
-            "Marc Frincu"
-        ],
-        [
-            "Gheorghe Cosmin Silaghi",
-            "Mihai Alexandru Ordean"
-        ],
-        [
-            "Sabin Tabirca",
-            "Yin Jie Chen"
-        ],
-        [
-            "Dorel Lucanu",
-            "Georgiana Caltais"
-        ],
-        [
-            "Dorel Lucanu",
-            "Eugen-Ioan Goriac"
-        ],
-        [
-            "Emil St. Chifu",
             "Viorica R. Chifu"
         ],
         [
@@ -2873,184 +2689,232 @@
             "Dana Petcu"
         ],
         [
-            "Dorian Gorgan",
-            "Victor Bacu"
-        ],
-        [
-            "Camelia Vidrighin Bratu",
-            "Rodica Potolea"
-        ],
-        [
-            "Iulia Vartic",
-            "Monica Vlad"
-        ],
-        [
-            "Adrien Richard",
-            "Yves Bertot"
-        ],
-        [
-            "Mihaela Dinsoreanu",
-            "Monica Vlad"
-        ],
-        [
-            "Ionut Anghel",
-            "Mihaela Dinsoreanu"
-        ],
-        [
-            "Marius Paltanea",
-            "Sabin Tabirca"
-        ],
-        [
-            "Alpar Kover",
-            "Roland Vachter"
-        ],
-        [
-            "Adina Magda Florea",
-            "Cristian Gratie"
-        ],
-        [
-            "Ion Iancu",
-            "Mihaela Colhon"
-        ],
-        [
-            "Roland Vachter",
-            "Viorica R. Chifu"
-        ],
-        [
-            "Mugurel Ionut Andreica",
-            "Nicolae Tapus"
-        ],
-        [
-            "Ioana Harsa",
-            "Viorica R. Chifu"
-        ],
-        [
-            "Martin C. Rinard",
-            "Roland H. C. Yap"
-        ],
-        [
-            "Emil St. Chifu",
-            "Ioan Salomie"
-        ],
-        [
-            "Alexandru Carstea",
-            "Georgiana Macariu"
-        ],
-        [
-            "Adrien Richard",
-            "Benjamin Lesage"
-        ],
-        [
-            "Rodica Ioana Lung",
-            "Tudor Dan Mihoc"
-        ],
-        [
-            "Benjamin Lesage",
-            "Maxime Denes"
-        ],
-        [
-            "Istvan Gergely Czibula",
-            "Simona Motogna"
-        ],
-        [
-            "Ioan Lazar",
-            "Simona Motogna"
-        ],
-        [
-            "Bazil Parv",
-            "Istvan Gergely Czibula"
-        ],
-        [
-            "Ioana Harsa",
-            "Marius Gherga"
-        ],
-        [
-            "Boro Jakimovski",
-            "Dragan Sahpaski"
-        ],
-        [
-            "Melania Duma",
-            "Mihai Alexandru Ordean"
-        ],
-        [
-            "Flavius Turcu",
-            "Iuliana Borza"
-        ],
-        [
-            "Lizhi Cheng",
-            "Rongfen Lin"
-        ],
-        [
-            "Alpar Kover",
-            "Emil St. Chifu"
-        ],
-        [
-            "Cristina Bianca Pop",
-            "Mihaela Dinsoreanu"
-        ],
-        [
-            "Iuliana Borza",
-            "Mohamed Najim"
-        ],
-        [
             "Codrut-Lucian Lazar",
-            "Istvan Gergely Czibula"
-        ],
-        [
-            "Martin C. Rinard",
-            "Stefan Andrei"
-        ],
-        [
-            "Hong-Qing Zhang",
-            "Qi Ding"
-        ],
-        [
-            "Gabriela Czibula",
-            "Istvan Gergely Czibula"
-        ],
-        [
-            "Gheorghe Cosmin Silaghi",
-            "Melania Duma"
-        ],
-        [
-            "Lucian-Ionut Balaceanu",
-            "Nicolae Tapus"
-        ],
-        [
-            "Grant Olney Passmore",
-            "Leonardo Mendonca de Moura"
-        ],
-        [
-            "Gheorghe Grigoras",
-            "Roland H. C. Yap"
-        ],
-        [
-            "Ioan Salomie",
-            "Mihaela Dinsoreanu"
-        ],
-        [
-            "Madalina Erascu",
-            "Tudor Jebelean"
-        ],
-        [
-            "Alina Simion",
-            "Valentin Cristea"
+            "Ioan Lazar"
         ],
         [
             "Laurentiu Vasile",
             "Letitia Velcescu"
         ],
         [
+            "Melania Duma",
+            "Mihai Alexandru Ordean"
+        ],
+        [
+            "Maxime Denes",
+            "Yves Bertot"
+        ],
+        [
+            "Gheorghe Cosmin Silaghi",
+            "Mihaela Ordean"
+        ],
+        [
+            "Iulia Vartic",
+            "Viorica R. Chifu"
+        ],
+        [
+            "Ioan Salomie",
+            "Iulia Vartic"
+        ],
+        [
+            "Ioan Salomie",
+            "Ioana Harsa"
+        ],
+        [
+            "Ioana Harsa",
+            "Marius Gherga"
+        ],
+        [
+            "Dorel Lucanu",
+            "Georgiana Caltais"
+        ],
+        [
+            "Georgiana Macariu",
+            "Marc Frincu"
+        ],
+        [
+            "Dana Petcu",
+            "Georgiana Macariu"
+        ],
+        [
+            "Ion Iancu",
+            "Mihaela Colhon"
+        ],
+        [
+            "Cristina Bianca Pop",
+            "Iulia Vartic"
+        ],
+        [
+            "D. Dumitrescu",
+            "Tudor Dan Mihoc"
+        ],
+        [
+            "Sabin Tabirca",
+            "Yin Jie Chen"
+        ],
+        [
+            "Alexandru Carstea",
+            "Georgiana Macariu"
+        ],
+        [
+            "Dragos Sbirlea",
+            "Valentin Cristea"
+        ],
+        [
+            "Gheorghe Cosmin Silaghi",
+            "Melania Duma"
+        ],
+        [
+            "Lizhi Cheng",
+            "Rongfen Lin"
+        ],
+        [
+            "Monica Vlad",
+            "Viorica R. Chifu"
+        ],
+        [
+            "Irina Borozan",
+            "Nicolae Tapus"
+        ],
+        [
+            "Irina Borozan",
+            "Mugurel Ionut Andreica"
+        ],
+        [
+            "Hao Jiang",
+            "Lizhi Cheng"
+        ],
+        [
+            "Emil St. Chifu",
+            "Ioan Salomie"
+        ],
+        [
+            "Marius Gherga",
+            "Viorica R. Chifu"
+        ],
+        [
+            "Gabriela Czibula",
+            "Istvan Gergely Czibula"
+        ],
+        [
+            "Flavius Turcu",
+            "Iuliana Borza"
+        ],
+        [
+            "Mihaela Dinsoreanu",
+            "Monica Vlad"
+        ],
+        [
+            "Alpar Kover",
+            "Ioan Salomie"
+        ],
+        [
+            "Dana Petcu",
+            "Marc Frincu"
+        ],
+        [
             "Alexandru Archip",
             "Vasile I. Manta"
+        ],
+        [
+            "Jacques Carette",
+            "James Harold Davenport"
+        ],
+        [
+            "Miklos Bartha",
+            "Miklos Kresz"
+        ],
+        [
+            "Martin C. Rinard",
+            "Stefan Andrei"
+        ],
+        [
+            "Adriana Mihaela Guran",
+            "Virginia Niculescu"
+        ],
+        [
+            "Hao Jiang",
+            "Rongfen Lin"
+        ],
+        [
+            "Ioan Lazar",
+            "Istvan Gergely Czibula"
+        ],
+        [
+            "Andrei Saupe",
+            "Mihaela Ordean"
         ],
         [
             "Andrei Voronkov",
             "Laura Kovacs"
         ],
         [
-            "Marius Gherga",
+            "Cristina Bianca Pop",
             "Viorica R. Chifu"
+        ],
+        [
+            "Alexandru Carstea",
+            "Marc Frincu"
+        ],
+        [
+            "Ioana Harsa",
+            "Viorica R. Chifu"
+        ],
+        [
+            "Bazil Parv",
+            "Simona Motogna"
+        ],
+        [
+            "Grant Olney Passmore",
+            "Leonardo Mendonca de Moura"
+        ],
+        [
+            "Dorian Gorgan",
+            "Victor Bacu"
+        ],
+        [
+            "Ioan Salomie",
+            "Ionut Anghel"
+        ],
+        [
+            "Marius Ion",
+            "Valentin Cristea"
+        ],
+        [
+            "Mihaela Dinsoreanu",
+            "Tudor Cioara"
+        ],
+        [
+            "Adrien Richard",
+            "Benjamin Lesage"
+        ],
+        [
+            "Boro Jakimovski",
+            "Dragan Sahpaski"
+        ],
+        [
+            "Bazil Parv",
+            "Ioan Lazar"
+        ],
+        [
+            "Marieta Nastase",
+            "Valentin Cristea"
+        ],
+        [
+            "Amir Hashemi",
+            "Mahsad Kalantari"
+        ],
+        [
+            "Simona Caraiman",
+            "Vasile I. Manta"
+        ],
+        [
+            "Martin C. Rinard",
+            "Roland H. C. Yap"
+        ],
+        [
+            "Florin Pop",
+            "Valentin Cristea"
         ],
         [
             "Andrei Saupe",
@@ -3061,92 +2925,104 @@
             "Florin Pop"
         ],
         [
-            "Benjamin Lesage",
-            "Yves Bertot"
+            "Ioan Salomie",
+            "Monica Vlad"
         ],
         [
-            "Ionut Anghel",
-            "Tudor Cioara"
+            "Dongming Wang",
+            "Yanli Huang"
         ],
         [
-            "Ciprian Dobre",
-            "Marius Ion"
+            "Bazil Parv",
+            "Codrut-Lucian Lazar"
         ],
         [
-            "Marieta Nastase",
+            "Roland Vachter",
+            "Viorica R. Chifu"
+        ],
+        [
+            "Denisa Rodila",
+            "Dorian Gorgan"
+        ],
+        [
+            "Melania Duma",
+            "Mihaela Ordean"
+        ],
+        [
+            "Mugurel Ionut Andreica",
+            "Nicolae Tapus"
+        ],
+        [
+            "Marius Paltanea",
+            "Mark Tangney"
+        ],
+        [
+            "Roland H. C. Yap",
+            "Stefan Andrei"
+        ],
+        [
+            "Gheorghe Cosmin Silaghi",
+            "Mihai Alexandru Ordean"
+        ],
+        [
+            "Alina Simion",
             "Valentin Cristea"
         ],
         [
-            "Ciprian Dobre",
-            "Valentin Cristea"
-        ],
-        [
-            "Ciprian Dobre",
-            "Marieta Nastase"
-        ],
-        [
-            "Lucian-Ionut Balaceanu",
-            "Mugurel Ionut Andreica"
+            "Dorel Lucanu",
+            "Eugen-Ioan Goriac"
         ],
         [
             "Andrei Grigorean",
             "Nicolae Tapus"
         ],
         [
-            "Gheorghe Grigoras",
-            "Stefan Andrei"
+            "Codrut-Lucian Lazar",
+            "Istvan Gergely Czibula"
         ],
         [
-            "Mihaela Ordean",
-            "Mihai Alexandru Ordean"
+            "Iulia Vartic",
+            "Monica Vlad"
         ],
         [
-            "Adriana Mihaela Guran",
-            "Virginia Niculescu"
-        ],
-        [
-            "Bazil Parv",
-            "Simona Motogna"
-        ],
-        [
-            "Alpar Kover",
-            "Viorica R. Chifu"
-        ],
-        [
-            "Ioan Salomie",
-            "Roland Vachter"
-        ],
-        [
-            "Alina Simion",
-            "Dragos Sbirlea"
-        ],
-        [
-            "Marius Paltanea",
-            "Yin Jie Chen"
-        ],
-        [
-            "Marius Ion",
+            "Ciprian Dobre",
             "Valentin Cristea"
         ],
         [
-            "Gheorghe Grigoras",
-            "Martin C. Rinard"
+            "Ioan Salomie",
+            "Tudor Cioara"
         ],
         [
-            "Alexandru Carstea",
-            "Marc Frincu"
+            "Florin Pop",
+            "Marius Ion"
         ],
         [
-            "Miklos Bartha",
-            "Miklos Kresz"
+            "Benjamin Lesage",
+            "Yves Bertot"
         ],
         [
-            "Cristina Bianca Pop",
-            "Viorica R. Chifu"
+            "Irina Borozan",
+            "Lucian-Ionut Balaceanu"
         ],
         [
-            "Adriana Mihaela Guran",
-            "Istvan Gergely Czibula"
+            "Hong-Qing Zhang",
+            "Qi Ding"
+        ],
+        [
+            "Marius Paltanea",
+            "Sabin Tabirca"
+        ],
+        [
+            "Boro Jakimovski",
+            "Goran Velinov"
+        ],
+        [
+            "Ioan Lazar",
+            "Simona Motogna"
+        ],
+        [
+            "Emil St. Chifu",
+            "Roland Vachter"
         ],
         [
             "Codrut-Lucian Lazar",
@@ -3157,36 +3033,144 @@
             "Sabin Tabirca"
         ],
         [
-            "Maxime Denes",
+            "Alpar Kover",
+            "Emil St. Chifu"
+        ],
+        [
+            "Alpar Kover",
+            "Roland Vachter"
+        ],
+        [
+            "Dragan Sahpaski",
+            "Goran Velinov"
+        ],
+        [
+            "Iulia Vartic",
+            "Mihaela Dinsoreanu"
+        ],
+        [
+            "Madalina Erascu",
+            "Tudor Jebelean"
+        ],
+        [
+            "Benjamin Lesage",
+            "Maxime Denes"
+        ],
+        [
+            "Denisa Rodila",
+            "Victor Bacu"
+        ],
+        [
+            "D. Dumitrescu",
+            "Rodica Ioana Lung"
+        ],
+        [
+            "Ciprian Dobre",
+            "Marius Ion"
+        ],
+        [
+            "Eugen-Ioan Goriac",
+            "Georgiana Caltais"
+        ],
+        [
+            "Rodica Ioana Lung",
+            "Tudor Dan Mihoc"
+        ],
+        [
+            "Adrian Craciun",
+            "Mircea Marin"
+        ],
+        [
+            "Adrien Richard",
             "Yves Bertot"
         ],
         [
-            "Andrei Grigorean",
+            "Lucian-Ionut Balaceanu",
+            "Nicolae Tapus"
+        ],
+        [
+            "Gheorghe Grigoras",
+            "Martin C. Rinard"
+        ],
+        [
+            "Adriana Mihaela Guran",
+            "Istvan Gergely Czibula"
+        ],
+        [
+            "Andrei Saupe",
+            "Mihai Alexandru Ordean"
+        ],
+        [
+            "Lucian-Ionut Balaceanu",
             "Mugurel Ionut Andreica"
+        ],
+        [
+            "Istvan Gergely Czibula",
+            "Simona Motogna"
+        ],
+        [
+            "Gerd Wagner",
+            "Ion-Mircea Diaconescu"
+        ],
+        [
+            "Marius Paltanea",
+            "Yin Jie Chen"
         ],
         [
             "Cristina Bianca Pop",
             "Monica Vlad"
         ],
         [
-            "Irina Borozan",
-            "Nicolae Tapus"
+            "Alina Simion",
+            "Florin Pop"
         ],
         [
-            "Alpar Kover",
-            "Ioan Salomie"
+            "Andrei Grigorean",
+            "Mugurel Ionut Andreica"
         ],
         [
-            "Dana Petcu",
-            "Georgiana Macariu"
+            "Adriana Mihaela Guran",
+            "Gabriela Czibula"
         ],
         [
-            "Ioan Salomie",
-            "Viorica R. Chifu"
+            "Mihaela Ordean",
+            "Mihai Alexandru Ordean"
         ],
         [
-            "Bazil Parv",
-            "Codrut-Lucian Lazar"
+            "Mark Tangney",
+            "Yin Jie Chen"
+        ],
+        [
+            "Alexandru-Ciprian Zavoianu",
+            "Ciprian Dorin Craciun"
+        ],
+        [
+            "Gheorghe Grigoras",
+            "Roland H. C. Yap"
+        ],
+        [
+            "Iuliana Borza",
+            "Mohamed Najim"
+        ],
+        [
+            "Ciprian Dobre",
+            "Marieta Nastase"
+        ],
+        [
+            "Ionut Anghel",
+            "Tudor Cioara"
+        ],
+        [
+            "Alina Simion",
+            "Dragos Sbirlea"
+        ],
+        [
+            "Ionut Anghel",
+            "Mihaela Dinsoreanu"
+        ],
+        [
+            "Adina Magda Florea",
+            "Cristian Gratie"
         ],
         [
             "Alexandru Archip",
@@ -3197,44 +3181,60 @@
             "Florin Pop"
         ],
         [
-            "Cristina Bianca Pop",
-            "Iulia Vartic"
+            "Ioan Salomie",
+            "Mihaela Dinsoreanu"
         ],
         [
-            "Ioan Salomie",
-            "Tudor Cioara"
+            "Cristina Bianca Pop",
+            "Ioan Salomie"
+        ],
+        [
+            "Adrien Richard",
+            "Maxime Denes"
+        ],
+        [
+            "Flavius Turcu",
+            "Mohamed Najim"
         ],
         [
             "Emil St. Chifu",
-            "Roland Vachter"
+            "Viorica R. Chifu"
+        ],
+        [
+            "Eneia Nicolae Todoran",
+            "Gabriel Ciobanu"
+        ],
+        [
+            "Gheorghe Grigoras",
+            "Stefan Andrei"
+        ],
+        [
+            "Camelia Vidrighin Bratu",
+            "Rodica Potolea"
+        ],
+        [
+            "Alpar Kover",
+            "Viorica R. Chifu"
+        ],
+        [
+            "Ioan Salomie",
+            "Viorica R. Chifu"
+        ],
+        [
+            "Ioan Salomie",
+            "Marius Gherga"
         ],
         [
             "Andrei Saupe",
-            "Mihaela Ordean"
-        ],
-        [
-            "Amir Hashemi",
-            "Mahsad Kalantari"
-        ],
-        [
-            "Alexandru-Ciprian Zavoianu",
-            "Ciprian Dorin Craciun"
+            "Gheorghe Cosmin Silaghi"
         ],
         [
             "Ioan Salomie",
-            "Ionut Anghel"
+            "Roland Vachter"
         ],
         [
-            "Ioan Salomie",
-            "Monica Vlad"
-        ],
-        [
-            "Dana Petcu",
-            "Marc Frincu"
-        ],
-        [
-            "Ioan Salomie",
-            "Ioana Harsa"
+            "Cristina Bianca Pop",
+            "Mihaela Dinsoreanu"
         ]
     ]
 }

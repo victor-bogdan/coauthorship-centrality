@@ -63,6 +63,6 @@ class SYNASCCoauthorshipCentralityAnalyzer(CoauthorshipCentralityAnalyzer):
 
     def get_node_edges(self, analysis_type, year):
         if analysis_type == "author":
-            return self._yearly_accumulative_analysis_data[year]['accumulative_author_links']
+            return self._yearly_accumulative_analysis_data[year]['author_links']
         elif analysis_type == "collaborator_group":
-            return self._yearly_accumulative_analysis_data[year]['accumulative_collaborator_group_links']
+            return self._yearly_accumulative_analysis_data[year]['collaborator_group_links']

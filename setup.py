@@ -11,6 +11,7 @@ setup(
     author_email='victor199704@gmail.com',
     description='A package used for computing node centrality in coauthorship networks',
     install_requires=[
+        "networkx==2.6.3",
         "numpy==1.22.1",
         "pandas==1.4.0",
         "python-dateutil==2.8.2",

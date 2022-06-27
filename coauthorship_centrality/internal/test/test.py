@@ -1,4 +1,5 @@
-from os.path import dirname
+from sys import path as sys_path
+from os.path import join
 from json import loads
 
 from coauthorship_centrality import CoauthorshipCentralityAnalyzer
@@ -7,11 +8,11 @@ if __name__ == "__main__":
 
     yearly_graph_data = {}
 
-    dirname = dirname(__file__)
+    root_path = sys_path[1]
 
     for year in range(2005, 2022):
-        path_string = "{0}/coauthorship_centrality/resources/synasc_data/collaborator_groups/SYNASC_{1}_collaborator_group_graph_data.json".format(
-            dirname, year)
+        path_string = join(root_path, "coauthorship_centrality/internal/resources/synasc_data/collaborator_groups/SYNASC_{0}_collaborator_group_graph_data.json".\
+            format(year))
 
         with open(path_string, "r", encoding="utf-8-sig") as file:
             data = loads(file.read())
@@ -30,6 +31,6 @@ if __name__ == "__main__":
 
     print(sorted_list)
 
-#{0}/coauthorship_centrality/resources/synasc_data/authors/SYNASC_{1}_author_graph_data.json"
-#{0}/coauthorship_centrality/resources/synasc_data/collaborator_groups/SYNASC_{1}_collaborator_group_graph_data.json"
+#coauthorship_centrality/internal/resources/synasc_data/authors/SYNASC_{0}_author_graph_data.json"
+#coauthorship_centrality/internal/resources/synasc_data/collaborator_groups/SYNASC_{0}_collaborator_group_graph_data.json"
 

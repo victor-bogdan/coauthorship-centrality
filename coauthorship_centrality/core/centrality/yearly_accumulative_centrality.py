@@ -36,7 +36,7 @@ def compute_default_yearly_accumulative_graph_centrality(yearly_graph_data, cent
                 accumulative_nodes[node_data['id']] = node_data.copy()
         accumulative_nx_graph = compose(accumulative_nx_graph, yearly_nx_graphs[year])
 
-    yearly_accumulative_graph_centrality_data['nodes'] = accumulative_nodes
+    yearly_accumulative_graph_centrality_data['nodes'] = list(accumulative_nodes.values())
 
     links_set = set()
     for node in accumulative_nx_graph.nodes:

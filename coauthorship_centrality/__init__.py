@@ -1,2 +1,1 @@
-from .analyzers import CoauthorshipCentralityAnalyzer, CENTRALITY_MEASURES, ANALYSIS_TYPES
-from .analyzers import SYNASCCoauthorshipCentralityAnalyzer
+from .analyzers import CoauthorshipCentralityAnalyzer, CENTRALITY_MEASURES, LAYER_NODE_TYPES

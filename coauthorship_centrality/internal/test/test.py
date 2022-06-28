@@ -1,36 +1,65 @@
-from sys import path as sys_path
-from os.path import join
+from os.path import join, abspath, curdir
 from json import loads
 
 from coauthorship_centrality import CoauthorshipCentralityAnalyzer
 
-if __name__ == "__main__":
+AUTHORS_DATA_PATH = "resources/synasc_data/authors/SYNASC_{0}_author_graph_data.json"
+COLLABORATOR_GROUPS_DATA_PATH = \
+    "resources/synasc_data/collaborator_groups/SYNASC_{0}_collaborator_group_graph_data.json"
 
+
+def test_year_coauthorship_centrality(year, centrality_measure, layer_node_type, data_path):
+    root_path = abspath(curdir)
+
+    path_string = join(root_path, data_path.format(year))
+
+    with open(path_string, "r", encoding="utf-8-sig") as file:
+        year_graph_data = loads(file.read())
+
+        coauthorship_centrality_analyzer = CoauthorshipCentralityAnalyzer()
+        year_coauthorship_centrality_data = coauthorship_centrality_analyzer.\
+            get_year_coauthorship_centrality(year_graph_data, centrality_measure, layer_node_type)
+
+        sorted_list = sorted(
+            year_coauthorship_centrality_data['centrality_data'],
+            key=lambda d: d['node_data']['centrality'],
+            reverse=True
+        )
+
+        print([node['node_id'] for node in sorted_list[0:10]])
+
+
+def test_yearly_accumulative_coauthorship_centrality(
+        start_year,
+        end_year,
+        centrality_measure,
+        layer_node_type,
+        data_path
+):
     yearly_graph_data = {}
 
-    root_path = sys_path[1]
+    root_path = abspath(curdir)
 
-    for year in range(2005, 2022):
-        path_string = join(root_path, "coauthorship_centrality/internal/resources/synasc_data/collaborator_groups/SYNASC_{0}_collaborator_group_graph_data.json".\
-            format(year))
+    for year in range(start_year, end_year + 1):
+        path_string = join(root_path, data_path.format(year))
 
         with open(path_string, "r", encoding="utf-8-sig") as file:
             data = loads(file.read())
             yearly_graph_data[year] = data
 
-    a = CoauthorshipCentralityAnalyzer()
-    years_accumulative_analysis_data = a.get_coauthorship_centrality(
-        yearly_graph_data, "degree", "yearly_accumulative", "group")
-
-    #print(years_accumulative_analysis_data[2005]['centrality_data'])
+    coauthorship_centrality_analyzer = CoauthorshipCentralityAnalyzer()
+    yearly_accumulative_coauthorship_centrality_data = coauthorship_centrality_analyzer.\
+        get_yearly_accumulative_coauthorship_centrality(yearly_graph_data, centrality_measure, layer_node_type)
 
     sorted_list = sorted(
-        years_accumulative_analysis_data[2021]['centrality_data'],
-        key=lambda d: d['node_data']['centrality'], reverse=True
+        yearly_accumulative_coauthorship_centrality_data['centrality_data'],
+        key=lambda d: d['node_data']['centrality'],
+        reverse=True
     )
 
-    print(sorted_list)
+    print([node['node_id'] for node in sorted_list[0:10]])
 
-#coauthorship_centrality/internal/resources/synasc_data/authors/SYNASC_{0}_author_graph_data.json"
-#coauthorship_centrality/internal/resources/synasc_data/collaborator_groups/SYNASC_{0}_collaborator_group_graph_data.json"
 
+if __name__ == "__main__":
+    test_year_coauthorship_centrality(2009, "betweenness", "default", AUTHORS_DATA_PATH)
+    test_yearly_accumulative_coauthorship_centrality(2005, 2009, "closeness", "default", AUTHORS_DATA_PATH)

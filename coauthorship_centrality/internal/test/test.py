@@ -26,7 +26,7 @@ def test_year_coauthorship_centrality(year, centrality_measure, layer_node_type,
             reverse=True
         )
 
-        print([node['node_id'] for node in sorted_list[0:10]])
+        print(["{0} - {1}".format(node['node_id'], node['node_data']['centrality']) for node in sorted_list[0:10]])
 
 
 def test_yearly_accumulative_coauthorship_centrality(
@@ -49,7 +49,8 @@ def test_yearly_accumulative_coauthorship_centrality(
 
     coauthorship_centrality_analyzer = CoauthorshipCentralityAnalyzer()
     yearly_accumulative_coauthorship_centrality_data = coauthorship_centrality_analyzer.\
-        get_yearly_accumulative_coauthorship_centrality(yearly_graph_data, centrality_measure, layer_node_type)
+        get_yearly_accumulative_coauthorship_centrality(yearly_graph_data, centrality_measure,
+                                                        layer_node_type, True, 1, 10)
 
     sorted_list = sorted(
         yearly_accumulative_coauthorship_centrality_data['centrality_data'],
@@ -57,7 +58,7 @@ def test_yearly_accumulative_coauthorship_centrality(
         reverse=True
     )
 
-    print([node['node_id'] for node in sorted_list[0:10]])
+    print(["{0} - {1}".format(node['node_id'], node['node_data']['centrality']) for node in sorted_list[0:10]])
 
 
 if __name__ == "__main__":

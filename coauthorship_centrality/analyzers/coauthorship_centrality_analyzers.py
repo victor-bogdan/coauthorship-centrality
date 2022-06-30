@@ -12,19 +12,22 @@ class CoauthorshipCentralityAnalyzer:
             self,
             year_graph_data,
             centrality_measure,
-            layer_node_type
+            layer_node_type,
+            normalize=False
     ):
-        yearly_analysis_data = compute_year_graph_centrality(year_graph_data, centrality_measure, layer_node_type)
+        yearly_analysis_data = compute_year_graph_centrality(
+            year_graph_data, centrality_measure, layer_node_type, normalize)
         return yearly_analysis_data
 
     def get_yearly_accumulative_coauthorship_centrality(
             self,
             yearly_graph_data,
             centrality_measure,
-            layer_node_type
+            layer_node_type,
+            normalize=False
     ):
         yearly_accumulative_analysis_data = compute_yearly_accumulative_graph_centrality(
-            yearly_graph_data, centrality_measure, layer_node_type)
+            yearly_graph_data, centrality_measure, layer_node_type, normalize)
         return yearly_accumulative_analysis_data
 
 

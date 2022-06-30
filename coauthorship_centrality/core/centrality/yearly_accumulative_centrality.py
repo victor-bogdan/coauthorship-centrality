@@ -5,16 +5,16 @@ from ...utils.data import build_centrality_data
 from ...utils.graph import build_networkx_graph, compute_graph_node_centrality
 
 
-def compute_yearly_accumulative_graph_centrality(yearly_graph_data, centrality_measure, layer_node_type):
+def compute_yearly_accumulative_graph_centrality(yearly_graph_data, centrality_measure, layer_node_type, normalize):
     if layer_node_type == "default":
-        return compute_default_yearly_accumulative_graph_centrality(yearly_graph_data, centrality_measure)
+        return compute_default_yearly_accumulative_graph_centrality(yearly_graph_data, centrality_measure, normalize)
     elif layer_node_type == "group":
-        return compute_group_yearly_accumulative_graph_centrality(yearly_graph_data, centrality_measure)
+        return compute_group_yearly_accumulative_graph_centrality(yearly_graph_data, centrality_measure, normalize)
     else:
-        return compute_default_yearly_accumulative_graph_centrality(yearly_graph_data, centrality_measure)
+        return compute_default_yearly_accumulative_graph_centrality(yearly_graph_data, centrality_measure, normalize)
 
 
-def compute_default_yearly_accumulative_graph_centrality(yearly_graph_data, centrality_measure):
+def compute_default_yearly_accumulative_graph_centrality(yearly_graph_data, centrality_measure, normalize):
     yearly_accumulative_graph_centrality_data = {}
 
     yearly_nx_graphs = {}
@@ -45,14 +45,15 @@ def compute_default_yearly_accumulative_graph_centrality(yearly_graph_data, cent
         {"source": link[0], "target": link[1]} for link in links_set
     ]
 
-    year_accumulative_graph_centrality = compute_graph_node_centrality(accumulative_nx_graph, centrality_measure)
+    year_accumulative_graph_centrality = compute_graph_node_centrality(
+        accumulative_nx_graph, centrality_measure, normalize)
     yearly_accumulative_graph_centrality_data["centrality_data"] = \
         build_centrality_data(year_accumulative_graph_centrality)
 
     return yearly_accumulative_graph_centrality_data
 
 
-def compute_group_yearly_accumulative_graph_centrality(yearly_graph_data, centrality_measure):
+def compute_group_yearly_accumulative_graph_centrality(yearly_graph_data, centrality_measure, normalize):
     yearly_accumulative_centrality_centrality_data = {}
 
     years = list(yearly_graph_data.keys())
@@ -75,7 +76,7 @@ def compute_group_yearly_accumulative_graph_centrality(yearly_graph_data, centra
     yearly_accumulative_centrality_centrality_data['nodes'] = accumulative_graph['nodes']
     yearly_accumulative_centrality_centrality_data['links'] = accumulative_graph['links']
 
-    year_closeness_centrality = compute_graph_node_centrality(accumulative_nx_graph, centrality_measure)
+    year_closeness_centrality = compute_graph_node_centrality(accumulative_nx_graph, centrality_measure, normalize)
     yearly_accumulative_centrality_centrality_data["centrality_data"] = \
         build_centrality_data(year_closeness_centrality)
 

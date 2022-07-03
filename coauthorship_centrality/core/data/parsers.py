@@ -21,10 +21,10 @@ class DBLPDataParser:
                         authors[author_name] = {"id": author_name}
 
                 for author_link in combinations(publication['authors'], 2):
-                    sorted_author_link = sorted(author_link)
+                    sorted_author_link = tuple(sorted(author_link))
                     if sorted_author_link not in author_links_set:
                         author_links_set.add(sorted_author_link)
-                        author_links.append({"source": author_link[0], "target": author_link[1]})
+                        author_links.append({"source": sorted_author_link[0], "target": sorted_author_link[1]})
             except:
                 continue
 

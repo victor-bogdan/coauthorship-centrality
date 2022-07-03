@@ -51,7 +51,7 @@ class DBLPCoauthorshipCentralityAnalyzer(CoauthorshipCentralityAnalyzer):
             t_max=1
     ):
         year_graph_data = self._dblp_data_parser.parse_dblp_year_graph_data(dblp_year_graph_data)
-        super().get_year_coauthorship_centrality(
+        return super().get_year_coauthorship_centrality(
             year_graph_data, centrality_measure, layer_node_type, normalize, t_min, t_max)
 
     def get_yearly_accumulative_coauthorship_centrality(
@@ -64,5 +64,5 @@ class DBLPCoauthorshipCentralityAnalyzer(CoauthorshipCentralityAnalyzer):
             t_max=1
     ):
         yearly_graph_data = self._dblp_data_parser.parse_dblp_yearly_graph_data(dblp_yearly_graph_data)
-        super().get_yearly_accumulative_coauthorship_centrality(
+        return super().get_yearly_accumulative_coauthorship_centrality(
             yearly_graph_data, centrality_measure, layer_node_type, normalize, t_min, t_max)

@@ -4,8 +4,7 @@ from ..core.centrality.year_centrality import compute_year_graph_centrality
 from ..core.data.parsers import DBLPDataParser
 
 CENTRALITY_MEASURES = ["closeness", "betweenness", "degree", "pagerank"]
-LAYER_NODE_TYPES = ["default", "group"]
-
+DATA_TYPES = ["authors", "collaborator_groups"]
 
 class CoauthorshipCentralityAnalyzer:
 
@@ -14,6 +13,7 @@ class CoauthorshipCentralityAnalyzer:
             year_graph_data,
             centrality_measure,
             layer_node_type,
+            data_type,
             normalize=False,
             t_min=0,
             t_max=1
@@ -27,6 +27,7 @@ class CoauthorshipCentralityAnalyzer:
             yearly_graph_data,
             centrality_measure,
             layer_node_type,
+            data_type,
             normalize=False,
             t_min=0,
             t_max=1
@@ -46,23 +47,25 @@ class DBLPCoauthorshipCentralityAnalyzer(CoauthorshipCentralityAnalyzer):
             dblp_year_graph_data,
             centrality_measure,
             layer_node_type,
+            data_type,
             normalize=False,
             t_min=0,
             t_max=1
     ):
-        year_graph_data = self._dblp_data_parser.parse_dblp_year_graph_data(dblp_year_graph_data)
+        year_graph_data = self._dblp_data_parser.parse_dblp_year_graph_data(dblp_year_graph_data, data_type)
         return super().get_year_coauthorship_centrality(
-            year_graph_data, centrality_measure, layer_node_type, normalize, t_min, t_max)
+            year_graph_data, centrality_measure, layer_node_type, data_type, normalize, t_min, t_max)
 
     def get_yearly_accumulative_coauthorship_centrality(
             self,
             dblp_yearly_graph_data,
             centrality_measure,
             layer_node_type,
+            data_type,
             normalize=False,
             t_min=0,
             t_max=1
     ):
-        yearly_graph_data = self._dblp_data_parser.parse_dblp_yearly_graph_data(dblp_yearly_graph_data)
+        yearly_graph_data = self._dblp_data_parser.parse_dblp_yearly_graph_data(dblp_yearly_graph_data, data_type)
         return super().get_yearly_accumulative_coauthorship_centrality(
-            yearly_graph_data, centrality_measure, layer_node_type, normalize, t_min, t_max)
+            yearly_graph_data, centrality_measure, layer_node_type, data_type, normalize, t_min, t_max)

@@ -8,9 +8,9 @@ class DBLPDataParser:
         if data_type == "authors":
             return self.dblp_year_graph_authors_data(dblp_year_graph_data)
         elif data_type == "collaborator_groups":
-            self.dblp_year_graph_collaborator_groups_data(dblp_year_graph_data)
+            return self.dblp_year_graph_collaborator_groups_data(dblp_year_graph_data)
         else:
-            self.dblp_year_graph_authors_data(dblp_year_graph_data)
+            return self.dblp_year_graph_authors_data(dblp_year_graph_data)
 
     def dblp_year_graph_authors_data(self, dblp_year_graph_data):
         authors = {}

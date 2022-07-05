@@ -1,1 +1,2 @@
-from .analyzers import CoauthorshipCentralityAnalyzer, CENTRALITY_MEASURES, LAYER_NODE_TYPES
+from .analyzers import CoauthorshipCentralityAnalyzer, DBLPCoauthorshipCentralityAnalyzer, CENTRALITY_MEASURES, \
+    DATA_TYPES

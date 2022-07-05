@@ -21,7 +21,7 @@ class DBLPDataParser:
 
             try:
                 # Validate #
-                if publication['authors'] is None:
+                if self.is_dblp_publication_valid(publication):
                     continue
 
                 # Create Dicts #
@@ -48,7 +48,7 @@ class DBLPDataParser:
 
             try:
                 # Validate #
-                if publication['authors'] is None:
+                if self.is_dblp_publication_valid(publication):
                     continue
 
                 # Create Dicts #
@@ -111,6 +111,10 @@ class DBLPDataParser:
 
         return collaborator_group_links
 
+    def is_dblp_publication_valid(self, publication):
+        return (publication['type'] is not None and publication['type'] == "Editorship") or \
+                        publication['authors'] is None
+
     def parse_dblp_yearly_graph_data(self, dblp_year_graph_data, data_type):
         yearly_graph_data = {}
 
@@ -118,5 +122,3 @@ class DBLPDataParser:
             yearly_graph_data[year] = self.parse_dblp_year_graph_data(year_data, data_type)
 
         return yearly_graph_data
-
-

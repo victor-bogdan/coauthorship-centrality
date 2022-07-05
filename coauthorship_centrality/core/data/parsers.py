@@ -27,7 +27,9 @@ class DBLPDataParser:
                 # Create Dicts #
                 for author_name in publication['authors']:
                     if author_name not in authors:
-                        authors[author_name] = {"id": author_name}
+                        authors[author_name] = {
+                            "id": author_name
+                        }
 
                 for author_link in combinations(publication['authors'], 2):
                     sorted_author_link = tuple(sorted(author_link))
@@ -89,8 +91,8 @@ class DBLPDataParser:
                 if first_collaborator_group_id == second_collaborator_group_id:
                     continue
 
-                first_collaborator_group_authors_set = set(first_collaborator_group['authors'])
-                second_collaborator_group_authors_set = set(second_collaborator_group['authors'])
+                first_collaborator_group_authors_set = set(first_collaborator_group['members'])
+                second_collaborator_group_authors_set = set(second_collaborator_group['members'])
 
                 if len(first_collaborator_group_authors_set.intersection(second_collaborator_group_authors_set)) > 0:
                     for collaborator_group_link in combinations(

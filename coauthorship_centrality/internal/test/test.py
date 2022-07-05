@@ -8,7 +8,7 @@ COLLABORATOR_GROUPS_DATA_PATH = \
     "resources/synasc_data/collaborator_groups/SYNASC_{0}_collaborator_group_graph_data.json"
 
 
-def test_year_coauthorship_centrality(year, centrality_measure, layer_node_type, data_path):
+def test_year_coauthorship_centrality(year, centrality_measure, layer_node_type, data_type, data_path):
     root_path = abspath(curdir)
 
     path_string = join(root_path, data_path.format(year))
@@ -18,7 +18,7 @@ def test_year_coauthorship_centrality(year, centrality_measure, layer_node_type,
 
         coauthorship_centrality_analyzer = CoauthorshipCentralityAnalyzer()
         year_coauthorship_centrality_data = coauthorship_centrality_analyzer.\
-            get_year_coauthorship_centrality(year_graph_data, centrality_measure, layer_node_type)
+            get_year_coauthorship_centrality(year_graph_data, centrality_measure, layer_node_type, data_type)
 
         sorted_list = sorted(
             year_coauthorship_centrality_data['centrality_data'],
@@ -34,6 +34,7 @@ def test_yearly_accumulative_coauthorship_centrality(
         end_year,
         centrality_measure,
         layer_node_type,
+        data_type,
         data_path
 ):
     yearly_graph_data = {}
@@ -50,7 +51,7 @@ def test_yearly_accumulative_coauthorship_centrality(
     coauthorship_centrality_analyzer = CoauthorshipCentralityAnalyzer()
     yearly_accumulative_coauthorship_centrality_data = coauthorship_centrality_analyzer.\
         get_yearly_accumulative_coauthorship_centrality(yearly_graph_data, centrality_measure,
-                                                        layer_node_type, True, 1, 10)
+                                                        layer_node_type, data_type, True, 1, 10)
 
     sorted_list = sorted(
         yearly_accumulative_coauthorship_centrality_data['centrality_data'],
@@ -62,5 +63,5 @@ def test_yearly_accumulative_coauthorship_centrality(
 
 
 if __name__ == "__main__":
-    test_year_coauthorship_centrality(2009, "betweenness", "default", AUTHORS_DATA_PATH)
-    test_yearly_accumulative_coauthorship_centrality(2005, 2009, "closeness", "default", AUTHORS_DATA_PATH)
+    test_year_coauthorship_centrality(2009, "betweenness", "default", "authors", AUTHORS_DATA_PATH)
+    test_yearly_accumulative_coauthorship_centrality(2005, 2009, "closeness", "default", "authors", AUTHORS_DATA_PATH)

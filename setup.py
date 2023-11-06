@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='coauthorship-centrality',
-    version='1.3.0',
+    version='1.4.0',
     packages=find_packages(exclude=['internal']),
     url='',
     license='Apache 2.0',

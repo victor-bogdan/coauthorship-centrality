@@ -1,17 +1,16 @@
 from itertools import combinations
 from networkx import Graph, compose
 
-from ...utils.data import build_centrality_data
-from ...utils.graph import build_networkx_graph, compute_graph_node_centrality
+from coauthorship_centrality.utils import build_centrality_data, build_networkx_graph, compute_graph_node_centrality
 
 
 def compute_yearly_accumulative_graph_centrality(
-        yearly_graph_data,
-        centrality_measure,
-        layer_node_type,
-        normalize,
-        t_min,
-        t_max
+    yearly_graph_data,
+    centrality_measure,
+    layer_node_type,
+    normalize,
+    t_min,
+    t_max
 ):
     if layer_node_type == "default":
         return compute_default_yearly_accumulative_graph_centrality(
@@ -25,11 +24,11 @@ def compute_yearly_accumulative_graph_centrality(
 
 
 def compute_default_yearly_accumulative_graph_centrality(
-        yearly_graph_data,
-        centrality_measure,
-        normalize,
-        t_min,
-        t_max
+    yearly_graph_data,
+    centrality_measure,
+    normalize,
+    t_min,
+    t_max
 ):
     yearly_accumulative_graph_centrality_data = {}
 
@@ -69,7 +68,13 @@ def compute_default_yearly_accumulative_graph_centrality(
     return yearly_accumulative_graph_centrality_data
 
 
-def compute_group_yearly_accumulative_graph_centrality(yearly_graph_data, centrality_measure, normalize, t_min, t_max):
+def compute_group_yearly_accumulative_graph_centrality(
+    yearly_graph_data,
+    centrality_measure,
+    normalize,
+    t_min,
+    t_max
+):
     yearly_accumulative_centrality_centrality_data = {}
 
     years = list(yearly_graph_data.keys())

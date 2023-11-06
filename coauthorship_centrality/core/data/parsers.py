@@ -4,7 +4,11 @@ from itertools import combinations
 
 class DBLPDataParser:
 
-    def parse_dblp_year_graph_data(self, dblp_year_graph_data, data_type):
+    def parse_dblp_year_graph_data(
+        self,
+        dblp_year_graph_data,
+        data_type
+    ):
         if data_type == "authors":
             return self.dblp_year_graph_authors_data(dblp_year_graph_data)
         elif data_type == "collaborator_groups":
@@ -12,7 +16,10 @@ class DBLPDataParser:
         else:
             return self.dblp_year_graph_authors_data(dblp_year_graph_data)
 
-    def dblp_year_graph_authors_data(self, dblp_year_graph_data):
+    def dblp_year_graph_authors_data(
+        self,
+        dblp_year_graph_data
+    ):
         authors = {}
         author_links_set = set()
         author_links = []
@@ -41,7 +48,10 @@ class DBLPDataParser:
 
         return {"nodes": authors.values(), "links": author_links.copy()}
 
-    def dblp_year_graph_collaborator_groups_data(self, dblp_year_graph_data):
+    def dblp_year_graph_collaborator_groups_data(
+        self,
+        dblp_year_graph_data
+    ):
         collaborator_groups = {}
 
         for publication in dblp_year_graph_data:
@@ -82,7 +92,10 @@ class DBLPDataParser:
 
         return {"nodes": collaborator_groups.values(), "links": collaborator_group_links.copy()}
 
-    def build_collaborator_groups_links(self, collaborator_groups):
+    def build_collaborator_groups_links(
+        self,
+        collaborator_groups
+    ):
         collaborator_group_links_set = set()
         collaborator_group_links = []
 
@@ -111,11 +124,18 @@ class DBLPDataParser:
 
         return collaborator_group_links
 
-    def is_dblp_publication_valid(self, publication):
+    def is_dblp_publication_valid(
+        self,
+        publication
+    ):
         return (publication['type'] is not None and publication['type'] == "Editorship") or \
                         publication['authors'] is None
 
-    def parse_dblp_yearly_graph_data(self, dblp_year_graph_data, data_type):
+    def parse_dblp_yearly_graph_data(
+        self,
+        dblp_year_graph_data,
+        data_type
+    ):
         yearly_graph_data = {}
 
         for year, year_data in dblp_year_graph_data.items():

@@ -1,0 +1,1 @@
+from coauthorship_centrality.core.data.parsers import DBLPDataParser

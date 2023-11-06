@@ -14,7 +14,13 @@ def build_networkx_graph(graph_data):
     return graph
 
 
-def compute_graph_node_centrality(nx_graph, centrality_measure, normalize, t_min, t_max):
+def compute_graph_node_centrality(
+    nx_graph,
+    centrality_measure,
+    normalize,
+    t_min,
+    t_max
+):
     if centrality_measure.lower() == "closeness":
         centrality_values = closeness_centrality(nx_graph)
     elif centrality_measure.lower() == "betweenness":
@@ -36,7 +42,11 @@ def compute_graph_node_centrality(nx_graph, centrality_measure, normalize, t_min
         return centrality_values
 
 
-def graph_node_centrality_min_max_normalization(centrality_values, t_min, t_max):
+def graph_node_centrality_min_max_normalization(
+    centrality_values,
+    t_min,
+    t_max
+):
     df = DataFrame(centrality_values.items(), columns=['node_id', 'centrality_value'])
     df['centrality_value'] = (df['centrality_value'] - df['centrality_value'].min()) / \
                              (df['centrality_value'].max() - df['centrality_value'].min()) * \

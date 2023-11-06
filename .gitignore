@@ -1,2 +1,8 @@
+# JetBrains IDE
 .idea/
-__pycache__/
+
+# Compiled Python bytecode
+*.py[cod]
+
+# Local
+*/internal

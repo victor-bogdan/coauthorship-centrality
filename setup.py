@@ -19,14 +19,13 @@ setup(
         "networkx==2.6.3",
         "numpy==1.26.1",
         "packaging==23.2",
-        "pandas==2.1.2",
+        "pandas==1.4.4",
         "Pillow==10.1.0",
         "pyparsing==3.1.1",
         "python-dateutil==2.8.2",
         "pytz==2023.3.post1",
         "scipy==1.11.3",
         "six==1.16.0",
-        "tzdata==2023.3",
         "zipp==3.17.0"
     ]
 )

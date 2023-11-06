@@ -62,5 +62,7 @@ def test_yearly_accumulative_coauthorship_centrality(
 
 
 if __name__ == "__main__":
-    test_year_coauthorship_centrality(2009, "betweenness", "authors", AUTHORS_DATA_PATH)
-    test_yearly_accumulative_coauthorship_centrality(2005, 2009, "closeness", "authors", AUTHORS_DATA_PATH)
+    test_year_coauthorship_centrality(
+        2009, "betweenness", "authors", AUTHORS_DATA_PATH)
+    test_yearly_accumulative_coauthorship_centrality(
+        2005, 2009, "closeness", "authors", AUTHORS_DATA_PATH)

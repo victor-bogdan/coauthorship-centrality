@@ -1,2 +1,2 @@
-from .coauthorship_centrality_analyzers import CoauthorshipCentralityAnalyzer, DBLPCoauthorshipCentralityAnalyzer, \
-    CENTRALITY_MEASURES, DATA_TYPES
+from coauthorship_centrality.analyzers.coauthorship_centrality_analyzers import CoauthorshipCentralityAnalyzer, \
+    DBLPCoauthorshipCentralityAnalyzer, CENTRALITY_MEASURES, DATA_TYPES

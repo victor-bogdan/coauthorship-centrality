@@ -1,0 +1,278 @@
+﻿{
+    "year": 2021,
+    "node_type": "group",
+    "nodes": [
+        {
+            "id": "G-EDDD1E",
+            "members": [
+                "A-309B09",
+                "A-31AEB6"
+            ]
+        },
+        {
+            "id": "G-C6C7E4",
+            "members": [
+                "A-28034A",
+                "A-E24692"
+            ]
+        },
+        {
+            "id": "G-0B7B10",
+            "members": [
+                "A-2819F8",
+                "A-30592D",
+                "A-328FCD",
+                "A-6E8987",
+                "A-AEBFBD",
+                "A-F61C99"
+            ]
+        },
+        {
+            "id": "G-20DCCA",
+            "members": [
+                "A-2819F8",
+                "A-4F9321",
+                "A-974CAF",
+                "A-B5A19D",
+                "A-C17FDD",
+                "A-E4C326"
+            ]
+        },
+        {
+            "id": "G-B5DE01",
+            "members": [
+                "A-271FAE",
+                "A-3A225E",
+                "A-BEDE19",
+                "A-C77B7F"
+            ]
+        },
+        {
+            "id": "G-592A1A",
+            "members": [
+                "A-44183E",
+                "A-919E80",
+                "A-E3E868"
+            ]
+        },
+        {
+            "id": "G-CFC8B1",
+            "members": [
+                "A-1CECE2",
+                "A-1DDDC8",
+                "A-579EF4",
+                "A-9D94C6"
+            ]
+        },
+        {
+            "id": "G-423885",
+            "members": [
+                "A-5DFC1A",
+                "A-756EE7",
+                "A-CD2B1F"
+            ]
+        },
+        {
+            "id": "G-99C3BC",
+            "members": [
+                "A-467219",
+                "A-743132",
+                "A-83B97E",
+                "A-D47B59",
+                "A-EA78A1"
+            ]
+        },
+        {
+            "id": "G-F083AF",
+            "members": [
+                "A-467219",
+                "A-58F812",
+                "A-743132",
+                "A-83B97E",
+                "A-9BE049",
+                "A-EA78A1"
+            ]
+        },
+        {
+            "id": "G-A8A245",
+            "members": [
+                "A-10BFA8",
+                "A-2C6574"
+            ]
+        },
+        {
+            "id": "G-DB2573",
+            "members": [
+                "A-30D893",
+                "A-F61C99"
+            ]
+        },
+        {
+            "id": "G-6BFE8E",
+            "members": [
+                "A-0B3FB7",
+                "A-1E253F",
+                "A-65A719",
+                "A-F40C4F"
+            ]
+        },
+        {
+            "id": "G-9DD729",
+            "members": [
+                "A-02AFAB",
+                "A-18C58E",
+                "A-8DA2A2"
+            ]
+        },
+        {
+            "id": "G-F9889B",
+            "members": [
+                "A-31AEB6",
+                "A-4410E6"
+            ]
+        },
+        {
+            "id": "G-D98754",
+            "members": [
+                "A-129C4B",
+                "A-768421",
+                "A-910DB3",
+                "A-A01ADA"
+            ]
+        },
+        {
+            "id": "G-85EC24",
+            "members": [
+                "A-31C2FF",
+                "A-662829",
+                "A-6C9DC1"
+            ]
+        },
+        {
+            "id": "G-539B3C",
+            "members": [
+                "A-167280",
+                "A-79EB09",
+                "A-DD6157"
+            ]
+        },
+        {
+            "id": "G-7469DC",
+            "members": [
+                "A-ABD342",
+                "A-FC9460"
+            ]
+        },
+        {
+            "id": "G-F7DBAF",
+            "members": [
+                "A-1749FD",
+                "A-D5B6AA"
+            ]
+        },
+        {
+            "id": "G-0C5997",
+            "members": [
+                "A-28034A",
+                "A-36BFC4"
+            ]
+        },
+        {
+            "id": "G-FD67F1",
+            "members": [
+                "A-76D2D1",
+                "A-886C7F",
+                "A-D0EA22"
+            ]
+        },
+        {
+            "id": "G-139389",
+            "members": [
+                "A-003835",
+                "A-0D4F86",
+                "A-3D0622",
+                "A-B18395"
+            ]
+        },
+        {
+            "id": "G-15FED5",
+            "members": [
+                "A-28034A",
+                "A-9C4045"
+            ]
+        },
+        {
+            "id": "G-968500",
+            "members": [
+                "A-15E9D8",
+                "A-67A412",
+                "A-8D3C72",
+                "A-EBA89F"
+            ]
+        },
+        {
+            "id": "G-AF5D43",
+            "members": [
+                "A-2ACBF8",
+                "A-824FDB",
+                "A-DC8EA0"
+            ]
+        },
+        {
+            "id": "G-CC48B6",
+            "members": [
+                "A-1E253F",
+                "A-936434"
+            ]
+        },
+        {
+            "id": "G-8D2633",
+            "members": [
+                "A-1F87A5",
+                "A-D1391F"
+            ]
+        },
+        {
+            "id": "G-9A44E9",
+            "members": [
+                "A-17645C",
+                "A-240769",
+                "A-512B87"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "source": "G-15FED5",
+            "target": "G-C6C7E4"
+        },
+        {
+            "source": "G-0C5997",
+            "target": "G-15FED5"
+        },
+        {
+            "source": "G-99C3BC",
+            "target": "G-F083AF"
+        },
+        {
+            "source": "G-6BFE8E",
+            "target": "G-CC48B6"
+        },
+        {
+            "source": "G-0C5997",
+            "target": "G-C6C7E4"
+        },
+        {
+            "source": "G-0B7B10",
+            "target": "G-DB2573"
+        },
+        {
+            "source": "G-0B7B10",
+            "target": "G-20DCCA"
+        },
+        {
+            "source": "G-EDDD1E",
+            "target": "G-F9889B"
+        }
+    ]
+}

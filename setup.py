@@ -2,13 +2,14 @@ from setuptools import setup, find_packages
 
 setup(
     name='coauthorship-centrality',
-    version='1.4.0',
+    version='1.5.0',
     packages=find_packages(exclude=['internal']),
     url='',
-    license='Apache 2.0',
+    license='MIT',
     author='Victor',
     author_email='victor199704@gmail.com',
     description='A package used for computing node centrality in coauthorship networks.',
+    include_package_data=True,
     install_requires=[
         "contourpy==1.2.0",
         "cycler==0.12.1",
